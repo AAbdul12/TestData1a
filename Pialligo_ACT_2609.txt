@@ -1,0 +1,21 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1993	107986	16 Beltana Road	30/06/1993	30/06/1993	-	-	21544m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Residential	-	-
+1994	107988	7 Beltana Road	08/06/1994	08/06/1994	-	$1	34322m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	107989	13 Beltana Road	18/10/1995	12/12/1995	-	$430,000	36845m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	107990	14 Kallaroo Road	01/03/1995	28/04/1995	-	$390,000	19590m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Residential	-	-
+1995	107992	24 Beltana Road	22/06/1995	22/06/1995	-	-	19700m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	107991	22 Kallaroo Road	24/02/1997	02/04/1997	-	$187,500	90134m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Agriculture-intensive	-	-
+1997	107987	10 Beltana Road	15/01/1997	15/01/1997	-	-	35820m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170597	6 Beltana Road	21/05/1998	06/08/1998	-	$428,000	28016m	Full transfer	-	-	-	-	-	$428,000	-	-	Government Record	-	-	-	Agriculture-intensive	-	-
+1999	176058	8 Beltana Road	30/09/1999	30/09/1999	-	$1,250,000	27555m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	10757	            Kallaroo Road	11/12/1999	03/04/2000	-	$757,000	197250m	Full transfer	-	-	-	-	-	$757,000	-	-	Government Record	-	-	-	Dwelling	-	-
+2000	158897	16 Kallaroo Road	16/11/2000	31/01/2001	16/10/2000	$700,000	25647m	Full transfer	5	3	-	-	-	$700,000	31	-	Combined Record	-	-	-	Residential	-	-
+2000	11414	            Pialligo Avenue	14/07/2000	14/07/2000	-	-	45093m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Dwelling	-	-
+2001	158894	9 Beltana Road	11/05/2001	06/08/2001	-	$900,000	39287m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Retail plant nursery	-	-
+2001	158895	14 Kallaroo Road	30/03/2001	06/06/2001	-	$800,000	19590m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Residential	-	-
+2001	8864	            2 Fairbairn Avenue	06/06/2001	16/07/2002	-	$150,000	20282m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	8863	            Kallaroo Road	12/11/2001	12/11/2001	-	-	197250m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Dwelling	-	-
+2002	158898	20 Beltana Road	02/10/2002	27/12/2002	05/04/2002	$1,400,000	31386m	Full transfer	-	-	-	-	-	$1,400,000	180	-	Combined Record	-	-	-	Residential	-	-
+2003	158896	22 Kallaroo Road	23/05/2003	08/07/2003	-	$375,000	90134m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Agriculture-intensive	-	-
+2004	225636	20 Beltana Road	17/12/2004	07/03/2005	19/11/2004	$1,850,000	31386m	Full transfer	5	1	2	-	-	$1,850,000	28	-	Combined Record	-	-	-	Residential	-	-
+2004	225635	15 Beltana Road	01/10/2004	20/12/2004	-	$710,000	38154m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
