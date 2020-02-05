@@ -1,0 +1,10 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1999	15575	             Hilton Court Amess Place	05/08/1999	-	15/09/2001	$124,000	-	Full transfer	3	1	-	-	1	$124,000	-	-	Allhomes Record	-	-	-	-	-	-
+1999	8347	             Playfair Place	15/06/1999	-	21/09/2000	-	-	Full transfer	4	1	1	2	-	-	-	-	Allhomes Record	-	-	-	-	-	-
+2001	12015	             Renny Place	20/04/2001	-	17/03/2001	$292,500	-	Full transfer	4	1	1	2	1	$292,500	34	-	Allhomes Record	-	-	-	-	-	-
+2001	12319	             Moulden Court	04/05/2001	-	06/04/2001	$215,000	-	Full transfer	4	1	1	-	2	$215,000	28	-	Allhomes Record	-	-	-	-	-	-
+2002	22772	             Playfair Place	12/09/2002	-	09/08/2001	$215,000	-	Full transfer	-	-	-	-	-	$215,000	399	-	Allhomes Record	-	-	-	-	-	-
+2003	20467	            6 Howie Court	15/09/2003	-	11/07/2003	$284,250	-	Full transfer	3	1	1	2	-	$284,250	66	-	Allhomes Record	-	-	-	-	-	-
+2003	20372	            15/2 Buik Place	25/06/2003	-	20/05/2003	$198,000	0m	Full transfer	2	1	-	-	1	$198,000	36	-	Allhomes Record	-	-	-	-	$0	0.0
+2005	21228	            19 Crick Place	02/06/2005	-	16/03/2005	$260,000	-	Full transfer	2	1	-	-	1	$260,000	78	-	Allhomes Record	-	-	-	-	-	-
+2005	21162	            2 Moulden Court	10/03/2005	-	18/01/2005	$246,500	6535m	Full transfer	2	1	-	1	-	$246,500	51	-	Allhomes Record	-	-	-	-	-	-
