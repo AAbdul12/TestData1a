@@ -1,0 +1,26 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1996	112272	45 Mugga Lane	02/08/1996	02/08/1996	-	$400,000	357906m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+1997	4979	            Hindmarsh Drive	28/07/1997	28/07/1997	-	$480,000	75134m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+1998	175569	157 Narrabundah Lane	28/10/1998	27/05/1999	-	$500,000	157493m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Residential	-	-
+1999	196088	189 Narrabundah Lane	14/05/1999	06/07/1999	-	$3,000,000	92899m	Full transfer	-	-	-	-	-	$3,000,000	-	-	Government Record	-	-	-	Residential	-	-
+1999	12993	            Hindmarsh Drive	18/05/1999	26/10/1999	-	$560,000	79575m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Residential	-	-
+1999	226807	129 Narrabundah Lane	24/03/1999	06/04/2004	-	-	173138m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+2000	197631	250 Canberra Avenue	28/04/2000	30/06/2000	-	$4,800,000	103129m	Full transfer	-	-	-	-	-	$4,800,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	172823	4 Taubman Street	13/03/2000	01/05/2000	-	$150,000	2123m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Advanced technology develop...	-	-
+2000	202060	189 Narrabundah Lane	30/06/2000	09/10/2000	-	-	93792m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Caravan park,camping ground	-	-
+2000	160725	88 Mugga Lane	13/03/2000	15/02/2001	-	-	10034m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160724	99 Mugga Lane	23/09/2002	25/02/2003	-	$775,000	97273m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Gift,souvenir shop	-	-
+2002	28750	RMB5 Mugga Lane	10/07/2002	-	25/05/2002	-	97250m	Full transfer	3	1	-	-	-	-	46	-	Allhomes Record	-	-	-	-	$200,000	-
+2003	8918	            Hindmarsh Drive	05/03/2003	08/04/2003	-	$1,000,000	79575m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Residential	-	-
+2003	226811	2 Faulding Street	10/10/2003	06/05/2004	-	$12,500	32021m	Full transfer	-	-	-	-	-	$12,500	-	-	Government Record	-	-	-	Advanced technology develop...	-	-
+2004	226815	99 Mugga Lane	28/06/2004	29/11/2004	-	$1,500,000	97273m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Gift,souvenir shop	-	-
+2004	479120	1 Faulding Street	11/06/2004	02/06/2016	-	$0	3024m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Office	-	-
+2004	226806	101 Narrabundah Lane	08/10/2004	08/10/2004	-	-	126688m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+2004	226813	14 Wormald Street	11/11/2004	07/02/2005	-	-	6435m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Light industry	-	-
+2005	226812	24 Wormald Street	30/03/2005	30/03/2005	-	$360,000	5186m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Shop	-	-
+2005	16938	            20 Wormald Street	24/03/2005	24/03/2005	-	$335,000	3056m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Shop	-	-
+2005	226809	21 Wormald Street	24/03/2005	24/03/2005	-	$325,000	2639m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Shop	-	-
+2005	226808	12 Faulding Street	24/03/2005	24/03/2005	-	$315,000	2160m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Shop	-	-
+2005	16937	            3 Taubman Street	24/03/2005	24/03/2005	-	$315,000	2146m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Shop	-	-
+2005	226810	19 Wormald Street	24/03/2005	24/03/2005	-	$310,000	3055m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Shop	-	-
+2005	226814	11 Faulding Street	24/03/2005	24/03/2005	-	$275,000	3494m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Shop	-	-
