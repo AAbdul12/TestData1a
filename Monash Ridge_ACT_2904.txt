@@ -1,0 +1,5 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2002	19764	            12 Arnot Place	09/11/2002	-	21/06/2002	$405,000	975m	Full transfer	5	1	1	2	-	$405,000	141	-	Allhomes Record	-	-	-	-	-	-
+2003	20599	            10 Delprat Circuit	18/12/2003	-	11/09/2003	$472,500	-	Full transfer	4	1	1	2	-	$472,500	98	-	Allhomes Record	-	-	-	-	-	-
+2003	20547	            30 Scratchley Place	06/11/2003	-	19/09/2003	$350,000	0m	Full transfer	3	1	1	2	-	$350,000	48	-	Allhomes Record	-	-	-	-	$0	0.0
+2005	21089	            33 William Hudson	03/03/2005	-	28/10/2004	-	894m	Full transfer	5	1	2	2	-	-	126	-	Allhomes Record	-	-	-	-	$220,000	-
