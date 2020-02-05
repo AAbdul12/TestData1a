@@ -1,0 +1,25 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1994	471024	             Wyora Road	16/02/1994	16/02/1994	-	$77,000	800400m	Full transfer	-	-	-	-	-	$77,000	-	-	Government Record	-	-	-		-	-
+1995	471027	1305 Wyora Road	15/02/1995	09/06/1995	-	$140,000	2347000m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Farm	-	-
+1996	471017	129 Crace Lane	22/01/1996	15/02/1996	-	$152,500	963700m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-		-	-
+1996	471030	1305 Wyora Road	09/07/1996	01/08/1996	-	$115,000	1161000m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-		-	-
+1997	471011	26 Crace Lane	14/04/1997	20/06/1997	-	$86,500	904700m	Partial transfer	-	-	-	-	-	$86,500	-	-	Government Record	-	-	-	Arm	-	-
+1997	471040	362 Crace Lane	22/04/1997	16/05/1997	-	$42,500	244200m	Full transfer	-	-	-	-	-	$42,500	-	-	Government Record	-	-	-		-	-
+1999	471039	643 Crace Lane	07/05/1999	30/07/1999	-	$120,000	811400m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-		-	-
+1999	471038	726 Crace Lane	30/10/1999	30/10/1999	-	$6,000	976900m	Partial transfer	-	-	-	-	-	$6,000	-	-	Government Record	-	-	-		-	-
+2000	471032	503 Brindabella Valley Road	20/11/2000	15/12/2000	-	$1,086,500	955700m	Full transfer	-	-	-	-	-	$1,086,500	-	-	Government Record	-	-	-		-	-
+2000	471031	             Brindabella Valley Road	08/03/2000	24/05/2000	-	$68,000	323700m	Full transfer	-	-	-	-	-	$68,000	-	-	Government Record	-	-	-	Farm pasture	-	-
+2001	471035	663 Crace Lane	13/07/2001	03/08/2001	-	$75,000	1160000m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2003	211394	52 Wyora Rd	26/06/2003	26/06/2003	-	$100,000	648700m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2003	471015	52 Wyora Road	26/06/2003	26/06/2003	-	$100,000	648700m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2003	211401	726 Crace Lane	10/01/2003	07/02/2003	-	$20,000	976900m	Full transfer	-	-	-	-	-	$20,000	-	-	Government Record	-	-	-	Residence	-	-
+2004	471012	             Mount Vale Road	04/11/2004	14/12/2004	-	$800,850	1988000m	Full transfer	-	-	-	-	-	$800,850	-	-	Government Record	-	-	-	Vacant land	-	-
+2004	471026	             Wyora Road	15/10/2004	29/04/2005	-	$306,947	1620000m	Full transfer	-	-	-	-	-	$306,947	-	-	Government Record	-	-	-	Farm	-	-
+2004	471041	242 Crace Lane	27/05/2004	27/05/2004	-	$235,000	933800m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Farm	-	-
+2004	471034	661 Crace Lane	07/10/2004	26/11/2004	-	$190,000	98520m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Vacant land	-	-
+2004	471013	             Nottingham Creek Road	05/11/2004	17/12/2004	-	$166,500	1004000m	Full transfer	-	-	-	-	-	$166,500	-	-	Government Record	-	-	-	Farm	-	-
+2004	471025	             Wyora Road Off	09/12/2004	29/04/2005	-	$123,080	809300m	Full transfer	-	-	-	-	-	$123,080	-	-	Government Record	-	-	-	Farm	-	-
+2004	471021	             Wyora Road	04/11/2004	15/12/2004	-	$25,200	971300m	Full transfer	-	-	-	-	-	$25,200	-	-	Government Record	-	-	-	Farm	-	-
+2004	43624	             Crace Lane	01/10/2004	-	08/07/2004	-	-	Full transfer	-	-	-	-	-	-	85	-	Allhomes Record	-	-	-	-	-	-
+2005	471028	             Wyora Road	24/03/2005	08/04/2005	-	$4,000,000	11470000m	Full transfer	-	-	-	-	-	$4,000,000	-	-	Government Record	-	-	-	Timber planta	-	-
+2005	471020	             Wyora Road	25/01/2005	25/01/2005	-	$248,000	667700m	Full transfer	-	-	-	-	-	$248,000	-	-	Government Record	-	-	-	Vacant land	-	-
