@@ -1,0 +1,875 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1990	152450	4 Cockerill Place	13/04/1990	30/09/2002	-	-	751m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1991	239898	137 William Webb Drive	26/04/1991	09/10/2008	-	-	1035m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88264	53 Dumas Street	15/01/1992	15/01/1992	-	$340,000	1136m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88275	47 Dumas Street	04/05/1992	04/05/1992	-	$308,000	983m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88286	72 Dumas Street	04/08/1992	04/08/1992	-	$300,000	821m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88209	19 Bancks Crescent	24/08/1992	24/08/1992	-	$280,000	949m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88263	6 Lovekin Place	03/12/1992	03/12/1992	-	$270,000	996m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88265	8 Lovekin Place	07/10/1992	07/10/1992	-	$265,000	838m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88350	25 Buggy Crescent	29/05/1992	29/05/1992	-	$256,000	828m	Full transfer	-	-	-	-	-	$256,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88609	7 Denning Place	21/12/1992	21/12/1992	-	$255,000	1000m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88190	8 Bancks Crescent	12/03/1992	12/03/1992	-	$252,000	955m	Full transfer	-	-	-	-	-	$252,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88185	50 Rohan Rivett Crescent	08/09/1992	08/09/1992	-	$250,000	1111m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88223	13 Buzacott Place	27/04/1992	27/04/1992	-	$245,000	852m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88404	6 Garrett Place	04/12/1992	04/12/1992	-	$245,000	921m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88395	1 Garrett Place	30/09/1992	30/09/1992	-	$240,000	882m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88189	6 Bancks Crescent	21/09/1992	21/09/1992	-	$235,000	859m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88402	1 Sowden Street	25/05/1992	25/05/1992	-	$230,000	890m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88439	45 Slessor Crescent	18/06/1992	18/06/1992	-	$229,000	802m	Full transfer	-	-	-	-	-	$229,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88503	7 Tilley Place	06/05/1992	06/05/1992	-	$219,950	911m	Full transfer	-	-	-	-	-	$219,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88364	5 Haverfield Place	19/10/1992	19/10/1992	-	$215,000	934m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88267	7 Bean Crescent	09/03/1992	09/03/1992	-	$212,000	849m	Full transfer	-	-	-	-	-	$212,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88520	83 Dumas Street	17/06/1992	17/06/1992	-	$210,000	1012m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88258	25 Dumas Street	11/05/1992	11/05/1992	-	$210,000	798m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88260	42 Burns Circuit	17/12/1992	17/12/1992	-	$205,000	873m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88373	10 Haverfield Place	09/06/1992	09/06/1992	-	$202,500	971m	Full transfer	-	-	-	-	-	$202,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88372	8 Haverfield Place	16/10/1992	16/10/1992	-	$200,000	844m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88403	2 Garrett Place	02/09/1992	02/09/1992	-	$199,900	1233m	Full transfer	-	-	-	-	-	$199,900	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88204	36 Rohan Rivett Crescent	15/06/1992	15/06/1992	-	$197,000	750m	Full transfer	-	-	-	-	-	$197,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88361	27 Vagabond Crescent	24/12/1992	24/12/1992	-	$195,000	742m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88507	9 Monson Place	28/08/1992	28/08/1992	-	$192,000	721m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88494	7/18 Bennetts Close	13/05/1992	13/05/1992	-	$190,000	5721m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88493	6/18 Bennetts Close	19/03/1992	19/03/1992	-	$190,000	5721m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88352	133 Dumas Street	02/12/1992	02/12/1992	-	$183,000	731m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88489	4/18 Bennetts Close	01/05/1992	01/05/1992	-	$182,000	5721m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88487	3/18 Bennetts Close	26/03/1992	26/03/1992	-	$182,000	5721m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88418	7 Sowden Street	15/12/1992	15/12/1992	-	$180,000	733m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88484	10/18 Bennetts Close	12/03/1992	12/03/1992	-	$178,000	5721m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88477	9/18 Bennetts Close	10/03/1992	10/03/1992	-	$178,000	5721m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88183	28 Hetherington Circuit	11/06/1992	11/06/1992	-	$175,000	868m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88432	61 William Webb Drive	30/09/1992	30/09/1992	-	$174,000	949m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88453	2/47 Slessor Crescent	13/05/1992	13/05/1992	-	$172,750	6211m	Full transfer	-	-	-	-	-	$172,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88458	7/47 Slessor Crescent	29/04/1992	29/04/1992	-	$172,750	6211m	Full transfer	-	-	-	-	-	$172,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88461	1/20 Bennetts Close	06/04/1992	06/04/1992	-	$172,750	5828m	Full transfer	-	-	-	-	-	$172,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88459	8/47 Slessor Crescent	29/04/1992	29/04/1992	-	$172,750	6211m	Full transfer	-	-	-	-	-	$172,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88481	8/20 Bennetts Close	28/04/1992	28/04/1992	-	$172,750	5828m	Full transfer	-	-	-	-	-	$172,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	87506	11/47 Slessor Crescent	06/05/1992	06/05/1992	-	$170,750	6211m	Full transfer	-	-	-	-	-	$170,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88482	9/20 Bennetts Close	04/05/1992	04/05/1992	-	$169,600	5828m	Full transfer	-	-	-	-	-	$169,600	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88469	6/20 Bennetts Close	26/03/1992	26/03/1992	-	$169,600	5828m	Full transfer	-	-	-	-	-	$169,600	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88470	7/20 Bennetts Close	26/03/1992	26/03/1992	-	$169,000	5828m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88451	1/47 Slessor Crescent	06/05/1992	06/05/1992	-	$169,000	6211m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88463	2/20 Bennetts Close	24/02/1992	24/02/1992	-	$168,950	5828m	Full transfer	-	-	-	-	-	$168,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88467	5/20 Bennetts Close	18/02/1992	18/02/1992	-	$168,950	5828m	Full transfer	-	-	-	-	-	$168,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88464	3/20 Bennetts Close	15/04/1992	15/04/1992	-	$167,950	5828m	Full transfer	-	-	-	-	-	$167,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88454	3/47 Slessor Crescent	28/04/1992	28/04/1992	-	$167,950	6211m	Full transfer	-	-	-	-	-	$167,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	87505	10/47 Slessor Crescent	23/04/1992	23/04/1992	-	$166,250	6211m	Full transfer	-	-	-	-	-	$166,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88491	5/18 Bennetts Close	09/03/1992	09/03/1992	-	$166,000	5721m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88483	1/18 Bennetts Close	05/03/1992	05/03/1992	-	$166,000	5721m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88485	2/18 Bennetts Close	24/03/1992	24/03/1992	-	$166,000	5721m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88362	11 Haverfield Place	11/08/1992	11/08/1992	-	$166,000	723m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88466	4/20 Bennetts Close	19/02/1992	19/02/1992	-	$165,950	5828m	Full transfer	-	-	-	-	-	$165,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88460	9/47 Slessor Crescent	13/05/1992	13/05/1992	-	$165,950	6211m	Full transfer	-	-	-	-	-	$165,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88455	4/47 Slessor Crescent	27/04/1992	27/04/1992	-	$165,950	6211m	Full transfer	-	-	-	-	-	$165,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88456	5/47 Slessor Crescent	27/04/1992	27/04/1992	-	$165,950	6211m	Full transfer	-	-	-	-	-	$165,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88181	5 Meacham Place	21/05/1992	21/05/1992	-	$165,000	737m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88426	6 Rohan Rivett Crescent	19/10/1992	19/10/1992	-	$162,500	742m	Full transfer	-	-	-	-	-	$162,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88207	34 Hetherington Circuit	02/06/1992	02/06/1992	-	$160,000	771m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88213	46 Hetherington Circuit	28/04/1992	28/04/1992	-	$158,000	732m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88421	9 Macalpine Close	28/05/1992	28/05/1992	-	$158,000	767m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88412	6/4 Cavenagh Place	24/08/1992	24/08/1992	-	$158,000	9187m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	88434	57 William Webb Drive	13/04/1992	13/04/1992	-	$157,000	956m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88308	96 Dumas Street	06/07/1992	06/07/1992	-	$157,000	801m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88480	8 Tilley Place	29/04/1992	29/04/1992	-	$156,500	730m	Full transfer	-	-	-	-	-	$156,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88414	22 Rohan Rivett Crescent	30/01/1992	30/01/1992	-	$155,000	758m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88312	6 Sinnett Place	31/08/1992	31/08/1992	-	$152,000	768m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88387	117 William Webb Drive	02/06/1992	02/06/1992	-	$149,000	815m	Full transfer	-	-	-	-	-	$149,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88355	149 Dumas Street	30/01/1992	30/01/1992	-	$147,500	733m	Full transfer	-	-	-	-	-	$147,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88603	19 Fred Johns Crescent	20/10/1992	20/10/1992	-	$147,000	495m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	88173	3 Schuler Place	06/10/1992	06/10/1992	-	$147,000	855m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88251	49 Burns Circuit	09/01/1992	09/01/1992	-	$144,000	880m	Full transfer	-	-	-	-	-	$144,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88557	23 Grover Crescent	27/10/1992	27/10/1992	-	$140,000	409m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	88253	47 Burns Circuit	31/03/1992	31/03/1992	-	$140,000	851m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88478	4 Tilley Place	30/01/1992	30/01/1992	-	$140,000	709m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88299	16 Grover Crescent	06/05/1992	06/05/1992	-	$137,000	795m	Full transfer	-	-	-	-	-	$137,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88599	7 Slessor Crescent	08/05/1992	08/05/1992	-	$136,500	639m	Full transfer	-	-	-	-	-	$136,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	88347	14 Cockerill Place	05/03/1992	05/03/1992	-	$135,000	824m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88175	32 Bean Crescent	02/03/1992	02/03/1992	-	$132,000	713m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88391	99 William Webb Drive	24/03/1992	24/03/1992	-	$131,000	733m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88415	20 Sowden Street	09/06/1992	09/06/1992	-	$130,500	941m	Full transfer	-	-	-	-	-	$130,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88601	23 Fred Johns Crescent	03/04/1992	03/04/1992	-	$130,000	468m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	88422	11 Sowden Street	01/09/1992	01/09/1992	-	$129,000	725m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88595	27 Slessor Crescent	09/04/1992	09/04/1992	-	$126,500	476m	Full transfer	-	-	-	-	-	$126,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	88341	173 William Webb Drive	06/03/1992	06/03/1992	-	$125,000	834m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88301	92 Dumas Street	13/04/1992	13/04/1992	-	$95,700	713m	Full transfer	-	-	-	-	-	$95,700	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88605	17 Fred Johns Crescent	09/06/1992	09/06/1992	-	$1	495m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	88586	3 Fred Johns Crescent	20/02/1992	20/02/1992	-	-	529m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	88539	6 Slessor Crescent	24/01/1992	24/01/1992	-	-	827m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88589	6 Fred Johns Crescent	01/04/1992	01/04/1992	-	-	671m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	88417	18 Sowden Street	07/04/1992	07/04/1992	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88513	8 Pinkstone Place	03/02/1992	03/02/1992	-	-	727m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88281	29 Bean Crescent	23/12/1992	23/12/1992	-	-	747m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88537	65 Dumas Street	10/11/1992	10/11/1992	-	-	1458m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88289	12 Tipping Place	27/02/1992	27/02/1992	-	-	809m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88425	4 Rohan Rivett Crescent	03/12/1992	03/12/1992	-	-	979m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	88379	8 Schuler Place	01/10/1992	01/10/1992	-	-	718m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88268	3 Bean Crescent	18/11/1993	18/11/1993	-	$385,000	1113m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88531	85 Dumas Street	15/11/1993	15/11/1993	-	$312,000	1187m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88234	32 Dumas Street	11/05/1993	11/05/1993	-	$290,000	863m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88438	43 Slessor Crescent	13/10/1993	13/10/1993	-	$290,000	805m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88340	3 Cockerill Place	28/05/1993	28/05/1993	-	$289,000	764m	Full transfer	-	-	-	-	-	$289,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88536	61 Dumas Street	02/03/1993	02/03/1993	-	$270,000	914m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88224	20 Dumas Street	20/09/1993	20/09/1993	-	$270,000	929m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88313	1 Jeffery Place	04/08/1993	04/08/1993	-	$265,000	805m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88170	6 McGuiness Place	30/12/1993	30/12/1993	-	$251,000	879m	Full transfer	-	-	-	-	-	$251,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88332	8 Buggy Crescent	24/05/1993	24/05/1993	-	$246,000	744m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88374	18 Haverfield Place	29/03/1993	29/03/1993	-	$240,000	916m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88440	45A Slessor Crescent	07/09/1993	07/09/1993	-	$232,000	900m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88611	3 Burns Circuit	22/03/1993	22/03/1993	-	$231,750	886m	Full transfer	-	-	-	-	-	$231,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88428	4 Macalpine Close	21/01/1993	21/01/1993	-	$225,000	1042m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88504	5 Tilley Place	21/06/1993	21/06/1993	-	$225,000	715m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88490	4/18 Bennetts Close	30/11/1993	30/11/1993	-	$220,000	5721m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	88188	32 Rohan Rivett Crescent	21/12/1993	21/12/1993	-	$215,000	834m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88505	3 Tilley Place	09/11/1993	09/11/1993	-	$214,000	732m	Full transfer	-	-	-	-	-	$214,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88220	32 Slessor Crescent	04/01/1993	04/01/1993	-	$206,000	734m	Full transfer	-	-	-	-	-	$206,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88363	7 Haverfield Place	03/12/1993	03/12/1993	-	$201,000	708m	Full transfer	-	-	-	-	-	$201,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88231	1 Barsdell Place	13/04/1993	13/04/1993	-	$198,500	987m	Full transfer	-	-	-	-	-	$198,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88205	40 Rohan Rivett Crescent	17/03/1993	17/03/1993	-	$192,000	1028m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88386	57 Vagabond Crescent	12/05/1993	12/05/1993	-	$191,000	901m	Full transfer	-	-	-	-	-	$191,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88176	6 Meacham Place	11/10/1993	11/10/1993	-	$191,000	904m	Full transfer	-	-	-	-	-	$191,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88392	97 William Webb Drive	15/06/1993	15/06/1993	-	$190,000	809m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88177	8 Meacham Place	31/08/1993	31/08/1993	-	$187,000	921m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88212	40 Hetherington Circuit	15/02/1993	15/02/1993	-	$185,000	719m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88172	5 Schuler Place	20/08/1993	20/08/1993	-	$182,500	726m	Full transfer	-	-	-	-	-	$182,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88501	49 William Webb Drive	07/06/1993	07/06/1993	-	$182,500	972m	Full transfer	-	-	-	-	-	$182,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88390	7 Baume Crescent	14/04/1993	14/04/1993	-	$180,000	708m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88465	3/20 Bennetts Close	28/10/1993	28/10/1993	-	$175,000	5828m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	88305	1 Absolon Place	02/03/1993	02/03/1993	-	$175,000	914m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88612	2 Rayner Place	15/04/1993	15/04/1993	-	$167,000	1274m	Full transfer	-	-	-	-	-	$167,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88322	5 Absolon Place	14/12/1993	14/12/1993	-	$165,500	835m	Full transfer	-	-	-	-	-	$165,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88215	3 Hetherington Circuit	24/06/1993	24/06/1993	-	$165,000	789m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88237	21 Dumas Street	16/12/1993	16/12/1993	-	$162,000	875m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88596	25 Slessor Crescent	11/10/1993	11/10/1993	-	$161,000	532m	Full transfer	-	-	-	-	-	$161,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	88325	123 Dumas Street	16/11/1993	16/11/1993	-	$155,000	788m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88318	2/4 Cavenagh Place	07/06/1993	07/06/1993	-	$155,000	9187m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	88328	35 Buggy Crescent	29/06/1993	29/06/1993	-	$154,000	707m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88365	121 William Webb Drive	22/11/1993	22/11/1993	-	$154,000	849m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88184	3 Wallen Place	19/02/1993	19/02/1993	-	$153,000	889m	Full transfer	-	-	-	-	-	$153,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88357	4 Vagabond Crescent	06/10/1993	06/10/1993	-	$152,000	717m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88337	15 Cockerill Place	09/09/1993	09/09/1993	-	$148,000	815m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88416	20 Sowden Street	14/12/1993	14/12/1993	-	$144,500	941m	Full transfer	-	-	-	-	-	$144,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88615	2 Hetherington Circuit	19/01/1993	19/01/1993	-	$137,000	900m	Full transfer	-	-	-	-	-	$137,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88187	52 Rohan Rivett Crescent	28/07/1993	28/07/1993	-	$131,250	976m	Full transfer	-	-	-	-	-	$131,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88336	155 William Webb Drive	13/12/1993	13/12/1993	-	$13,600	768m	Full transfer	-	-	-	-	-	$13,600	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88323	3 Absolon Place	08/11/1993	08/11/1993	-	$1	785m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88342	173 William Webb Drive	16/12/1993	16/12/1993	-	$1	834m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88394	3 Garrett Place	20/05/1993	20/05/1993	-	-	823m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88512	4 Pinkstone Place	19/07/1993	19/07/1993	-	-	829m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88304	6 Mudge Place	23/12/1993	23/12/1993	-	-	852m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88598	19 Slessor Crescent	06/05/1993	06/05/1993	-	-	502m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	88542	6 Slessor Crescent	29/07/1993	29/07/1993	-	-	827m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88218	28 Slessor Crescent	31/03/1993	31/03/1993	-	-	872m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88515	7 Pinkstone Place	29/09/1993	29/09/1993	-	-	1103m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	88607	3 Vincent Place	04/06/1993	04/06/1993	-	-	550m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	88287	82 Dumas Street	15/12/1993	15/12/1993	-	-	903m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88270	31 Bean Crescent	15/07/1994	15/07/1994	-	$305,000	721m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88400	152 Dumas Street	11/07/1994	11/07/1994	-	$285,000	720m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88331	6 Buggy Crescent	22/11/1994	19/12/1994	-	$268,500	766m	Full transfer	-	-	-	-	-	$268,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88349	25 Buggy Crescent	20/06/1994	20/06/1994	-	$265,000	828m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88381	22 Bean Crescent	01/03/1994	01/03/1994	-	$250,000	747m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88371	6 Haverfield Place	31/01/1994	31/01/1994	-	$248,000	802m	Full transfer	-	-	-	-	-	$248,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88427	4 Macalpine Close	17/08/1994	01/12/1994	-	$240,000	1042m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88397	28 Baume Crescent	28/06/1994	28/06/1994	-	$226,000	759m	Full transfer	-	-	-	-	-	$226,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88333	12 Buggy Crescent	25/11/1994	18/01/1995	-	$226,000	795m	Full transfer	-	-	-	-	-	$226,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88516	3 Pinkstone Place	27/06/1994	27/06/1994	-	$217,000	734m	Full transfer	-	-	-	-	-	$217,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88233	30 Dumas Street	13/05/1994	13/05/1994	-	$213,500	944m	Full transfer	-	-	-	-	-	$213,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88393	91 William Webb Drive	11/08/1994	11/08/1994	-	$213,000	787m	Full transfer	-	-	-	-	-	$213,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88535	6 Bean Crescent	05/08/1994	03/11/1994	-	$200,000	874m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88488	3/18 Bennetts Close	30/05/1994	30/05/1994	-	$200,000	5721m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	88314	31 Baume Crescent	20/12/1994	15/03/1995	-	$197,000	739m	Full transfer	-	-	-	-	-	$197,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88298	1 Absolon Place	09/05/1994	09/05/1994	-	$183,500	914m	Full transfer	-	-	-	-	-	$183,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88450	19 Rohan Rivett Crescent	02/12/1994	01/02/1995	-	$182,000	828m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88462	10/20 Bennetts Close	18/07/1994	18/07/1994	-	$180,000	5828m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	88257	33 Dumas Street	15/03/1994	15/03/1994	-	$178,000	799m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88468	6/20 Bennetts Close	09/12/1994	19/12/1994	-	$175,500	5828m	Full transfer	-	-	-	-	-	$175,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	88457	6/47 Slessor Crescent	16/05/1994	16/05/1994	-	$175,000	6211m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	88217	51 Slessor Crescent	21/09/1994	01/11/1994	-	$174,500	877m	Full transfer	-	-	-	-	-	$174,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88389	9 Baume Crescent	02/05/1994	02/05/1994	-	$172,500	728m	Full transfer	-	-	-	-	-	$172,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88211	36 Hetherington Circuit	09/09/1994	14/10/1994	-	$172,000	729m	Full transfer	-	-	-	-	-	$172,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88239	53 Burns Circuit	21/02/1994	21/02/1994	-	$170,500	931m	Full transfer	-	-	-	-	-	$170,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88518	1 Pinkstone Place	26/07/1994	26/07/1994	-	$169,000	842m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88316	1 Cavenagh Place	28/11/1994	20/12/1994	-	$168,000	786m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88593	9 Fred Johns Crescent	31/10/1994	30/11/1994	-	$165,500	452m	Full transfer	-	-	-	-	-	$165,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1994	88433	57 William Webb Drive	10/08/1994	10/08/1994	-	$161,000	956m	Full transfer	-	-	-	-	-	$161,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88380	8 Schuler Place	09/08/1994	09/08/1994	-	$158,000	718m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88367	45 Vagabond Crescent	24/05/1994	24/05/1994	-	$156,000	707m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88182	3 Meacham Place	01/11/1994	02/12/1994	-	$155,000	884m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88411	5/4 Cavenagh Place	27/06/1994	27/06/1994	-	$155,000	9187m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	88324	33 Buggy Crescent	27/01/1994	27/01/1994	-	$154,000	982m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88419	9 Macalpine Close	18/05/1994	18/05/1994	-	$153,000	767m	Full transfer	-	-	-	-	-	$153,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88368	43 Vagabond Crescent	18/05/1994	18/05/1994	-	$151,000	767m	Full transfer	-	-	-	-	-	$151,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88238	19 Dumas Street	16/06/1994	16/06/1994	-	$148,000	808m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88590	6 Fred Johns Crescent	31/03/1994	31/03/1994	-	$145,000	671m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1994	88326	125 Dumas Street	15/08/1994	15/08/1994	-	$143,000	946m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88356	145 Dumas Street	25/10/1994	11/11/1994	-	$138,000	708m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88554	15 Grover Crescent	31/10/1994	01/12/1994	-	$131,000	462m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1994	88216	55 Slessor Crescent	16/05/1994	16/05/1994	-	$131,000	780m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88597	29 Fred Johns Crescent	08/08/1994	08/08/1994	-	$131,000	815m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1994	88359	40 Vagabond Crescent	07/01/1994	07/01/1994	-	$128,000	804m	Full transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1994	88178	14 Hetherington Circuit	02/05/1994	02/05/1994	-	$127,250	754m	Full transfer	-	-	-	-	-	$127,250	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1994	88479	6 Tilley Place	21/12/1994	13/01/1995	-	$126,000	712m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88511	17 Rohan Rivett Crescent	26/08/1994	26/08/1994	-	$115,000	803m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88398	4 Baume Crescent	07/01/1994	07/01/1994	-	$100,000	703m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88225	50 Slessor Crescent	03/08/1994	03/08/1994	-	-	928m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88591	9 Tipping Place	06/10/1994	06/10/1994	-	-	942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88290	28 Grover Crescent	16/05/1994	16/05/1994	-	-	847m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88551	2 Melvin Place	29/12/1994	29/12/1994	-	-	887m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88369	41 Vagabond Crescent	12/12/1994	12/12/1994	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88169	6 McGuiness Place	06/07/1994	06/07/1994	-	-	879m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88508	27 Rohan Rivett Crescent	13/01/1994	13/01/1994	-	-	803m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88532	3 Buggy Crescent	01/03/1994	01/03/1994	-	-	783m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	88206	44 Rohan Rivett Crescent	01/11/1994	01/11/1994	-	-	845m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88208	21 Bancks Crescent	22/05/1995	29/06/1995	-	$325,000	950m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88338	11 Cockerill Place	24/03/1995	20/04/1995	-	$309,000	734m	Full transfer	-	-	-	-	-	$309,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88276	47 Dumas Street	26/06/1995	09/08/1995	-	$290,000	983m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88227	10 Dumas Street	08/08/1995	12/09/1995	-	$265,000	960m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88282	84 Dumas Street	24/05/1995	20/06/1995	-	$259,000	1059m	Full transfer	-	-	-	-	-	$259,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88339	7 Cockerill Place	04/07/1995	28/09/1995	-	$252,000	763m	Full transfer	-	-	-	-	-	$252,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88302	26 Grover Crescent	03/10/1995	23/10/1995	-	$249,000	728m	Full transfer	-	-	-	-	-	$249,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88435	1 Mudge Place	07/04/1995	01/05/1995	-	$246,000	951m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88201	12 Bancks Crescent	02/08/1995	14/09/1995	-	$235,000	827m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88226	50 Slessor Crescent	08/03/1995	03/05/1995	-	$231,000	928m	Full transfer	-	-	-	-	-	$231,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88533	7 Buggy Crescent	23/10/1995	06/02/1996	-	$230,000	738m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88210	17 Bancks Crescent	04/10/1995	17/01/1996	-	$229,000	774m	Full transfer	-	-	-	-	-	$229,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88284	64 Dumas Street	03/02/1995	30/05/1995	-	$220,000	850m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88285	70 Dumas Street	22/12/1995	07/02/1996	-	$220,000	767m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88600	12 Britton Place	28/09/1995	18/12/1995	-	$200,000	587m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1995	88555	4 Denning Place	24/07/1995	02/08/1995	-	$200,000	799m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88534	181 William Webb Drive	21/02/1995	07/03/1995	-	$191,000	899m	Full transfer	-	-	-	-	-	$191,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88346	161 William Webb Drive	10/02/1995	02/03/1995	-	$184,300	724m	Full transfer	-	-	-	-	-	$184,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88358	16 Vagabond Crescent	30/11/1995	15/12/1995	-	$180,000	741m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88423	15 Sowden Street	08/09/1995	30/10/1995	-	$177,500	863m	Full transfer	-	-	-	-	-	$177,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88431	61 William Webb Drive	29/09/1995	14/11/1995	-	$167,000	949m	Full transfer	-	-	-	-	-	$167,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88553	6 Melvin Place	02/06/1995	27/06/1995	-	$150,000	969m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88174	3 Schuler Place	10/02/1995	07/03/1995	-	$135,000	855m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88401	16 Baume Crescent	23/03/1995	19/04/1995	-	$133,000	715m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1995	88377	10 Schuler Place	16/10/1995	27/10/1995	-	$133,000	902m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88604	17 Fred Johns Crescent	18/11/1995	04/12/1995	-	$129,500	495m	Full transfer	-	-	-	-	-	$129,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1995	88366	49 Vagabond Crescent	01/05/1995	30/05/1995	-	$128,500	710m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88180	7 Meacham Place	11/05/1995	07/06/1995	-	$127,000	906m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88171	8 McGuiness Place	18/07/1995	03/08/1995	-	$127,000	854m	Partial transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88614	2 Hetherington Circuit	29/08/1995	03/10/1995	-	$119,000	900m	Full transfer	-	-	-	-	-	$119,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88584	23 Grover Crescent	01/09/1995	29/09/1995	-	$115,500	409m	Full transfer	-	-	-	-	-	$115,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1995	88256	37 Dumas Street	24/08/1995	25/08/1995	-	$88,000	894m	Partial transfer	-	-	-	-	-	$88,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88254	39 Burns Circuit	20/01/1995	20/01/1995	-	-	762m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88283	20 Tipping Place	20/12/1995	20/12/1995	-	-	963m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88343	175 William Webb Drive	06/11/1995	06/11/1995	-	-	801m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88382	20 Bean Crescent	12/05/1995	04/08/1995	-	-	750m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	234198	5 Baume Crescent	17/05/1995	10/06/2008	-	-	717m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88370	2 Haverfield Place	12/12/1995	12/12/1995	-	-	986m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88452	10/47 Slessor Crescent	04/12/1995	04/12/1995	-	-	6211m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	88202	16 Bancks Crescent	09/05/1995	09/05/1995	-	-	780m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	88255	48 Bean Crescent	04/07/1995	21/07/1995	-	-	1010m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88288	8 Tipping Place	11/12/1996	15/01/1997	-	$300,000	706m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88186	50 Rohan Rivett Crescent	08/11/1996	09/12/1996	-	$238,500	1111m	Full transfer	-	-	-	-	-	$238,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88552	5 Melvin Place	22/05/1996	30/05/1996	-	$210,000	856m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88492	6/18 Bennetts Close	22/02/1996	01/04/1996	-	$209,000	5721m	Full transfer	-	-	-	-	-	$209,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	88330	22 Buggy Crescent	22/05/1996	31/07/1996	-	$205,000	873m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88200	3 Barsdell Place	01/04/1996	01/05/1996	-	$204,000	804m	Full transfer	-	-	-	-	-	$204,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88345	165 William Webb Drive	23/07/1996	05/09/1996	-	$190,000	864m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88259	16 Burns Circuit	23/12/1996	30/01/1997	-	$186,500	725m	Full transfer	-	-	-	-	-	$186,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88309	102 Dumas Street	29/01/1996	12/04/1996	-	$186,500	725m	Full transfer	-	-	-	-	-	$186,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88179	2 Meacham Place	31/01/1996	09/04/1996	-	$182,000	982m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88556	4 Denning Place	30/05/1996	19/06/1996	-	$180,000	799m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88277	45 Dumas Street	16/04/1996	04/06/1996	-	$175,000	858m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88587	27 Grover Crescent	19/06/1996	01/07/1996	-	$159,500	539m	Full transfer	-	-	-	-	-	$159,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1996	88519	83 Dumas Street	06/09/1996	01/10/1996	-	$159,000	1012m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88420	9 Macalpine Close	02/08/1996	22/08/1996	-	$157,000	767m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88538	6 Slessor Crescent	07/03/1996	04/04/1996	-	$155,500	827m	Full transfer	-	-	-	-	-	$155,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88335	157 William Webb Drive	02/07/1996	15/07/1996	-	$154,500	741m	Full transfer	-	-	-	-	-	$154,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88252	47 Burns Circuit	14/03/1996	01/05/1996	-	$137,500	851m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88506	1 Tilley Place	04/10/1996	28/11/1996	-	$134,000	878m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88315	4 Sowden Street	12/04/1996	01/05/1996	-	$130,000	870m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88585	7 Fred Johns Crescent	18/04/1996	12/06/1996	-	$129,000	456m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1996	88613	9 Rayner Place	10/10/1996	16/12/1996	-	$126,000	1041m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88235	24 Dumas Street	23/07/1996	20/08/1996	-	$117,000	756m	Full transfer	-	-	-	-	-	$117,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88610	7 Denning Place	11/01/1996	28/02/1996	-	$100,000	1000m	Partial transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88317	144 Dumas Street	10/05/1996	10/05/1996	-	$90,000	806m	Partial transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88413	8/4 Cavenagh Place	24/12/1996	29/01/1997	-	$62,500	9187m	Partial transfer	-	-	-	-	-	$62,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	88300	4 Sinnett Place	04/04/1996	04/04/1996	-	$61,200	821m	Partial transfer	-	-	-	-	-	$61,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88495	7/18 Bennetts Close	26/07/1996	26/07/1996	-	$10,000	5721m	Partial transfer	-	-	-	-	-	$10,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	88230	44 Bean Crescent	03/04/1996	03/07/1996	-	-	738m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88430	14 Macalpine Close	27/06/1996	27/06/1996	-	-	737m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88376	22 Haverfield Place	25/10/1996	19/11/1996	-	-	910m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88375	20 Haverfield Place	21/12/1996	13/08/1997	-	-	966m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88203	20 Bancks Crescent	19/07/1996	19/08/1996	-	-	839m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88385	63 Vagabond Crescent	03/05/1996	06/06/1996	-	-	939m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88262	25 Bean Crescent	26/03/1996	26/03/1996	-	-	773m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	88222	42 Slessor Crescent	11/08/1996	08/10/1996	-	-	815m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	169934	52 Rohan Rivett Crescent	04/12/1997	04/02/1998	-	$295,000	976m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88236	59 Burns Circuit	15/02/1997	18/03/1997	10/12/2004	$280,000	1341m	Full transfer	4	1	1	4	-	$280,000	-	-	Combined Record	-	-	-	Single residential dwelling	$195,000	0.7
+1997	88240	51 Burns Circuit	03/07/1997	30/07/1997	-	$262,000	970m	Full transfer	-	-	-	-	-	$262,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88229	42 Bean Crescent	24/10/1997	25/11/1997	17/10/2002	$252,500	787m	Full transfer	5	1	1	2	-	$252,500	-	-	Combined Record	-	-	-	Single residential dwelling	$137,000	0.54
+1997	88399	150 Dumas Street	08/08/1997	19/09/1997	-	$250,000	788m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	198329	3 Bancks Crescent	03/12/1997	14/01/1998	-	$245,000	981m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88344	167 William Webb Drive	04/03/1997	11/12/1997	-	$235,000	933m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88219	16 Buzacott Place	15/04/1997	20/05/1997	-	$230,000	872m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88261	25 Bean Crescent	14/11/1997	23/12/1997	-	$230,000	773m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88437	3 Mudge Place	05/06/1997	20/06/1997	-	$227,000	1231m	Full transfer	-	-	-	-	-	$227,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	194232	167 William Webb Drive	14/11/1997	12/01/1998	-	$226,500	933m	Full transfer	-	-	-	-	-	$226,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88383	20 Bean Crescent	05/05/1997	21/05/1997	-	$220,000	750m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88351	3 Vagabond Crescent	27/03/1997	15/04/1997	-	$215,000	758m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88424	71 William Webb Drive	18/07/1997	19/08/1997	-	$212,000	825m	Full transfer	-	-	-	-	-	$212,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88221	40 Slessor Crescent	12/06/1997	03/07/1997	-	$210,000	783m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88228	1 McGuiness Place	21/11/1997	22/12/1997	-	$200,000	1020m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88329	22 Buggy Crescent	20/01/1997	21/11/1997	-	$200,000	873m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	169822	15 Cockerill Place	09/12/1997	02/01/1998	-	$195,250	815m	Full transfer	-	-	-	-	-	$195,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88436	17 Burns Circuit	13/03/1997	29/04/1997	-	$184,800	894m	Full transfer	-	-	-	-	-	$184,800	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88360	24 Vagabond Crescent	08/10/1997	03/11/1997	-	$170,000	710m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88514	7 Pinkstone Place	23/07/1997	18/08/1997	-	$157,500	1103m	Full transfer	-	-	-	-	-	$157,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88486	2/18 Bennetts Close	01/04/1997	29/04/1997	-	$156,500	5721m	Full transfer	-	-	-	-	-	$156,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	182075	3 Sinnett Place	13/11/1997	09/01/1998	-	$151,000	733m	Full transfer	-	-	-	-	-	$151,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88429	12 Macalpine Close	05/11/1997	04/12/1997	-	$147,000	703m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88517	1 Pinkstone Place	17/01/1997	04/02/1997	-	$147,000	842m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88502	11 Tilley Place	06/06/1997	24/06/1997	12/11/2004	$144,000	934m	Full transfer	4	1	-	2	-	$144,000	-	-	Combined Record	-	-	-	Single residential dwelling	$195,000	1.35
+1997	88353	149 Dumas Street	28/06/1997	13/10/1997	-	$140,000	733m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88592	9 Fred Johns Crescent	18/02/1997	13/03/1997	-	$138,000	452m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	88319	2/4 Cavenagh Place	02/12/1997	11/12/1997	-	$137,000	9187m	Full transfer	-	-	-	-	-	$137,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	88354	149 Dumas Street	13/11/1997	15/12/1997	-	$134,000	733m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88320	2/4 Cavenagh Place	24/06/1997	14/08/1997	-	$133,000	9187m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	88388	117 William Webb Drive	17/02/1997	05/03/1997	-	$129,000	815m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88327	125 Dumas Street	21/02/1997	23/04/1997	-	$125,000	946m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88266	8 Lovekin Place	10/02/1997	10/02/1997	-	$125,000	838m	Partial transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88378	14 Bean Crescent	14/07/1997	25/08/1997	-	$120,000	796m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88602	21 Fred Johns Crescent	18/04/1997	12/05/1997	-	$120,000	465m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	88606	15 Fred Johns Crescent	15/09/1997	15/10/1997	-	$116,000	465m	Full transfer	-	-	-	-	-	$116,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	88303	6 Mudge Place	20/10/1997	10/11/1997	-	$107,500	852m	Partial transfer	-	-	-	-	-	$107,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88321	4 Absolon Place	05/09/1997	30/09/1997	-	$103,500	730m	Full transfer	-	-	-	-	-	$103,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88310	6 Grover Crescent	16/07/1997	18/08/1997	-	$101,000	864m	Full transfer	-	-	-	-	-	$101,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1997	88348	12 Cockerill Place	18/03/1997	27/03/1997	-	$87,000	737m	Full transfer	-	-	-	-	-	$87,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88311	4 Sinnett Place	15/11/1997	24/12/1997	-	$58,650	821m	Partial transfer	-	-	-	-	-	$58,650	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88396	13 Baume Crescent	12/05/1997	12/05/1997	-	$40,000	702m	Partial transfer	-	-	-	-	-	$40,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	3724	            Dumas Street	20/11/1997	20/11/1997	-	-	2146m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	88588	33 Grover Crescent	29/03/1997	28/04/1997	-	-	424m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	88214	60 Hetherington Circuit	14/03/1997	14/03/1997	-	-	1039m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	178021	3 Absolon Place	16/10/1997	05/02/1998	-	-	785m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88384	119 William Webb Drive	03/06/1997	10/07/1997	11/01/2002	-	744m	Partial transfer	3	1	-	1	-	-	-	-	Combined Record	-	-	-	Single residential dwelling	$38,000	-
+1997	180212	42 Burns Circuit	15/07/1997	21/10/1999	-	-	873m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88334	157 William Webb Drive	04/09/1997	04/09/1997	-	-	741m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	88594	5 Simons Close	14/07/1997	14/07/1997	-	-	505m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	178018	1/18 Bennetts Close	08/12/1997	04/02/1998	-	-	5721m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	170984	69 Dumas Street	20/10/1998	17/12/1998	-	$409,000	1482m	Full transfer	-	-	-	-	-	$409,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186674	9 Cockerill Place	19/05/1998	24/06/1998	-	$315,000	759m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170216	18 Bancks Crescent	26/02/1998	28/04/1998	-	$277,000	804m	Full transfer	-	-	-	-	-	$277,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186940	80 Dumas Street	10/08/1998	17/09/1998	-	$270,000	860m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194880	11 Buggy Crescent	02/06/1998	04/08/1998	-	$263,000	695m	Full transfer	-	-	-	-	-	$263,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	198526	2 Buggy Crescent	04/02/1998	13/03/1998	-	$250,000	863m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182253	45A Slessor Crescent	12/02/1998	05/03/1998	-	$235,000	900m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174732	9 Vagabond Crescent	03/09/1998	07/10/1998	-	$232,000	820m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	171249	4 Pinkstone Place	27/10/1998	09/03/1999	-	$232,000	829m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182389	13 Sowden Street	02/04/1998	15/04/1998	-	$224,500	725m	Full transfer	-	-	-	-	-	$224,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182239	6 Garrett Place	16/02/1998	03/03/1998	-	$224,200	921m	Full transfer	-	-	-	-	-	$224,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	190381	58 Dumas Street	22/01/1998	05/03/1998	-	$223,000	859m	Full transfer	-	-	-	-	-	$223,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170558	28 Dumas Street	10/06/1998	23/07/1998	-	$223,000	837m	Full transfer	-	-	-	-	-	$223,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182470	7 Rohan Rivett Crescent	18/03/1998	06/05/1998	-	$200,000	728m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	191284	4 Lovekin Place	25/11/1998	17/12/1998	-	$200,000	993m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170611	4 Bancks Crescent	20/07/1998	11/08/1998	-	$195,000	1085m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	198992	9 Monson Place	01/07/1998	27/07/1998	-	$193,000	721m	Full transfer	-	-	-	-	-	$193,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174984	15 Hetherington Circuit	09/10/1998	16/12/1998	-	$185,500	807m	Full transfer	-	-	-	-	-	$185,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178228	8 Haverfield Place	23/03/1998	15/04/1998	-	$178,000	844m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178536	8 Meacham Place	22/05/1998	08/07/1998	-	$175,000	921m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178378	2/20 Bennetts Close	22/04/1998	26/05/1998	-	$170,000	5828m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	186855	10 Haverfield Place	10/08/1998	18/08/1998	-	$168,000	971m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	179007	3 Absolon Place	23/10/1998	09/12/1998	-	$167,000	785m	Full transfer	-	-	-	-	-	$167,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	187393	24 Burns Circuit	18/12/1998	10/02/1999	-	$162,000	755m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194827	10 Britton Place	29/06/1998	20/07/1998	-	$160,500	584m	Full transfer	-	-	-	-	-	$160,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	178084	1/18 Bennetts Close	22/01/1998	25/02/1998	01/10/2002	$160,000	5721m	Full transfer	3	1	-	2	-	$160,000	-	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+1998	178440	3/47 Slessor Crescent	22/05/1998	17/06/1998	-	$159,500	6211m	Full transfer	-	-	-	-	-	$159,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	182931	9 Macalpine Close	28/07/1998	14/09/1998	-	$158,000	767m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	191360	8 Tilley Place	07/12/1998	13/01/1999	-	$155,000	730m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186743	3 Wallen Place	14/08/1998	08/10/1998	-	$150,000	889m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178006	159 Dumas Street	08/01/1998	02/02/1998	-	$143,500	796m	Full transfer	-	-	-	-	-	$143,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	195258	19 Dumas Street	16/10/1998	30/11/1998	-	$140,000	808m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178794	4 Tilley Place	25/08/1998	29/09/1998	06/09/2005	$139,000	709m	Full transfer	3	1	1	2	2	$139,000	-	-	Combined Record	-	-	-	Single residential dwelling	$185,000	1.33
+1998	170499	4 Sinnett Place	16/06/1998	08/07/1998	-	$132,500	821m	Full transfer	-	-	-	-	-	$132,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182836	49 Vagabond Crescent	23/07/1998	13/08/1998	-	$130,000	710m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	198729	31 Vagabond Crescent	22/04/1998	18/05/1998	-	$130,000	928m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	191110	109 Dumas Street	30/09/1998	28/10/1998	-	$130,000	858m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	199320	9 Denning Place	14/09/1998	18/11/1998	-	$129,000	961m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186519	37 Buggy Crescent	27/03/1998	11/05/1998	-	$128,500	837m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178748	8 Sowden Street	31/07/1998	15/09/1998	-	$126,000	736m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	190375	19 Fred Johns Crescent	04/02/1998	03/03/1998	-	$124,050	495m	Full transfer	-	-	-	-	-	$124,050	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	178930	5 Vincent Place	30/09/1998	10/11/1998	-	$124,000	508m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	174591	5 Fred Johns Crescent	08/05/1998	26/08/1998	-	$115,000	390m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	195375	1 Lockwood Place	07/12/1998	24/12/1998	-	$102,500	810m	Full transfer	-	-	-	-	-	$102,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1998	199080	55 Slessor Crescent	04/07/1998	25/08/1998	-	$99,500	780m	Full transfer	-	-	-	-	-	$99,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	187296	6 Bednall Place	02/12/1998	11/01/1999	-	$95,000	805m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	171038	1 Moses Place	10/12/1998	06/01/1999	10/01/2004	$92,000	455m	Full transfer	3	1	-	1	-	$92,000	-	-	Combined Record	-	-	-	For residential purposes only	$142,000	1.54
+1998	194985	20 Tipping Place	31/08/1998	31/08/1998	-	$75,000	963m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182811	33 Buggy Crescent	07/08/1998	07/08/1998	-	$74,000	982m	Partial transfer	-	-	-	-	-	$74,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194962	25 Rohan Rivett Crescent	25/08/1998	25/08/1998	-	-	791m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178206	94 Dumas Street	07/04/1998	07/04/1998	-	-	708m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182372	7 Buzacott Place	22/02/1998	07/04/1998	-	-	865m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170429	1 Garrett Place	01/06/1998	23/06/1998	-	-	882m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	190770	7 Cockerill Place	24/06/1998	24/06/1998	-	-	763m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194583	13 Slessor Crescent	11/05/1998	13/05/1998	-	-	457m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	195005	97 Dumas Street	08/09/1998	08/09/1998	-	-	863m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	198437	113 Dumas Street	18/02/1998	18/02/1998	-	-	970m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174348	12 Sowden Street	22/06/1998	22/06/1998	-	-	823m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174230	9 Denning Place	08/03/1998	18/05/1998	-	-	961m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	173889	9 Baume Crescent	10/02/1998	10/02/1998	-	-	728m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	199435	5 Melvin Place	18/12/1998	18/12/1998	-	-	856m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	190545	3 Pinkstone Place	21/04/1998	21/04/1998	-	-	734m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	200437	3/20 Bennetts Close	21/12/1998	10/09/1999	-	-	5828m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	175512	2 Pinkstone Place	29/12/1998	13/05/1999	-	-	874m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	172073	87 Dumas Street	28/06/1999	18/10/1999	-	$398,000	962m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	175987	68 Dumas Street	26/08/1999	15/09/1999	-	$351,200	768m	Full transfer	-	-	-	-	-	$351,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	191587	72 Dumas Street	05/02/1999	17/03/1999	-	$350,000	821m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196519	5 Vagabond Crescent	31/08/1999	20/10/1999	28/05/2003	$285,000	759m	Full transfer	4	2	1	2	1	$285,000	-	-	Combined Record	-	-	-	Single residential dwelling	$137,000	0.48
+1999	188222	78 Dumas Street	03/08/1999	16/09/1999	-	$280,000	797m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195694	6 Cockerill Place	09/03/1999	23/03/1999	-	$268,250	706m	Full transfer	-	-	-	-	-	$268,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	192518	30 Dumas Street	27/10/1999	29/11/1999	-	$262,500	944m	Full transfer	-	-	-	-	-	$262,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	184226	12 Vagabond Crescent	10/08/1999	23/09/1999	-	$255,000	759m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179331	1 Mudge Place	27/01/1999	03/03/1999	-	$239,000	951m	Full transfer	-	-	-	-	-	$239,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	183688	2 Lovekin Place	25/02/1999	29/04/1999	-	$237,500	1033m	Full transfer	-	-	-	-	-	$237,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195667	16 Buggy Crescent	09/02/1999	17/03/1999	-	$235,000	834m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	199781	50 Rohan Rivett Crescent	22/02/1999	31/03/1999	-	$235,000	1111m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	200140	87 William Webb Drive	21/05/1999	30/06/1999	-	$225,000	859m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	176190	42 Burns Circuit	07/10/1999	04/11/1999	-	$221,000	873m	Full transfer	-	-	-	-	-	$221,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196691	8/18 Bennetts Close	01/11/1999	02/12/1999	-	$220,000	5721m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	179324	4 Burns Circuit	28/01/1999	03/03/1999	-	$218,500	840m	Full transfer	-	-	-	-	-	$218,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	200509	3 Tilley Place	16/09/1999	28/09/1999	-	$207,000	732m	Full transfer	-	-	-	-	-	$207,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196283	6 Wallen Place	30/07/1999	31/08/1999	-	$205,500	1018m	Full transfer	-	-	-	-	-	$205,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	171388	29 Baume Crescent	12/03/1999	22/04/1999	-	$182,000	764m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	188439	34 Hetherington Circuit	01/10/1999	04/11/1999	-	$175,000	771m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	188481	51 William Webb Drive	21/09/1999	10/11/1999	-	$174,000	1052m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	171833	14 Burns Circuit	07/07/1999	25/08/1999	-	$170,000	715m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179594	27 Grover Crescent	10/05/1999	20/05/1999	-	$165,000	539m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	180000	43 Vagabond Crescent	17/08/1999	07/09/1999	22/06/2004	$163,500	767m	Full transfer	3	1	1	-	1	$163,500	-	-	Combined Record	-	-	-	Single residential dwelling	$178,000	1.09
+1999	175178	50 Hetherington Circuit	15/01/1999	02/02/1999	25/01/2002	$160,000	775m	Full transfer	4	1	1	2	-	$160,000	-	-	Combined Record	-	-	-	Single residential dwelling	$85,000	0.53
+1999	187402	157 William Webb Drive	05/02/1999	15/02/1999	-	$156,000	741m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196485	14 Cockerill Place	14/09/1999	15/10/1999	-	$155,000	824m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	180691	21 Slessor Crescent	28/10/1999	09/02/2000	31/05/2005	$142,000	477m	Full transfer	3	1	1	1	1	$142,000	-	-	Combined Record	-	-	-	Medium density dwelling	$135,000	0.95
+1999	175728	2 Tilley Place	07/06/1999	02/07/1999	-	$139,000	856m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	183686	29 Slessor Crescent	12/04/1999	28/04/1999	-	$138,000	443m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	179445	33 Grover Crescent	24/03/1999	06/04/1999	-	$136,000	424m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	183868	7 Meacham Place	28/05/1999	23/06/1999	-	$135,500	906m	Full transfer	-	-	-	-	-	$135,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	171186	11 Sowden Street	06/01/1999	19/02/1999	-	$133,000	725m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	176519	24 Dumas Street	15/12/1999	19/01/2000	-	$125,500	756m	Full transfer	-	-	-	-	-	$125,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179647	32 Bean Crescent	25/05/1999	03/06/1999	04/05/2005	$125,000	713m	Full transfer	3	1	-	2	2	$125,000	-	-	Combined Record	-	-	-	Single residential dwelling	$195,000	1.56
+1999	195531	11 Slessor Crescent	20/01/1999	09/02/1999	-	$122,000	459m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	200599	2 Sinnett Place	23/06/1999	18/10/1999	-	$118,500	899m	Full transfer	-	-	-	-	-	$118,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	176199	4 Absolon Place	29/10/1999	16/11/1999	-	$115,000	730m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	191836	12 Baume Crescent	24/03/1999	26/05/1999	-	$114,100	705m	Full transfer	-	-	-	-	-	$114,100	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1999	187572	26 Baume Crescent	26/02/1999	30/03/1999	-	$113,000	767m	Full transfer	-	-	-	-	-	$113,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1999	192064	10 Baume Crescent	13/07/1999	02/08/1999	-	$105,000	701m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1999	13610	             McKellar Gardens Cavenaugh Street	11/05/1999	-	07/06/2001	$97,500	-	Full transfer	2	1	-	-	-	$97,500	-	-	Allhomes Record	-	-	-	-	-	-
+1999	152448	165 William Webb Drive	15/04/1999	16/01/2001	-	$69,000	864m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195804	9/20 Bennetts Close	19/04/1999	21/04/1999	-	$64,000	5828m	Partial transfer	-	-	-	-	-	$64,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	192684	33 Grover Crescent	06/11/1999	24/12/1999	-	-	424m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	196295	8 Macalpine Close	01/09/1999	01/09/1999	-	-	728m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195521	79 Dumas Street	03/02/1999	03/02/1999	-	-	839m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	199957	79 William Webb Drive	07/04/1999	17/05/1999	-	-	719m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195983	14 Rohan Rivett Crescent	11/06/1999	11/06/1999	-	-	929m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	180208	69 Slessor Crescent	21/10/1999	21/10/1999	-	-	1016m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179956	26 Vagabond Crescent	25/08/1999	25/08/1999	-	-	896m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	152404	44 Slessor Crescent	28/11/1999	23/01/2001	-	-	813m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	199716	11 Fred Johns Crescent	10/03/1999	10/03/1999	-	-	487m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	9017	             Mc Kellar Gardens Cavenagh Street	19/11/1999	-	01/11/2000	-	-	Full transfer	-	2	-	-	-	-	-	-	Allhomes Record	-	-	-	-	-	-
+1999	187460	19 Slessor Crescent	02/03/1999	02/03/1999	-	-	502m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	187566	17 Bancks Crescent	26/03/1999	26/03/1999	-	-	774m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	172800	12 Bennetts Close	15/03/2000	24/04/2000	-	$552,000	1240m	Full transfer	-	-	-	-	-	$552,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	177176	153 William Webb Drive	30/05/2000	23/06/2000	-	$353,264	793m	Full transfer	-	-	-	-	-	$353,264	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	190100	13 Cockerill Place	10/10/2000	04/12/2000	-	$320,000	849m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197549	31 Bean Crescent	05/05/2000	08/06/2000	-	$308,000	721m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	181306	6 Laurie Place	16/06/2000	30/06/2000	-	$305,000	869m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152411	2 Barsdell Place	03/08/2000	16/01/2001	-	$300,000	1057m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152446	13 Buggy Crescent	17/11/2000	06/03/2001	-	$298,000	788m	Full transfer	-	-	-	-	-	$298,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193365	11 Buggy Crescent	28/04/2000	30/05/2000	-	$290,000	695m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152527	71 Dumas Street	24/11/2000	13/03/2001	-	$287,000	908m	Full transfer	-	-	-	-	-	$287,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	189265	156 Dumas Street	13/04/2000	12/05/2000	-	$280,000	707m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	201370	61 Dumas Street	07/02/2000	25/04/2000	-	$280,000	914m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	198251	6 Buzacott Place	21/10/2000	18/12/2000	21/09/2000	$277,500	787m	Full transfer	4	-	-	-	-	$277,500	30	-	Combined Record	-	-	-	Single residential dwelling	$71,000	0.26
+2000	152529	79 Dumas Street	02/11/2000	19/02/2001	-	$277,000	839m	Full transfer	-	-	-	-	-	$277,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193755	4 Monson Place	12/07/2000	05/09/2000	-	$270,000	880m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	186061	11 Baume Crescent	16/11/2000	14/12/2000	-	$269,000	703m	Full transfer	-	-	-	-	-	$269,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	173442	16 Baume Crescent	25/08/2000	27/09/2000	-	$265,000	715m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2000	184992	175 William Webb Drive	17/02/2000	27/03/2000	-	$262,500	801m	Full transfer	-	-	-	-	-	$262,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	201129	29 Bean Crescent	10/01/2000	24/02/2000	-	$262,000	747m	Full transfer	-	-	-	-	-	$262,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	177861	4 Lovekin Place	25/10/2000	12/12/2000	-	$255,000	993m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152426	66 Dumas Street	18/11/2000	30/01/2001	-	$250,000	843m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	181510	10 Sowden Street	10/07/2000	16/08/2000	-	$245,000	900m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152468	33 Vagabond Crescent	22/12/2000	07/02/2001	-	$244,000	1055m	Full transfer	-	-	-	-	-	$244,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	190032	131 Dumas Street	02/10/2000	14/11/2000	-	$240,000	789m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193416	6 Monson Place	18/04/2000	08/06/2000	-	$240,000	889m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	22570	             McKellar	31/08/2000	-	11/08/2000	$235,950	-	Full transfer	4	-	-	-	-	$235,950	20	-	Allhomes Record	-	-	-	-	-	-
+2000	181688	4 Slessor Crescent	31/08/2000	03/10/2000	09/09/2000	$232,000	861m	Full transfer	-	-	-	-	-	$232,000	-	-	Combined Record	-	-	-	Single residential dwelling	$75,000	0.32
+2000	185373	31 Hetherington Circuit	05/04/2000	29/06/2000	-	$225,000	748m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152550	69 Slessor Crescent	16/11/2000	04/01/2001	-	$215,000	1016m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197844	43 Burns Circuit	27/07/2000	28/08/2000	-	$210,000	744m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	185063	7 Vagabond Crescent	21/02/2000	12/04/2000	-	$196,000	748m	Full transfer	-	-	-	-	-	$196,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197980	20 Sowden Street	24/07/2000	05/10/2000	-	$193,000	941m	Full transfer	-	-	-	-	-	$193,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	173574	3/47 Slessor Crescent	15/09/2000	01/11/2000	-	$185,500	6211m	Full transfer	-	-	-	-	-	$185,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	173285	11/47 Slessor Crescent	13/07/2000	14/08/2000	-	$182,000	6211m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	173509	5 Meacham Place	25/08/2000	10/10/2000	-	$180,000	737m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	172717	24 Burns Circuit	11/02/2000	30/03/2000	-	$179,950	755m	Full transfer	-	-	-	-	-	$179,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	181077	7 Bancks Crescent	12/04/2000	04/05/2000	-	$178,000	843m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	185050	161 Dumas Street	13/03/2000	10/04/2000	-	$172,500	748m	Full transfer	-	-	-	-	-	$172,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	173652	2 Sinnett Place	19/10/2000	23/11/2000	-	$170,000	899m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193840	2/10 Bennetts Close	06/06/2000	27/09/2000	-	$169,950	1173m	Full transfer	-	-	-	-	-	$169,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	193975	4/10 Bennetts Close	01/08/2000	30/10/2000	28/04/2005	$169,950	1173m	Full transfer	3	1	1	1	-	$169,950	-	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2000	181972	3/10 Bennetts Close	15/11/2000	11/12/2000	-	$169,950	1173m	Full transfer	-	-	-	-	-	$169,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	201543	7/20 Bennetts Close	04/05/2000	30/05/2000	-	$167,500	5828m	Full transfer	-	-	-	-	-	$167,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	173037	101 William Webb Drive	17/05/2000	20/06/2000	-	$166,000	777m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	177867	1/10 Bennetts Close	09/11/2000	13/12/2000	-	$164,950	1173m	Full transfer	-	-	-	-	-	$164,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	201181	8 Barsdell Place	16/02/2000	08/03/2000	-	$160,000	918m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	186079	40 Vagabond Crescent	23/11/2000	18/12/2000	-	$159,000	804m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2000	185952	7 Fred Johns Crescent	05/10/2000	17/11/2000	-	$159,000	456m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	201102	6 Britton Place	02/02/2000	21/02/2000	-	$156,000	518m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	197877	16 Grover Crescent	08/08/2000	11/09/2000	-	$155,000	795m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	189132	41 Vagabond Crescent	03/03/2000	10/04/2000	-	$154,000	869m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	190016	4 Fred Johns Crescent	12/10/2000	13/11/2000	-	$151,000	450m	Full transfer	-	-	-	-	-	$151,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	177105	10/4 Cavenagh Place	19/05/2000	05/06/2000	-	$148,000	9187m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	198256	19 Slessor Crescent	06/11/2000	19/12/2000	-	$146,500	502m	Full transfer	-	-	-	-	-	$146,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	194012	17/4 Cavenagh Place	29/08/2000	09/11/2000	-	$146,000	9187m	Full transfer	-	-	-	-	-	$146,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	176949	7 Slessor Crescent	19/04/2000	03/05/2000	-	$143,000	639m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	185372	33 Grover Crescent	29/06/2000	29/06/2000	-	$142,500	424m	Full transfer	-	-	-	-	-	$142,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	173287	10 Tilley Place	10/07/2000	14/08/2000	-	$142,500	769m	Full transfer	-	-	-	-	-	$142,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	177063	11/4 Cavenagh Place	28/04/2000	26/05/2000	-	$140,000	9187m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	198005	8/4 Cavenagh Place	30/08/2000	12/10/2000	-	$139,500	9187m	Full transfer	-	-	-	-	-	$139,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	201381	2 Hetherington Circuit	10/03/2000	26/04/2000	-	$131,000	900m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	189624	23 Fred Johns Crescent	30/06/2000	02/08/2000	-	$129,000	468m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	172518	1 Simons Close	21/01/2000	04/02/2000	-	$128,950	501m	Full transfer	-	-	-	-	-	$128,950	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	185852	27 Fred Johns Crescent	14/08/2000	23/10/2000	-	$124,950	465m	Full transfer	-	-	-	-	-	$124,950	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	186055	5 Bednall Place	09/11/2000	14/12/2000	-	$122,000	862m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2000	180763	35 Fred Johns Crescent	07/02/2000	25/02/2000	-	$114,000	635m	Full transfer	-	-	-	-	-	$114,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2000	152396	38 Hetherington Circuit	16/12/2000	28/05/2002	-	-	740m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152469	139 William Webb Drive	15/11/2000	05/03/2001	-	-	1038m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	180879	38 Hetherington Circuit	17/02/2000	22/03/2000	-	-	740m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	189459	1 Laurie Place	27/06/2000	27/06/2000	-	-	883m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152514	1/20 Bennetts Close	20/12/2000	15/03/2001	-	-	5828m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	181994	10 Macalpine Close	13/12/2000	13/12/2000	-	-	714m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	152493	3/4 Cavenagh Place	07/07/2000	22/03/2001	-	-	9187m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	221665	21 Bancks Crescent	21/01/2000	18/01/2005	-	-	950m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	181677	24 Bean Crescent	28/09/2000	28/09/2000	-	-	779m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	202206	3 Baume Crescent	23/11/2000	23/11/2000	-	-	746m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152444	9 Cockerill Place	23/11/2001	31/01/2002	24/10/2001	$385,000	759m	Full transfer	4	1	1	2	-	$385,000	30	-	Combined Record	-	-	-	Single residential dwelling	$83,000	0.22
+2001	152508	43 Slessor Crescent	02/11/2001	22/01/2002	-	$378,000	805m	Full transfer	-	-	-	-	-	$378,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152522	2 Monson Place	30/05/2001	01/11/2001	10/05/2001	$360,000	907m	Full transfer	5	2	1	2	-	$360,000	20	-	Combined Record	-	-	-	Single residential dwelling	$74,000	0.21
+2001	152501	5 Macalpine Close	28/11/2001	22/01/2002	-	$359,950	922m	Full transfer	-	-	-	-	-	$359,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152507	43 Slessor Crescent	24/01/2001	19/03/2001	-	$352,000	805m	Full transfer	-	-	-	-	-	$352,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152462	26 Vagabond Crescent	29/06/2001	03/07/2001	-	$337,000	896m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152523	3 Monson Place	20/11/2001	02/01/2002	30/10/2001	$335,000	828m	Full transfer	4	1	1	-	-	$335,000	21	-	Combined Record	-	-	-	Single residential dwelling	$74,000	0.22
+2001	152465	21 Vagabond Crescent	06/12/2001	13/05/2002	-	$325,000	970m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152487	6 Garrett Place	03/11/2001	19/12/2001	12/10/2001	$325,000	921m	Full transfer	3	1	1	-	-	$325,000	22	-	Combined Record	-	-	-	Single residential dwelling	$74,000	0.23
+2001	152528	71 Dumas Street	27/09/2001	30/11/2001	-	$325,000	908m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152486	3 Sowden Street	23/03/2001	07/05/2001	-	$310,000	872m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152407	8 Laurie Place	06/08/2001	21/09/2001	-	$305,000	796m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152477	109 William Webb Drive	09/10/2001	16/07/2002	18/08/2001	$305,000	934m	Full transfer	4	1	1	2	-	$305,000	52	-	Combined Record	-	-	-	Single residential dwelling	$56,000	0.18
+2001	152430	25 Burns Circuit	08/02/2001	27/03/2001	-	$300,000	721m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152531	7 Buggy Crescent	18/05/2001	02/08/2001	-	$300,000	738m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152447	175 William Webb Drive	09/03/2001	23/03/2001	-	$300,000	801m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152505	1 Mudge Place	21/12/2001	25/01/2002	29/11/2001	$300,000	951m	Full transfer	4	2	1	-	-	$300,000	22	-	Combined Record	-	-	-	Single residential dwelling	$74,000	0.25
+2001	152536	5 Melvin Place	13/11/2001	24/01/2002	05/10/2001	$299,000	856m	Full transfer	4	2	1	2	-	$299,000	39	-	Combined Record	-	-	-	Single residential dwelling	$72,000	0.24
+2001	152467	33 Vagabond Crescent	21/12/2001	06/02/2002	24/11/2001	$287,475	1055m	Full transfer	4	1	1	-	-	$287,475	27	-	Combined Record	-	-	-	Single residential dwelling	$78,000	0.27
+2001	152484	4 Baume Crescent	06/09/2001	11/10/2001	-	$287,000	703m	Full transfer	-	-	-	-	-	$287,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152495	24 Rohan Rivett Crescent	30/04/2001	06/06/2001	-	$282,000	850m	Full transfer	-	-	-	-	-	$282,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152397	40 Hetherington Circuit	17/12/2001	25/02/2002	-	$275,000	719m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152480	3 Baume Crescent	21/06/2001	17/07/2001	-	$269,950	746m	Full transfer	-	-	-	-	-	$269,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152488	31 Baume Crescent	25/01/2001	07/03/2001	-	$265,000	739m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152497	14 Sowden Street	12/04/2001	15/05/2001	20/12/2000	$256,000	739m	Full transfer	4	1	2	2	-	$256,000	113	-	Combined Record	-	-	-	Single residential dwelling	$74,000	0.29
+2001	152420	24 Burns Circuit	13/11/2001	24/12/2001	-	$250,000	755m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152440	121 Dumas Street	10/12/2001	08/01/2002	-	$246,000	1187m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152409	24 Slessor Crescent	15/05/2001	25/07/2001	18/04/2001	$239,000	830m	Full transfer	3	1	1	-	2	$239,000	27	-	Combined Record	-	-	-	Single residential dwelling	$78,000	0.33
+2001	152498	12 Sowden Street	17/08/2001	21/09/2001	-	$235,000	823m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152386	7 Schuler Place	12/07/2001	12/12/2001	-	$234,000	864m	Full transfer	-	-	-	-	-	$234,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152479	7 Baume Crescent	17/10/2001	02/11/2001	-	$231,000	708m	Full transfer	-	-	-	-	-	$231,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152418	16 Burns Circuit	20/02/2001	15/03/2001	-	$228,550	725m	Full transfer	-	-	-	-	-	$228,550	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152399	1 Hetherington Circuit	10/07/2001	23/08/2001	-	$227,000	828m	Full transfer	-	-	-	-	-	$227,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152516	6/20 Bennetts Close	18/05/2001	21/06/2001	-	$225,000	5828m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	152394	34 Hetherington Circuit	02/05/2001	06/06/2001	31/03/2001	$202,000	771m	Full transfer	3	1	-	1	-	$202,000	32	-	Combined Record	-	-	-	Single residential dwelling	$68,000	0.34
+2001	152519	2 Tilley Place	21/12/2001	06/02/2002	-	$200,000	856m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152542	9 Fred Johns Crescent	30/11/2001	28/12/2001	05/09/2001	$195,000	452m	Full transfer	3	1	1	-	-	$195,000	86	-	Combined Record	-	-	-	Medium density dwelling	$54,000	0.28
+2001	152533	6 Slessor Crescent	12/04/2001	06/06/2001	24/08/2004	$195,000	827m	Full transfer	3	1	1	2	-	$195,000	-	-	Combined Record	-	-	-	Single residential dwelling	$205,000	1.05
+2001	152388	3 Schuler Place	07/12/2001	18/01/2002	-	$194,000	855m	Full transfer	-	-	-	-	-	$194,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152436	4 Absolon Place	11/12/2001	16/01/2002	09/03/2001	$192,500	730m	Full transfer	3	1	-	1	-	$192,500	277	-	Combined Record	-	-	-	Single residential dwelling	$64,000	0.33
+2001	152545	25 Slessor Crescent	12/07/2001	15/08/2001	-	$192,000	532m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	152541	13 Tipping Place	17/07/2001	25/09/2001	-	$190,000	722m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152460	2 Vagabond Crescent	12/04/2001	05/06/2001	-	$188,000	825m	Full transfer	-	-	-	-	-	$188,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152429	92 Dumas Street	14/11/2001	19/12/2001	-	$187,350	713m	Full transfer	-	-	-	-	-	$187,350	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152435	2 Absolon Place	17/08/2001	13/11/2001	-	$185,000	805m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152471	8 Schuler Place	23/03/2001	08/05/2001	-	$181,000	718m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152431	96 Dumas Street	13/06/2001	11/07/2001	-	$177,000	801m	Full transfer	-	-	-	-	-	$177,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152437	4 Absolon Place	26/07/2001	18/10/2001	-	$175,000	730m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152547	4 Simons Close	10/08/2001	11/09/2001	-	$170,000	381m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	152400	55 Slessor Crescent	12/04/2001	23/05/2001	-	$149,500	780m	Full transfer	-	-	-	-	-	$149,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	152492	3/4 Cavenagh Place	21/03/2001	14/05/2001	-	$147,000	9187m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	152546	17 Fred Johns Crescent	11/03/2001	31/05/2001	-	$139,000	495m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	152466	7 Haverfield Place	15/01/2001	15/01/2001	-	-	708m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152428	14 Tipping Place	27/07/2002	06/01/2003	21/07/2002	$500,000	902m	Full transfer	5	2	1	2	-	$500,000	6	-	Combined Record	-	-	-	Single residential dwelling	$143,000	0.29
+2002	152422	15 Bean Crescent	19/09/2002	09/01/2003	12/06/2002	$455,000	821m	Full transfer	4	1	1	2	-	$455,000	99	-	Combined Record	-	-	-	Single residential dwelling	$116,000	0.25
+2002	152427	4 Tipping Place	20/02/2002	05/09/2002	-	$405,000	795m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152451	25 Buggy Crescent	01/10/2002	11/11/2002	-	$385,000	828m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152453	3 Vagabond Crescent	25/06/2002	06/08/2002	-	$365,000	758m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152475	55 Vagabond Crescent	05/09/2002	11/12/2002	-	$354,000	809m	Full transfer	-	-	-	-	-	$354,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152442	35 Buggy Crescent	27/09/2002	17/12/2002	-	$330,000	707m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152518	7/18 Bennetts Close	29/11/2002	30/12/2002	-	$327,000	5721m	Full transfer	-	-	-	-	-	$327,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	152402	42 Slessor Crescent	05/04/2002	23/05/2002	-	$325,000	815m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152425	64 Dumas Street	30/05/2002	04/07/2002	-	$320,000	850m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152390	32 Rohan Rivett Crescent	26/08/2002	11/11/2002	-	$320,000	834m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152525	3 Pinkstone Place	15/05/2002	28/06/2002	-	$310,000	734m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152470	20 Haverfield Place	31/10/2002	10/01/2003	-	$300,000	966m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152483	87 William Webb Drive	21/02/2002	14/03/2002	-	$295,000	859m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152517	1/18 Bennetts Close	04/11/2002	27/11/2002	-	$290,000	5721m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	152413	43 Burns Circuit	01/11/2002	06/01/2003	-	$282,500	744m	Full transfer	-	-	-	-	-	$282,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152417	29 Dumas Street	23/09/2002	21/10/2002	30/08/2002	$276,000	778m	Full transfer	3	1	1	2	-	$276,000	24	-	Combined Record	-	-	-	Single residential dwelling	$90,000	0.33
+2002	152535	50 Hetherington Circuit	08/03/2002	18/04/2002	-	$274,500	775m	Full transfer	-	-	-	-	-	$274,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152412	53 Burns Circuit	09/09/2002	03/10/2002	07/08/2002	$265,000	931m	Full transfer	3	1	1	2	-	$265,000	33	-	Combined Record	-	-	-	Single residential dwelling	$90,000	0.34
+2002	152504	65 William Webb Drive	27/02/2002	16/05/2002	-	$264,000	802m	Full transfer	-	-	-	-	-	$264,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152539	27 Grover Crescent	24/05/2002	26/06/2002	-	$260,000	539m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	152503	12 Macalpine Close	12/09/2002	24/10/2002	-	$258,000	703m	Full transfer	-	-	-	-	-	$258,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	305753	15 Sowden Street	26/02/2002	20/06/2002	-	$257,000	863m	Full transfer	-	-	-	-	-	$257,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152434	2 Absolon Place	23/04/2002	12/06/2002	-	$252,000	805m	Full transfer	-	-	-	-	-	$252,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152521	1 Tilley Place	28/03/2002	12/06/2002	-	$246,000	878m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152520	14 Tilley Place	15/07/2002	10/09/2002	-	$244,500	844m	Full transfer	-	-	-	-	-	$244,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152478	9 Baume Crescent	06/02/2002	04/03/2002	-	$240,000	728m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152464	13 Haverfield Place	05/04/2002	14/08/2002	-	$230,000	889m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152526	5 Rohan Rivett Crescent	29/01/2002	08/04/2002	-	$229,000	867m	Full transfer	-	-	-	-	-	$229,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152406	31 Burns Circuit	24/01/2002	24/01/2002	-	$220,000	1102m	Partial transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152499	11 Sowden Street	25/06/2002	13/08/2002	-	$219,950	725m	Full transfer	-	-	-	-	-	$219,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152540	33 Grover Crescent	20/09/2002	05/11/2002	-	$215,000	424m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	152544	27 Slessor Crescent	21/06/2002	10/09/2002	-	$213,500	476m	Full transfer	-	-	-	-	-	$213,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	152476	117 William Webb Drive	19/02/2002	30/04/2002	-	$210,000	815m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152515	3/20 Bennetts Close	12/03/2002	22/04/2002	-	$210,000	5828m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	152490	13/4 Cavenagh Place	25/09/2002	06/12/2002	11/09/2002	$205,000	9187m	Full transfer	3	1	-	1	-	$205,000	14	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2002	152543	1 Simons Close	26/02/2002	08/04/2002	-	$192,750	501m	Full transfer	-	-	-	-	-	$192,750	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	152472	119 William Webb Drive	19/02/2002	11/03/2002	-	$180,000	744m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152455	7 Bednall Place	08/08/2002	03/10/2002	-	$175,100	890m	Full transfer	-	-	-	-	-	$175,100	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2002	152410	30 Dumas Street	17/12/2002	20/12/2002	-	$145,000	944m	Partial transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152454	6 Bednall Place	22/02/2002	01/03/2002	-	$50,000	805m	Partial transfer	-	-	-	-	-	$50,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152443	101 Dumas Street	11/01/2002	21/01/2002	-	-	920m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152502	4 Macalpine Close	24/10/2002	12/11/2002	-	-	1042m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152441	123 Dumas Street	18/04/2002	28/05/2002	-	-	788m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	18782	             Absolon Place	23/04/2002	-	27/02/2002	-	-	Full transfer	4	1	-	-	1	-	55	-	Allhomes Record	-	-	-	-	-	-
+2002	152423	15 Bean Crescent	13/04/2002	31/05/2002	-	-	821m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152392	12 Bancks Crescent	05/09/2002	01/10/2002	-	-	827m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	152524	31 Rohan Rivett Crescent	15/10/2002	06/12/2002	-	-	795m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152389	29 Jeanne Young Circuit	11/06/2003	11/06/2003	-	$15,800,000	796m	Full transfer	-	-	-	-	-	$15,800,000	-	-	Government Record	-	-	-	*servicing of existing subd...	-	-
+2003	221742	43A Slessor Crescent	01/09/2003	19/07/2004	-	$659,000	819m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221689	47 Dumas Street	03/12/2003	19/01/2004	-	$605,000	983m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152506	43 Slessor Crescent	06/05/2003	04/08/2003	-	$582,000	805m	Full transfer	-	-	-	-	-	$582,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152408	12 Laurie Place	05/03/2003	21/05/2003	11/12/2002	$550,000	1148m	Full transfer	4	1	1	2	2	$550,000	84	-	Combined Record	-	-	-	Single residential dwelling	$130,000	0.24
+2003	221675	10 Laurie Place	03/12/2003	12/01/2004	03/10/2003	$543,000	860m	Full transfer	4	2	1	2	-	$543,000	61	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.38
+2003	221680	59 Burns Circuit	18/12/2003	02/02/2004	-	$490,000	1341m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152452	5 Vagabond Crescent	25/06/2003	25/08/2003	-	$475,000	759m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221706	135 Dumas Street	22/12/2003	10/02/2004	-	$460,000	706m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221749	7 Tilley Place	31/10/2003	07/01/2004	-	$445,000	911m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152415	37 Dumas Street	05/05/2003	26/06/2003	-	$430,000	894m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152537	7 Burns Circuit	19/05/2003	04/08/2003	-	$430,000	994m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152401	46 Slessor Crescent	08/05/2003	08/10/2003	-	$429,000	945m	Full transfer	-	-	-	-	-	$429,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221702	14 Buggy Crescent	01/09/2003	29/11/2004	-	$425,000	802m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152393	12 Bancks Crescent	21/02/2003	28/03/2003	-	$420,000	827m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152461	22 Vagabond Crescent	21/05/2003	09/07/2003	-	$420,000	713m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152398	11 Hetherington Circuit	12/11/2003	15/12/2003	-	$419,500	963m	Full transfer	-	-	-	-	-	$419,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152551	69 Slessor Crescent	16/07/2003	13/08/2003	-	$411,000	1016m	Full transfer	-	-	-	-	-	$411,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152424	8 Lovekin Place	03/02/2003	10/03/2003	-	$410,500	838m	Full transfer	-	-	-	-	-	$410,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152530	81 Dumas Street	06/02/2003	06/03/2003	-	$408,500	1197m	Full transfer	-	-	-	-	-	$408,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152474	63 Vagabond Crescent	23/05/2003	25/08/2003	-	$402,000	939m	Full transfer	-	-	-	-	-	$402,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152532	7 Buggy Crescent	13/02/2003	08/04/2003	17/01/2003	$399,950	738m	Full transfer	4	1	1	3	-	$399,950	27	-	Combined Record	-	-	-	Single residential dwelling	$153,000	0.38
+2003	152433	102 Dumas Street	14/07/2003	04/09/2003	-	$395,000	725m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221694	1 Absolon Place	20/11/2003	12/01/2004	-	$392,500	914m	Full transfer	-	-	-	-	-	$392,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152419	18 Burns Circuit	10/04/2003	05/05/2003	-	$392,500	735m	Full transfer	-	-	-	-	-	$392,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152489	4 Sowden Street	24/01/2003	26/03/2003	-	$385,000	870m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152405	42 Bean Crescent	07/01/2003	10/02/2003	-	$372,000	787m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152421	1 Bean Crescent	13/01/2003	07/03/2003	05/09/2002	$370,000	1003m	Full transfer	5	1	2	2	-	$370,000	130	-	Combined Record	-	-	-	Single residential dwelling	$162,000	0.44
+2003	152438	6 Absolon Place	20/06/2003	26/08/2003	-	$370,000	827m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	30972	50 Hetherington Circuit	27/03/2003	-	05/03/2003	$370,000	775m	Full transfer	4	1	1	2	-	$370,000	22	-	Allhomes Record	-	-	-	-	$119,000	0.32
+2003	152534	50 Hetherington Circuit	25/03/2003	12/05/2003	-	$369,950	775m	Full transfer	-	-	-	-	-	$369,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152513	1/20 Bennetts Close	23/10/2003	15/12/2003	-	$356,500	5828m	Full transfer	-	-	-	-	-	$356,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	221816	5 Kitty McEwan Circuit	15/07/2003	12/01/2005	-	$355,000	781m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221794	22 Jeanne Young Circuit	15/07/2003	12/01/2005	-	$350,000	674m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152395	34 Hetherington Circuit	03/06/2003	08/07/2003	-	$342,650	771m	Full transfer	-	-	-	-	-	$342,650	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152549	3 Burns Circuit	02/01/2003	11/02/2003	-	$342,000	886m	Full transfer	-	-	-	-	-	$342,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221806	25 William Webb Drive	15/07/2003	13/10/2004	-	$340,000	773m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152512	7/47 Slessor Crescent	17/04/2003	22/06/2003	-	$336,000	6211m	Full transfer	-	-	-	-	-	$336,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	152510	5/47 Slessor Crescent	17/04/2003	26/06/2003	-	$335,000	6211m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	152456	7 Bednall Place	05/09/2003	07/11/2003	-	$330,000	890m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2003	152482	93 William Webb Drive	01/08/2003	09/09/2003	-	$327,500	765m	Full transfer	-	-	-	-	-	$327,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152494	9/4 Cavenagh Place	24/09/2003	12/11/2003	-	$321,500	9187m	Partial transfer	-	-	-	-	-	$321,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	152481	99 William Webb Drive	07/11/2003	01/12/2003	24/09/2003	$317,000	733m	Full transfer	3	1	-	2	-	$317,000	44	-	Combined Record	-	-	-	Single residential dwelling	$110,000	0.35
+2003	152403	44 Slessor Crescent	30/06/2003	04/08/2003	-	$315,000	813m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152473	119 William Webb Drive	23/06/2003	12/08/2003	-	$299,000	744m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152485	10 Baume Crescent	28/05/2003	18/08/2003	-	$284,950	701m	Full transfer	-	-	-	-	-	$284,950	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2003	152432	100 Dumas Street	24/01/2003	11/02/2003	09/01/2003	$281,000	726m	Full transfer	4	1	1	-	-	$281,000	15	-	Combined Record	-	-	-	Single residential dwelling	$137,000	0.49
+2003	152538	3 Lamond Place	30/10/2003	01/12/2003	-	$265,500	863m	Full transfer	-	-	-	-	-	$265,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2003	221848	24 Kitty McEwan Circuit	11/07/2003	23/12/2004	-	$265,000	693m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221849	26 Kitty McEwan Circuit	15/07/2003	16/11/2004	-	$260,000	718m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221850	28 Kitty McEwan Circuit	11/07/2003	25/11/2004	-	$255,000	615m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152414	37 Burns Circuit	05/09/2003	10/10/2003	-	$251,300	800m	Full transfer	-	-	-	-	-	$251,300	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2003	152439	33 Buggy Crescent	20/08/2003	15/10/2003	-	$250,000	982m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152548	4 Simons Close	10/04/2003	28/05/2003	-	$246,000	381m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2003	221852	30 Kitty McEwan Circuit	04/07/2003	15/10/2004	-	$245,000	609m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221836	22 Kitty McEwan Circuit	10/07/2003	26/05/2005	-	$245,000	587m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221844	7 Cronin Street	11/07/2003	24/02/2005	-	$245,000	583m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221729	3/4 Cavenagh Place	31/03/2003	07/04/2004	-	$232,000	9187m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	152416	35 Dumas Street	27/06/2003	13/08/2003	-	$230,000	793m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152463	4 Marien Place	09/07/2003	25/08/2003	-	$218,600	851m	Full transfer	-	-	-	-	-	$218,600	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2003	152457	1 Bednall Place	21/03/2003	09/05/2003	-	$197,400	1029m	Full transfer	-	-	-	-	-	$197,400	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2003	221730	6/4 Cavenagh Place	19/11/2003	06/05/2004	-	$155,000	9187m	Partial transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	152459	149 Dumas Street	20/02/2003	07/04/2003	-	$120,000	733m	Partial transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152391	6 Bancks Crescent	18/06/2003	18/06/2003	-	-	859m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152496	22 Rohan Rivett Crescent	27/03/2003	27/03/2003	-	-	758m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152449	163 William Webb Drive	07/03/2003	07/03/2003	-	-	794m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	221688	8 Lovekin Place	18/12/2003	29/01/2004	19/09/2002	-	838m	Partial transfer	5	2	1	2	-	-	455	-	Combined Record	-	-	-	Single residential dwelling	$162,000	-
+2003	221709	11 Haverfield Place	28/11/2003	18/11/2005	-	-	723m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	20253	            5/47 Slessor  Street	22/04/2003	-	28/02/2003	-	565m	Full transfer	3	1	1	2	-	-	53	-	Allhomes Record	-	-	-	-	$57,785	-
+2003	32034	9/4 Cavenagh  Place	24/09/2003	-	12/07/2003	-	0m	Full transfer	3	1	-	1	-	-	74	-	Allhomes Record	-	-	-	-	$0	-
+2003	221847	3 Cronin Street	11/07/2003	20/10/2004	-	-	782m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152509	5/47 Slessor Crescent	11/04/2003	11/04/2003	-	-	6211m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	152491	3/4 Cavenagh Place	10/04/2003	10/04/2003	-	-	9187m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	152458	50 Vagabond Crescent	13/09/2003	20/10/2003	-	-	880m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	152445	3 Cockerill Place	11/02/2003	11/02/2003	-	-	764m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	20318	            119 William Webb Road	22/07/2003	-	07/05/2003	-	744m	Full transfer	3	1	-	1	-	-	76	-	Allhomes Record	-	-	-	-	$0	-
+2004	221690	50 Dumas Street	01/10/2004	01/10/2004	-	$660,000	809m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221716	4 Haverfield Place	26/11/2004	10/01/2005	22/10/2004	$515,000	1108m	Full transfer	4	1	2	2	1	$515,000	35	-	Combined Record	-	-	-	Single residential dwelling	$218,000	0.42
+2004	221704	3 Cockerill Place	04/02/2004	27/02/2004	-	$510,000	764m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221667	4 Buzacott Place	30/06/2004	06/09/2004	-	$470,000	838m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221713	41 Vagabond Crescent	15/06/2004	09/12/2004	-	$465,000	869m	Partial transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	42750	89 William Webb Drive	29/06/2004	-	12/05/2004	$465,000	819m	Full transfer	4	1	1	2	-	$465,000	48	-	Allhomes Record	-	-	-	-	$165,000	0.35
+2004	221720	89 William Webb Drive	28/06/2004	16/08/2004	-	$464,000	819m	Full transfer	-	-	-	-	-	$464,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221673	46 Bean Crescent	10/09/2004	12/10/2004	-	$445,000	829m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	152387	5 Schuler Place	02/09/2004	07/10/2001	-	$442,000	726m	Full transfer	-	-	-	-	-	$442,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221760	75 Dumas Street	06/07/2004	02/11/2004	-	$435,000	1243m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221669	14 Dumas Street	14/12/2004	31/01/2005	-	$420,000	868m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221753	7 Monson Place	04/03/2004	30/04/2004	-	$420,000	718m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221697	35 Buggy Crescent	05/03/2004	08/06/2004	30/01/2004	$419,500	707m	Full transfer	4	2	-	2	-	$419,500	35	-	Combined Record	-	-	-	Single residential dwelling	$194,000	0.46
+2004	221724	8 Baume Crescent	27/09/2004	27/10/2004	22/04/2004	$405,000	701m	Full transfer	4	1	1	1	-	$405,000	158	-	Combined Record	-	-	-	Single residential dwelling	$205,000	0.51
+2004	221651	6 Meacham Place	31/05/2004	28/06/2004	-	$405,000	904m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221672	42 Bean Crescent	25/06/2004	29/07/2004	-	$400,000	787m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221776	2 Rayner Place	10/02/2004	23/03/2004	-	$380,000	1274m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221748	11 Tilley Place	03/12/2004	18/01/2005	-	$375,000	934m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221817	3 Kitty McEwan Circuit	23/04/2004	13/10/2004	-	$360,000	837m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221762	6 Slessor Crescent	07/09/2004	15/10/2004	-	$346,000	827m	Full transfer	-	-	-	-	-	$346,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221745	10/20 Bennetts Close	26/11/2004	05/01/2005	29/10/2004	$345,000	5828m	Full transfer	3	1	1	2	-	$345,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2004	221813	9 Kitty McEwan Circuit	30/09/2004	09/02/2005	-	$345,000	600m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221815	7 Kitty McEwan Circuit	08/11/2004	19/01/2005	-	$340,000	600m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221732	12 Sowden Street	19/11/2004	28/02/2005	-	$339,950	823m	Full transfer	-	-	-	-	-	$339,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221734	10 Macalpine Close	18/08/2004	16/09/2004	-	$337,000	714m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221712	43 Vagabond Crescent	20/07/2004	23/08/2004	-	$335,000	767m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221767	13 Fred Johns Crescent	31/03/2004	22/04/2004	06/02/2004	$330,000	565m	Full transfer	3	1	-	1	1	$330,000	54	-	Combined Record	-	-	-	Medium density dwelling	$142,000	0.43
+2004	221821	3 Jeanne Young Circuit	30/04/2004	25/08/2004	-	$325,000	802m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221835	52 Kitty McEwan Circuit	25/06/2004	18/10/2004	-	$325,000	822m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221831	4 Cronin Street	01/12/2004	11/01/2005	-	$325,000	796m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221834	10 Cronin Street	18/11/2004	21/01/2005	-	$320,000	827m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	46091	2 Sinnett Place	06/10/2004	-	20/08/2004	$320,000	899m	Full transfer	3	1	-	-	2	$320,000	47	-	Allhomes Record	-	-	-	-	$119,000	0.37
+2004	221696	123 Dumas Street	01/10/2004	01/10/2004	-	$320,000	788m	Partial transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221731	8 Sowden Street	29/04/2004	13/05/2004	-	$316,000	736m	Full transfer	-	-	-	-	-	$316,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221796	26 Jeanne Young Circuit	21/12/2004	16/03/2005	-	$310,000	700m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221708	40 Vagabond Crescent	18/05/2004	10/06/2004	-	$302,500	804m	Full transfer	-	-	-	-	-	$302,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2004	221736	2/6 Bennetts Close	06/12/2004	30/03/2005	-	$300,000	729m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2004	221811	11 Kitty McEwan Circuit	30/09/2004	09/02/2005	-	$295,000	570m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221510	1 Moses Place	13/02/2004	18/03/2004	-	$295,000	455m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2004	221800	3 William Webb Drive	03/11/2004	22/12/2004	-	$290,000	843m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221809	15 Kitty McEwan Circuit	29/10/2004	09/02/2005	-	$290,000	570m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221805	23 Kitty McEwan Circuit	29/10/2004	16/05/2005	-	$290,000	600m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221798	7 William Webb Drive	29/10/2004	16/05/2005	-	$290,000	816m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221810	13 Kitty McEwan Circuit	29/10/2004	01/12/2004	-	$290,000	570m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221807	19 Kitty McEwan Circuit	29/10/2004	07/04/2005	-	$290,000	690m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221804	25 Kitty McEwan Circuit	29/10/2004	09/02/2005	-	$290,000	554m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221827	11 William Webb Drive	29/10/2004	18/02/2005	-	$290,000	719m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221830	2 Cronin Street	30/11/2004	31/01/2005	-	$285,000	974m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221855	36 Kitty McEwan Circuit	01/08/2004	11/11/2004	-	$285,000	635m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221846	3 Cronin Street	12/11/2004	14/03/2005	-	$281,000	782m	Full transfer	-	-	-	-	-	$281,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221784	39 William Webb Drive	29/10/2004	23/12/2004	-	$280,000	615m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221785	37 William Webb Drive	29/10/2004	10/03/2005	-	$280,000	628m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221786	35 William Webb Drive	29/10/2004	18/02/2005	-	$280,000	614m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221777	41 William Webb Drive	29/10/2004	21/02/2005	-	$280,000	673m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221801	1 William Webb Drive	30/06/2004	20/10/2004	-	$275,000	837m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221788	4 Jeanne Young Circuit	21/09/2004	10/11/2004	-	$270,000	715m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221802	33 Kitty McEwan Circuit	22/06/2004	19/10/2004	-	$265,000	852m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221840	44 Kitty McEwan Circuit	29/06/2004	19/10/2004	-	$255,000	545m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221841	46 Kitty McEwan Circuit	31/07/2004	27/10/2004	-	$240,000	557m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221851	30 Kitty McEwan Circuit	23/12/2004	12/02/2005	-	$239,000	609m	Full transfer	-	-	-	-	-	$239,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221856	9 Rayner Place	23/12/2004	19/01/2005	-	$155,000	1041m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221725	10 Baume Crescent	02/06/2004	06/07/2004	-	$155,000	701m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2004	221679	26 Dumas Street	26/06/2004	29/07/2004	-	-	782m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221774	5 Vincent Place	18/10/2004	08/11/2004	-	-	508m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2004	221768	29 Slessor Crescent	30/11/2004	20/01/2005	-	-	443m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2004	221741	43 Slessor Crescent	29/07/2004	29/06/2005	-	-	805m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221755	17 Rohan Rivett Crescent	06/12/2004	17/11/2005	-	-	803m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221508	4/10 Bennetts Close	17/03/2004	13/05/2004	-	-	1173m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	20835	             Ring Gordon Perry For The Address Of This Property	25/09/2004	-	12/04/2004	-	809m	Full transfer	5	2	-	2	-	-	166	-	Allhomes Record	-	-	-	-	-	-
+2004	221693	22 Grover Crescent	08/12/2004	08/12/2004	-	-	886m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221717	3 Baume Crescent	26/03/2004	11/05/2004	-	-	746m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221743	6/47 Slessor Crescent	22/09/2004	14/01/2005	-	-	6211m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	221733	11 Sowden Street	26/02/2004	26/02/2004	-	-	725m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221674	6 Laurie Place	20/08/2004	22/05/2006	-	-	869m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	221775	11 Denning Place	27/02/2004	27/02/2004	-	-	836m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221787	2 Jeanne Young Circuit	23/03/2005	03/05/2005	-	$695,000	666m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221797	1 Jeanne Young Circuit	11/02/2005	30/03/2005	-	$680,000	822m	Full transfer	-	-	-	-	-	$680,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221761	87 Dumas Street	09/02/2005	10/05/2005	12/11/2004	$655,000	962m	Full transfer	5	2	3	2	2	$655,000	89	-	Combined Record	-	-	-	Single residential dwelling	$220,000	0.34
+2005	221698	4 Buggy Crescent	18/03/2005	07/10/2005	18/02/2005	$640,000	898m	Full transfer	6	3	-	3	1	$640,000	28	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.36
+2005	221681	59 Burns Circuit	14/01/2005	10/02/2005	-	$590,000	1341m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221701	14 Buggy Crescent	22/11/2005	25/01/2006	04/11/2005	$580,000	802m	Full transfer	4	2	1	2	-	$580,000	18	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.4
+2005	221703	153 William Webb Drive	25/11/2005	13/12/2005	10/11/2005	$559,000	793m	Full transfer	4	1	1	2	-	$559,000	15	-	Combined Record	-	-	-	Single residential dwelling	$207,000	0.37
+2005	221710	1 Haverfield Place	11/01/2005	30/03/2005	-	$545,000	930m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221687	1 Bean Crescent	31/05/2005	18/07/2005	29/04/2005	$515,000	1003m	Full transfer	5	1	2	2	-	$515,000	32	-	Combined Record	-	-	-	Single residential dwelling	$230,000	0.45
+2005	221668	12 Dumas Street	21/03/2005	04/05/2005	08/02/2005	$460,000	822m	Full transfer	4	1	1	2	-	$460,000	41	-	Combined Record	-	-	-	Single residential dwelling	$185,000	0.4
+2005	221666	56 Hetherington Circuit	21/07/2005	15/09/2005	12/05/2005	$410,000	783m	Full transfer	3	1	1	2	-	$410,000	70	-	Combined Record	-	-	-	Single residential dwelling	$169,000	0.41
+2005	221678	12 Slessor Crescent	18/02/2005	22/03/2005	-	$410,000	708m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221683	33 Dumas Street	20/12/2005	05/02/2006	30/06/2005	$405,000	799m	Full transfer	4	1	1	2	1	$405,000	173	-	Combined Record	-	-	-	Single residential dwelling	$180,000	0.44
+2005	221691	28 Grover Crescent	24/10/2005	23/11/2005	-	$400,000	847m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221721	85 William Webb Drive	09/05/2005	01/08/2005	-	$395,000	765m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221685	20 Burns Circuit	14/06/2005	12/07/2005	-	$385,000	745m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221650	32 Bean Crescent	21/09/2005	07/02/2006	-	$382,000	713m	Full transfer	-	-	-	-	-	$382,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	48281	6/47 Slessor Crescent	23/01/2005	-	19/10/2004	$379,000	6211m	Full transfer	3	1	1	2	-	$379,000	96	-	Allhomes Record	-	-	-	-	-	-
+2005	221750	47 William Webb Drive	07/06/2005	20/07/2005	-	$370,000	756m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221744	6/47 Slessor Crescent	07/02/2005	14/03/2005	-	$360,000	6211m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	221747	4 Tilley Place	26/09/2005	01/11/2005	-	$360,000	709m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221746	4/20 Bennetts Close	28/02/2005	31/03/2005	-	$352,000	5828m	Full transfer	-	-	-	-	-	$352,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	221657	22 Heney Close	10/05/2005	22/09/2005	-	$350,000	870m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221654	30 Heney Close	17/01/2005	24/02/2005	-	$350,000	1527m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221656	24 Heney Close	09/05/2005	19/09/2005	-	$345,000	985m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221719	101 William Webb Drive	08/02/2005	14/03/2005	-	$345,000	777m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221653	7 Meacham Place	03/05/2005	08/07/2005	-	$335,000	906m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221766	13 Fred Johns Crescent	29/09/2005	07/11/2005	-	$335,000	565m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	221707	4 Vagabond Crescent	23/06/2005	20/09/2005	-	$332,500	717m	Full transfer	-	-	-	-	-	$332,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221714	41 Vagabond Crescent	05/12/2005	12/01/2006	15/10/2005	$325,000	869m	Full transfer	3	1	-	1	-	$325,000	51	-	Combined Record	-	-	-	Single residential dwelling	$169,000	0.52
+2005	221769	21 Slessor Crescent	12/07/2005	16/08/2005	-	$320,000	477m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	221828	54 Kitty McEwan Circuit	28/07/2005	12/10/2005	-	$315,000	778m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	52023	17 Slessor Crescent	10/08/2005	-	04/02/2005	$312,000	495m	Full transfer	3	1	1	-	-	$312,000	187	-	Allhomes Record	-	-	-	-	$135,000	0.43
+2005	221770	17 Slessor Crescent	09/08/2005	23/08/2005	-	$311,750	496m	Full transfer	-	-	-	-	-	$311,750	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	221818	3 Kitty McEwan Circuit	23/06/2005	26/09/2005	-	$305,000	837m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221660	16 Heney Close	27/06/2005	02/12/2005	-	$305,000	902m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221819	1 Kitty McEwan Circuit	11/02/2005	16/03/2005	-	$305,000	890m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221792	1 Broomfield Street	16/12/2005	10/02/2006	-	$300,000	692m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221833	8 Cronin Street	10/10/2005	15/11/2005	-	$295,000	828m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221832	6 Cronin Street	21/10/2005	06/01/2006	-	$295,000	799m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221783	31 Jeanne Young Circuit	27/06/2005	05/09/2005	-	$290,000	768m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221790	8 Broomfield Street	19/08/2005	19/10/2005	-	$290,000	643m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221509	4/10 Bennetts Close	30/06/2005	20/07/2005	-	$287,000	1173m	Full transfer	-	-	-	-	-	$287,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	221803	31 Kitty McEwan Circuit	10/10/2005	21/11/2005	-	$285,000	770m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221658	20 Heney Close	29/07/2005	26/09/2005	-	$285,000	765m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221799	5 William Webb Drive	11/03/2005	18/04/2005	-	$285,000	847m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221652	7 Sommerlad Place	20/10/2005	21/11/2005	-	$285,000	781m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2005	221735	6 Lamond Place	13/05/2005	04/07/2005	28/04/2005	$282,000	1224m	Full transfer	3	1	-	-	-	$282,000	15	-	Combined Record	-	-	-	Single residential dwelling...	$185,000	0.66
+2005	221773	15 Fred Johns Crescent	10/08/2005	28/09/2005	-	$280,000	465m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	221808	17 Kitty McEwan Circuit	07/07/2005	05/01/2006	-	$280,000	570m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221705	135 Dumas Street	03/05/2005	09/06/2005	-	$265,000	706m	Partial transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221825	17 William Webb Drive	20/10/2005	25/11/2005	-	$265,000	693m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221812	11 Kitty McEwan Circuit	29/04/2005	29/09/2005	-	$265,000	570m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221820	23 William Webb Drive	21/01/2005	17/02/2005	-	$260,000	747m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221853	32 Kitty McEwan Circuit	04/07/2005	22/01/2006	-	$255,000	803m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221854	34 Kitty McEwan Circuit	27/07/2005	12/12/2005	-	$250,000	741m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221845	5 Cronin Street	21/04/2005	25/08/2005	-	$245,000	637m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221843	9 Cronin Street	23/03/2005	06/05/2005	-	$245,000	543m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221837	40 Kitty McEwan Circuit	05/08/2005	13/09/2005	-	$240,000	563m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221838	42 Kitty McEwan Circuit	22/07/2005	06/09/2005	-	$230,000	527m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221842	11 Cronin Street	29/06/2005	02/08/2005	-	$225,000	503m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221723	8 Baume Crescent	26/07/2005	06/04/2006	-	$200,000	701m	Partial transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221772	6 Britton Place	08/06/2005	26/07/2005	-	$140,000	518m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	221771	11 Slessor Crescent	28/10/2005	24/02/2006	-	$20,000	459m	Partial transfer	-	-	-	-	-	$20,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	221664	12 Bancks Crescent	15/02/2005	10/03/2005	-	$4,500	827m	Full transfer	-	-	-	-	-	$4,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	33395	40 Slessor Crescent	06/06/2005	27/02/2007	-	$0	783m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221751	8 Monson Place	16/08/2005	14/10/2005	-	-	800m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221711	53 Vagabond Crescent	18/11/2005	12/12/2005	-	-	861m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221686	44 Burns Circuit	24/02/2005	24/02/2005	-	-	924m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221737	4/10 Bennetts Close	01/03/2005	02/06/2005	-	-	1173m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	221727	144 Dumas Street	10/02/2005	28/09/2005	-	-	806m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221670	3 Buzacott Place	21/09/2005	31/10/2005	-	-	907m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221728	12/4 Cavenagh Place	27/06/2005	16/09/2005	-	-	9187m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	221752	11 Monson Place	18/01/2005	15/02/2005	-	-	893m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221677	30 Dumas Street	11/07/2005	10/07/2006	-	-	944m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221757	43 William Webb Drive	18/04/2005	23/05/2005	-	-	762m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	119697	8 Macalpine Close	16/05/2005	02/11/2006	-	-	728m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	221676	5 Barsdell Place	22/10/2005	06/12/2005	-	-	808m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
