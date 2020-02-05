@@ -1,0 +1,984 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1990	12148	            8/13 Grounds Crescent	09/06/1990	27/09/2000	-	-	2129m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1991	2744	            1/62 De Little Circuit	21/12/1991	12/02/1992	-	$180,000	3085m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71154	14 Florence Taylor Street	03/03/1992	03/03/1992	-	$1,230,000	11402m	Full transfer	-	-	-	-	-	$1,230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	2678	            24/14 Florence Taylor Street	28/10/1992	28/10/1992	-	$709,750	11402m	Full transfer	-	-	-	-	-	$709,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71273	125 Florence Taylor Street	02/11/1992	02/11/1992	-	$650,000	5746m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Cluster housing medium density	-	-
+1992	2800	            Florence Taylor Street	19/02/1992	19/02/1992	-	$627,000	3667m	Full transfer	-	-	-	-	-	$627,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71198	83 Mortimer Lewis Drive	16/09/1992	16/09/1992	-	$540,000	4915m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70992	16 Blackett Crescent	20/02/1992	20/02/1992	-	$532,000	4885m	Full transfer	-	-	-	-	-	$532,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	2785	            Grounds Crescent	07/04/1992	07/04/1992	-	$420,000	2092m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Cluster housing medium density	-	-
+1992	71185	35 John Young Crescent	16/09/1992	16/09/1992	-	$255,000	1374m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2740	            12/69 Mortimer Lewis Drive	08/12/1992	08/12/1992	-	$233,000	4134m	Full transfer	-	-	-	-	-	$233,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2773	            6/4 Clamp Place	06/10/1992	06/10/1992	-	$218,000	3391m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70972	6/191 Anketell Street	01/07/1992	01/07/1992	-	$210,000	1996m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1992	71256	41 Grounds Crescent	06/11/1992	06/11/1992	-	$200,000	353m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	2715	            3/15 Mortimer Lewis Drive	15/06/1992	15/06/1992	-	$199,000	2595m	Full transfer	-	-	-	-	-	$199,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71254	39 Grounds Crescent	02/11/1992	02/11/1992	-	$198,000	365m	Full transfer	-	-	-	-	-	$198,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	71249	33 Grounds Crescent	26/10/1992	26/10/1992	-	$196,010	340m	Full transfer	-	-	-	-	-	$196,010	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	71250	35 Grounds Crescent	04/11/1992	04/11/1992	-	$194,000	327m	Full transfer	-	-	-	-	-	$194,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	2808	            5/94 De Little Circuit	16/10/1992	16/10/1992	-	$191,000	4585m	Full transfer	-	-	-	-	-	$191,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70971	5/191 Anketell Street	15/06/1992	15/06/1992	-	$190,000	1996m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1992	2803	            3/112 De Little Circuit	05/05/1992	05/05/1992	-	$189,990	4129m	Full transfer	-	-	-	-	-	$189,990	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71246	31 Grounds Crescent	11/11/1992	11/11/1992	-	$189,000	362m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	71217	4/32 Clamp Place	02/12/1992	02/12/1992	-	$187,500	4052m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2714	            2/15 Mortimer Lewis Drive	26/05/1992	26/05/1992	-	$186,000	2595m	Full transfer	-	-	-	-	-	$186,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2718	            6/15 Mortimer Lewis Drive	24/03/1992	24/03/1992	-	$185,000	2595m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71264	81 Florence Taylor Street	04/11/1992	04/11/1992	-	$185,000	302m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	2716	            4/15 Mortimer Lewis Drive	14/04/1992	14/04/1992	-	$182,500	2595m	Full transfer	-	-	-	-	-	$182,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71226	1/48 De Little Circuit	08/05/1992	08/05/1992	-	$180,000	4376m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2747	            2/48 De Little Circuit	29/06/1992	29/06/1992	-	$180,000	4376m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2717	            5/15 Mortimer Lewis Drive	10/04/1992	10/04/1992	-	$180,000	2595m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2765	            2/10 De Little Circuit	22/10/1992	22/10/1992	-	$179,000	3526m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2764	            1/10 De Little Circuit	27/10/1992	27/10/1992	-	$179,000	3526m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2768	            4/10 De Little Circuit	30/10/1992	30/10/1992	-	$179,000	3526m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2766	            3/10 De Little Circuit	30/11/1992	30/11/1992	-	$179,000	3526m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2746	            6/62 De Little Circuit	30/01/1992	30/01/1992	-	$178,000	3085m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2748	            5/48 De Little Circuit	25/03/1992	25/03/1992	-	$175,500	4376m	Full transfer	-	-	-	-	-	$175,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71229	6/10 De Little Circuit	27/10/1992	27/10/1992	-	$175,000	3526m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2745	            2/62 De Little Circuit	29/01/1992	29/01/1992	-	$175,000	3085m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71272	73 Florence Taylor Street	19/08/1992	19/08/1992	-	$175,000	324m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	2750	            7/48 De Little Circuit	04/08/1992	04/08/1992	-	$173,500	4376m	Full transfer	-	-	-	-	-	$173,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2770	            5/10 De Little Circuit	14/10/1992	14/10/1992	-	$173,000	3526m	Full transfer	-	-	-	-	-	$173,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71270	69 Florence Taylor Street	13/08/1992	13/08/1992	-	$170,000	324m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	70960	2/232 Cowlishaw Street	19/10/1992	19/10/1992	-	$170,000	1996m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1992	71265	61 Florence Taylor Street	06/08/1992	06/08/1992	-	$170,000	423m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	70980	12/12 Blackett Crescent	01/10/1992	01/10/1992	-	$169,950	4452m	Full transfer	-	-	-	-	-	$169,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2760	            5/5 Clamp Place	30/12/1992	30/12/1992	-	$168,000	2204m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71061	12/6 Blackett Crescent	21/10/1992	21/10/1992	-	$167,500	7267m	Full transfer	-	-	-	-	-	$167,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2761	            6/5 Clamp Place	21/07/1992	21/07/1992	-	$166,500	2204m	Full transfer	-	-	-	-	-	$166,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71269	67 Florence Taylor Street	08/10/1992	08/10/1992	-	$165,000	324m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	71263	77 Florence Taylor Street	10/08/1992	10/08/1992	-	$165,000	324m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	71066	16/6 Blackett Crescent	01/10/1992	01/10/1992	-	$165,000	7267m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71271	71 Florence Taylor Street	25/08/1992	25/08/1992	-	$165,000	324m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	71215	1/32 Clamp Place	13/04/1992	13/04/1992	-	$162,500	4052m	Full transfer	-	-	-	-	-	$162,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71218	5/32 Clamp Place	02/03/1992	02/03/1992	-	$162,000	4052m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71266	63 Florence Taylor Street	07/08/1992	07/08/1992	-	$161,500	354m	Full transfer	-	-	-	-	-	$161,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	71262	75 Florence Taylor Street	12/08/1992	12/08/1992	-	$156,500	319m	Full transfer	-	-	-	-	-	$156,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	2763	            4/17 Clamp Place	22/06/1992	22/06/1992	-	$156,200	2844m	Full transfer	-	-	-	-	-	$156,200	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2664	            10/14 Florence Taylor Street	24/06/1992	24/06/1992	-	$156,000	11402m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71211	146 De Little Circuit	09/10/1992	09/10/1992	-	$155,000	315m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	2689	            5/14 Florence Taylor Street	01/09/1992	01/09/1992	-	$154,000	11402m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2693	            8/14 Florence Taylor Street	24/06/1992	24/06/1992	-	$154,000	11402m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2688	            4/14 Florence Taylor Street	24/06/1992	24/06/1992	-	$154,000	11402m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71228	1/17 Clamp Place	24/04/1992	24/04/1992	-	$154,000	2844m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2691	            6/14 Florence Taylor Street	22/06/1992	22/06/1992	-	$154,000	11402m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2762	            2/17 Clamp Place	11/06/1992	11/06/1992	-	$153,000	2844m	Full transfer	-	-	-	-	-	$153,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71162	20/14 Florence Taylor Street	29/06/1992	29/06/1992	-	$153,000	11402m	Full transfer	-	-	-	-	-	$153,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2755	            2/3 Clamp Place	18/12/1992	18/12/1992	-	$152,500	1778m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2757	            4/3 Clamp Place	18/12/1992	18/12/1992	-	$152,500	1778m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2758	            5/3 Clamp Place	18/12/1992	18/12/1992	-	$152,500	1778m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71227	6/3 Clamp Place	18/12/1992	18/12/1992	-	$152,500	1778m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2756	            3/3 Clamp Place	18/12/1992	18/12/1992	-	$152,500	1778m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2753	            1/3 Clamp Place	18/12/1992	18/12/1992	-	$152,500	1778m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2692	            7/14 Florence Taylor Street	09/07/1992	09/07/1992	-	$152,000	11402m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71133	74 Florence Taylor Street	23/09/1992	23/09/1992	-	$152,000	375m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71159	19/14 Florence Taylor Street	20/07/1992	20/07/1992	-	$151,500	11402m	Full transfer	-	-	-	-	-	$151,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2676	            23/14 Florence Taylor Street	16/07/1992	16/07/1992	-	$151,500	11402m	Full transfer	-	-	-	-	-	$151,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71025	9/40 Florence Taylor Street	09/09/1992	09/09/1992	-	$151,000	3828m	Full transfer	-	-	-	-	-	$151,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71155	1/14 Florence Taylor Street	24/06/1992	24/06/1992	-	$150,000	11402m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71160	2/14 Florence Taylor Street	22/06/1992	22/06/1992	-	$148,000	11402m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71221	144 De Little Circuit	29/09/1992	29/09/1992	-	$147,000	278m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	2694	            9/14 Florence Taylor Street	16/06/1992	16/06/1992	-	$145,000	11402m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70974	8/191 Anketell Street	02/07/1992	02/07/1992	-	$145,000	1996m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1992	71128	11 Watts Street	11/09/1992	11/09/1992	-	$145,000	388m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	2665	            11/14 Florence Taylor Street	24/06/1992	24/06/1992	-	$144,950	11402m	Full transfer	-	-	-	-	-	$144,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2685	            3/14 Florence Taylor Street	17/06/1992	17/06/1992	-	$144,000	11402m	Full transfer	-	-	-	-	-	$144,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2681	            26/14 Florence Taylor Street	23/06/1992	23/06/1992	-	$143,950	11402m	Full transfer	-	-	-	-	-	$143,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2686	            30/14 Florence Taylor Street	23/06/1992	23/06/1992	-	$142,950	11402m	Full transfer	-	-	-	-	-	$142,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71153	68 Florence Taylor Street	24/09/1992	24/09/1992	-	$142,000	413m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	2680	            25/14 Florence Taylor Street	24/06/1992	24/06/1992	-	$141,950	11402m	Full transfer	-	-	-	-	-	$141,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2677	            24/14 Florence Taylor Street	18/06/1992	18/06/1992	-	$141,950	11402m	Full transfer	-	-	-	-	-	$141,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2682	            27/14 Florence Taylor Street	22/06/1992	22/06/1992	-	$141,950	11402m	Full transfer	-	-	-	-	-	$141,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2683	            28/14 Florence Taylor Street	20/07/1992	20/07/1992	-	$141,950	11402m	Full transfer	-	-	-	-	-	$141,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2651	            14/16 Blackett Crescent	06/07/1992	06/07/1992	-	$141,950	4885m	Full transfer	-	-	-	-	-	$141,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2675	            23/14 Florence Taylor Street	15/07/1992	15/07/1992	-	$141,950	11402m	Full transfer	-	-	-	-	-	$141,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70978	10/12 Blackett Crescent	08/04/1992	08/04/1992	-	$141,000	4452m	Full transfer	-	-	-	-	-	$141,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2673	            21/14 Florence Taylor Street	29/06/1992	29/06/1992	-	$140,000	11402m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71087	8/6 Blackett Crescent	13/04/1992	13/04/1992	-	$140,000	7267m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2669	            14/14 Florence Taylor Street	03/07/1992	03/07/1992	-	$139,950	11402m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71158	18/14 Florence Taylor Street	01/07/1992	01/07/1992	-	$139,950	11402m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2667	            13/14 Florence Taylor Street	03/07/1992	03/07/1992	-	$139,950	11402m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2666	            12/14 Florence Taylor Street	26/06/1992	26/06/1992	-	$139,950	11402m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2671	            15/14 Florence Taylor Street	22/06/1992	22/06/1992	-	$139,950	11402m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71156	16/14 Florence Taylor Street	22/06/1992	22/06/1992	-	$139,950	11402m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70991	9/12 Blackett Crescent	05/03/1992	05/03/1992	-	$139,000	4452m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70984	3/12 Blackett Crescent	26/02/1992	26/02/1992	-	$139,000	4452m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2674	            22/14 Florence Taylor Street	23/06/1992	23/06/1992	-	$138,500	11402m	Full transfer	-	-	-	-	-	$138,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71150	62 Florence Taylor Street	21/09/1992	21/09/1992	-	$138,000	405m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71157	17/14 Florence Taylor Street	16/06/1992	16/06/1992	-	$138,000	11402m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71149	60 Florence Taylor Street	24/09/1992	24/09/1992	-	$137,500	371m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	70979	11/12 Blackett Crescent	05/03/1992	05/03/1992	-	$137,500	4452m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70990	8/12 Blackett Crescent	05/03/1992	05/03/1992	-	$137,000	4452m	Full transfer	-	-	-	-	-	$137,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2660	            5/16 Watts Street	30/01/1992	30/01/1992	-	$136,000	2501m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2661	            6/16 Watts Street	30/01/1992	30/01/1992	-	$136,000	2501m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71145	56 Florence Taylor Street	01/10/1992	01/10/1992	-	$136,000	334m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71127	54 Florence Taylor Street	13/11/1992	13/11/1992	-	$136,000	360m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71152	66 Florence Taylor Street	24/09/1992	24/09/1992	-	$136,000	421m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71146	58 Florence Taylor Street	08/10/1992	08/10/1992	-	$135,000	349m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71151	64 Florence Taylor Street	29/09/1992	29/09/1992	-	$135,000	416m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71065	15/6 Blackett Crescent	06/05/1992	06/05/1992	-	$135,000	7267m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2658	            3/16 Watts Street	31/01/1992	31/01/1992	-	$135,000	2501m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70981	12/12 Blackett Crescent	03/04/1992	03/04/1992	-	$135,000	4452m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71058	11/6 Blackett Crescent	18/02/1992	18/02/1992	-	$135,000	7267m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71090	9/6 Blackett Crescent	10/03/1992	10/03/1992	-	$135,000	7267m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2657	            2/16 Watts Street	04/02/1992	04/02/1992	-	$135,000	2501m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71139	17 Watts Street	28/09/1992	28/09/1992	-	$135,000	333m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71067	16/6 Blackett Crescent	23/03/1992	23/03/1992	-	$135,000	7267m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2663	            18/6 Blackett Crescent	24/03/1992	24/03/1992	-	$135,000	7267m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2684	            29/14 Florence Taylor Street	17/06/1992	17/06/1992	-	$135,000	11402m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70982	2/12 Blackett Crescent	24/03/1992	24/03/1992	-	$135,000	4452m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71056	1/6 Blackett Crescent	26/02/1992	26/02/1992	-	$135,000	7267m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71057	10/6 Blackett Crescent	24/02/1992	24/02/1992	-	$135,000	7267m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70985	4/12 Blackett Crescent	24/03/1992	24/03/1992	-	$134,950	4452m	Full transfer	-	-	-	-	-	$134,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71005	8/16 Blackett Crescent	01/07/1992	01/07/1992	-	$134,950	4885m	Full transfer	-	-	-	-	-	$134,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70993	1/16 Blackett Crescent	24/06/1992	24/06/1992	-	$134,950	4885m	Full transfer	-	-	-	-	-	$134,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70998	13/16 Blackett Crescent	29/06/1992	29/06/1992	-	$134,950	4885m	Full transfer	-	-	-	-	-	$134,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	2659	            4/16 Watts Street	04/02/1992	04/02/1992	-	$134,000	2501m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70989	7/12 Blackett Crescent	05/03/1992	05/03/1992	-	$134,000	4452m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70987	5/12 Blackett Crescent	25/03/1992	25/03/1992	-	$134,000	4452m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70976	1/12 Blackett Crescent	10/03/1992	10/03/1992	-	$134,000	4452m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71068	17/6 Blackett Crescent	12/03/1992	12/03/1992	-	$133,500	7267m	Full transfer	-	-	-	-	-	$133,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71082	4/6 Blackett Crescent	17/03/1992	17/03/1992	-	$133,000	7267m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70988	6/12 Blackett Crescent	23/03/1992	23/03/1992	-	$133,000	4452m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71060	12/6 Blackett Crescent	17/03/1992	17/03/1992	-	$133,000	7267m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71085	7/6 Blackett Crescent	17/03/1992	17/03/1992	-	$133,000	7267m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71062	13/6 Blackett Crescent	10/03/1992	10/03/1992	-	$133,000	7267m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71006	9/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71002	5/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71084	6/6 Blackett Crescent	20/02/1992	20/02/1992	-	$132,950	7267m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71004	7/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71000	3/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70994	10/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70999	2/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71001	4/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70995	11/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71003	6/16 Blackett Crescent	24/06/1992	24/06/1992	-	$132,950	4885m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71083	5/6 Blackett Crescent	24/02/1992	24/02/1992	-	$132,950	7267m	Full transfer	-	-	-	-	-	$132,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71064	14/6 Blackett Crescent	26/02/1992	26/02/1992	-	$132,000	7267m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71134	76 Florence Taylor Street	08/10/1992	08/10/1992	-	$132,000	332m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71135	78 Florence Taylor Street	29/09/1992	29/09/1992	-	$131,000	318m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71132	72 Florence Taylor Street	24/09/1992	24/09/1992	-	$131,000	394m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71122	70 Florence Taylor Street	16/10/1992	16/10/1992	-	$130,000	398m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71197	1/1 John Young Crescent	03/06/1992	03/06/1992	-	$130,000	6087m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71015	4/40 Florence Taylor Street	09/01/1992	09/01/1992	-	$129,950	3828m	Full transfer	-	-	-	-	-	$129,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71017	6/40 Florence Taylor Street	17/01/1992	17/01/1992	-	$129,950	3828m	Full transfer	-	-	-	-	-	$129,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71137	80 Florence Taylor Street	22/09/1992	22/09/1992	-	$129,500	326m	Full transfer	-	-	-	-	-	$129,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71129	9 Watts Street	25/09/1992	25/09/1992	-	$129,000	414m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71142	5 Watts Street	22/09/1992	22/09/1992	-	$129,000	399m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	2700	            7/113 De Little Circuit	10/01/1992	10/01/1992	-	$129,000	3100m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71130	7 Watts Street	06/11/1992	06/11/1992	-	$129,000	432m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71138	19 Watts Street	10/11/1992	10/11/1992	-	$128,000	407m	Full transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71013	3/40 Florence Taylor Street	03/03/1992	03/03/1992	-	$127,000	3828m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71144	3 Watts Street	22/09/1992	22/09/1992	-	$127,000	390m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71125	13 Watts Street	22/09/1992	22/09/1992	-	$125,000	361m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71123	15 Watts Street	13/11/1992	13/11/1992	-	$125,000	344m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	71012	2/40 Florence Taylor Street	15/01/1992	15/01/1992	-	$124,500	3828m	Full transfer	-	-	-	-	-	$124,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71069	2/6 Blackett Crescent	03/03/1992	03/03/1992	-	$124,000	7267m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71070	3/6 Blackett Crescent	03/03/1992	03/03/1992	-	$124,000	7267m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71019	9/40 Florence Taylor Street	09/01/1992	09/01/1992	-	$119,950	3828m	Full transfer	-	-	-	-	-	$119,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71046	6/48 Florence Taylor Street	06/05/1992	06/05/1992	-	$119,000	4359m	Full transfer	-	-	-	-	-	$119,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71014	3/40 Florence Taylor Street	30/01/1992	30/01/1992	-	$118,750	3828m	Full transfer	-	-	-	-	-	$118,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70850	1/40 Florence Taylor Street	09/01/1992	09/01/1992	-	$117,500	3828m	Full transfer	-	-	-	-	-	$117,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71030	12/48 Florence Taylor Street	08/05/1992	08/05/1992	-	$116,000	4359m	Full transfer	-	-	-	-	-	$116,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71026	1/48 Florence Taylor Street	05/05/1992	05/05/1992	-	$113,350	4359m	Full transfer	-	-	-	-	-	$113,350	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71041	2/48 Florence Taylor Street	05/05/1992	05/05/1992	-	$113,350	4359m	Full transfer	-	-	-	-	-	$113,350	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71044	5/48 Florence Taylor Street	05/05/1992	05/05/1992	-	$113,300	4359m	Full transfer	-	-	-	-	-	$113,300	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71011	10/40 Florence Taylor Street	13/01/1992	13/01/1992	-	$113,000	3828m	Full transfer	-	-	-	-	-	$113,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71032	11/48 Florence Taylor Street	12/05/1992	12/05/1992	-	$112,500	4359m	Full transfer	-	-	-	-	-	$112,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71047	7/48 Florence Taylor Street	28/04/1992	28/04/1992	-	$112,500	4359m	Full transfer	-	-	-	-	-	$112,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71048	8/48 Florence Taylor Street	05/05/1992	05/05/1992	-	$105,000	4359m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71049	9/48 Florence Taylor Street	05/05/1992	05/05/1992	-	$105,000	4359m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71027	10/48 Florence Taylor Street	05/05/1992	05/05/1992	-	$105,000	4359m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71248	33 Grounds Crescent	23/09/1992	23/09/1992	-	-	340m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	71252	37 Grounds Crescent	23/09/1992	23/09/1992	-	-	345m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	71216	2/32 Clamp Place	10/08/1992	10/08/1992	-	-	4052m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	70970	5/191 Anketell Street	13/05/1992	13/05/1992	-	-	1996m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1992	71247	31 Grounds Crescent	23/09/1992	23/09/1992	-	-	362m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	71257	41 Grounds Crescent	23/09/1992	23/09/1992	-	-	353m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	2721	            6/18 John Young Crescent	26/08/1992	26/08/1992	-	-	2497m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	71251	35 Grounds Crescent	23/09/1992	23/09/1992	-	-	327m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	2649	            352 Reed Street South	23/10/1992	23/10/1992	-	-	7376m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	71255	39 Grounds Crescent	23/09/1992	23/09/1992	-	-	365m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1993	2811	            Scollay Street	10/11/1993	10/11/1993	-	$510,000	5100m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1993	2754	            2/3 Clamp Place	05/01/1993	05/01/1993	-	$263,000	1778m	Full transfer	-	-	-	-	-	$263,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2739	            12/69 Mortimer Lewis Drive	07/12/1993	07/12/1993	-	$242,000	4134m	Full transfer	-	-	-	-	-	$242,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71295	1/94 De Little Circuit	26/07/1993	26/07/1993	-	$227,000	4585m	Full transfer	-	-	-	-	-	$227,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71296	1/94 De Little Circuit	31/05/1993	31/05/1993	-	$225,000	4585m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71287	6/125 Florence Taylor Street	03/09/1993	03/09/1993	-	$220,000	5746m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71285	4/125 Florence Taylor Street	07/07/1993	07/07/1993	-	$215,000	5746m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2723	            4/35 John Young Crescent	22/12/1993	22/12/1993	-	$205,000	1374m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71286	5/125 Florence Taylor Street	21/06/1993	21/06/1993	-	$205,000	5746m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71199	1/83 Mortimer Lewis Drive	25/11/1993	25/11/1993	-	$199,500	4915m	Full transfer	-	-	-	-	-	$199,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71289	7/125 Florence Taylor Street	27/05/1993	27/05/1993	-	$199,000	5746m	Full transfer	-	-	-	-	-	$199,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71284	3/125 Florence Taylor Street	18/11/1993	18/11/1993	-	$199,000	5746m	Full transfer	-	-	-	-	-	$199,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2806	            10/94 De Little Circuit	13/07/1993	13/07/1993	-	$199,000	4585m	Full transfer	-	-	-	-	-	$199,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71274	1/125 Florence Taylor Street	28/06/1993	28/06/1993	-	$198,000	5746m	Full transfer	-	-	-	-	-	$198,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2741	            2/63 De Little Circuit	29/06/1993	29/06/1993	-	$197,500	3813m	Full transfer	-	-	-	-	-	$197,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71292	8/125 Florence Taylor Street	24/05/1993	24/05/1993	-	$196,000	5746m	Full transfer	-	-	-	-	-	$196,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71253	37 Grounds Crescent	29/07/1993	29/07/1993	-	$195,000	345m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1993	2730	            4/1 Dods Place	07/12/1993	07/12/1993	-	$190,000	4636m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71283	2/125 Florence Taylor Street	26/11/1993	26/11/1993	-	$190,000	5746m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71276	10/125 Florence Taylor Street	24/05/1993	24/05/1993	-	$189,000	5746m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2654	            7/6 Watts Street	01/10/1993	01/10/1993	-	$188,000	3299m	Full transfer	-	-	-	-	-	$188,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2729	            3/1 Dods Place	18/10/1993	18/10/1993	-	$187,500	4636m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71051	2/6 Watts Street	10/12/1993	10/12/1993	-	$187,000	3299m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2653	            6/6 Watts Street	05/10/1993	05/10/1993	-	$186,000	3299m	Full transfer	-	-	-	-	-	$186,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71050	1/6 Watts Street	08/10/1993	08/10/1993	-	$185,000	3299m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2655	            8/6 Watts Street	05/11/1993	05/11/1993	-	$184,000	3299m	Full transfer	-	-	-	-	-	$184,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2737	            9/83 Mortimer Lewis Drive	22/11/1993	22/11/1993	-	$181,000	4915m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2720	            6/18 John Young Crescent	22/01/1993	22/01/1993	-	$178,000	2497m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71206	7/83 Mortimer Lewis Drive	22/10/1993	22/10/1993	-	$176,000	4915m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71204	6/83 Mortimer Lewis Drive	22/10/1993	22/10/1993	-	$176,000	4915m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2736	            8/83 Mortimer Lewis Drive	22/10/1993	22/10/1993	-	$176,000	4915m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2699	            4/113 De Little Circuit	23/03/1993	23/03/1993	-	$175,000	3100m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2759	            2/5 Clamp Place	16/12/1993	16/12/1993	-	$170,000	2204m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71071	4/6 Blackett Crescent	08/03/1993	08/03/1993	-	$170,000	7267m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71208	126 De Little Circuit	11/05/1993	11/05/1993	-	$168,000	347m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	71209	120 De Little Circuit	01/03/1993	01/03/1993	-	$167,500	318m	Full transfer	-	-	-	-	-	$167,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	2687	            4/14 Florence Taylor Street	15/07/1993	15/07/1993	-	$166,000	11402m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2734	            11/83 Mortimer Lewis Drive	25/10/1993	25/10/1993	-	$163,000	4915m	Full transfer	-	-	-	-	-	$163,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2662	            7/16 Watts Street	12/01/1993	12/01/1993	-	$162,000	2501m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2732	            9/1 Dods Place	08/11/1993	08/11/1993	-	$157,500	4636m	Full transfer	-	-	-	-	-	$157,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71183	1/15 Mortimer Lewis Drive	04/06/1993	04/06/1993	-	$156,500	2595m	Full transfer	-	-	-	-	-	$156,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71054	1/16 Watts Street	30/09/1993	30/09/1993	-	$152,000	2501m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71089	9/6 Blackett Crescent	05/10/1993	05/10/1993	-	$151,000	7267m	Full transfer	-	-	-	-	-	$151,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71268	65 Florence Taylor Street	19/04/1993	19/04/1993	-	$150,950	324m	Full transfer	-	-	-	-	-	$150,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	71168	8 Grounds Crescent	19/10/1993	19/10/1993	-	$149,950	319m	Full transfer	-	-	-	-	-	$149,950	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71164	16 Grounds Crescent	11/10/1993	11/10/1993	-	$149,950	414m	Full transfer	-	-	-	-	-	$149,950	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71165	14 Grounds Crescent	20/10/1993	20/10/1993	-	$149,950	428m	Full transfer	-	-	-	-	-	$149,950	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71166	12 Grounds Crescent	11/10/1993	11/10/1993	-	$149,950	462m	Full transfer	-	-	-	-	-	$149,950	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71169	6 Grounds Crescent	24/11/1993	24/11/1993	-	$149,950	309m	Full transfer	-	-	-	-	-	$149,950	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71140	4 Grounds Crescent	26/10/1993	26/10/1993	-	$149,000	316m	Full transfer	-	-	-	-	-	$149,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71171	2 Grounds Crescent	24/12/1993	24/12/1993	-	$149,000	285m	Full transfer	-	-	-	-	-	$149,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71086	7/6 Blackett Crescent	17/03/1993	17/03/1993	-	$149,000	7267m	Full transfer	-	-	-	-	-	$149,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71167	10 Grounds Crescent	22/10/1993	22/10/1993	-	$146,950	389m	Full transfer	-	-	-	-	-	$146,950	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	70983	2/12 Blackett Crescent	25/05/1993	25/05/1993	-	$146,000	4452m	Full transfer	-	-	-	-	-	$146,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2696	            2/113 De Little Circuit	01/06/1993	01/06/1993	-	$144,500	3100m	Full transfer	-	-	-	-	-	$144,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	70963	9/232 Cowlishaw Street	16/04/1993	16/04/1993	-	$104,000	1996m	Full transfer	-	-	-	-	-	$104,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1993	70968	2/191 Anketell Street	15/11/1993	15/11/1993	-	$87,500	1996m	Full transfer	-	-	-	-	-	$87,500	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1993	71173	30 Grounds Crescent	08/04/1993	08/04/1993	-	$69,000	380m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	70809	26 Grounds Crescent	08/04/1993	08/04/1993	-	$69,000	378m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71170	22 Grounds Crescent	08/04/1993	08/04/1993	-	$69,000	371m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71163	18 Grounds Crescent	08/04/1993	08/04/1993	-	$69,000	368m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71172	32 Grounds Crescent	08/04/1993	08/04/1993	-	$69,000	372m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	70808	28 Grounds Crescent	08/04/1993	08/04/1993	-	$69,000	382m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	70810	24 Grounds Crescent	08/04/1993	08/04/1993	-	$69,000	374m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	71181	20 Grounds Crescent	08/04/1993	08/04/1993	-	$69,000	367m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1993	70965	10/191 Anketell Street	01/07/1993	01/07/1993	-	$36,250	1996m	Full transfer	-	-	-	-	-	$36,250	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1993	71196	7/7 John Young Crescent	15/04/1993	15/04/1993	-	-	3059m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71195	6/7 John Young Crescent	13/05/1993	13/05/1993	-	-	3059m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2769	            5/10 De Little Circuit	14/04/1993	14/04/1993	-	-	3526m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71190	1/7 John Young Crescent	22/04/1993	22/04/1993	-	-	3059m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71192	3/7 John Young Crescent	29/04/1993	29/04/1993	-	-	3059m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71194	5/7 John Young Crescent	15/04/1993	15/04/1993	-	-	3059m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71191	2/7 John Young Crescent	28/04/1993	28/04/1993	-	-	3059m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	71193	4/7 John Young Crescent	22/04/1993	22/04/1993	-	-	3059m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71258	61 Grounds Crescent	22/08/1994	02/12/1994	-	$475,000	2759m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Cluster housing medium density	-	-
+1994	71231	7 Grounds Crescent	07/09/1994	07/09/1994	-	$360,000	4302m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Cluster housing medium density	-	-
+1994	71260	59 Florence Taylor Street	22/08/1994	02/12/1994	-	$250,000	1284m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Cluster housing medium density	-	-
+1994	2738	            10/69 Mortimer Lewis Drive	19/07/1994	19/07/1994	-	$235,000	4134m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2713	            7/87 De Little Circuit	31/03/1994	31/03/1994	-	$230,000	3070m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	70964	1/191 Anketell Street	23/08/1994	23/08/1994	-	$222,500	1996m	Full transfer	-	-	-	-	-	$222,500	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1994	71294	9/125 Florence Taylor Street	28/01/1994	28/01/1994	-	$195,000	5746m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	70967	11/191 Anketell Street	04/03/1994	04/03/1994	-	$188,000	1996m	Full transfer	-	-	-	-	-	$188,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1994	2772	            5/10 De Little Circuit	24/06/1994	24/06/1994	-	$187,500	3526m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2722	            3/35 John Young Crescent	25/11/1994	20/12/1994	-	$183,500	1374m	Full transfer	-	-	-	-	-	$183,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2777	            6/6 Clamp Place	19/08/1994	19/08/1994	-	$181,000	2316m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71203	5/83 Mortimer Lewis Drive	05/01/1994	05/01/1994	-	$181,000	4915m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71202	4/83 Mortimer Lewis Drive	20/01/1994	20/01/1994	-	$181,000	4915m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71186	1/35 John Young Crescent	21/06/1994	21/06/1994	-	$180,000	1374m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71214	1/32 Clamp Place	04/07/1994	04/07/1994	-	$180,000	4052m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2801	            2/112 De Little Circuit	17/03/1994	17/03/1994	-	$179,500	4129m	Full transfer	-	-	-	-	-	$179,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71200	2/83 Mortimer Lewis Drive	25/05/1994	25/05/1994	-	$179,000	4915m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71201	3/83 Mortimer Lewis Drive	09/06/1994	09/06/1994	-	$177,000	4915m	Full transfer	-	-	-	-	-	$177,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71281	14/125 Florence Taylor Street	27/04/1994	27/04/1994	-	$175,000	5746m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2804	            5/112 De Little Circuit	24/01/1994	24/01/1994	-	$171,500	4129m	Full transfer	-	-	-	-	-	$171,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2775	            2/6 Clamp Place	10/10/1994	28/10/1994	-	$170,000	2316m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2784	            8/13 Grounds Crescent	27/09/1994	27/09/1994	-	$169,500	2129m	Full transfer	-	-	-	-	-	$169,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2783	            7/13 Grounds Crescent	15/08/1994	15/08/1994	-	$163,950	2129m	Full transfer	-	-	-	-	-	$163,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2782	            6/13 Grounds Crescent	08/07/1994	03/11/1994	-	$163,950	2129m	Full transfer	-	-	-	-	-	$163,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71161	20/14 Florence Taylor Street	01/03/1994	01/03/1994	-	$163,000	11402m	Full transfer	-	-	-	-	-	$163,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2724	            5/35 John Young Crescent	16/08/1994	15/09/1994	-	$162,000	1374m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	70959	10/232 Cowlishaw Street	18/01/1994	18/01/1994	-	$160,000	1996m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1994	71187	2/35 John Young Crescent	22/08/1994	22/08/1994	-	$160,000	1374m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2779	            3/13 Grounds Crescent	25/08/1994	25/08/1994	-	$159,950	2129m	Full transfer	-	-	-	-	-	$159,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2781	            5/13 Grounds Crescent	16/08/1994	16/08/1994	-	$159,950	2129m	Full transfer	-	-	-	-	-	$159,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71148	60 Florence Taylor Street	12/09/1994	04/10/1994	-	$159,000	371m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1994	2780	            4/13 Grounds Crescent	19/10/1994	19/10/1994	-	$159,000	2129m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2727	            10/1 Dods Place	28/03/1994	28/03/1994	-	$157,500	4636m	Full transfer	-	-	-	-	-	$157,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2778	            2/13 Grounds Crescent	17/10/1994	17/10/1994	-	$157,500	2129m	Full transfer	-	-	-	-	-	$157,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71244	1/13 Grounds Crescent	25/10/1994	11/11/1994	-	$156,000	2129m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2735	            12/83 Mortimer Lewis Drive	04/07/1994	04/07/1994	-	$155,000	4915m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2733	            10/83 Mortimer Lewis Drive	08/07/1994	08/07/1994	-	$155,000	4915m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71059	11/6 Blackett Crescent	25/03/1994	25/03/1994	-	$152,000	7267m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2679	            24/14 Florence Taylor Street	31/08/1994	31/08/1994	-	$152,000	11402m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71055	1/6 Blackett Crescent	09/05/1994	09/05/1994	-	$143,250	7267m	Full transfer	-	-	-	-	-	$143,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71233	2/7 Grounds Crescent	12/10/1994	12/01/1995	-	$142,000	4302m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71234	3/7 Grounds Crescent	06/09/1994	18/01/1995	-	$142,000	4302m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71235	4/7 Grounds Crescent	09/09/1994	23/01/1995	-	$141,500	4302m	Full transfer	-	-	-	-	-	$141,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71136	80 Florence Taylor Street	18/04/1994	18/04/1994	-	$140,000	326m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1994	71242	8/7 Grounds Crescent	15/09/1994	23/01/1995	-	$139,950	4302m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71016	6/40 Florence Taylor Street	31/08/1994	12/09/1994	-	$139,950	3828m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71232	1/7 Grounds Crescent	21/09/1994	23/01/1995	-	$139,950	4302m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71243	9/7 Grounds Crescent	14/09/1994	16/01/1995	-	$139,950	4302m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71241	7/7 Grounds Crescent	22/04/1994	18/01/1995	-	$139,950	4302m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71222	142 De Little Circuit	09/09/1994	31/10/1994	-	$138,000	325m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1994	71236	5/7 Grounds Crescent	02/09/1994	27/01/1995	-	$137,840	4302m	Full transfer	-	-	-	-	-	$137,840	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2698	            3/113 De Little Circuit	25/11/1994	13/12/1994	-	$133,000	3100m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	70966	10/191 Anketell Street	04/03/1994	04/03/1994	-	$132,000	1996m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1994	71043	4/48 Florence Taylor Street	10/10/1994	18/10/1994	-	$121,000	4359m	Full transfer	-	-	-	-	-	$121,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71297	46 Rowland Rees Crescent	15/12/1994	15/03/1995	-	$90,000	9721m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Motel	-	-
+1994	2767	            4/10 De Little Circuit	25/03/1994	25/03/1994	-	$35,000	3526m	Full transfer	-	-	-	-	-	$35,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2742	            7/63 De Little Circuit	02/02/1994	13/01/1995	-	-	3813m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71219	6/32 Clamp Place	31/10/1994	12/05/1995	-	-	4052m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	2771	            5/10 De Little Circuit	18/01/1994	18/01/1994	-	-	3526m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71225	7/62 De Little Circuit	15/02/1994	15/02/1994	-	-	3085m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	71018	7/40 Florence Taylor Street	15/07/1994	03/11/1994	-	-	3828m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71299	209 Scollay Street	28/06/1995	28/06/1995	-	$355,000	2513m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+1995	2712	            7/87 De Little Circuit	24/10/1995	19/12/1995	-	$217,439	3070m	Full transfer	-	-	-	-	-	$217,439	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2796	            3/59 Florence Taylor Street	05/12/1995	21/12/1995	-	$195,000	1284m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71220	7/32 Clamp Place	31/08/1995	15/09/1995	-	$195,000	4052m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2797	            4/59 Florence Taylor Street	21/04/1995	10/08/1995	-	$191,500	1284m	Full transfer	-	-	-	-	-	$191,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2791	            6/61 Grounds Crescent	06/06/1995	21/08/1995	-	$191,500	2759m	Full transfer	-	-	-	-	-	$191,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	70958	1/232 Cowlishaw Street	05/07/1995	05/07/1995	-	$190,000	1996m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1995	2794	            9/61 Grounds Crescent	10/03/1995	16/08/1995	-	$190,000	2759m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2792	            7/61 Grounds Crescent	18/04/1995	09/08/1995	-	$190,000	2759m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2793	            8/61 Grounds Crescent	24/03/1995	29/08/1995	-	$190,000	2759m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71267	65 Florence Taylor Street	03/03/1995	11/04/1995	-	$176,000	324m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	71205	7/83 Mortimer Lewis Drive	15/05/1995	09/06/1995	-	$176,000	4915m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2810	            272 Reed Street South	28/06/1995	28/06/1995	-	$175,000	1189m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Retail	-	-
+1995	2786	            2/61 Grounds Crescent	17/07/1995	14/08/1995	-	$170,000	2759m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71213	1/6 Clamp Place	27/10/1995	20/11/1995	-	$170,000	2316m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2795	            2/59 Florence Taylor Street	08/03/1995	07/08/1995	-	$170,000	1284m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2802	            3/112 De Little Circuit	02/06/1995	05/07/1995	-	$170,000	4129m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71245	31 Grounds Crescent	17/11/1995	01/12/1995	-	$170,000	362m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1995	2787	            3/61 Grounds Crescent	13/07/1995	17/08/1995	-	$169,950	2759m	Full transfer	-	-	-	-	-	$169,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71259	1/61 Grounds Crescent	18/04/1995	08/08/1995	-	$169,950	2759m	Full transfer	-	-	-	-	-	$169,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2706	            2/87 De Little Circuit	06/02/1995	28/02/1995	-	$168,000	3070m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2751	            9/48 De Little Circuit	04/04/1995	15/05/1995	-	$165,000	4376m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71278	12/125 Florence Taylor Street	21/09/1995	01/12/1995	-	$160,000	5746m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71277	11/125 Florence Taylor Street	08/12/1995	22/12/1995	-	$155,000	5746m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71240	6/7 Grounds Crescent	15/12/1995	12/04/1996	-	$155,000	4302m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	70969	3/191 Anketell Street	19/06/1995	17/07/1995	-	$154,959	1996m	Full transfer	-	-	-	-	-	$154,959	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1995	71280	13/125 Florence Taylor Street	18/10/1995	18/12/1995	-	$154,500	5746m	Full transfer	-	-	-	-	-	$154,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2670	            14/14 Florence Taylor Street	02/03/1995	24/03/1995	-	$150,000	11402m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2668	            13/14 Florence Taylor Street	02/03/1995	24/03/1995	-	$150,000	11402m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71282	15/125 Florence Taylor Street	27/09/1995	20/10/1995	-	$150,000	5746m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2672	            15/14 Florence Taylor Street	06/10/1995	31/10/1995	-	$145,000	11402m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2702	            8/113 De Little Circuit	14/02/1995	21/03/1995	-	$143,000	3100m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71238	6/7 Grounds Crescent	19/01/1995	03/03/1995	-	$139,950	4302m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2798	            5/59 Florence Taylor Street	31/01/1995	01/08/1995	-	$135,000	1284m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2652	            14/16 Blackett Crescent	21/12/1995	20/02/1996	-	$131,000	4885m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71053	1/16 Watts Street	14/09/1995	13/10/1995	-	$130,000	2501m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71261	1/59 Florence Taylor Street	05/01/1995	02/08/1995	-	$129,950	1284m	Full transfer	-	-	-	-	-	$129,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	70977	1/12 Blackett Crescent	07/09/1995	25/09/1995	-	$125,000	4452m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71042	3/48 Florence Taylor Street	18/05/1995	21/06/1995	-	$114,000	4359m	Full transfer	-	-	-	-	-	$114,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71045	5/48 Florence Taylor Street	08/12/1995	17/01/1996	-	$112,500	4359m	Full transfer	-	-	-	-	-	$112,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2789	            5/61 Grounds Crescent	16/01/1995	04/08/1995	-	$100,000	2759m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2788	            4/61 Grounds Crescent	16/01/1995	04/08/1995	-	$100,000	2759m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2656	            8/6 Watts Street	30/10/1995	28/11/1995	-	$90,000	3299m	Partial transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	2805	            6/112 De Little Circuit	19/05/1995	16/06/1995	-	$85,000	4129m	Partial transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71230	3/4 Clamp Place	20/09/1995	20/09/1995	-	-	3391m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71239	6/7 Grounds Crescent	12/05/1995	03/11/1995	-	-	4302m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	71182	1/113 De Little Circuit	27/01/1995	22/02/1995	-	-	3100m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2809	            272 Reed Street South	27/06/1996	08/07/1996	-	$355,000	1189m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Retail	-	-
+1996	70962	7/232 Cowlishaw Street	13/03/1996	25/03/1996	-	$268,000	1996m	Full transfer	-	-	-	-	-	$268,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1996	71184	1/15 Mortimer Lewis Drive	02/05/1996	29/05/1996	-	$231,000	2595m	Full transfer	-	-	-	-	-	$231,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2650	            Cowlishaw Street	31/07/1996	31/07/1996	-	$224,000	5094m	Full transfer	-	-	-	-	-	$224,000	-	-	Government Record	-	-	-	Restaurant	-	-
+1996	71052	2/6 Watts Street	12/01/1996	23/01/1996	-	$195,000	3299m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71188	25 John Young Crescent	28/11/1996	28/11/1996	-	$192,000	2210m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2705	            2/87 De Little Circuit	09/02/1996	27/02/1996	-	$192,000	3070m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71275	10/125 Florence Taylor Street	18/10/1996	06/11/1996	-	$187,000	5746m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71224	7/62 De Little Circuit	19/02/1996	13/03/1996	-	$183,500	3085m	Full transfer	-	-	-	-	-	$183,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2710	            5/87 De Little Circuit	18/09/1996	21/10/1996	-	$179,000	3070m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2790	            5/61 Grounds Crescent	30/08/1996	14/10/1996	-	$178,000	2759m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2708	            4/87 De Little Circuit	26/07/1996	14/08/1996	-	$175,000	3070m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71293	9/125 Florence Taylor Street	24/05/1996	11/06/1996	-	$175,000	5746m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71288	6/125 Florence Taylor Street	18/01/1996	25/01/1996	-	$175,000	5746m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	190232	128 De Little Circuit	14/10/1996	14/01/1998	-	$169,000	575m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1996	2726	            10/1 Dods Place	30/07/1996	27/08/1996	-	$144,000	4636m	Full transfer	-	-	-	-	-	$144,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	70973	7/191 Anketell Street	28/06/1996	18/07/1996	-	$140,000	1996m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1996	71212	144 De Little Circuit	22/11/1996	09/12/1996	-	$135,000	278m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1996	2695	            9/14 Florence Taylor Street	09/10/1996	16/10/1996	-	$133,150	11402m	Full transfer	-	-	-	-	-	$133,150	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71121	9/6 Blackett Crescent	02/04/1996	19/04/1996	-	$130,000	7267m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71141	7 Watts Street	05/12/1996	19/12/1996	-	$128,500	432m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1996	70997	13/16 Blackett Crescent	01/11/1996	12/11/1996	-	$123,000	4885m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	70849	1/40 Florence Taylor Street	07/06/1996	01/07/1996	-	$119,000	3828m	Full transfer	-	-	-	-	-	$119,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2701	            7/113 De Little Circuit	02/05/1996	22/05/1996	-	$118,000	3100m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71063	13/6 Blackett Crescent	04/09/1996	16/09/1996	-	$115,000	7267m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	11716	             Blackett Circuit	06/06/1996	-	01/03/2001	$114,000	-	Full transfer	4	1	1	-	-	$114,000	-	-	Allhomes Record	-	-	-	-	-	-
+1996	71029	12/48 Florence Taylor Street	12/11/1996	06/12/1996	-	$106,000	4359m	Full transfer	-	-	-	-	-	$106,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2743	            8/63 De Little Circuit	15/06/1996	01/08/1996	-	$100,000	3813m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	71126	54 Florence Taylor Street	03/12/1996	03/12/1996	-	$75,000	360m	Partial transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1996	2776	            6/6 Clamp Place	11/03/1996	03/04/1996	-	-	2316m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	2812	            Scollay Street	24/06/1996	16/08/1996	-	-	5100m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1997	70975	76 Athllon Drive	05/02/1997	06/02/1997	-	$3,750,000	10509m	Full transfer	-	-	-	-	-	$3,750,000	-	-	Government Record	-	-	-	Office	-	-
+1997	71298	320 Anketell Street	14/05/1997	14/05/1997	-	$2,525,000	27639m	Full transfer	-	-	-	-	-	$2,525,000	-	-	Government Record	-	-	-	Retail plant nursery	-	-
+1997	71290	7/125 Florence Taylor Street	01/05/1997	29/05/1997	-	$204,000	5746m	Full transfer	-	-	-	-	-	$204,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	71300	1/209 Scollay Street	04/04/1997	20/10/1997	-	$200,000	2513m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+1997	71301	2/209 Scollay Street	04/04/1997	20/10/1997	-	$200,000	2513m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+1997	71302	8/209 Scollay Street	04/12/1997	24/12/1997	-	$200,000	2513m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+1997	71291	8/125 Florence Taylor Street	31/10/1997	17/11/1997	-	$195,000	5746m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	70961	2/232 Cowlishaw Street	12/02/1997	25/02/1997	-	$190,000	1996m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1997	2707	            3/87 De Little Circuit	14/03/1997	09/04/1997	-	$182,500	3070m	Full transfer	-	-	-	-	-	$182,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2709	            4/87 De Little Circuit	24/09/1997	19/11/1997	-	$182,000	3070m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	71189	5/25 John Young Crescent	18/07/1997	28/11/1997	-	$180,000	2210m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	12504	            4/25 John Young Crescent	23/12/1997	23/01/1998	-	$175,950	2210m	Full transfer	-	-	-	-	-	$175,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2725	            2/25 John Young Crescent	27/11/1997	23/12/1997	-	$175,000	2210m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2752	            9/48 De Little Circuit	19/03/1997	18/04/1997	-	$175,000	4376m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2807	            10/94 De Little Circuit	29/09/1997	13/10/1997	-	$169,000	4585m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	71223	132 De Little Circuit	12/03/1997	08/05/1997	-	$154,000	341m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	2728	            2/1 Dods Place	11/07/1997	28/07/1997	-	$149,950	4636m	Full transfer	-	-	-	-	-	$149,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2690	            5/14 Florence Taylor Street	12/11/1997	11/12/1997	-	$145,000	11402m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2704	            4/101 De Little Circuit	02/05/1997	13/05/1997	-	$144,500	1951m	Full transfer	-	-	-	-	-	$144,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	190217	66 Florence Taylor Street	12/12/1997	08/01/1998	-	$139,500	421m	Full transfer	-	-	-	-	-	$139,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	71131	72 Florence Taylor Street	11/04/1997	06/05/1997	-	$137,500	394m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	71210	146 De Little Circuit	30/09/1997	03/11/1997	-	$135,000	315m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	2703	            2/101 De Little Circuit	09/09/1997	09/09/1997	-	$135,000	1951m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2719	            2/18 John Young Crescent	11/04/1997	13/05/1997	-	$131,000	2497m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	198384	1/14 Florence Taylor Street	16/12/1997	29/01/1998	-	$129,950	11402m	Full transfer	-	-	-	-	-	$129,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	71143	3 Watts Street	09/04/1997	13/05/1997	-	$127,000	390m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	2731	            8/1 Dods Place	24/06/1997	11/07/1997	-	$125,000	4636m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	71124	13 Watts Street	14/04/1997	07/05/1997	-	$125,000	361m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	70986	5/12 Blackett Crescent	03/06/1997	03/06/1997	-	$125,000	4452m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	71207	4/63 De Little Circuit	16/12/1997	30/12/1997	-	$116,600	3813m	Partial transfer	-	-	-	-	-	$116,600	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2697	            2/113 De Little Circuit	03/12/1997	30/12/1997	-	$115,000	3100m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	71088	8/6 Blackett Crescent	31/10/1997	17/11/1997	-	$114,000	7267m	Full transfer	-	-	-	-	-	$114,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	70996	12/16 Blackett Crescent	10/10/1997	11/11/1997	-	$110,000	4885m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2749	            6/48 De Little Circuit	27/10/1997	04/12/1997	-	$93,750	4376m	Full transfer	-	-	-	-	-	$93,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	10599	            8/48 De Little Circuit	27/10/1997	22/12/1998	-	$93,750	4376m	Partial transfer	-	-	-	-	-	$93,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2799	            5/59 Florence Taylor Street	14/08/1997	24/11/1997	-	-	1284m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2711	            7/87 De Little Circuit	14/06/1997	11/09/1997	-	-	3070m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	2774	            6/4 Clamp Place	12/05/1997	14/07/1997	-	-	3391m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	71279	13/125 Florence Taylor Street	04/09/1997	04/09/1997	-	-	5746m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	183164	320 Anketell Street	03/12/1998	03/12/1998	-	$7,900,000	27639m	Full transfer	-	-	-	-	-	$7,900,000	-	-	Government Record	-	-	-	Retail plant nursery	-	-
+1998	10892	            4/61 Grounds Crescent	03/09/1998	21/09/1998	-	$243,000	2759m	Full transfer	-	-	-	-	-	$243,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11167	            3/59 Florence Taylor Street	10/06/1998	09/07/1998	-	$215,000	1284m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	187055	7/62 De Little Circuit	22/09/1998	26/10/1998	-	$198,500	3085m	Full transfer	-	-	-	-	-	$198,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11271	            4/59 Florence Taylor Street	24/11/1998	21/12/1998	-	$197,500	1284m	Full transfer	-	-	-	-	-	$197,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12979	            3/15 Mortimer Lewis Drive	07/12/1998	16/08/1999	-	$195,000	2595m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	183005	1/6 Watts Street	04/09/1998	09/10/1998	-	$193,000	3299m	Full transfer	-	-	-	-	-	$193,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12225	            7/48 De Little Circuit	14/08/1998	15/09/1998	-	$190,000	4376m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	187212	2/125 Florence Taylor Street	13/11/1998	14/12/1998	-	$188,000	5746m	Full transfer	-	-	-	-	-	$188,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11858	            1/25 John Young Crescent	14/04/1998	04/05/1998	-	$184,950	2210m	Full transfer	-	-	-	-	-	$184,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10867	            9/83 Mortimer Lewis Drive	21/05/1998	01/06/1998	-	$181,000	4915m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11532	            3/25 John Young Crescent	16/04/1998	13/05/1998	-	$179,950	2210m	Full transfer	-	-	-	-	-	$179,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11898	            3/35 John Young Crescent	19/11/1998	30/11/1998	-	$175,000	1374m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12215	            10/83 Mortimer Lewis Drive	30/06/1998	21/07/1998	-	$174,000	4915m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	178382	13/125 Florence Taylor Street	01/05/1998	27/05/1998	-	$171,000	5746m	Full transfer	-	-	-	-	-	$171,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10865	            9/63 De Little Circuit	26/05/1998	29/05/1998	-	$170,000	3813m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10875	            3/101 De Little Circuit	27/05/1998	23/06/1998	-	$170,000	1951m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12933	            6/94 De Little Circuit	09/11/1998	30/12/1998	-	$168,000	4585m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	195240	3/209 Scollay Street	04/11/1998	23/11/1998	-	$168,000	2513m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+1998	186345	1/6 Clamp Place	19/02/1998	19/03/1998	-	$165,000	2316m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	178246	2/7 Grounds Crescent	24/07/1998	22/09/1998	-	$165,000	4302m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12202	            3/10 De Little Circuit	21/05/1998	09/06/1998	-	$165,000	3526m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	190700	4/7 John Young Crescent	28/04/1998	01/06/1998	-	$157,000	3059m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	194655	3/7 John Young Crescent	08/05/1998	03/06/1998	-	$157,000	3059m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11270	            5/16 Watts Street	24/11/1998	16/12/1998	-	$157,000	2501m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12188	            9/112 De Little Circuit	02/03/1998	30/03/1998	-	$156,000	4129m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	178499	6/7 Grounds Crescent	10/06/1998	01/07/1998	-	$152,500	4302m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	171125	120 De Little Circuit	15/12/1998	29/01/1999	-	$151,500	318m	Full transfer	-	-	-	-	-	$151,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	170000	1/113 De Little Circuit	21/01/1998	24/02/1998	-	$150,000	3100m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10873	            6/14 Florence Taylor Street	14/05/1998	17/06/1998	-	$148,000	11402m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	186662	126 De Little Circuit	25/05/1998	22/06/1998	-	$145,000	347m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	12218	            5/18 John Young Crescent	09/06/1998	04/08/1998	-	$145,000	2497m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	170675	62 Florence Taylor Street	22/07/1998	31/08/1998	-	$142,000	405m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	198846	78 Florence Taylor Street	29/05/1998	22/06/1998	-	$132,500	318m	Full transfer	-	-	-	-	-	$132,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	12909	            11/14 Florence Taylor Street	01/09/1998	22/09/1998	-	$131,000	11402m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	170143	17/6 Blackett Crescent	06/03/1998	06/04/1998	-	$129,000	7267m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	191166	5/6 Blackett Crescent	22/10/1998	13/11/1998	-	$123,000	7267m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	174570	7/6 Blackett Crescent	27/07/1998	19/08/1998	-	$123,000	7267m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	182503	10/40 Florence Taylor Street	15/04/1998	19/05/1998	-	$118,000	3828m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	186548	17 Watts Street	17/04/1998	19/05/1998	-	$115,000	333m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	182373	6/48 Florence Taylor Street	01/04/1998	07/04/1998	-	$114,000	4359m	Full transfer	-	-	-	-	-	$114,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	178851	2/48 Florence Taylor Street	31/08/1998	20/10/1998	-	$109,000	4359m	Full transfer	-	-	-	-	-	$109,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12524	            8/6 Watts Street	25/02/1998	11/06/1998	-	$100,000	3299m	Partial transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10854	            8/18 John Young Crescent	29/01/1998	05/03/1998	-	$90,000	2497m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	183532	3/232 Cowlishaw Street	13/01/1998	12/03/1999	-	-	1996m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1998	195649	2/232 Cowlishaw Street	13/01/1998	12/03/1999	-	-	1996m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1998	143590	207 Scollay Street	21/11/1998	10/09/2003	-	-	1800m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Car wash	-	-
+1998	11468	            12/69 Mortimer Lewis Drive	10/02/1998	10/02/1998	-	-	4134m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	200002	215 Scollay Street	26/05/1999	26/05/1999	-	$780,000	6719m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Plant and equipment hire es...	-	-
+1999	189528	14/232 Cowlishaw Street	05/11/1999	11/07/2000	-	$500,000	1996m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1999	12820	             Mortimer Lewis Drive	05/02/1999	-	30/04/2001	$270,000	-	Full transfer	3	1	-	1	-	$270,000	-	-	Allhomes Record	-	-	-	-	-	-
+1999	11991	            4/3 Clamp Place	03/09/1999	01/12/1999	-	$270,000	1778m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11647	            11/63 De Little Circuit	24/11/1999	06/01/2000	-	$225,000	3813m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	10721	            6/15 Mortimer Lewis Drive	17/09/1999	24/11/1999	-	$218,000	2595m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	192914	5/125 Florence Taylor Street	16/12/1999	23/02/2000	-	$218,000	5746m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11604	            2/87 De Little Circuit	07/05/1999	28/06/1999	-	$215,000	3070m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	13045	            1/63 De Little Circuit	22/12/1999	04/04/2000	-	$210,000	3813m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	10647	            2/10 De Little Circuit	15/07/1999	13/08/1999	-	$210,000	3526m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12391	            8/63 De Little Circuit	16/08/1999	10/12/1999	-	$208,000	3813m	Full transfer	-	-	-	-	-	$208,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	172414	7/209 Scollay Street	09/12/1999	12/01/2000	-	$200,000	2513m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+1999	11999	            6/62 De Little Circuit	26/11/1999	13/12/1999	-	$198,000	3085m	Full transfer	-	-	-	-	-	$198,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12953	            5/15 Mortimer Lewis Drive	25/02/1999	20/04/1999	-	$195,000	2595m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	10987	            10/94 De Little Circuit	14/09/1999	30/09/1999	-	$193,000	4585m	Full transfer	-	-	-	-	-	$193,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	10927	            7/94 De Little Circuit	02/02/1999	10/03/1999	-	$190,000	4585m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11632	            2/112 De Little Circuit	30/09/1999	04/11/1999	-	$185,000	4129m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12682	            1/10 De Little Circuit	10/05/1999	04/06/1999	-	$183,000	3526m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	200323	2/35 John Young Crescent	19/07/1999	11/08/1999	-	$180,000	1374m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	184099	4/209 Scollay Street	22/07/1999	17/08/1999	-	$180,000	2513m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+1999	11037	            6/6 Clamp Place	17/12/1999	01/02/2000	-	$178,000	2316m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	180553	122 De Little Circuit	23/12/1999	12/01/2000	-	$175,000	341m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	11635	            5/101 De Little Circuit	05/10/1999	16/11/1999	-	$175,000	1951m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11578	            3/94 De Little Circuit	29/01/1999	17/02/1999	-	$173,000	4585m	Full transfer	-	-	-	-	-	$173,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	196715	132 De Little Circuit	29/10/1999	08/12/1999	-	$171,000	341m	Full transfer	-	-	-	-	-	$171,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	13020	            8/113 De Little Circuit	24/12/1999	27/01/2000	-	$170,000	3100m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11014	            12/14 Florence Taylor Street	05/10/1999	19/11/1999	-	$157,000	11402m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12707	            5/18 John Young Crescent	24/09/1999	18/10/1999	-	$154,000	2497m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11630	            4/17 Clamp Place	01/10/1999	28/10/1999	-	$152,500	2844m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	192259	6/40 Florence Taylor Street	26/08/1999	23/09/1999	-	$149,000	3828m	Full transfer	-	-	-	-	-	$149,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	196927	54 Florence Taylor Street	20/12/1999	18/01/2000	-	$147,750	360m	Full transfer	-	-	-	-	-	$147,750	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	179842	8/7 Grounds Crescent	06/07/1999	27/07/1999	-	$145,500	4302m	Full transfer	-	-	-	-	-	$145,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	187601	11/12 Blackett Crescent	05/03/1999	08/04/1999	-	$145,000	4452m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	171480	6/1 John Young Crescent	05/05/1999	18/05/1999	-	$140,000	6087m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12950	            6/113 De Little Circuit	19/02/1999	26/03/1999	-	$139,750	3100m	Full transfer	-	-	-	-	-	$139,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	180447	4/6 Blackett Crescent	19/11/1999	15/12/1999	-	$137,500	7267m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11910	            8/1 Dods Place	15/02/1999	03/03/1999	-	$135,500	4636m	Full transfer	-	-	-	-	-	$135,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12971	            5/17 Clamp Place	19/05/1999	14/07/1999	-	$133,500	2844m	Full transfer	-	-	-	-	-	$133,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	187873	11 Watts Street	15/04/1999	23/06/1999	-	$131,000	388m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	11956	            6/16 Watts Street	30/06/1999	03/08/1999	-	$130,000	2501m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	184245	17 Watts Street	23/08/1999	29/09/1999	-	$125,000	333m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	180311	8/16 Blackett Crescent	26/10/1999	16/11/1999	-	$124,000	4885m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	10926	            3/113 De Little Circuit	27/01/1999	04/03/1999	-	$123,500	3100m	Full transfer	-	-	-	-	-	$123,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	188482	14/6 Blackett Crescent	03/11/1999	10/11/1999	-	$123,000	7267m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	171323	14/6 Blackett Crescent	25/03/1999	01/04/1999	-	$120,500	7267m	Full transfer	-	-	-	-	-	$120,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	188534	5/12 Blackett Crescent	11/10/1999	24/11/1999	-	$120,000	4452m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	196563	28 Grounds Crescent	10/08/1999	01/11/1999	-	$115,000	382m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1999	184813	9/191 Anketell Street	24/12/1999	10/02/2000	-	$85,000	1996m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1999	175577	8 Grounds Crescent	30/04/1999	01/06/1999	-	$67,000	319m	Partial transfer	-	-	-	-	-	$67,000	-	-	Government Record	-	-	-	Cottage block	-	-
+1999	13010	            6/6 Clamp Place	15/11/1999	16/12/1999	-	-	2316m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	34206	16 De Little Circuit	30/12/1999	-	26/09/2003	-	0m	Full transfer	3	1	1	2	-	-	-	-	Allhomes Record	-	-	-	-	$235,000	-
+1999	143514	18/14 Florence Taylor Street	22/12/1999	31/01/2002	-	-	11402m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	143588	320 Anketell Street	24/06/1999	24/09/2001	-	-	27639m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail plant nursery	-	-
+1999	12726	            7/18 John Young Crescent	01/11/1999	14/01/2000	-	-	2497m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	184669	19 Watts Street	17/12/1999	10/01/2000	-	-	407m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	12995	            3/10 De Little Circuit	21/06/1999	29/10/1999	-	-	3526m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	10638	            5/18 John Young Crescent	07/04/1999	12/07/1999	-	-	2497m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	185875	217 Scollay Street	28/10/2000	28/10/2000	-	$620,000	6719m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Office	-	-
+2000	13187	            8/4 Clamp Place	02/11/2000	08/12/2000	-	$257,000	3391m	Full transfer	-	-	-	-	-	$257,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	13177	            2/61 Grounds Crescent	23/10/2000	17/11/2000	-	$250,000	2759m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11424	            1/3 Clamp Place	26/07/2000	01/09/2000	-	$245,000	1778m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	10798	            4/62 De Little Circuit	16/06/2000	05/07/2000	-	$243,000	3085m	Full transfer	-	-	-	-	-	$243,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	13070	            6/62 De Little Circuit	23/05/2000	04/06/2000	-	$240,000	3085m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	197003	5/25 John Young Crescent	20/01/2000	08/02/2000	-	$237,000	2210m	Full transfer	-	-	-	-	-	$237,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	201955	1/125 Florence Taylor Street	21/07/2000	14/09/2000	-	$227,500	5746m	Full transfer	-	-	-	-	-	$227,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	12469	            1/62 De Little Circuit	08/08/2000	04/10/2000	-	$227,500	3085m	Full transfer	-	-	-	-	-	$227,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	201840	10/125 Florence Taylor Street	26/05/2000	08/08/2000	-	$226,500	5746m	Full transfer	-	-	-	-	-	$226,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11043	            9/63 De Little Circuit	03/03/2000	06/03/2000	-	$220,000	3813m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	7212	            6/63 De Little Circuit	16/10/2000	01/03/2001	-	$220,000	3813m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	184852	35 Grounds Crescent	27/01/2000	23/02/2000	-	$219,000	327m	Full transfer	-	-	-	-	-	$219,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2000	172956	31 Grounds Crescent	19/04/2000	30/05/2000	-	$217,000	362m	Full transfer	-	-	-	-	-	$217,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2000	11045	            4/48 De Little Circuit	02/02/2000	07/03/2000	-	$215,000	4376m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11512	            8/13 Grounds Crescent	19/07/2000	27/09/2000	-	$205,000	2129m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	13153	            7/69 Mortimer Lewis Drive	22/06/2000	07/08/2000	-	$204,000	4134m	Full transfer	-	-	-	-	-	$204,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	12730	            8/112 De Little Circuit	18/01/2000	10/02/2000	-	$200,000	4129m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11655	            2/62 De Little Circuit	14/01/2000	28/01/2000	-	$199,000	3085m	Full transfer	-	-	-	-	-	$199,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	181915	1/101 De Little Circuit	24/10/2000	27/11/2000	-	$195,000	1951m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	201667	4/191 Anketell Street	29/05/2000	30/06/2000	-	$195,000	1996m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+2000	201702	4/83 Mortimer Lewis Drive	06/06/2000	11/07/2000	-	$194,000	4915m	Full transfer	-	-	-	-	-	$194,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	7184	            7/18 John Young Crescent	15/08/2000	15/02/2001	-	$189,000	2497m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	7185	            7/18 John Young Crescent	22/12/2000	16/02/2001	-	$189,000	2497m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	181807	5/83 Mortimer Lewis Drive	22/09/2000	31/10/2000	-	$185,000	4915m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	10750	            1/1 Dods Place	14/02/2000	14/03/2000	-	$185,000	4636m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	172744	4/32 Clamp Place	10/03/2000	10/04/2000	-	$184,500	4052m	Full transfer	-	-	-	-	-	$184,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	12144	            3/17 Clamp Place	10/08/2000	31/08/2000	-	$179,000	2844m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11440	            11/1 Dods Place	11/05/2000	23/10/2000	-	$175,000	4636m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	194057	5/1 Dods Place	11/10/2000	21/11/2000	-	$175,000	4636m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	13156	            4/16 Watts Street	26/07/2000	31/08/2000	-	$168,000	2501m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	181366	5/7 John Young Crescent	13/06/2000	12/07/2000	-	$155,000	3059m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	12121	            7/1 Dods Place	09/05/2000	22/06/2000	-	$151,500	4636m	Full transfer	-	-	-	-	-	$151,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11062	            8/18 John Young Crescent	24/03/2000	10/04/2000	-	$150,000	2497m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	189130	142 De Little Circuit	02/03/2000	10/04/2000	-	$150,000	325m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	12401	            9/1 Dods Place	09/02/2000	23/02/2000	-	$148,500	4636m	Full transfer	-	-	-	-	-	$148,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	143486	4/6 Blackett Crescent	24/11/2000	26/03/2001	-	$147,000	7267m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	181344	6/7 John Young Crescent	16/06/2000	07/07/2000	-	$145,000	3059m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11699	            29/14 Florence Taylor Street	05/07/2000	04/08/2000	-	$142,000	11402m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	173255	9/6 Blackett Crescent	09/06/2000	04/08/2000	-	$142,000	7267m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	172829	6/12 Blackett Crescent	30/03/2000	02/05/2000	-	$142,000	4452m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11431	            28/14 Florence Taylor Street	31/07/2000	27/09/2000	-	$141,800	11402m	Full transfer	-	-	-	-	-	$141,800	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	177128	8/12 Blackett Crescent	10/05/2000	09/06/2000	-	$141,000	4452m	Full transfer	-	-	-	-	-	$141,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	173351	9 Watts Street	27/07/2000	01/09/2000	-	$140,000	414m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	177079	13/6 Blackett Crescent	13/04/2000	30/05/2000	-	$135,000	7267m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	181182	6/6 Blackett Crescent	28/03/2000	26/05/2000	-	$131,500	7267m	Full transfer	-	-	-	-	-	$131,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	193151	7/40 Florence Taylor Street	04/04/2000	11/04/2000	-	$130,000	3828m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	176632	1/40 Florence Taylor Street	06/01/2000	17/02/2000	-	$68,000	3828m	Full transfer	-	-	-	-	-	$68,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	334	            4/35 John Young Crescent	17/04/2000	21/08/2006	-	-	1374m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	197831	16/14 Florence Taylor Street	24/08/2000	24/08/2000	-	-	11402m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	12760	            3/112 De Little Circuit	02/02/2000	20/06/2000	-	-	4129m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	188868	2/14 Florence Taylor Street	09/02/2000	09/02/2000	-	-	11402m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	13050	            3/1 Dods Place	07/03/2000	11/04/2000	-	-	4636m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	143584	63 Florence Taylor Street	27/09/2000	16/01/2001	-	-	354m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193270	2/14 Florence Taylor Street	09/05/2000	09/05/2000	-	-	11402m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11398	            3/63 De Little Circuit	22/06/2000	22/06/2000	-	-	3813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143496	205 Anketell Street	30/03/2001	21/06/2001	-	$9,750,000	2325m	Full transfer	-	-	-	-	-	$9,750,000	-	-	Government Record	-	-	-	Residential	-	-
+2001	7243	            Scollay Street	02/03/2001	15/05/2001	-	$1,950,000	26242m	Full transfer	-	-	-	-	-	$1,950,000	-	-	Government Record	-	-	-	Business agency	-	-
+2001	143536	1 Bibb Place	22/03/2001	22/03/2001	-	$1,650,000	13016m	Full transfer	-	-	-	-	-	$1,650,000	-	-	Government Record	-	-	-	Multi unit development (res...	-	-
+2001	143524	113 Mortimer Lewis Drive	14/06/2001	14/06/2001	-	$1,015,000	6240m	Full transfer	-	-	-	-	-	$1,015,000	-	-	Government Record	-	-	-	Multi unit development (res...	-	-
+2001	143546	9/1 Bibb Place	09/08/2001	28/05/2002	-	$395,000	13016m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143543	6/1 Bibb Place	15/08/2001	26/03/2002	-	$385,000	13016m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143544	7/1 Bibb Place	22/08/2001	04/03/2002	-	$370,000	13016m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143542	5/1 Bibb Place	07/08/2001	22/02/2002	-	$345,000	13016m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143538	10/1 Bibb Place	27/07/2001	27/02/2002	-	$335,000	13016m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7189	            13/1 Bibb Place	07/08/2001	10/05/2002	-	$330,000	13016m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143541	4/1 Bibb Place	12/11/2001	20/02/2002	-	$325,000	13016m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7207	            24/1 Bibb Place	14/12/2001	06/05/2002	-	$325,000	13016m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5459	            16/1 Bibb Place	15/07/2001	27/03/2002	-	$315,000	13016m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7232	            5/61 Grounds Crescent	08/09/2001	10/10/2001	-	$310,000	2759m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7206	            23/1 Bibb Place	16/12/2001	27/03/2002	-	$295,000	13016m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143545	8/1 Bibb Place	22/08/2001	11/03/2002	-	$291,600	13016m	Full transfer	-	-	-	-	-	$291,600	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7201	            18/1 Bibb Place	05/09/2001	26/03/2002	-	$285,000	13016m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7234	            7/61 Grounds Crescent	03/05/2001	19/06/2001	-	$280,000	2759m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143585	71 Florence Taylor Street	11/09/2001	26/09/2001	-	$260,000	324m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	143581	1/61 Grounds Crescent	16/02/2001	23/03/2001	-	$260,000	2759m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143553	4/1 John Young Crescent	16/10/2001	13/11/2001	-	$260,000	6087m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7219	            7/4 Clamp Place	13/07/2001	28/08/2001	-	$255,000	3391m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143579	35 Grounds Crescent	12/02/2001	19/03/2001	-	$249,000	327m	Full transfer	-	-	-	-	-	$249,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2001	7240	            8/94 De Little Circuit	28/09/2001	02/11/2001	-	$240,000	4585m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7200	            5/3 Clamp Place	16/02/2001	30/05/2001	-	$240,000	1778m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7178	            3/15 Mortimer Lewis Drive	09/03/2001	07/05/2001	-	$237,000	2595m	Full transfer	-	-	-	-	-	$237,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7199	            8/48 De Little Circuit	24/10/2001	16/11/2001	-	$237,000	4376m	Full transfer	-	-	-	-	-	$237,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7210	            12/69 Mortimer Lewis Drive	18/06/2001	27/12/2001	-	$230,000	4134m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7242	            9/94 De Little Circuit	24/05/2001	20/06/2001	-	$230,000	4585m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7182	            5/18 John Young Crescent	07/08/2001	11/09/2001	-	$225,000	2497m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143586	12/125 Florence Taylor Street	15/03/2001	20/04/2001	-	$225,000	5746m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7216	            2/5 Clamp Place	06/12/2001	27/12/2001	-	$222,000	2204m	Full transfer	-	-	-	-	-	$222,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143551	2/1 John Young Crescent	28/02/2001	20/04/2001	-	$222,000	6087m	Full transfer	-	-	-	-	-	$222,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143547	1/35 John Young Crescent	12/04/2001	18/05/2001	-	$220,000	1374m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7238	            4/94 De Little Circuit	06/02/2001	05/03/2001	-	$219,000	4585m	Full transfer	-	-	-	-	-	$219,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7164	            6/6 Watts Street	16/02/2001	05/04/2001	-	$218,000	3299m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7174	            4/113 De Little Circuit	30/10/2001	30/11/2001	-	$214,200	3100m	Full transfer	-	-	-	-	-	$214,200	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143557	4/83 Mortimer Lewis Drive	12/04/2001	06/06/2001	-	$213,000	4915m	Full transfer	-	-	-	-	-	$213,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143563	124 De Little Circuit	17/09/2001	02/11/2001	-	$210,000	348m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	7181	            4/18 John Young Crescent	15/11/2001	15/02/2002	-	$210,000	2497m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7218	            4/17 Clamp Place	20/09/2001	10/10/2001	-	$209,500	2844m	Full transfer	-	-	-	-	-	$209,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7195	            11/1 Dods Place	19/07/2001	27/08/2001	-	$209,000	4636m	Full transfer	-	-	-	-	-	$209,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143574	6/32 Clamp Place	26/06/2001	06/08/2001	-	$203,000	4052m	Full transfer	-	-	-	-	-	$203,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7179	            3/18 John Young Crescent	04/10/2001	15/11/2001	-	$200,000	2497m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143515	18/14 Florence Taylor Street	23/11/2001	31/01/2002	-	$197,000	11402m	Full transfer	-	-	-	-	-	$197,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7176	            9/113 De Little Circuit	08/02/2001	01/03/2001	-	$190,000	3100m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143505	12/6 Blackett Crescent	27/11/2001	08/01/2002	-	$186,000	7267m	Full transfer	-	-	-	-	-	$186,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143516	16 Grounds Crescent	09/07/2001	23/08/2001	-	$185,000	414m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Cottage block	-	-
+2001	7186	            8/18 John Young Crescent	02/11/2001	30/11/2001	-	$185,000	2497m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	7197	            12/83 Mortimer Lewis Drive	15/01/2001	30/01/2001	-	$180,000	4915m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143591	5/209 Scollay Street	12/04/2001	06/06/2001	-	$180,000	2513m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+2001	143592	6/209 Scollay Street	10/12/2001	28/12/2001	-	$180,000	2513m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+2001	7215	            5/48 De Little Circuit	30/05/2001	19/12/2001	-	$180,000	4376m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143549	6/7 John Young Crescent	18/09/2001	19/10/2001	-	$175,000	3059m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143501	1/40 Florence Taylor Street	27/06/2001	07/08/2001	-	$172,500	3828m	Full transfer	-	-	-	-	-	$172,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143582	1/59 Florence Taylor Street	12/07/2001	21/08/2001	-	$170,000	1284m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143503	9/40 Florence Taylor Street	01/05/2001	06/08/2001	-	$166,500	3828m	Full transfer	-	-	-	-	-	$166,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143554	5/1 John Young Crescent	25/01/2001	20/02/2001	-	$164,950	6087m	Full transfer	-	-	-	-	-	$164,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143566	134 De Little Circuit	22/01/2001	04/05/2001	-	$162,500	341m	Full transfer	-	-	-	-	-	$162,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	143508	15/6 Blackett Crescent	29/01/2001	15/03/2001	-	$157,000	7267m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	12310	             John Young Crescent	24/04/2001	-	03/04/2001	$151,000	-	Full transfer	2	2	1	1	-	$151,000	21	-	Allhomes Record	-	-	-	-	-	-
+2001	143504	7/48 Florence Taylor Street	23/07/2001	28/08/2001	-	$133,000	4359m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	13623	             Clamp Place	26/06/2001	-	08/06/2001	$130,000	-	Full transfer	3	1	-	-	1	$130,000	18	-	Allhomes Record	-	-	-	-	-	-
+2001	143489	78 Florence Taylor Street	03/09/2001	26/09/2001	-	$75,000	318m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	7217	            2/17 Clamp Place	20/02/2001	20/02/2001	-	$60,000	2844m	Partial transfer	-	-	-	-	-	$60,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143569	6/10 De Little Circuit	20/07/2001	25/07/2001	-	-	3526m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	143564	146 De Little Circuit	23/05/2001	23/05/2001	-	-	315m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	7173	            5/14 Florence Taylor Street	04/07/2001	15/08/2001	-	-	11402m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143587	151 Oakden Street	17/06/2002	25/03/2003	-	$5,005,000	7280m	Full transfer	-	-	-	-	-	$5,005,000	-	-	Government Record	-	-	-	Office	-	-
+2002	143495	76 Cowlishaw Street	07/12/2002	19/03/2003	-	$2,150,000	5506m	Full transfer	-	-	-	-	-	$2,150,000	-	-	Government Record	-	-	-	Restaurant	-	-
+2002	17038	             Florence Taylor Crescent	30/04/2002	-	15/11/2001	$690,000	-	Full transfer	4	1	2	-	3	$690,000	166	-	Allhomes Record	-	-	-	-	-	-
+2002	7235	            7/61 Grounds Crescent	17/12/2002	30/01/2003	-	$370,000	2759m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143572	4/4 Clamp Place	26/09/2002	21/10/2002	-	$352,500	3391m	Full transfer	-	-	-	-	-	$352,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143540	3/1 Bibb Place	08/05/2002	21/05/2002	-	$350,000	13016m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5457	            14/1 Bibb Place	02/04/2002	09/05/2002	-	$350,000	13016m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5460	            17/1 Bibb Place	18/04/2002	07/06/2002	-	$342,000	13016m	Full transfer	-	-	-	-	-	$342,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7188	            12/1 Bibb Place	13/02/2002	27/03/2002	-	$340,000	13016m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5458	            15/1 Bibb Place	12/04/2002	22/04/2002	-	$337,000	13016m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7187	            11/1 Bibb Place	07/03/2002	10/04/2002	-	$335,000	13016m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143539	2/1 Bibb Place	22/02/2002	20/03/2002	-	$330,000	13016m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143580	41 Grounds Crescent	26/10/2002	04/12/2002	-	$323,500	353m	Full transfer	-	-	-	-	-	$323,500	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2002	143537	1/1 Bibb Place	14/05/2002	27/12/2002	-	$320,000	13016m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143567	7/62 De Little Circuit	03/10/2002	12/11/2002	-	$320,000	3085m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7205	            22/1 Bibb Place	11/03/2002	02/04/2002	-	$305,000	13016m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7203	            20/1 Bibb Place	13/02/2002	10/04/2002	-	$299,000	13016m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7204	            21/1 Bibb Place	22/11/2002	08/04/2002	-	$295,000	13016m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	305238	77 Florence Taylor Street	26/08/2002	11/10/2002	-	$295,000	324m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	7202	            19/1 Bibb Place	18/02/2002	17/06/2002	-	$295,000	13016m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7209	            11/69 Mortimer Lewis Drive	15/05/2002	16/07/2002	-	$295,000	4134m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143578	31 Grounds Crescent	05/03/2002	08/04/2002	13/02/2002	$295,000	362m	Full transfer	3	1	1	2	-	$295,000	20	-	Combined Record	-	-	-	For residential purposes only	$94,000	0.32
+2002	29103	76 De Little Circuit	06/09/2002	-	12/07/2002	$286,000	458m	Full transfer	4	1	-	2	-	$286,000	56	-	Allhomes Record	-	-	-	-	$400,000	1.4
+2002	7237	            10/94 De Little Circuit	06/09/2002	13/11/2002	-	$286,000	4585m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143576	2/7 Grounds Crescent	23/01/2002	08/02/2002	-	$285,000	4302m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	27470	2/7 Grounds Crescent	24/01/2002	-	09/11/2001	$285,000	0m	Full transfer	3	2	1	2	-	$285,000	76	-	Allhomes Record	-	-	-	-	$0	0.0
+2002	143556	9/1 John Young Crescent	20/12/2002	24/01/2003	-	$284,000	6087m	Full transfer	-	-	-	-	-	$284,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7239	            6/94 De Little Circuit	29/07/2002	20/08/2002	-	$280,000	4585m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7221	            2/5 Clamp Place	08/11/2002	09/01/2003	-	$280,000	2204m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143552	3/1 John Young Crescent	26/04/2002	28/05/2002	-	$278,000	6087m	Full transfer	-	-	-	-	-	$278,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7213	            3/62 De Little Circuit	26/02/2002	12/04/2002	-	$272,500	3085m	Full transfer	-	-	-	-	-	$272,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7177	            2/87 De Little Circuit	08/02/2002	27/02/2003	-	$266,000	3070m	Full transfer	-	-	-	-	-	$266,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143573	3/32 Clamp Place	31/01/2002	08/04/2002	-	$255,000	4052m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7220	            8/13 Grounds Crescent	28/06/2002	07/08/2002	-	$250,000	2129m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143555	8/1 John Young Crescent	09/07/2002	06/08/2002	-	$250,000	6087m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	305236	10 Grounds Crescent	19/10/2002	28/11/2002	-	$245,000	389m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Cottage block	-	-
+2002	143511	3 Watts Street	11/12/2002	10/02/2003	-	$245,000	390m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	143550	7/7 John Young Crescent	10/10/2002	20/12/2002	-	$225,000	3059m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143484	2/232 Cowlishaw Street	14/10/2002	14/10/2002	-	$220,000	1996m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+2002	143548	1/7 John Young Crescent	20/08/2002	17/09/2002	-	$219,950	3059m	Full transfer	-	-	-	-	-	$219,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7171	            26/14 Florence Taylor Street	23/08/2002	03/10/2002	-	$219,685	11402m	Full transfer	-	-	-	-	-	$219,685	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7166	            10/14 Florence Taylor Street	25/01/2002	11/04/2002	-	$218,000	11402m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143502	4/40 Florence Taylor Street	17/04/2002	07/05/2002	-	$216,000	3828m	Full transfer	-	-	-	-	-	$216,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7168	            21/14 Florence Taylor Street	09/01/2002	15/02/2002	-	$214,500	11402m	Full transfer	-	-	-	-	-	$214,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143519	12 Grounds Crescent	19/02/2002	24/07/2002	-	$210,000	462m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Cottage block	-	-
+2002	143521	6 Grounds Crescent	09/05/2002	03/07/2002	-	$210,000	309m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Cottage block	-	-
+2002	143577	7/7 Grounds Crescent	08/01/2002	12/02/2002	-	$208,000	4302m	Full transfer	-	-	-	-	-	$208,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143499	9/12 Blackett Crescent	16/04/2002	03/07/2002	-	$207,000	4452m	Full transfer	-	-	-	-	-	$207,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7170	            25/14 Florence Taylor Street	08/02/2002	25/03/2002	-	$203,000	11402m	Full transfer	-	-	-	-	-	$203,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143490	11 Watts Street	13/11/2002	16/01/2003	28/10/2002	$200,000	388m	Full transfer	2	1	-	1	-	$200,000	16	-	Combined Record	-	-	-	Medium density dwelling	$71,000	0.36
+2002	7165	            7/16 Watts Street	08/03/2002	02/04/2002	-	$200,000	2501m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143498	4/12 Blackett Crescent	11/03/2002	11/04/2002	09/02/2002	$190,000	4452m	Full transfer	3	-	1	-	2	$190,000	30	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2002	143565	140 De Little Circuit	24/05/2002	03/07/2002	-	$189,000	337m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	143497	1/12 Blackett Crescent	07/02/2002	22/02/2002	-	$178,000	4452m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143500	7/16 Blackett Crescent	29/01/2002	22/02/2002	-	$149,300	4885m	Full transfer	-	-	-	-	-	$149,300	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	16986	             John Young Crescent	26/04/2002	-	08/11/2001	-	0m	Full transfer	4	2	1	-	-	-	169	-	Allhomes Record	-	-	-	-	$0	-
+2002	143513	18/14 Florence Taylor Street	22/06/2002	19/11/2002	-	-	11402m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	7236	            5/112 De Little Circuit	31/05/2002	03/07/2002	-	-	4129m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	143506	13/6 Blackett Crescent	26/01/2002	19/08/2002	-	-	7267m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	14883	            Rowland Rees Crescent	09/05/2003	05/02/2004	-	$5,200,000	26043m	Full transfer	-	-	-	-	-	$5,200,000	-	-	Government Record	-	-	-	Office	-	-
+2003	143589	185 Scollay Street	19/11/2003	19/11/2003	-	$1,600,000	3369m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Office	-	-
+2003	143571	2/4 Clamp Place	05/11/2003	12/12/2003	-	$450,000	3391m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	7211	            10/63 De Little Circuit	15/07/2003	26/09/2003	-	$450,000	3813m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	31450	75 De Little Circuit	15/07/2003	-	01/05/2003	$450,000	0m	Full transfer	3	1	1	2	-	$450,000	75	-	Allhomes Record	-	-	-	-	$500,000	1.11
+2003	32533	31 John Young Crescent	24/09/2003	-	01/08/2003	$440,000	0m	Full transfer	3	1	2	2	-	$440,000	54	-	Allhomes Record	-	-	-	-	$200,000	0.45
+2003	7208	            2/25 John Young Crescent	24/09/2003	21/11/2003	-	$440,000	2210m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143531	5/113 Mortimer Lewis Drive	10/07/2003	15/10/2003	-	$435,000	6240m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143530	4/113 Mortimer Lewis Drive	01/08/2003	25/09/2003	-	$435,000	6240m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143525	1/113 Mortimer Lewis Drive	19/03/2003	26/09/2003	-	$435,000	6240m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143532	6/113 Mortimer Lewis Drive	07/08/2003	25/09/2003	-	$433,800	6240m	Full transfer	-	-	-	-	-	$433,800	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143529	3/113 Mortimer Lewis Drive	01/08/2003	12/12/2003	-	$430,000	6240m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	7194	            3/25 John Young Crescent	04/07/2003	12/08/2003	-	$430,000	2210m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143528	2/113 Mortimer Lewis Drive	02/05/2003	25/09/2003	-	$430,000	6240m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	214763	11/113 Mortimer Lewis Drive	27/08/2003	05/01/2004	-	$420,000	6240m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143527	12/113 Mortimer Lewis Drive	30/09/2003	13/11/2003	-	$415,000	6240m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143534	8/113 Mortimer Lewis Drive	27/06/2003	09/09/2003	-	$410,000	6240m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	7233	            5/61 Grounds Crescent	27/08/2003	16/09/2003	-	$408,000	2759m	Full transfer	-	-	-	-	-	$408,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	14942	            7/13 Grounds Crescent	23/10/2003	12/01/2004	-	$400,000	2129m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	14928	            3/10 De Little Circuit	04/12/2003	02/02/2004	-	$400,000	3526m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143533	7/113 Mortimer Lewis Drive	01/08/2003	26/09/2003	-	$398,000	6240m	Full transfer	-	-	-	-	-	$398,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143535	9/113 Mortimer Lewis Drive	04/04/2003	26/09/2003	-	$396,000	6240m	Full transfer	-	-	-	-	-	$396,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143526	10/113 Mortimer Lewis Drive	09/04/2003	22/09/2003	-	$396,000	6240m	Full transfer	-	-	-	-	-	$396,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143562	126 De Little Circuit	29/10/2003	01/12/2003	-	$395,000	347m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2003	7214	            5/62 De Little Circuit	28/08/2003	30/09/2003	-	$390,000	3085m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143561	130 De Little Circuit	30/07/2003	10/10/2003	-	$380,000	472m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2003	7241	            8/94 De Little Circuit	25/09/2003	21/11/2003	-	$375,000	4585m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	7180	            3/18 John Young Crescent	03/10/2003	21/11/2003	-	$362,000	2497m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	30584	57 Grounds Crescent	28/02/2003	-	17/01/2003	$355,000	-	Full transfer	3	1	1	2	-	$355,000	42	-	Allhomes Record	-	-	-	-	$470,000	1.32
+2003	7231	            3/61 Grounds Crescent	28/02/2003	10/04/2003	-	$355,000	2759m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	7172	            3/14 Florence Taylor Street	29/09/2003	21/11/2003	-	$350,000	11402m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	32635	16 Florence Taylor Street	04/09/2003	-	07/08/2003	$350,000	0m	Full transfer	3	1	1	2	-	$350,000	28	-	Allhomes Record	-	-	-	-	$900,000	2.57
+2003	7175	            8/113 De Little Circuit	24/10/2003	15/12/2003	-	$345,000	3100m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143575	7/32 Clamp Place	01/07/2003	19/08/2003	-	$330,000	4052m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	214753	15/6 Blackett Crescent	09/12/2003	26/03/2004	-	$328,000	7267m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	7198	            8/83 Mortimer Lewis Drive	08/09/2003	16/10/2003	-	$328,000	4915m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	33875	15/6 Florence Taylor Street	09/12/2003	-	12/09/2003	$328,000	0m	Full transfer	3	1	1	2	-	$328,000	88	-	Allhomes Record	-	-	-	-	$0	0.0
+2003	317004	6/10 De Little Circuit	27/02/2003	25/03/2003	-	$325,500	3526m	Full transfer	-	-	-	-	-	$325,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	31281	13 Clamp Place	11/06/2003	-	04/04/2003	$325,000	-	Full transfer	4	1	1	2	-	$325,000	68	-	Allhomes Record	-	-	-	-	$240,000	0.74
+2003	14926	            5/5 Clamp Place	16/06/2003	14/04/2004	-	$325,000	2204m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	14927	            5/5 Clamp Place	11/06/2003	20/04/2004	-	$325,000	2204m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143558	4/83 Mortimer Lewis Drive	13/05/2003	06/06/2003	-	$325,000	4915m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143523	1/87 De Little Circuit	21/02/2003	11/04/2003	-	$320,000	3070m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143518	14 Grounds Crescent	15/08/2003	17/10/2003	30/07/2003	$318,000	428m	Full transfer	3	1	-	2	-	$318,000	16	-	Combined Record	-	-	-	Cottage block	$81,000	0.25
+2003	143487	6/6 Blackett Crescent	09/10/2003	20/11/2003	-	$310,000	7267m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143560	7/83 Mortimer Lewis Drive	17/04/2003	03/07/2003	-	$308,000	4915m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	7167	            11/14 Florence Taylor Street	17/04/2003	29/07/2003	-	$300,000	11402m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143483	10/232 Cowlishaw Street	12/06/2003	12/08/2003	-	$292,500	1996m	Full transfer	-	-	-	-	-	$292,500	-	-	Government Record	-	-	-	Co-0perative society	-	-
+2003	311433	11 Watts Street	22/12/2003	02/02/2004	-	$290,000	388m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2003	7169	            22/14 Florence Taylor Street	30/06/2003	13/08/2003	-	$287,000	11402m	Full transfer	-	-	-	-	-	$287,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143568	1/17 Clamp Place	28/02/2003	25/03/2003	01/11/2002	$283,000	2844m	Full transfer	3	1	1	2	-	$283,000	119	-	Combined Record	-	-	-	Multiple unit dwelling	$245,000	0.87
+2003	143522	6 Grounds Crescent	09/05/2003	10/06/2003	-	$282,000	309m	Full transfer	-	-	-	-	-	$282,000	-	-	Government Record	-	-	-	Cottage block	-	-
+2003	7183	            6/18 John Young Crescent	20/02/2003	14/03/2003	-	$280,000	2497m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143559	6/83 Mortimer Lewis Drive	17/01/2003	13/02/2003	-	$275,000	4915m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	29779	19 Clamp Place	24/03/2003	-	11/10/2002	$270,000	-	Full transfer	3	1	1	2	-	$270,000	164	-	Allhomes Record	-	-	-	-	$245,000	0.91
+2003	143517	14 Grounds Crescent	17/01/2003	17/02/2003	13/12/2002	$258,000	428m	Full transfer	3	1	-	-	2	$258,000	35	-	Combined Record	-	-	-	Cottage block	$81,000	0.31
+2003	143512	18/14 Florence Taylor Street	06/01/2003	07/02/2003	-	$253,000	11402m	Full transfer	-	-	-	-	-	$253,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143485	3/232 Cowlishaw Street	20/10/2003	31/10/2003	-	$245,000	1996m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+2003	143488	9/6 Blackett Crescent	26/02/2003	31/03/2003	-	$210,000	7267m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	143507	15/6 Blackett Crescent	12/03/2003	02/06/2003	-	-	7267m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	7196	            3/1 Dods Place	25/02/2003	25/02/2003	-	-	4636m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	20313	            11/28 Florence Tayor Street	17/04/2003	-	10/04/2003	-	-	Full transfer	3	1	1	2	-	-	7	-	Allhomes Record	-	-	-	-	-	-
+2004	214738	205 Anketell Street	10/12/2004	07/01/2005	-	$14,350,000	2325m	Full transfer	-	-	-	-	-	$14,350,000	-	-	Government Record	-	-	-	Residential	-	-
+2004	14936	            Scollay Street	01/07/2004	23/04/2005	-	$4,000,000	26242m	Full transfer	-	-	-	-	-	$4,000,000	-	-	Government Record	-	-	-	Business agency	-	-
+2004	168463	18 Eileen Good Street	22/10/2004	23/01/2007	-	$529,000	364m	Full transfer	-	-	-	-	-	$529,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	214785	7/125 Florence Taylor Street	24/08/2004	27/09/2004	-	$528,550	5746m	Full transfer	-	-	-	-	-	$528,550	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14925	            5/3 Clamp Place	26/07/2004	29/10/2004	-	$517,500	1778m	Full transfer	-	-	-	-	-	$517,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214827	30 Eileen Good Street	03/09/2004	23/06/2006	-	$499,000	369m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	214788	56 Eileen Good Street	24/08/2004	23/12/2005	-	$499,000	317m	Full transfer	-	-	-	-	-	$499,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	14912	            2/87 De Little Circuit	30/03/2004	26/05/2004	-	$485,000	3070m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	47064	24 De Little Circuit	04/11/2004	-	15/09/2004	$475,000	-	Full transfer	4	1	1	2	-	$475,000	50	-	Allhomes Record	-	-	-	-	$1,105,000	2.33
+2004	14909	            1/63 De Little Circuit	08/04/2004	06/05/2004	-	$475,000	3813m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14941	            8/4 Clamp Place	04/11/2004	08/12/2004	-	$475,000	3391m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	202471	32 Eileen Good Street	25/08/2004	06/08/2006	-	$469,000	266m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	214829	38 Eileen Good Street	28/11/2004	26/05/2006	-	$469,000	271m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	214854	52 Eileen Good Street	25/08/2004	09/03/2006	-	$469,000	262m	Full transfer	-	-	-	-	-	$469,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	311436	8/113 Mortimer Lewis Drive	27/11/2004	11/02/2005	-	$461,000	6240m	Full transfer	-	-	-	-	-	$461,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14918	            2/69 Mortimer Lewis Drive	03/05/2004	10/06/2004	-	$460,000	4134m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14943	            8/61 Grounds Crescent	14/07/2004	05/08/2004	-	$450,000	2759m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14907	            5/69 Mortimer Lewis Drive	25/08/2004	20/09/2004	-	$445,000	4134m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	47180	108 De Little Circuit	21/12/2004	-	21/09/2004	$425,000	-	Full transfer	3	1	1	2	-	$425,000	91	-	Allhomes Record	-	-	-	-	$1,105,000	2.6
+2004	14934	            3/112 De Little Circuit	21/12/2004	08/02/2005	-	$425,000	4129m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14930	            4/10 De Little Circuit	11/02/2004	24/02/2004	-	$400,000	3526m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14923	            2/48 De Little Circuit	10/05/2004	19/08/2004	-	$395,000	4376m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214747	3/6 Watts Street	22/03/2004	29/04/2004	-	$395,000	3299m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	37320	24/1 Drew Street	21/12/2004	20/09/2006	-	$390,000	3989m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	168254	19/1 Drew Street	22/12/2004	09/08/2006	-	$390,000	3989m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214748	4/6 Watts Street	10/08/2004	28/09/2004	-	$390,000	3299m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214838	17/40 Eileen Good Street	08/09/2004	26/06/2006	-	$385,000	3186m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214821	44/58 Eileen Good Street	07/10/2004	30/01/2006	-	$385,000	5829m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214846	24/40 Eileen Good Street	02/09/2004	20/06/2006	-	$385,000	3186m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214853	9/40 Eileen Good Street	16/09/2004	15/06/2006	-	$380,000	3186m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214809	29/58 Eileen Good Street	18/11/2004	05/04/2006	-	$380,000	5829m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214837	16/40 Eileen Good Street	02/09/2004	20/06/2006	-	$380,000	3186m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214830	1/40 Eileen Good Street	26/11/2004	20/06/2006	-	$375,000	3186m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214852	8/40 Eileen Good Street	31/08/2004	06/06/2006	-	$375,000	3186m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214744	6/40 Florence Taylor Street	21/05/2004	28/06/2004	23/04/2004	$367,000	3828m	Full transfer	3	1	1	2	-	$367,000	28	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2004	214824	7/58 Eileen Good Street	10/09/2004	31/03/2006	-	$365,000	5829m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214813	37/58 Eileen Good Street	10/09/2004	11/04/2006	-	$365,000	5829m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214773	5/83 Mortimer Lewis Drive	18/03/2004	06/05/2004	-	$363,500	4915m	Partial transfer	-	-	-	-	-	$363,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14914	            4/18 John Young Crescent	19/03/2004	19/04/2004	-	$360,000	2497m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214801	21/58 Eileen Good Street	10/09/2004	08/02/2006	-	$355,000	5829m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214823	6/58 Eileen Good Street	20/08/2004	31/01/2006	-	$355,000	5829m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214802	22/58 Eileen Good Street	10/09/2004	11/04/2006	-	$355,000	5829m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214817	40/58 Eileen Good Street	30/08/2004	15/02/2006	-	$350,000	5829m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214769	4/1 John Young Crescent	10/11/2004	08/12/2004	-	$350,000	6087m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214848	4/40 Eileen Good Street	28/09/2004	15/06/2006	-	$349,000	3186m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214847	3/40 Eileen Good Street	17/09/2004	15/06/2006	-	$349,000	3186m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214841	2/40 Eileen Good Street	10/09/2004	15/06/2006	-	$349,000	3186m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214850	6/40 Eileen Good Street	09/09/2004	15/06/2006	-	$349,000	3186m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	203615	34/1 Drew Street	27/12/2004	01/09/2006	-	$348,000	3989m	Full transfer	-	-	-	-	-	$348,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214790	10/58 Eileen Good Street	06/09/2004	31/01/2006	-	$345,000	5829m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214789	1/58 Eileen Good Street	28/10/2004	30/01/2006	-	$345,000	5829m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214849	5/40 Eileen Good Street	23/09/2004	23/06/2006	-	$344,000	3186m	Full transfer	-	-	-	-	-	$344,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	311438	2/7 Grounds Crescent	24/09/2004	30/11/2004	-	$340,000	4302m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214816	4/58 Eileen Good Street	01/09/2004	23/01/2006	-	$339,000	5829m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214797	18/58 Eileen Good Street	02/09/2004	28/07/2006	-	$339,000	5829m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214805	25/58 Eileen Good Street	27/08/2004	08/02/2006	-	$337,000	5829m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	14780	            6/14 Florence Taylor Street	21/01/2004	17/02/2004	-	$335,000	11402m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214844	22/40 Eileen Good Street	16/09/2004	07/07/2006	-	$333,000	3186m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214843	21/40 Eileen Good Street	01/09/2004	04/07/2006	-	$333,000	3186m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214839	18/40 Eileen Good Street	16/09/2004	15/06/2006	-	$333,000	3186m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214842	20/40 Eileen Good Street	08/09/2004	23/06/2006	-	$333,000	3186m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214840	19/40 Eileen Good Street	01/09/2004	15/07/2006	-	$333,000	3186m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214845	23/40 Eileen Good Street	01/09/2004	28/06/2006	-	$333,000	3186m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	20812	            12/6 Florence Taylor Street	26/03/2004	-	24/02/2004	$330,000	7267m	Full transfer	3	1	1	2	-	$330,000	31	-	Allhomes Record	-	-	-	-	-	-
+2004	214752	12/6 Blackett Crescent	19/03/2004	11/05/2004	-	$330,000	7267m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214822	5/58 Eileen Good Street	17/08/2004	27/01/2006	-	$329,000	5829m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214800	20/58 Eileen Good Street	11/11/2004	22/01/2006	-	$328,700	5829m	Full transfer	-	-	-	-	-	$328,700	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214754	15/6 Blackett Crescent	29/03/2004	29/03/2004	-	$328,000	7267m	Full transfer	-	-	-	-	-	$328,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214819	42/58 Eileen Good Street	19/11/2004	25/01/2006	-	$325,000	5829m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214833	12/40 Eileen Good Street	09/09/2004	20/06/2006	-	$323,000	3186m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214831	10/40 Eileen Good Street	28/10/2004	13/07/2006	-	$323,000	3186m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214835	14/40 Eileen Good Street	16/09/2004	15/06/2006	-	$323,000	3186m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214814	38/58 Eileen Good Street	27/08/2004	06/02/2006	-	$305,000	5829m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	319297	9/40 Florence Taylor Street	10/12/2004	12/01/2005	-	$305,000	3828m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214815	39/58 Eileen Good Street	01/10/2004	27/01/2006	-	$305,000	5829m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214804	24/58 Eileen Good Street	22/12/2004	08/02/2006	-	$299,000	5829m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214742	1/16 Blackett Crescent	16/02/2004	28/04/2004	-	$295,000	4885m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214796	17/58 Eileen Good Street	25/08/2004	25/01/2006	-	$264,000	5829m	Full transfer	-	-	-	-	-	$264,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214798	19/58 Eileen Good Street	06/10/2004	29/01/2006	-	$259,000	5829m	Full transfer	-	-	-	-	-	$259,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214779	1/61 Grounds Crescent	09/01/2004	02/02/2004	-	$212,500	2759m	Full transfer	-	-	-	-	-	$212,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	20714	            14 Delittle Circuit	12/02/2004	-	21/11/2003	-	-	Full transfer	3	1	1	2	-	-	83	-	Allhomes Record	-	-	-	-	-	-
+2004	214781	61 Florence Taylor Street	30/04/2004	20/10/2004	-	-	423m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	214770	7/1 John Young Crescent	08/05/2004	08/06/2004	-	-	6087m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	214743	7/16 Blackett Crescent	30/07/2004	25/10/2004	-	-	4885m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	20764	            2/48-52 De Little Circuit	10/05/2004	-	22/01/2004	-	-	Full transfer	3	1	1	2	-	-	109	-	Allhomes Record	-	-	-	-	-	-
+2004	14922	            8/63 De Little Circuit	23/06/2004	28/06/2004	-	-	3813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	14882	            Rowland Rees Crescent	14/09/2005	26/09/2005	-	$28,000,000	53502m	Full transfer	-	-	-	-	-	$28,000,000	-	-	Government Record	-	-	-	Business agency	-	-
+2005	214856	167 Soward Way	03/03/2005	03/03/2005	-	$1,900,000	2862m	Full transfer	-	-	-	-	-	$1,900,000	-	-	Government Record	-	-	-	Office	-	-
+2005	424258	219 Scollay Street	23/03/2005	14/04/2014	-	$1,700,000	6719m	Full transfer	-	-	-	-	-	$1,700,000	-	-	Government Record	-	-	-	Office	-	-
+2005	214857	217 Scollay Street	23/03/2005	30/05/2005	-	$1,700,000	6719m	Full transfer	-	-	-	-	-	$1,700,000	-	-	Government Record	-	-	-	Office	-	-
+2005	214812	33/58 Eileen Good Street	15/11/2005	13/03/2006	-	$650,000	5829m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214811	31/58 Eileen Good Street	07/10/2005	31/01/2006	-	$570,000	5829m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	504811	3/146 Scollay Street	09/12/2005	02/05/2017	-	$522,500	3130m	Full transfer	-	-	-	-	-	$522,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	164171	26 Eileen Good Street	14/10/2005	17/08/2006	-	$510,000	382m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	14915	            12/1 Bibb Place	07/07/2005	17/08/2005	-	$485,000	13016m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214764	4/113 Mortimer Lewis Drive	08/06/2005	03/08/2005	06/05/2005	$481,000	6240m	Full transfer	4	1	1	2	-	$481,000	33	-	Combined Record	-	-	-	Multiple unit dwelling	-	-
+2005	14908	            7/69 Mortimer Lewis Drive	03/03/2005	28/04/2005	-	$470,000	4134m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	496773	1/146 Scollay Street	20/12/2005	12/02/2017	-	$467,500	3130m	Full transfer	-	-	-	-	-	$467,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214771	1/83 Mortimer Lewis Drive	01/03/2005	27/04/2005	-	$463,000	4915m	Full transfer	-	-	-	-	-	$463,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	14916	            4/25 John Young Crescent	18/02/2005	18/04/2005	-	$445,000	2210m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	48885	27 John Young Crescent	18/02/2005	-	29/10/2004	$445,000	2210m	Full transfer	4	1	1	2	-	$445,000	112	-	Allhomes Record	-	-	-	-	$442,000	0.99
+2005	214762	10/113 Mortimer Lewis Drive	31/08/2005	21/10/2005	-	$440,000	6240m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	55384	10/113 Mortimer Lewis Drive	31/10/2005	-	15/04/2005	$440,000	6240m	Full transfer	3	1	1	2	-	$440,000	199	-	Allhomes Record	-	-	-	-	-	-
+2005	214778	31 Grounds Crescent	18/11/2005	12/01/2006	14/10/2005	$439,000	362m	Full transfer	3	1	1	2	-	$439,000	35	-	Combined Record	-	-	-	For residential purposes only	$169,000	0.38
+2005	14935	            5/112 De Little Circuit	17/05/2005	20/06/2005	-	$425,000	4129m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	55379	104 De Little Circuit	17/05/2005	-	15/04/2005	$425,000	-	Full transfer	3	1	1	2	-	$425,000	32	-	Allhomes Record	-	-	-	-	$1,050,000	2.47
+2005	214786	1/112 De Little Circuit	17/03/2005	20/07/2005	04/02/2005	$417,500	4129m	Full transfer	3	1	1	2	-	$417,500	41	-	Combined Record	-	-	-	Multiple unit dwelling	$1,050,000	2.51
+2005	65984	12/125 Florence Taylor Street	05/11/2005	-	16/09/2005	$412,500	363m	Full transfer	3	1	1	2	-	$412,500	50	-	Allhomes Record	-	-	-	-	-	-
+2005	214784	12/125 Florence Taylor Street	04/11/2005	06/01/2006	-	$412,500	5746m	Full transfer	-	-	-	-	-	$412,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214776	118 De Little Circuit	24/05/2005	20/06/2005	-	$407,500	304m	Full transfer	-	-	-	-	-	$407,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	214783	73 Florence Taylor Street	13/12/2005	30/01/2006	-	$403,000	324m	Full transfer	-	-	-	-	-	$403,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	214782	65 Florence Taylor Street	20/05/2005	06/07/2005	-	$400,000	324m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	214818	41/58 Eileen Good Street	27/10/2005	27/01/2006	-	$399,000	5829m	Full transfer	-	-	-	-	-	$399,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214806	26/58 Eileen Good Street	10/11/2005	22/01/2006	-	$397,000	5829m	Full transfer	-	-	-	-	-	$397,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214780	61 Florence Taylor Street	31/01/2005	09/03/2005	-	$395,000	423m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	168256	31/1 Drew Street	24/03/2005	10/08/2006	-	$395,000	3989m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	164169	36/1 Drew Street	11/01/2005	16/08/2006	-	$395,000	3989m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	164165	18/1 Drew Street	02/05/2005	14/08/2006	-	$390,000	3989m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	203411	30/1 Drew Street	11/03/2005	12/09/2006	-	$390,000	3989m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	14917	            3/1 Dods Place	16/09/2005	11/11/2005	-	$386,000	4636m	Full transfer	-	-	-	-	-	$386,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	56156	97 Mortimer Lewis Drive	16/09/2005	-	30/04/2005	$386,000	464m	Full transfer	4	1	1	2	-	$386,000	139	-	Allhomes Record	-	-	-	-	$927,000	2.4
+2005	34748	1/1 Drew Street	11/02/2005	21/08/2006	-	$385,000	3989m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	37319	13/1 Drew Street	30/06/2005	19/09/2006	-	$385,000	3989m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	36586	6/1 Drew Street	06/02/2005	05/09/2006	-	$385,000	3989m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	34753	7/1 Drew Street	16/11/2005	21/08/2006	-	$385,000	3989m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214791	11/58 Eileen Good Street	03/11/2005	23/01/2006	-	$385,000	5829m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214766	1/35 John Young Crescent	09/12/2005	30/01/2006	30/06/2005	$380,000	1374m	Full transfer	3	1	1	2	-	$380,000	162	-	Combined Record	-	-	-	Multiple unit dwelling	$547,000	1.44
+2005	203409	25/1 Drew Street	21/12/2005	12/09/2006	-	$380,000	3989m	Partial transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214749	5/6 Watts Street	27/07/2005	13/09/2005	-	$373,000	3299m	Full transfer	-	-	-	-	-	$373,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214774	6/83 Mortimer Lewis Drive	18/11/2005	18/01/2006	-	$368,000	4915m	Full transfer	-	-	-	-	-	$368,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	164166	22/1 Drew Street	21/01/2005	20/08/2006	-	$364,000	3989m	Full transfer	-	-	-	-	-	$364,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	168255	20/1 Drew Street	13/12/2005	10/08/2006	-	$364,000	3989m	Full transfer	-	-	-	-	-	$364,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	168258	5/1 Drew Street	10/02/2005	10/08/2006	-	$359,000	3989m	Full transfer	-	-	-	-	-	$359,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	203614	2/1 Drew Street	19/01/2005	28/08/2006	-	$359,000	3989m	Full transfer	-	-	-	-	-	$359,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	164170	4/1 Drew Street	15/12/2005	17/08/2006	-	$359,000	3989m	Full transfer	-	-	-	-	-	$359,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214792	12/58 Eileen Good Street	07/10/2005	18/01/2006	-	$349,000	5829m	Full transfer	-	-	-	-	-	$349,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214793	13/58 Eileen Good Street	30/08/2005	17/01/2006	-	$345,000	5829m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	168252	14/1 Drew Street	21/10/2005	10/08/2006	-	$343,000	3989m	Full transfer	-	-	-	-	-	$343,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	164164	16/1 Drew Street	29/11/2005	15/08/2006	-	$343,000	3989m	Full transfer	-	-	-	-	-	$343,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	168253	15/1 Drew Street	21/12/2005	11/08/2006	-	$343,000	3989m	Full transfer	-	-	-	-	-	$343,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	34749	17/1 Drew Street	02/08/2005	25/08/2006	-	$343,000	3989m	Full transfer	-	-	-	-	-	$343,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	14913	            4/18 John Young Crescent	09/12/2005	05/02/2006	-	$342,000	2497m	Full transfer	-	-	-	-	-	$342,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	70635	12 John Young Crescent	15/12/2005	-	16/11/2005	$342,000	325m	Full transfer	3	1	1	2	-	$342,000	29	-	Allhomes Record	-	-	-	-	$652,000	1.91
+2005	214810	3/58 Eileen Good Street	21/09/2005	30/01/2006	-	$339,000	5829m	Partial transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	14911	            7/14 Florence Taylor Street	18/11/2005	19/01/2006	-	$335,000	11402m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214750	1/16 Watts Street	30/06/2005	16/08/2005	-	$332,500	2501m	Full transfer	-	-	-	-	-	$332,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	54603	16 Watts Street	30/06/2005	-	31/03/2005	$332,000	2501m	Full transfer	3	1	1	1	-	$332,000	91	-	Allhomes Record	-	-	-	-	$587,000	1.77
+2005	50522	7/7 John Young Crescent	03/03/2005	-	10/12/2004	$329,000	3059m	Full transfer	3	1	1	1	-	$329,000	83	-	Allhomes Record	-	-	-	-	-	-
+2005	214768	1/7 John Young Crescent	03/03/2005	30/03/2005	-	$329,000	3059m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214795	16/58 Eileen Good Street	17/08/2005	19/01/2006	-	$329,000	5829m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214799	2/58 Eileen Good Street	30/10/2005	29/01/2006	-	$329,000	5829m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	35248	3/120 Athllon Drive	17/11/2005	08/06/2007	-	$325,000	1300m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214836	15/40 Eileen Good Street	17/01/2005	15/06/2006	-	$323,000	3186m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214834	13/40 Eileen Good Street	17/03/2005	15/06/2006	-	$323,000	3186m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214832	11/40 Eileen Good Street	16/12/2005	15/06/2006	-	$323,000	3186m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214820	43/58 Eileen Good Street	13/12/2005	16/03/2006	-	$320,000	5829m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214808	28/58 Eileen Good Street	18/08/2005	10/04/2006	-	$320,000	5829m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214807	27/58 Eileen Good Street	18/08/2005	10/04/2006	-	$320,000	5829m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214759	9 Watts Street	09/06/2005	05/08/2005	25/05/2005	$312,500	414m	Full transfer	2	1	-	1	-	$312,500	15	-	Combined Record	-	-	-	Medium density dwelling	$129,000	0.41
+2005	14885	            30/14 Florence Taylor Street	19/07/2005	30/08/2005	-	$310,000	11402m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	35168	10/120 Athllon Drive	02/12/2005	04/06/2007	-	$308,000	1300m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	203220	9/120 Athllon Drive	23/11/2005	31/05/2007	-	$308,000	1300m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214757	78 Florence Taylor Street	15/02/2005	24/03/2005	21/01/2005	$305,000	318m	Full transfer	2	1	-	1	-	$305,000	25	-	Combined Record	-	-	-	Medium density dwelling	$135,000	0.44
+2005	203179	7/120 Athllon Drive	23/11/2005	31/05/2007	-	$300,000	1300m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214803	23/58 Eileen Good Street	20/08/2005	09/02/2006	-	$299,000	5829m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214825	8/58 Eileen Good Street	01/10/2005	07/03/2006	-	$299,000	5829m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	37100	13/120 Athllon Drive	06/12/2005	18/07/2007	-	$297,000	1300m	Full transfer	-	-	-	-	-	$297,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214826	9/58 Eileen Good Street	25/11/2005	28/02/2006	-	$295,000	5829m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214745	7/40 Florence Taylor Street	05/10/2005	14/11/2005	-	$270,000	3828m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	121080	21/114 Athllon Drive	19/12/2005	14/09/2007	-	$250,000	1217m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	167830	20/114 Athllon Drive	09/12/2005	19/09/2007	-	$250,000	1217m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214737	44 Cowlishaw Street	25/05/2005	25/05/2005	-	-	3703m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office	-	-
+2005	214787	151 Oakden Street	27/07/2005	11/08/2005	-	-	7280m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office	-	-
+2005	214741	9/12 Blackett Crescent	28/06/2005	28/06/2005	-	-	4452m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	21194	            57 Mortimer-Lewis Drive	04/03/2005	-	11/02/2005	-	-	Full transfer	4	1	1	2	-	-	21	-	Allhomes Record	-	-	-	-	-	-
+2005	214751	1/16 Watts Street	29/01/2005	21/07/2005	-	-	2501m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	214756	72 Florence Taylor Street	02/11/2005	13/12/2005	-	-	394m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	21303	            1/93 Mortimer Lewis	24/08/2005	-	30/05/2005	-	-	Full transfer	4	1	1	2	-	-	86	-	Allhomes Record	-	-	-	-	-	-
+2005	21479	            73 Florence Taylor Crescent	13/12/2005	-	10/11/2005	-	324m	Full transfer	3	1	1	2	-	-	33	-	Allhomes Record	-	-	-	-	-	-
+2005	21261	            118 Delittle Circuit	10/06/2005	-	07/04/2005	-	304m	Full transfer	3	1	1	2	-	-	64	-	Allhomes Record	-	-	-	-	$150,000	-
