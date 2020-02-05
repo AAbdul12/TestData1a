@@ -1,0 +1,10 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2003	20533	            27 Strayleaf Crescent	15/09/2003	-	07/08/2003	$627,000	-	Full transfer	4	1	1	3	-	$627,000	39	-	Allhomes Record	-	-	-	-	-	-
+2003	18560	            27 Strayleaf Crescent	22/07/2003	-	23/01/2003	$609,950	680m	Full transfer	4	1	1	2	-	$609,950	180	-	Allhomes Record	-	-	-	-	-	-
+2004	20770	            12 Keen Vendor	28/10/2004	-	16/06/2004	-	462m	Full transfer	4	1	1	2	-	-	134	-	Allhomes Record	-	-	-	-	-	-
+2005	21230	            10 Frances Burke Street	26/08/2005	-	18/03/2005	$510,000	603m	Full transfer	5	1	1	2	-	$510,000	161	-	Allhomes Record	-	-	-	-	-	-
+2005	21061	            14 Inglewood Street	23/03/2005	-	08/10/2004	$467,000	498m	Full transfer	4	1	1	2	-	$467,000	166	-	Allhomes Record	-	-	-	-	-	-
+2005	21280	            30 Winarlia Lane	18/07/2005	-	20/05/2005	$305,000	-	Full transfer	2	1	1	1	-	$305,000	59	-	Allhomes Record	-	-	-	-	-	-
+2005	21131	             Maria Smith Lane	27/05/2005	-	25/11/2004	-	-	Full transfer	3	1	1	2	-	-	183	-	Allhomes Record	-	-	-	-	-	-
+2005	21337	            8 Francis Burke Street	26/08/2005	-	04/08/2005	-	602m	Full transfer	4	1	1	2	-	-	22	-	Allhomes Record	-	-	-	-	$202,000	-
+2005	21179	            2 Phyllis Ashton Street	13/04/2005	-	03/02/2005	-	650m	Full transfer	5	3	-	2	-	-	69	-	Allhomes Record	-	-	-	-	-	-
