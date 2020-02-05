@@ -1,0 +1,918 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1992	43548	50 Blackall Street	14/08/1992	14/08/1992	-	$8,650,000	3620m	Full transfer	-	-	-	-	-	$8,650,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	43547	8/40 Blackall Street	03/02/1992	03/02/1992	-	$1,450,000	3625m	Full transfer	-	-	-	-	-	$1,450,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	43526	35 Telopea Park	06/10/1992	06/10/1992	-	$446,000	961m	Full transfer	-	-	-	-	-	$446,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	43413	8/40 Brisbane Avenue	30/11/1992	30/11/1992	-	$440,000	4636m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Building society,credit union	-	-
+1992	43523	2 Belmore Gardens	21/12/1992	21/12/1992	-	$345,500	982m	Full transfer	-	-	-	-	-	$345,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	43428	10/16 National Circuit	25/08/1992	25/08/1992	-	$310,000	5565m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	43411	10/40 Brisbane Avenue	08/07/1992	08/07/1992	-	$284,200	4636m	Full transfer	-	-	-	-	-	$284,200	-	-	Government Record	-	-	-	Building society,credit union	-	-
+1992	43516	29 Telopea Park	23/06/1992	23/06/1992	-	$278,000	1115m	Full transfer	-	-	-	-	-	$278,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	43521	4 Belmore Gardens	03/07/1992	03/07/1992	-	$270,000	797m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	43384	18 Belmore Gardens	15/01/1992	15/01/1992	-	$250,000	1249m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	43425	5/14 Darling Street	02/10/1992	02/10/1992	-	$246,000	5574m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	43542	2/40 Blackall Street	05/02/1992	05/02/1992	-	-	3625m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	43540	1/40 Blackall Street	05/02/1992	05/02/1992	-	-	3625m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	43546	4/40 Blackall Street	05/02/1992	05/02/1992	-	-	3625m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	43544	3/40 Blackall Street	05/02/1992	05/02/1992	-	-	3625m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1993	43412	11/40 Brisbane Avenue	14/04/1993	14/04/1993	-	$900,000	4636m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Building society,credit union	-	-
+1993	43530	4 Young Street	21/12/1993	21/12/1993	-	$440,000	813m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	43446	3 Belmore Gardens	16/04/1993	16/04/1993	-	$425,000	929m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	43525	16 Belmore Gardens	24/06/1993	24/06/1993	-	$332,500	895m	Full transfer	-	-	-	-	-	$332,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	43520	6 Belmore Gardens	22/01/1993	22/01/1993	-	$327,000	1081m	Full transfer	-	-	-	-	-	$327,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	43443	4 Macquarie Street	05/03/1993	05/03/1993	-	$290,000	1075m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	43435	3 Young Street	19/07/1993	19/07/1993	-	$290,000	1072m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	43524	9 Gipps Street	05/04/1993	05/04/1993	-	$281,000	991m	Full transfer	-	-	-	-	-	$281,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	43518	27 Telopea Park	18/02/1993	18/02/1993	-	$275,000	1115m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	882	            54/21 Darling Street	18/11/1993	18/11/1993	-	$250,000	9272m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	883	            55/21 Darling Street	13/07/1993	13/07/1993	-	$245,000	9272m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	43429	13/16 National Circuit	02/06/1993	02/06/1993	-	-	5565m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1993	43434	36 New South Wales Crescent	22/04/1993	22/04/1993	-	-	1096m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	43528	35 Telopea Park	20/07/1994	20/07/1994	-	$442,500	961m	Full transfer	-	-	-	-	-	$442,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	43433	36 New South Wales Crescent	20/07/1994	20/07/1994	-	$340,000	1096m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	43442	8 Macquarie Street	07/12/1994	27/01/1995	-	$325,000	1045m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	43517	27 Telopea Park	13/05/1994	13/05/1994	-	$320,000	1115m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	43531	10 Gipps Street	05/04/1994	05/04/1994	-	$310,000	957m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	43436	9 Young Street	16/02/1994	16/02/1994	-	$281,000	869m	Full transfer	-	-	-	-	-	$281,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	43545	4/40 Blackall Street	17/11/1995	02/02/1996	-	$4,025,000	3625m	Full transfer	-	-	-	-	-	$4,025,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	43543	3/40 Blackall Street	17/11/1995	02/02/1996	-	$4,025,000	3625m	Full transfer	-	-	-	-	-	$4,025,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	43430	20/16 National Circuit	29/06/1995	11/07/1995	-	$304,000	5565m	Full transfer	-	-	-	-	-	$304,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	43447	18 Belmore Gardens	14/10/1995	06/12/1995	-	$300,000	1249m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	43440	20 Darling Street	08/05/1995	09/08/1995	-	$270,000	985m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	884	            57/21 Darling Street	20/02/1995	27/02/1995	-	$248,000	9272m	Full transfer	-	-	-	-	-	$248,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	43418	11/14 Darling Street	29/12/1995	16/05/1996	-	$235,000	5574m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	43421	2/14 Darling Street	26/09/1995	14/12/1995	-	$228,000	5574m	Full transfer	-	-	-	-	-	$228,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	43422	29/14 Darling Street	22/12/1995	19/02/1996	-	$170,000	5574m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	43438	13 Young Street	07/07/1995	05/10/1995	17/10/2003	-	1045m	Partial transfer	3	1	1	1	-	-	-	-	Combined Record	-	-	-	Single residential dwelling	$600,000	-
+1995	43532	10 Gipps Street	10/02/1995	10/02/1995	-	-	957m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	890	            2 Young Street	24/11/1995	24/11/1995	-	-	1215m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	43423	30/14 Darling Street	13/12/1995	27/11/1996	-	-	5574m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	43414	26 Brisbane Avenue	29/08/1996	18/10/1996	-	$8,825,000	1446m	Full transfer	-	-	-	-	-	$8,825,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	43416	1/24 Brisbane Avenue	03/07/1996	12/08/1996	-	$900,000	872m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	43519	8 Belmore Gardens	20/12/1996	31/01/1997	-	$425,000	1257m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	43444	2 Macquarie Street	25/01/1996	26/02/1996	-	$290,000	911m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	43445	14 Young Street	01/11/1996	10/12/1996	-	$274,000	869m	Full transfer	-	-	-	-	-	$274,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	43441	20 Darling Street	16/02/1996	24/04/1996	-	$267,500	985m	Full transfer	-	-	-	-	-	$267,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	887	            64/21 Darling Street	25/03/1996	23/04/1996	-	$253,000	9272m	Full transfer	-	-	-	-	-	$253,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	43431	18 Darling Street	05/07/1996	19/08/1996	-	$245,000	1110m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	43420	16/14 Darling Street	27/05/1996	28/06/1996	-	$232,000	5574m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	43417	1/14 Darling Street	02/02/1996	29/02/1996	-	$220,000	5574m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	43419	11/14 Darling Street	15/10/1996	24/10/1996	-	$198,000	5574m	Full transfer	-	-	-	-	-	$198,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	863	            18/21 Darling Street	13/12/1996	13/03/1997	-	$165,000	9272m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	875	            35/21 Darling Street	17/12/1996	31/01/1997	-	$162,000	9272m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	869	            27/21 Darling Street	26/11/1996	18/12/1996	-	$138,000	9272m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	871	            29/21 Darling Street	23/09/1996	11/10/1996	-	$135,000	9272m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	868	            24/21 Darling Street	23/09/1996	21/10/1996	-	$135,000	9272m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	870	            28/21 Darling Street	18/11/1996	04/12/1996	-	$135,000	9272m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	867	            23/21 Darling Street	27/09/1996	14/11/1996	-	$135,000	9272m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	865	            21/21 Darling Street	11/12/1996	09/01/1997	-	$132,500	9272m	Full transfer	-	-	-	-	-	$132,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	872	            30/21 Darling Street	04/09/1996	20/09/1996	-	$130,000	9272m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	43432	18 Darling Street	16/02/1996	27/06/1996	-	-	1110m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	860	            4/24 Brisbane Avenue	29/07/1996	30/07/1996	-	-	872m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	43415	1/24 Brisbane Avenue	29/07/1996	12/08/1996	-	-	872m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	43538	40 Macquarie Street	19/04/1996	19/04/1996	-	-	3620m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1997	43541	2/40 Blackall Street	02/10/1997	05/12/1997	-	$2,600,000	3625m	Full transfer	-	-	-	-	-	$2,600,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1997	43539	1/40 Blackall Street	02/10/1997	05/12/1997	-	$2,600,000	3625m	Full transfer	-	-	-	-	-	$2,600,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1997	43437	11 Young Street	07/02/1997	06/03/1997	-	$455,000	1045m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	43535	10 Gipps Street	07/07/1997	15/08/1997	-	$335,500	957m	Full transfer	-	-	-	-	-	$335,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	43536	19 Telopea Park	27/10/1997	17/11/1997	-	$331,400	813m	Full transfer	-	-	-	-	-	$331,400	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	43529	33 Telopea Park	04/04/1997	06/05/1997	-	$327,500	976m	Full transfer	-	-	-	-	-	$327,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	43439	13 Young Street	22/09/1997	22/09/1997	-	$279,000	1045m	Full transfer	-	-	-	-	-	$279,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	888	            74/21 Darling Street	03/01/1997	10/02/1997	-	$266,000	9272m	Full transfer	-	-	-	-	-	$266,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	881	            47/21 Darling Street	30/05/1997	13/06/1997	-	$255,000	9272m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	10846	            42/21 Darling Street	27/11/1997	21/01/1998	-	$250,000	9272m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	879	            41/21 Darling Street	25/11/1997	10/12/1997	-	$244,000	9272m	Full transfer	-	-	-	-	-	$244,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	885	            6/21 Darling Street	07/11/1997	28/11/1997	-	$240,000	9272m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	886	            61/21 Darling Street	04/08/1997	19/09/1997	-	$220,000	9272m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	43427	9/14 Darling Street	15/08/1997	20/08/1997	-	$192,000	5574m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	43426	7/14 Darling Street	16/01/1997	18/02/1997	-	$191,475	5574m	Full transfer	-	-	-	-	-	$191,475	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	43424	4/14 Darling Street	10/01/1997	30/01/1997	-	$185,000	5574m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	861	            10/21 Darling Street	19/03/1997	02/05/1997	-	$163,000	9272m	Full transfer	-	-	-	-	-	$163,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	878	            4/21 Darling Street	01/12/1997	05/12/1997	-	$162,500	9272m	Full transfer	-	-	-	-	-	$162,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	862	            16/21 Darling Street	12/09/1997	26/09/1997	-	$162,000	9272m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	12502	            40/21 Darling Street	19/12/1997	14/01/1998	-	$160,000	9272m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	874	            33/21 Darling Street	12/09/1997	03/11/1997	-	$160,000	9272m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	873	            31/21 Darling Street	08/12/1997	18/12/1997	-	$158,000	9272m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	880	            45/21 Darling Street	11/11/1997	03/12/1997	-	$158,000	9272m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	11843	            34/21 Darling Street	03/12/1997	02/02/1998	-	$157,500	9272m	Full transfer	-	-	-	-	-	$157,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	889	            9/21 Darling Street	14/11/1997	02/12/1997	-	$157,000	9272m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	877	            39/21 Darling Street	19/09/1997	15/10/1997	-	$155,000	9272m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	864	            2/21 Darling Street	12/08/1997	12/11/1997	-	$152,000	9272m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	876	            37/21 Darling Street	21/07/1997	08/09/1997	-	$152,000	9272m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	866	            22/21 Darling Street	14/03/1997	01/04/1997	-	$140,000	9272m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1997	43522	4 Belmore Gardens	31/10/1997	16/12/1997	-	-	797m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	180145	32 Darling Street	11/10/1997	08/10/1999	-	-	895m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194716	1 Belmore Gardens	20/05/1998	22/06/1998	-	$442,000	955m	Full transfer	-	-	-	-	-	$442,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182540	4 Belmore Gardens	26/02/1998	29/05/1998	-	$371,000	797m	Full transfer	-	-	-	-	-	$371,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	199074	28 Darling Street	22/07/1998	24/08/1998	-	$350,000	929m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	195139	20 Darling Street	29/09/1998	20/10/1998	-	$320,000	985m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	12505	            74/21 Darling Street	16/01/1998	30/01/1998	-	$311,000	9272m	Full transfer	-	-	-	-	-	$311,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	194758	20/16 National Circuit	17/06/1998	02/07/1998	-	$280,000	5565m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	11902	            11/21 Darling Street	26/11/1998	21/12/1998	-	$268,000	9272m	Full transfer	-	-	-	-	-	$268,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12878	            12/21 Darling Street	30/04/1998	21/05/1998	-	$262,500	9272m	Full transfer	-	-	-	-	-	$262,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10915	            17/21 Darling Street	04/12/1998	18/01/1999	-	$255,000	9272m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11894	            42/21 Darling Street	28/09/1998	28/10/1998	-	$252,000	9272m	Full transfer	-	-	-	-	-	$252,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12646	            56/21 Darling Street	11/12/1998	15/01/1999	-	$240,000	9272m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10555	            60/21 Darling Street	27/04/1998	22/05/1998	-	$232,000	9272m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10552	            62/21 Darling Street	08/04/1998	06/05/1998	-	$228,000	9272m	Full transfer	-	-	-	-	-	$228,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10571	            46/21 Darling Street	12/06/1998	30/06/1998	-	$213,000	9272m	Full transfer	-	-	-	-	-	$213,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11152	            48/21 Darling Street	20/03/1998	20/04/1998	-	$212,500	9272m	Full transfer	-	-	-	-	-	$212,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11188	            5/21 Darling Street	22/09/1998	15/10/1998	-	$212,500	9272m	Full transfer	-	-	-	-	-	$212,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11855	            1/21 Darling Street	15/04/1998	24/04/1998	-	$211,000	9272m	Full transfer	-	-	-	-	-	$211,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11157	            44/21 Darling Street	29/05/1998	09/06/1998	-	$210,000	9272m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11884	            43/21 Darling Street	13/07/1998	07/08/1998	-	$162,000	9272m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12923	            13/21 Darling Street	25/09/1998	16/11/1998	-	$160,000	9272m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10864	            15/21 Darling Street	20/04/1998	21/05/1998	-	$159,500	9272m	Full transfer	-	-	-	-	-	$159,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	10554	            32/21 Darling Street	20/04/1998	14/05/1998	-	$159,500	9272m	Full transfer	-	-	-	-	-	$159,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12895	            38/21 Darling Street	02/06/1998	17/06/1998	-	$159,000	9272m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12199	            7/21 Darling Street	04/05/1998	29/05/1998	-	$156,500	9272m	Full transfer	-	-	-	-	-	$156,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11527	            14/21 Darling Street	13/03/1998	28/04/1998	-	$153,000	9272m	Full transfer	-	-	-	-	-	$153,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	11533	            8/21 Darling Street	03/04/1998	13/05/1998	-	$150,000	9272m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	12245	            20/21 Darling Street	03/11/1998	08/12/1998	-	$139,000	9272m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	173855	15 National Circuit	30/01/1998	30/01/1998	-	-	5287m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	183856	6 Blackall Street	20/05/1999	16/06/1999	-	$70,000,000	26476m	Full transfer	-	-	-	-	-	$70,000,000	-	-	Government Record	-	-	-	Office	-	-
+1999	197018	21 Brisbane Avenue	09/12/1999	10/02/2000	-	$6,630,000	8918m	Full transfer	-	-	-	-	-	$6,630,000	-	-	Government Record	-	-	-	Multi unit development (res...	-	-
+1999	188426	7/40 Blackall Street	11/06/1999	01/11/1999	-	$1,450,000	3625m	Full transfer	-	-	-	-	-	$1,450,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	183807	19 Telopea Park	06/03/1999	03/06/1999	-	$415,000	813m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179451	18 Darling Street	13/03/1999	08/04/1999	-	$412,500	1110m	Full transfer	-	-	-	-	-	$412,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	199837	5 Young Street	13/03/1999	19/04/1999	-	$405,000	1205m	Full transfer	-	-	-	-	-	$405,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196258	16 Belmore Gardens	24/07/1999	25/08/1999	23/09/2003	$390,500	895m	Full transfer	4	2	2	2	-	$390,500	-	-	Combined Record	-	-	-	Single residential dwelling	$611,000	1.56
+1999	183422	29 Telopea Park	04/01/1999	08/02/1999	-	$386,000	1115m	Full transfer	-	-	-	-	-	$386,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196008	8/16 National Circuit	22/06/1999	22/06/1999	-	$360,000	5565m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	196574	32 Darling Street	25/09/1999	02/11/1999	-	$356,200	895m	Full transfer	-	-	-	-	-	$356,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	11301	            6/21 Darling Street	23/04/1999	25/06/1999	-	$268,000	9272m	Full transfer	-	-	-	-	-	$268,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	10634	            65/21 Darling Street	04/05/1999	05/07/1999	-	$250,000	9272m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12982	            69/21 Darling Street	21/07/1999	08/09/1999	-	$240,000	9272m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	10645	            68/21 Darling Street	15/07/1999	05/08/1999	-	$236,250	9272m	Full transfer	-	-	-	-	-	$236,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11285	            71/21 Darling Street	18/02/1999	12/03/1999	-	$235,000	9272m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11938	            36/21 Darling Street	15/04/1999	23/06/1999	-	$234,171	9272m	Full transfer	-	-	-	-	-	$234,171	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11964	            70/21 Darling Street	18/08/1999	02/09/1999	-	$230,000	9272m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11306	            53/21 Darling Street	25/06/1999	20/07/1999	-	$230,000	9272m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11946	            52/21 Darling Street	18/06/1999	01/07/1999	-	$228,500	9272m	Full transfer	-	-	-	-	-	$228,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12967	            51/21 Darling Street	01/06/1999	30/06/1999	-	$227,500	9272m	Full transfer	-	-	-	-	-	$227,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11933	            72/21 Darling Street	31/03/1999	01/06/1999	-	$226,130	9272m	Full transfer	-	-	-	-	-	$226,130	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11931	            50/21 Darling Street	19/05/1999	24/05/1999	-	$226,000	9272m	Full transfer	-	-	-	-	-	$226,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11935	            73/21 Darling Street	17/05/1999	08/06/1999	-	$225,000	9272m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11279	            3/21 Darling Street	25/01/1999	15/02/1999	-	$216,000	9272m	Full transfer	-	-	-	-	-	$216,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	183572	5/14 Darling Street	09/03/1999	23/03/1999	-	$207,000	5574m	Full transfer	-	-	-	-	-	$207,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	183685	9/14 Darling Street	26/03/1999	28/04/1999	-	$205,000	5574m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	179981	23/14 Darling Street	28/07/1999	31/08/1999	-	$189,500	5574m	Full transfer	-	-	-	-	-	$189,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12961	            18/21 Darling Street	26/05/1999	18/06/1999	-	$180,500	9272m	Full transfer	-	-	-	-	-	$180,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12233	            10/21 Darling Street	16/03/1999	12/04/1999	-	$180,000	9272m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11978	            45/21 Darling Street	13/10/1999	03/11/1999	-	$179,500	9272m	Full transfer	-	-	-	-	-	$179,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	12353	            37/21 Darling Street	25/06/1999	13/07/1999	-	$170,000	9272m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11585	            25/21 Darling Street	26/02/1999	23/03/1999	-	$136,500	9272m	Full transfer	-	-	-	-	-	$136,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11288	            19/21 Darling Street	17/02/1999	01/04/1999	-	$135,000	9272m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	11602	            26/21 Darling Street	14/05/1999	17/06/1999	-	$131,500	9272m	Full transfer	-	-	-	-	-	$131,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	198202	4/16 National Circuit	30/06/2000	08/12/2000	-	$844,000	5565m	Full transfer	-	-	-	-	-	$844,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	201967	14 Belmore Gardens	07/06/2000	19/09/2000	-	$635,000	976m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197393	27 Telopea Park	26/02/2000	03/05/2000	-	$621,000	1115m	Full transfer	-	-	-	-	-	$621,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	190004	16 Belmore Gardens	08/11/2000	08/11/2000	-	$550,000	895m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	126829	42 New South Wales Crescent	07/10/2000	16/01/2001	-	$510,000	957m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	5883	            47/21 Darling Street	15/12/2000	28/03/2001	-	$419,000	9272m	Full transfer	-	-	-	-	-	$419,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	126820	2/16 National Circuit	07/12/2000	30/05/2001	-	$361,800	5565m	Full transfer	-	-	-	-	-	$361,800	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	5892	            73/21 Darling Street	03/11/2000	19/02/2001	-	$305,000	9272m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11686	            58/21 Darling Street	05/04/2000	24/05/2000	-	$290,000	9272m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	181642	4/14 Darling Street	08/09/2000	26/09/2000	-	$270,000	5574m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	181723	15/14 Darling Street	24/07/2000	10/10/2000	-	$260,000	5574m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	193873	2/37 Telopea Park	18/09/2000	04/10/2000	-	$240,000	1340m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Self care units for aged pe...	-	-
+2000	186019	5/16 National Circuit	30/06/2000	08/12/2000	-	$232,000	5565m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	11094	            15/21 Darling Street	19/05/2000	08/08/2000	-	$224,500	9272m	Full transfer	-	-	-	-	-	$224,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11669	            13/21 Darling Street	29/02/2000	27/03/2000	-	$220,000	9272m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	189098	36/14 Darling Street	13/03/2000	29/03/2000	-	$215,000	5574m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	189071	37/14 Darling Street	29/02/2000	27/03/2000	-	$215,000	5574m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	197217	19/14 Darling Street	08/03/2000	24/03/2000	-	$212,000	5574m	Full transfer	-	-	-	-	-	$212,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	201302	31/14 Darling Street	10/03/2000	04/04/2000	-	$209,000	5574m	Full transfer	-	-	-	-	-	$209,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	177089	33/14 Darling Street	11/04/2000	31/05/2000	-	$203,000	5574m	Full transfer	-	-	-	-	-	$203,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	192813	28/14 Darling Street	18/01/2000	28/01/2000	-	$202,000	5574m	Full transfer	-	-	-	-	-	$202,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	185056	25/14 Darling Street	07/02/2000	11/04/2000	-	$191,000	5574m	Full transfer	-	-	-	-	-	$191,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	12477	            19/21 Darling Street	15/09/2000	23/10/2000	-	$165,000	9272m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	11364	            24/21 Darling Street	08/02/2000	13/03/2000	-	$156,000	9272m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	7470	             Gipps Street	23/10/2000	-	22/08/2000	$149,000	-	Full transfer	3	-	1	-	-	$149,000	62	-	Allhomes Record	-	-	-	-	-	-
+2000	193697	11/16 National Circuit	16/05/2000	21/08/2000	-	$122,500	5565m	Full transfer	-	-	-	-	-	$122,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	193698	6/16 National Circuit	16/05/2000	22/08/2000	-	$122,500	5565m	Full transfer	-	-	-	-	-	$122,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	126821	3/16 National Circuit	07/12/2000	30/05/2001	-	$109,980	5565m	Full transfer	-	-	-	-	-	$109,980	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	13540	            6/14 National Circuit	12/12/2000	07/02/2005	-	$1	9272m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	205450	19/16 National Circuit	21/10/2000	23/08/2004	-	-	5565m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	202321	8 Brisbane Avenue	30/06/2000	14/12/2000	-	-	4181m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Residential	-	-
+2000	197929	11/14 Darling Street	13/07/2000	27/09/2000	-	-	5574m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	173212	5/14 Darling Street	21/06/2000	24/07/2000	-	-	5574m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	173747	40 Macquarie Street	30/06/2000	14/12/2000	-	-	3620m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	126831	5/40 Blackall Street	09/07/2001	08/04/2002	-	$1,385,000	3625m	Full transfer	-	-	-	-	-	$1,385,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	126832	6/40 Blackall Street	24/05/2001	23/07/2001	-	$1,385,000	3625m	Full transfer	-	-	-	-	-	$1,385,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	126824	29 Telopea Park	14/10/2001	22/01/2002	-	$987,000	1115m	Full transfer	-	-	-	-	-	$987,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	126828	12 Belmore Gardens	27/01/2001	06/04/2001	-	$655,000	976m	Full transfer	-	-	-	-	-	$655,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	5773	            117/14 National Circuit	04/07/2001	01/12/2003	-	$643,500	9272m	Full transfer	-	-	-	-	-	$643,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5774	            118/14 National Circuit	09/03/2001	21/08/2003	-	$640,000	9272m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5776	            120/14 National Circuit	29/06/2001	04/08/2003	-	$620,000	9272m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5775	            119/14 National Circuit	09/03/2001	15/12/2003	-	$620,000	9272m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5772	            116/14 National Circuit	08/03/2001	22/09/2003	-	$610,000	9272m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126826	11 Gipps Street	01/08/2001	21/09/2001	-	$600,000	1471m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	5770	            115/14 National Circuit	13/07/2001	04/08/2003	-	$600,000	9272m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126823	26 Darling Street	19/05/2001	17/07/2001	-	$505,000	955m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	5893	            74/21 Darling Street	13/03/2001	05/06/2001	-	$465,000	9272m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5777	            13/14 National Circuit	09/03/2001	09/09/2003	-	$465,000	9272m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5862	            93/14 National Circuit	09/03/2001	12/11/2003	-	$440,000	9272m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	13521	            12/14 National Circuit	28/05/2001	05/08/2004	-	$440,000	9272m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5801	            31/14 National Circuit	01/06/2001	29/07/2003	-	$440,000	9272m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126819	18/16 National Circuit	21/11/2001	12/03/2002	-	$435,000	5565m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	126781	43/14 National Circuit	08/03/2001	29/07/2003	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5753	            102/14 National Circuit	05/03/2001	18/08/2003	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5889	            6/21 Darling Street	09/11/2001	28/12/2001	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5822	            68/14 National Circuit	08/03/2001	04/09/2003	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5797	            28/14 National Circuit	06/03/2001	25/08/2003	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	15265	             'The National' Brisbane Avenue	22/09/2001	-	30/08/2001	$425,000	-	Full transfer	4	1	1	1	-	$425,000	23	-	Allhomes Record	-	-	-	-	-	-
+2001	5870	            1/21 Darling Street	08/09/2001	19/12/2001	-	$420,000	9272m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5851	            86/14 National Circuit	08/03/2001	18/08/2003	-	$420,000	9272m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126772	42/14 National Circuit	13/03/2001	24/07/2003	-	$420,000	9272m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5756	            105/14 National Circuit	05/04/2001	29/07/2003	-	$414,375	9272m	Full transfer	-	-	-	-	-	$414,375	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5781	            16/14 National Circuit	26/10/2001	15/09/2003	-	$410,000	9272m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126800	56/14 National Circuit	08/03/2001	25/08/2003	-	$410,000	9272m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5778	            14/14 National Circuit	08/06/2001	20/08/2003	-	$410,000	9272m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5858	            90/14 National Circuit	14/03/2001	24/09/2003	-	$410,000	9272m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5864	            95/14 National Circuit	13/03/2001	04/08/2003	-	$410,000	9272m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	502728	            69/14 National Circuit	03/04/2001	13/04/2017	-	$409,500	9272m	Full transfer	-	-	-	-	-	$409,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5855	            89/14 National Circuit	15/05/2001	19/08/2003	-	$399,750	9272m	Full transfer	-	-	-	-	-	$399,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126802	59/14 National Circuit	20/04/2001	29/07/2003	-	$390,000	9272m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	4807	            70/14 National Circuit	08/03/2001	11/08/2003	-	$390,000	9272m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	205434	60/14 National Circuit	15/03/2001	20/04/2004	-	$390,000	9272m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	409561	            5/14 National Circuit	03/04/2001	24/11/2007	-	$385,000	9272m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5754	            103/14 National Circuit	27/03/2001	13/08/2003	-	$385,000	9272m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5769	            114/14 National Circuit	08/03/2001	22/09/2003	-	$385,000	9272m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5859	            91/14 National Circuit	09/07/2001	24/09/2003	-	$380,250	9272m	Full transfer	-	-	-	-	-	$380,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5867	            98/14 National Circuit	09/07/2001	30/09/2003	-	$380,250	9272m	Full transfer	-	-	-	-	-	$380,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5790	            22/14 National Circuit	06/03/2001	04/08/2003	-	$380,000	9272m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5793	            25/14 National Circuit	08/03/2001	16/09/2003	-	$380,000	9272m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5882	            46/21 Darling Street	20/12/2001	12/02/2002	-	$379,950	9272m	Full transfer	-	-	-	-	-	$379,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5843	            80/14 National Circuit	07/03/2001	25/08/2003	-	$375,000	9272m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5798	            29/14 National Circuit	08/03/2001	31/07/2003	-	$375,000	9272m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5844	            81/14 National Circuit	08/03/2001	20/08/2003	-	$375,000	9272m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5791	            24/14 National Circuit	03/04/2001	04/08/2003	-	$375,000	9272m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5920	            68/21 Darling Street	15/11/2001	12/12/2001	-	$372,000	9272m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5787	            20/14 National Circuit	08/03/2001	04/08/2003	-	$370,000	9272m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5751	            101/14 National Circuit	26/03/2001	15/10/2003	-	$370,000	9272m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5750	            100/14 National Circuit	09/03/2001	04/08/2003	-	$370,000	9272m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126796	53/14 National Circuit	07/03/2001	25/08/2003	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126795	52/14 National Circuit	06/03/2001	04/08/2003	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5850	            85/14 National Circuit	14/03/2001	04/08/2003	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	13530	            23/14 National Circuit	14/03/2001	18/03/2004	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	502810	57/14 National Circuit	05/03/2001	12/04/2017	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5779	            15/14 National Circuit	09/03/2001	19/08/2003	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5834	            76/14 National Circuit	07/03/2001	29/07/2003	-	$360,000	9272m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5763	            11/14 National Circuit	20/08/2001	25/08/2003	-	$360,000	9272m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5853	            88/14 National Circuit	08/03/2001	11/08/2003	-	$360,000	9272m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126784	45/14 National Circuit	09/03/2001	25/08/2003	-	$355,000	9272m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	13526	            16/14 National Circuit	09/03/2001	06/01/2004	-	$350,000	9272m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5866	            97/14 National Circuit	05/03/2001	27/08/2003	-	$350,000	9272m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5760	            108/14 National Circuit	08/03/2001	04/08/2003	-	$345,000	9272m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	4809	            72/14 National Circuit	08/03/2001	29/07/2003	-	$340,000	9272m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5890	            61/21 Darling Street	18/09/2001	22/10/2001	-	$332,000	9272m	Full transfer	-	-	-	-	-	$332,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5860	            92/14 National Circuit	07/03/2001	01/12/2003	-	$330,000	9272m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126785	46/14 National Circuit	08/03/2001	29/07/2003	-	$330,000	9272m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5820	            66/14 National Circuit	06/09/2001	25/08/2003	-	$320,000	9272m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5816	            40/14 National Circuit	05/05/2001	05/08/2003	-	$320,000	9272m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5809	            36/14 National Circuit	05/03/2001	29/07/2003	-	$320,000	9272m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126805	63/14 National Circuit	06/03/2001	17/12/2003	-	$320,000	9272m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5868	            99/14 National Circuit	07/03/2001	27/08/2003	-	$320,000	9272m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126771	41/14 National Circuit	05/03/2001	08/08/2003	-	$320,000	9272m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5865	            96/14 National Circuit	30/03/2001	13/08/2003	-	$312,000	9272m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5814	            39/14 National Circuit	26/04/2001	08/08/2003	-	$312,000	9272m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5807	            35/14 National Circuit	01/03/2001	29/07/2003	-	$310,000	9272m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5885	            51/21 Darling Street	13/09/2001	05/10/2001	-	$310,000	9272m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126806	64/14 National Circuit	06/03/2001	21/08/2003	-	$310,000	9272m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5821	            67/14 National Circuit	07/03/2001	29/07/2003	-	$310,000	9272m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	18936	            19/14 National Circuit	09/03/2001	23/09/2008	-	$310,000	9272m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126817	13/16 National Circuit	12/04/2001	19/06/2001	-	$308,000	5565m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	13545	            75/14 National Circuit	07/03/2001	21/04/2004	-	$305,000	9272m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126798	54/14 National Circuit	08/03/2001	17/12/2003	-	$300,000	9272m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5839	            79/14 National Circuit	14/08/2001	20/08/2003	-	$298,000	9272m	Full transfer	-	-	-	-	-	$298,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5815	            4/14 National Circuit	08/03/2001	05/08/2003	-	$295,000	9272m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5782	            17/14 National Circuit	01/03/2001	06/11/2003	-	$295,000	9272m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5794	            26/14 National Circuit	07/03/2001	15/09/2003	-	$295,000	9272m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126789	49/14 National Circuit	14/03/2001	04/08/2003	-	$295,000	9272m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126793	51/14 National Circuit	07/03/2001	10/10/2003	-	$290,000	9272m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	502977	            82/14 National Circuit	11/07/2001	13/04/2017	-	$289,000	9272m	Full transfer	-	-	-	-	-	$289,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5848	            84/14 National Circuit	07/03/2001	13/08/2003	-	$285,000	9272m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126786	47/14 National Circuit	15/03/2001	13/08/2003	-	$285,000	9272m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5806	            34/14 National Circuit	01/03/2001	15/12/2003	-	$285,000	9272m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126804	62/14 National Circuit	09/07/2001	04/08/2003	-	$282,750	9272m	Full transfer	-	-	-	-	-	$282,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5762	            11/14 National Circuit	03/08/2001	25/08/2003	-	$282,750	9272m	Full transfer	-	-	-	-	-	$282,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5835	            77/14 National Circuit	14/03/2001	11/08/2003	-	$275,000	9272m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	13510	            10/14 National Circuit	05/04/2001	20/04/2004	-	$268,125	9272m	Full transfer	-	-	-	-	-	$268,125	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5857	            9/14 National Circuit	04/07/2001	04/09/2003	-	$268,125	9272m	Full transfer	-	-	-	-	-	$268,125	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5812	            38/14 National Circuit	28/02/2001	19/08/2003	-	$265,000	9272m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5810	            37/14 National Circuit	05/03/2001	12/08/2003	-	$265,000	9272m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126807	65/14 National Circuit	09/04/2001	29/07/2003	-	$258,375	9272m	Full transfer	-	-	-	-	-	$258,375	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5819	            66/14 National Circuit	05/06/2001	25/08/2003	-	$258,375	9272m	Full transfer	-	-	-	-	-	$258,375	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	13551	            83/14 National Circuit	08/03/2001	20/04/2004	-	$240,000	9272m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5837	            78/14 National Circuit	07/03/2001	04/08/2003	-	$240,000	9272m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	502968	            82/14 National Circuit	07/03/2001	13/04/2017	-	$240,000	9272m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5838	            79/14 National Circuit	07/03/2001	20/08/2003	-	$240,000	9272m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126813	26/14 Darling Street	04/05/2001	05/06/2001	-	$228,000	5574m	Full transfer	-	-	-	-	-	$228,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5765	            112/14 National Circuit	01/03/2001	08/08/2003	-	$225,000	9272m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5759	            107/14 National Circuit	02/03/2001	04/08/2003	-	$225,000	9272m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5876	            29/21 Darling Street	26/07/2001	10/10/2001	-	$217,500	9272m	Full transfer	-	-	-	-	-	$217,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5874	            26/21 Darling Street	08/11/2001	14/01/2002	-	$210,000	9272m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5783	            18/14 National Circuit	08/03/2001	29/07/2003	-	$205,000	9272m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126814	32/14 Darling Street	13/06/2001	28/08/2001	-	$205,000	5574m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5877	            30/21 Darling Street	24/08/2001	25/09/2001	-	$203,000	9272m	Full transfer	-	-	-	-	-	$203,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	126803	61/14 National Circuit	01/05/2001	29/07/2003	-	$199,875	9272m	Full transfer	-	-	-	-	-	$199,875	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	502960	            74/14 National Circuit	03/04/2001	13/04/2017	-	$199,875	9272m	Partial transfer	-	-	-	-	-	$199,875	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	502575	            33/14 National Circuit	02/05/2001	13/04/2017	-	$195,000	9272m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5789	            21/14 National Circuit	15/08/2001	12/12/2003	-	$195,000	9272m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	502903	48/14 National Circuit	03/04/2001	13/04/2017	-	$195,000	9272m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5875	            27/21 Darling Street	06/06/2001	06/06/2001	-	$185,000	9272m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	13517	            109/14 National Circuit	21/09/2001	05/02/2004	-	-	9272m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	5918	            65/21 Darling Street	12/04/2001	15/06/2001	-	-	9272m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13739	            235/41 Blackall Street	25/10/2002	06/07/2004	-	$1,450,000	36666m	Full transfer	-	-	-	-	-	$1,450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13742	            237/41 Blackall Street	22/02/2002	17/06/2004	-	$1,375,000	36666m	Full transfer	-	-	-	-	-	$1,375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13763	            250/41 Blackall Street	25/03/2002	14/07/2004	-	$1,350,000	36666m	Full transfer	-	-	-	-	-	$1,350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13775	            259/41 Blackall Street	27/02/2002	29/07/2004	-	$1,225,000	36666m	Full transfer	-	-	-	-	-	$1,225,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205541	219/41 Blackall Street	28/02/2002	18/10/2004	-	$1,000,000	36666m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13716	            160/41 Blackall Street	06/02/2002	06/10/2004	-	$1,000,000	36666m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205529	208/41 Blackall Street	28/02/2002	07/10/2004	-	$935,000	36666m	Full transfer	-	-	-	-	-	$935,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13707	            153/41 Blackall Street	02/02/2002	06/10/2004	-	$935,000	36666m	Full transfer	-	-	-	-	-	$935,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	269380	46/41 Blackall Street	28/02/2002	17/09/2004	-	$875,000	36666m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13585	            104/41 Blackall Street	27/02/2002	06/08/2004	-	$855,000	36666m	Full transfer	-	-	-	-	-	$855,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13587	            105/41 Blackall Street	28/03/2002	01/09/2004	-	$850,000	36666m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126818	17/16 National Circuit	17/05/2002	06/08/2002	-	$840,000	5565m	Full transfer	-	-	-	-	-	$840,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	205580	47/41 Blackall Street	25/02/2002	28/07/2004	-	$775,000	36666m	Full transfer	-	-	-	-	-	$775,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205576	45/41 Blackall Street	28/02/2002	30/07/2004	-	$750,000	36666m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5764	            110/14 National Circuit	19/04/2002	12/11/2003	-	$650,000	9272m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126822	2 Macquarie Street	22/03/2002	05/07/2002	19/11/2001	$648,400	911m	Full transfer	3	2	1	1	-	$648,400	123	-	Combined Record	-	-	-	Single residential dwelling	$411,000	0.63
+2002	13695	            144/41 Blackall Street	26/02/2002	17/11/2004	-	$640,000	36666m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205492	178/41 Blackall Street	26/02/2002	08/10/2004	-	$635,000	36666m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205516	198/41 Blackall Street	27/02/2002	06/10/2004	-	$625,000	36666m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13693	            143/41 Blackall Street	15/03/2002	08/10/2004	-	$620,000	36666m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13698	            146/41 Blackall Street	27/02/2002	22/09/2004	-	$600,000	36666m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13685	            135/41 Blackall Street	26/02/2002	22/09/2004	-	$600,000	36666m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13678	            129/41 Blackall Street	02/02/2002	06/10/2004	-	$600,000	36666m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205479	166/41 Blackall Street	12/03/2002	07/10/2004	-	$580,000	36666m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205490	177/41 Blackall Street	28/02/2002	24/09/2004	-	$580,000	36666m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13854	            92/41 Blackall Street	28/02/2002	23/08/2004	-	$565,000	36666m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13856	            94/41 Blackall Street	27/02/2002	09/08/2004	-	$555,000	36666m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13826	            71/41 Blackall Street	27/02/2002	10/09/2004	-	$550,000	36666m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13936	            97/41 Blackall Street	26/02/2002	02/08/2004	-	$550,000	36666m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13752	            79/41 Blackall Street	27/02/2002	09/08/2004	-	$550,000	36666m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205557	33/41 Blackall Street	27/02/2002	23/07/2004	-	$545,000	36666m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13735	            232/41 Blackall Street	10/04/2002	16/06/2004	-	$545,000	36666m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13677	            128/41 Blackall Street	27/02/2002	27/09/2004	-	$545,000	36666m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13671	            121/41 Blackall Street	28/02/2002	12/10/2004	-	$545,000	36666m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13681	            131/41 Blackall Street	20/06/2002	09/11/2004	-	$535,000	36666m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13842	            85/41 Blackall Street	24/10/2002	22/09/2004	-	$535,000	36666m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205564	38/41 Blackall Street	28/02/2002	22/07/2004	-	$530,000	36666m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205519	20/41 Blackall Street	27/02/2002	19/08/2004	-	$530,000	36666m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205474	13/41 Blackall Street	28/02/2002	30/07/2004	-	$530,000	36666m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13830	            75/41 Blackall Street	19/03/2002	11/08/2004	-	$525,000	36666m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205595	57/41 Blackall Street	22/11/2002	29/10/2004	-	$520,000	36666m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13825	            70/41 Blackall Street	28/02/2002	30/07/2004	-	$520,000	36666m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13810	            59/41 Blackall Street	27/02/2002	11/08/2004	-	$510,000	36666m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13791	            270/41 Blackall Street	22/10/2002	21/07/2004	-	$508,000	36666m	Full transfer	-	-	-	-	-	$508,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13794	            273/41 Blackall Street	28/11/2002	17/06/2004	-	$505,785	36666m	Full transfer	-	-	-	-	-	$505,785	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13798	            276/41 Blackall Street	12/11/2002	07/07/2004	-	$505,000	36666m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13778	            261/41 Blackall Street	06/09/2002	05/07/2004	-	$505,000	36666m	Full transfer	-	-	-	-	-	$505,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205472	12/41 Blackall Street	28/02/2002	26/07/2004	-	$500,000	36666m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126773	42/14 National Circuit	27/07/2002	24/07/2003	-	$495,000	9272m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13789	            269/41 Blackall Street	19/08/2002	16/06/2004	-	$495,000	36666m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13773	            258/41 Blackall Street	05/09/2002	15/06/2004	-	$495,000	36666m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13788	            268/41 Blackall Street	14/11/2002	21/06/2004	-	$490,000	36666m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13731	            230/41 Blackall Street	27/02/2002	05/07/2004	-	$485,000	36666m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205547	222/41 Blackall Street	28/02/2002	13/10/2004	-	$485,000	36666m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13733	            231/41 Blackall Street	21/02/2002	05/07/2004	-	$485,000	36666m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13736	            233/41 Blackall Street	28/02/2002	11/08/2004	-	$485,000	36666m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205507	191/41 Blackall Street	25/02/2002	07/10/2004	-	$485,000	36666m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13734	            232/41 Blackall Street	28/02/2002	16/06/2004	-	$485,000	36666m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205486	171/41 Blackall Street	19/03/2002	27/09/2004	-	$480,000	36666m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13723	            224/41 Blackall Street	26/02/2002	15/06/2004	-	$475,000	36666m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13719	            245/41 Blackall Street	26/02/2002	24/06/2004	-	$475,000	36666m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13720	            246/41 Blackall Street	27/02/2002	18/06/2004	-	$475,000	36666m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205469	1/41 Blackall Street	28/02/2002	05/08/2004	-	$475,000	36666m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13726	            226/41 Blackall Street	27/02/2002	21/06/2004	-	$475,000	36666m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205484	17/41 Blackall Street	28/02/2002	21/07/2004	-	$475,000	36666m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205537	216/41 Blackall Street	11/03/2002	06/10/2004	-	$475,000	36666m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13714	            158/41 Blackall Street	21/02/2002	20/10/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13748	            241/41 Blackall Street	27/02/2002	29/06/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13713	            157/41 Blackall Street	02/02/2002	28/09/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13745	            239/41 Blackall Street	26/02/2002	15/06/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13797	            275/41 Blackall Street	21/03/2002	17/06/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13747	            240/41 Blackall Street	27/02/2002	25/06/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13728	            227/41 Blackall Street	27/02/2002	24/06/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13762	            249/41 Blackall Street	22/02/2002	15/06/2004	-	$460,000	36666m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	164093	174/41 Blackall Street	14/03/2002	15/08/2006	-	$460,000	36666m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13841	            85/41 Blackall Street	22/02/2002	22/09/2004	-	$455,000	36666m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13756	            82/41 Blackall Street	27/02/2002	11/08/2004	-	$450,000	36666m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13776	            260/41 Blackall Street	28/02/2002	15/06/2004	-	$450,000	36666m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13795	            274/41 Blackall Street	28/02/2002	21/06/2004	-	$445,000	36666m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13815	            62/41 Blackall Street	26/03/2002	06/09/2004	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13770	            256/41 Blackall Street	28/02/2002	18/06/2004	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205550	26/41 Blackall Street	26/02/2002	03/08/2004	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13771	            257/41 Blackall Street	28/02/2002	06/07/2004	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205594	57/41 Blackall Street	28/02/2002	29/10/2004	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205548	23/41 Blackall Street	28/02/2002	05/08/2004	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126792	50/14 National Circuit	14/06/2002	28/07/2003	-	$440,000	9272m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205514	196/41 Blackall Street	27/02/2002	27/09/2004	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	503221	            108/14 National Circuit	20/12/2002	06/04/2017	-	$437,500	9272m	Full transfer	-	-	-	-	-	$437,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13692	            142/41 Blackall Street	02/02/2002	29/09/2004	-	$435,000	36666m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13765	            252/41 Blackall Street	27/02/2002	28/06/2004	-	$430,000	36666m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13767	            253/41 Blackall Street	25/02/2002	21/06/2004	-	$430,000	36666m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5802	            32/14 National Circuit	27/06/2002	05/08/2003	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13786	            267/41 Blackall Street	28/02/2002	22/07/2004	-	$425,000	36666m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205538	217/41 Blackall Street	27/02/2002	19/10/2004	-	$425,000	36666m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13785	            266/41 Blackall Street	28/02/2002	28/06/2004	-	$425,000	36666m	Full transfer	-	-	-	-	-	$425,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5891	            64/21 Darling Street	27/02/2002	12/03/2002	-	$420,000	9272m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	27169	51 Darling Street	27/02/2002	-	27/09/2001	$420,000	0m	Full transfer	-	-	-	-	-	$420,000	153	-	Allhomes Record	-	-	-	-	$3,750,000	8.93
+2002	13827	            72/41 Blackall Street	28/02/2002	14/09/2004	-	$420,000	36666m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205571	41/41 Blackall Street	28/02/2002	03/08/2004	-	$415,000	36666m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13676	            127/41 Blackall Street	28/02/2002	27/09/2004	-	$410,000	36666m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13597	            111/41 Blackall Street	28/02/2002	11/08/2004	-	$400,000	36666m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13598	            112/41 Blackall Street	25/02/2002	05/08/2004	-	$400,000	36666m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205570	40/45 Blackall Street	27/02/2002	11/08/2004	-	$400,000	36666m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126790	49/14 National Circuit	03/06/2002	04/08/2003	-	$395,000	9272m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205587	51/41 Blackall Street	28/02/2002	29/07/2004	-	$395,000	36666m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205475	14/41 Blackall Street	28/02/2002	22/07/2004	-	$395,000	36666m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205494	18/41 Blackall Street	28/02/2002	30/07/2004	-	$390,000	36666m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5833	            75/14 National Circuit	17/04/2002	26/08/2003	-	$389,000	9272m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13850	            90/41 Blackall Street	28/02/2002	02/08/2004	-	$385,000	36666m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13848	            89/41 Blackall Street	27/02/2002	19/08/2004	-	$385,000	36666m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205554	31/41 Blackall Street	28/02/2002	05/08/2004	-	$375,000	36666m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205553	30/41 Blackall Street	27/02/2002	21/07/2004	-	$375,000	36666m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13821	            67/41 Blackall Street	27/02/2002	24/08/2004	-	$375,000	36666m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126799	55/14 National Circuit	24/04/2002	13/08/2003	-	$370,000	9272m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205602	9/41 Blackall Street	28/02/2002	10/08/2004	-	$365,000	36666m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13596	            110/41 Blackall Street	14/11/2002	05/08/2004	-	$361,000	36666m	Full transfer	-	-	-	-	-	$361,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5836	            77/14 National Circuit	03/05/2002	11/08/2003	-	$360,000	9272m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13599	            113/41 Blackall Street	26/02/2002	03/08/2004	-	$350,000	36666m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205503	187/41 Blackall Street	28/02/2002	10/06/2005	-	$340,000	36666m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13550	            83/14 National Circuit	29/04/2002	03/06/2004	-	$340,000	9272m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205534	213/41 Blackall Street	27/02/2002	27/09/2004	-	$340,000	36666m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205435	65/14 National Circuit	20/02/2002	03/06/2004	-	$340,000	9272m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13686	            136/41 Blackall Street	28/02/2002	08/10/2004	-	$340,000	36666m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205588	52/41 Blackall Street	21/02/2002	22/07/2004	-	$340,000	36666m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205535	214/41 Blackall Street	20/02/2002	12/11/2004	-	$340,000	36666m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205521	201/41 Blackall Street	28/02/2002	05/10/2004	-	$335,000	36666m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5919	            66/21 Darling Street	26/02/2002	09/04/2002	-	$335,000	9272m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205487	172/41 Blackall Street	27/02/2002	24/09/2004	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205495	180/41 Blackall Street	26/03/2002	19/10/2004	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205489	176/41 Blackall Street	28/02/2002	01/11/2004	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205488	173/41 Blackall Street	26/02/2002	11/10/2004	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205480	167/41 Blackall Street	26/02/2002	12/10/2004	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205485	170/41 Blackall Street	15/03/2002	07/10/2004	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205509	193/41 Blackall Street	28/02/2002	26/10/2004	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5886	            52/21 Darling Street	15/03/2002	13/05/2002	-	$325,000	9272m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205532	212/41 Blackall Street	27/02/2002	11/10/2004	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5767	            113/14 National Circuit	06/02/2002	22/09/2003	-	$321,750	9272m	Full transfer	-	-	-	-	-	$321,750	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13721	            165/41 Blackall Street	28/02/2002	26/10/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205528	207/41 Blackall Street	28/02/2002	27/09/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13753	            80/41 Blackall Street	28/02/2002	10/08/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13858	            95/41 Blackall Street	28/02/2002	10/08/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13755	            81/41 Blackall Street	27/02/2002	11/08/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13935	            96/41 Blackall Street	26/02/2002	24/09/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126810	13/14 Darling Street	09/08/2002	12/03/2003	-	$320,000	5574m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13680	            130/41 Blackall Street	15/03/2002	24/09/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205598	7/41 Blackall Street	14/03/2002	29/07/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13709	            154/41 Blackall Street	28/02/2002	10/12/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	258848	24/41 Blackall Street	27/02/2002	04/01/2010	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205478	16/41 Blackall Street	15/10/2002	22/07/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13595	            110/41 Blackall Street	28/02/2002	05/08/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205551	27/41 Blackall Street	27/02/2002	11/08/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13593	            109/41 Blackall Street	28/02/2002	01/09/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205530	21/41 Blackall Street	27/02/2002	23/07/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205562	36/41 Blackall Street	28/02/2002	23/08/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13706	            152/41 Blackall Street	22/02/2002	27/09/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13400	            164/41 Blackall Street	02/02/2002	28/09/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13664	            117/41 Blackall Street	24/05/2002	06/08/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13672	            122/41 Blackall Street	17/12/2002	13/10/2004	-	$310,000	36666m	Partial transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13843	            86/41 Blackall Street	13/11/2002	19/08/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205499	184/41 Blackall Street	02/02/2002	06/10/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13690	            140/41 Blackall Street	26/02/2002	06/10/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13397	            163/41 Blackall Street	28/02/2002	09/02/2005	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13579	            100/41 Blackall Street	21/03/2002	02/08/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13817	            63/41 Blackall Street	27/02/2002	23/08/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13674	            124/41 Blackall Street	25/02/2002	22/09/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205583	49/41 Blackall Street	28/02/2002	24/08/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205517	199/41 Blackall Street	28/02/2002	27/10/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205582	48/41 Blackall Street	27/02/2002	22/07/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13808	            282/41 Blackall Street	04/09/2002	17/06/2004	-	$305,000	36666m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13806	            281/41 Blackall Street	27/09/2002	16/06/2004	-	$305,000	36666m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13717	            161/41 Blackall Street	02/02/2002	28/09/2004	-	$305,000	36666m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13705	            151/41 Blackall Street	28/02/2002	18/10/2004	-	$305,000	36666m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13782	            264/41 Blackall Street	16/09/2002	21/06/2004	-	$305,000	36666m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13702	            149/41 Blackall Street	28/02/2002	07/10/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13819	            65/41 Blackall Street	27/02/2002	09/08/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13829	            74/41 Blackall Street	23/02/2002	13/08/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13845	            87/41 Blackall Street	28/02/2002	08/09/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13703	            150/41 Blackall Street	13/11/2002	11/10/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13780	            263/41 Blackall Street	05/09/2002	16/06/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13687	            137/41 Blackall Street	28/02/2002	14/10/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13668	            120/41 Blackall Street	28/02/2002	02/08/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13846	            88/41 Blackall Street	28/02/2002	05/08/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13828	            73/41 Blackall Street	25/02/2002	17/08/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13592	            108/41 Blackall Street	27/02/2002	17/08/2004	-	$295,000	36666m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205600	8/41 Blackall Street	28/02/2002	05/08/2004	-	$295,000	36666m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13820	            66/41 Blackall Street	28/02/2002	11/10/2004	-	$295,000	36666m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13683	            133/41 Blackall Street	13/11/2002	24/09/2004	-	$295,000	36666m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13684	            134/41 Blackall Street	27/02/2002	14/10/2004	-	$295,000	36666m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13665	            118/41 Blackall Street	27/02/2002	04/08/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205556	32/41 Blackall Street	28/02/2002	21/07/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205518	2/41 Blackall Street	28/02/2002	18/10/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13661	            114/41 Blackall Street	28/02/2002	19/08/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13666	            119/41 Blackall Street	28/02/2002	04/08/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13804	            279/41 Blackall Street	11/12/2002	19/07/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13701	            148/41 Blackall Street	27/02/2002	27/09/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205552	28/41 Blackall Street	28/02/2002	21/07/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205567	4/41 Blackall Street	25/02/2002	21/07/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13700	            147/41 Blackall Street	28/02/2002	14/10/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205597	6/41 Blackall Street	22/02/2002	26/07/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13583	            103/41 Blackall Street	28/02/2002	17/08/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13682	            132/41 Blackall Street	28/02/2002	03/03/2005	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13663	            116/41 Blackall Street	27/02/2002	19/08/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205572	42/41 Blackall Street	28/02/2002	11/08/2004	-	$285,000	36666m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205590	53/41 Blackall Street	28/02/2002	21/07/2004	-	$285,000	36666m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13823	            69/41 Blackall Street	28/02/2002	05/08/2004	-	$285,000	36666m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205574	44/41 Blackall Street	28/02/2002	10/08/2004	-	$285,000	36666m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13801	            277/41 Blackall Street	26/11/2002	25/06/2004	-	$285,000	36666m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205592	55/41 Blackall Street	28/02/2002	07/09/2004	-	$285,000	36666m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205476	15/41 Blackall Street	27/02/2002	21/07/2004	-	$285,000	36666m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5880	            43/21 Darling Street	02/10/2002	13/12/2002	-	$283,000	9272m	Full transfer	-	-	-	-	-	$283,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13580	            101/41 Blackall Street	28/02/2002	30/07/2004	-	$280,000	36666m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5766	            112/14 National Circuit	25/11/2002	08/08/2003	-	$280,000	9272m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205558	34/41 Blackall Street	28/02/2002	26/07/2004	-	$280,000	36666m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	237813	39/41 Blackall Street	15/02/2002	18/09/2008	-	$280,000	36666m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205549	25/41 Blackall Street	27/02/2002	23/07/2004	-	$278,000	36666m	Full transfer	-	-	-	-	-	$278,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126759	10/40 Brisbane Avenue	18/10/2002	12/02/2003	-	$277,500	4636m	Full transfer	-	-	-	-	-	$277,500	-	-	Government Record	-	-	-	Building society,credit union	-	-
+2002	13855	            93/41 Blackall Street	27/02/2002	04/08/2004	-	$275,000	36666m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13937	            98/41 Blackall Street	27/02/2002	03/08/2004	-	$275,000	36666m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205543	22/41 Blackall Street	28/02/2002	21/07/2004	-	$275,000	36666m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	205505	19/41 Blackall Street	27/02/2002	21/07/2004	-	$275,000	36666m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13758	            83/41 Blackall Street	27/02/2002	19/08/2004	-	$275,000	36666m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	13831	            76/41 Blackall Street	28/02/2002	06/08/2004	-	$272,000	36666m	Full transfer	-	-	-	-	-	$272,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5878	            31/21 Darling Street	26/02/2002	05/02/2003	-	$256,500	9272m	Full transfer	-	-	-	-	-	$256,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5879	            37/21 Darling Street	15/01/2002	14/02/2002	-	$239,000	9272m	Full transfer	-	-	-	-	-	$239,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	5887	            55/21 Darling Street	12/09/2002	08/10/2002	-	$212,000	9272m	Full transfer	-	-	-	-	-	$212,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	503157	50/14 National Circuit	07/03/2002	06/04/2017	-	$35,000	9272m	Full transfer	-	-	-	-	-	$35,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	18027	"            UNITC5 ""The National"""	25/07/2002	-	16/01/2002	-	-	Full transfer	2	-	-	-	-	-	190	-	Allhomes Record	-	-	-	-	-	-
+2002	5888	            58/21 Darling Street	01/10/2002	18/10/2002	-	-	9272m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	126830	6 Blackall Street	25/06/2002	25/06/2002	-	-	26476m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office	-	-
+2002	19891	            UNITA20 The National	20/12/2002	-	09/09/2002	-	-	Full transfer	2	2	1	2	-	-	102	-	Allhomes Record	-	-	-	-	-	-
+2002	126809	10/14 Darling Street	25/11/2002	10/10/2003	-	-	5574m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126760	10 National Circuit	27/10/2003	09/12/2003	-	$16,775,000	4636m	Full transfer	-	-	-	-	-	$16,775,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+2003	205463	16 Belmore Gardens	21/11/2003	06/01/2004	-	$1,070,000	895m	Full transfer	-	-	-	-	-	$1,070,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	126827	35 Telopea Park	18/07/2003	13/08/2003	24/04/2003	$995,000	961m	Full transfer	4	2	-	2	-	$995,000	85	-	Combined Record	-	-	-	Single residential dwelling	$575,000	0.58
+2003	126825	11 Gipps Street	15/03/2003	06/05/2003	-	$876,000	1471m	Full transfer	-	-	-	-	-	$876,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	30805	23 Telopea Park	15/03/2003	-	14/02/2003	$876,000	-	Full transfer	3	1	-	-	1	$876,000	29	-	Allhomes Record	-	-	-	-	-	-
+2003	205459	30 Darling Street	11/04/2003	06/04/2004	-	$845,000	929m	Full transfer	-	-	-	-	-	$845,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	205457	13 Young Street	14/11/2003	06/02/2004	-	$835,000	1045m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	13578	            1/2 Young Street	24/10/2003	28/01/2004	-	$790,000	1215m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	34414	40 New South Wales Crescent	24/10/2003	-	26/09/2003	$790,000	0m	Full transfer	4	1	1	1	-	$790,000	28	-	Allhomes Record	-	-	-	-	$575,000	0.73
+2003	5771	            115/14 National Circuit	08/05/2003	04/08/2003	-	$695,000	9272m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13811	            59/41 Blackall Street	24/07/2003	11/08/2004	-	$610,000	36666m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	502686	            69/14 National Circuit	02/04/2003	13/04/2017	-	$565,000	9272m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126774	43/14 National Circuit	05/08/2003	15/12/2003	-	$564,000	9272m	Full transfer	-	-	-	-	-	$564,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13522	            13/14 National Circuit	05/11/2003	12/01/2004	-	$563,000	9272m	Full transfer	-	-	-	-	-	$563,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5856	            89/14 National Circuit	26/03/2003	25/08/2003	-	$550,000	9272m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13777	            260/41 Blackall Street	12/06/2003	15/06/2004	-	$545,000	36666m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13787	            267/41 Blackall Street	21/11/2003	22/07/2004	-	$540,000	36666m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205560	35/41 Blackall Street	26/02/2003	26/07/2004	-	$540,000	36666m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13796	            274/41 Blackall Street	01/09/2003	23/08/2004	-	$540,000	36666m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5803	            32/14 National Circuit	11/07/2003	05/08/2003	-	$540,000	9272m	Full transfer	-	-	-	-	-	$540,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	32191	85/23 Macquarie Street	26/11/2003	-	19/07/2003	$535,000	0m	Full transfer	3	1	1	-	2	$535,000	130	-	Allhomes Record	-	-	-	-	$0	0.0
+2003	13534	            28/14 National Circuit	26/11/2003	19/01/2004	-	$535,000	9272m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5788	            20/14 National Circuit	25/03/2003	19/12/2003	-	$530,000	9272m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13749	            241/41 Blackall Street	31/07/2003	29/06/2004	-	$530,000	36666m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5768	            113/14 National Circuit	23/07/2003	22/09/2003	-	$499,950	9272m	Full transfer	-	-	-	-	-	$499,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5786	            2/14 National Circuit	20/12/2003	15/12/2003	-	$495,000	9272m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5758	            106/14 National Circuit	16/01/2003	04/08/2003	-	$492,000	9272m	Full transfer	-	-	-	-	-	$492,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13784	            265/41 Blackall Street	22/01/2003	26/07/2004	-	$490,000	36666m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13556	            95/14 National Circuit	06/03/2003	03/06/2004	-	$485,000	9272m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13512	            104/14 National Circuit	18/08/2003	04/06/2004	-	$480,000	9272m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13688	            138/41 Blackall Street	28/02/2003	08/10/2004	-	$480,000	36666m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5854	            88/14 National Circuit	18/09/2003	29/10/2003	-	$470,000	9272m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5842	            80/14 National Circuit	02/06/2003	07/10/2003	-	$465,000	9272m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126782	44/14 National Circuit	23/05/2003	13/08/2003	-	$465,000	9272m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205527	206/41 Blackall Street	25/03/2003	05/10/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5869	            99/14 National Circuit	13/08/2003	27/10/2003	-	$465,000	9272m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126797	53/14 National Circuit	14/07/2003	25/08/2003	-	$460,000	9272m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5861	            92/14 National Circuit	18/08/2003	01/12/2003	-	$460,000	9272m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5917	            65/21 Darling Street	26/02/2003	07/07/2003	-	$459,000	9272m	Full transfer	-	-	-	-	-	$459,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	30768	53 Darling Street	26/02/2003	-	14/02/2003	$459,000	-	Full transfer	2	2	-	-	2	$459,000	12	-	Allhomes Record	-	-	-	-	$3,750,000	8.17
+2003	13673	            123/41 Blackall Street	28/02/2003	27/09/2004	-	$455,000	36666m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5792	            24/14 National Circuit	07/02/2003	04/08/2003	-	$449,000	9272m	Full transfer	-	-	-	-	-	$449,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	18952	            5/14 National Circuit	11/07/2003	02/12/2008	-	$441,000	9272m	Full transfer	-	-	-	-	-	$441,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	22650	            1/15 Bourke Street	17/07/2003	-	20/06/2003	$440,000	-	Full transfer	2	1	-	-	1	$440,000	27	-	Allhomes Record	-	-	-	-	-	-
+2003	126783	45/14 National Circuit	12/08/2003	20/10/2003	-	$440,000	9272m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126808	1/14 Darling Street	17/07/2003	20/08/2003	-	$440,000	5574m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5796	            27/14 National Circuit	07/08/2003	22/09/2003	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5752	            101/14 National Circuit	10/04/2003	16/10/2003	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126816	6/14 Darling Street	15/09/2003	03/11/2003	-	$420,000	5574m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	32575	6/15 Bourke Street	16/09/2003	-	05/08/2003	$420,000	-	Full transfer	2	1	-	-	1	$420,000	42	-	Allhomes Record	-	-	-	-	-	-
+2003	5863	            94/14 National Circuit	03/04/2003	04/08/2003	-	$419,250	9272m	Full transfer	-	-	-	-	-	$419,250	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5757	            106/14 National Circuit	28/02/2003	04/08/2003	-	$415,000	9272m	Full transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5884	            50/21 Darling Street	17/07/2003	20/08/2003	-	$414,000	9272m	Full transfer	-	-	-	-	-	$414,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5748	            1/14 National Circuit	14/03/2003	29/07/2003	-	$410,000	9272m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205585	5/41 Blackall Street	26/02/2003	14/07/2004	-	$400,000	36666m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205586	50/41 Blackall Street	01/08/2003	26/07/2004	-	$395,000	36666m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13509	            10/14 National Circuit	30/08/2003	03/06/2004	-	$395,000	9272m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5826	            7/14 National Circuit	14/04/2003	13/08/2003	-	$392,500	9272m	Full transfer	-	-	-	-	-	$392,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	22184	             'Landmark' Blackall Street	10/11/2003	-	25/08/2003	$389,500	-	Full transfer	3	1	1	1	-	$389,500	77	-	Allhomes Record	-	-	-	-	-	-
+2003	5849	            84/14 National Circuit	28/03/2003	13/08/2003	-	$389,000	9272m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126794	51/14 National Circuit	30/05/2003	10/10/2003	-	$384,000	9272m	Full transfer	-	-	-	-	-	$384,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5808	            35/14 National Circuit	17/05/2003	29/07/2003	-	$380,000	9272m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	4810	            73/14 National Circuit	25/06/2003	24/09/2003	-	$380,000	9272m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5811	            37/14 National Circuit	07/05/2003	12/08/2003	-	$380,000	9272m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5813	            38/14 National Circuit	14/05/2003	19/08/2003	-	$375,000	9272m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5852	            87/14 National Circuit	09/04/2003	04/08/2003	-	$375,000	9272m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5840	            79/14 National Circuit	24/07/2003	20/08/2003	-	$370,000	9272m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5795	            27/14 National Circuit	08/03/2003	22/09/2003	-	$370,000	9272m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	32005	73/17 Darling Street	24/07/2003	-	10/07/2003	$370,000	0m	Full transfer	2	-	-	1	-	$370,000	14	-	Allhomes Record	-	-	-	-	$0	0.0
+2003	5755	            104/14 National Circuit	08/03/2003	29/07/2003	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5800	            30/14 National Circuit	01/03/2003	29/07/2003	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126815	4/14 Darling Street	31/01/2003	04/03/2003	-	$360,000	5574m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	33604	14/26 Macquarie Street	11/12/2003	-	05/09/2003	$360,000	0m	Full transfer	2	1	-	1	-	$360,000	97	-	Allhomes Record	-	-	-	-	$81,400	0.23
+2003	4808	            71/14 National Circuit	08/03/2003	27/11/2003	-	$360,000	9272m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13518	            111/14 National Circuit	06/03/2003	19/04/2004	-	$360,000	9272m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13560	            14/21 Darling Street	11/12/2003	20/01/2004	-	$360,000	9272m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5873	            16/21 Darling Street	20/08/2003	26/09/2003	-	$350,000	9272m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	31570	16/26 Macquarie Street	20/08/2003	-	15/05/2003	$350,000	0m	Full transfer	2	1	-	1	-	$350,000	97	-	Allhomes Record	-	-	-	-	$0	0.0
+2003	5825	            7/14 National Circuit	19/06/2003	13/08/2003	-	$350,000	9272m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	35532	37/11 Bourke Street	05/12/2003	-	24/10/2003	$350,000	-	Full transfer	2	1	-	1	-	$350,000	42	-	Allhomes Record	-	-	-	-	-	-
+2003	205443	37/14 Darling Street	05/12/2003	21/01/2004	-	$350,000	5574m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13548	            78/14 National Circuit	21/03/2003	03/06/2004	-	$350,000	9272m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205506	190/41 Blackall Street	27/02/2003	13/10/2004	-	$340,000	36666m	Partial transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	13853	            91/41 Blackall Street	21/03/2003	05/08/2004	-	$335,000	36666m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205477	15/41 Blackall Street	30/09/2003	21/07/2004	-	$335,000	36666m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5841	            8/14 National Circuit	09/03/2003	21/11/2003	-	$330,000	9272m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205511	194/41 Blackall Street	05/09/2003	08/10/2004	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205515	197/41 Blackall Street	27/02/2003	07/10/2004	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126788	48/14 National Circuit	11/08/2003	25/08/2003	-	$320,000	9272m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	126812	25/14 Darling Street	29/05/2003	30/06/2003	-	$312,500	5574m	Full transfer	-	-	-	-	-	$312,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5784	            18/14 National Circuit	16/04/2003	29/07/2003	-	$308,000	9272m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	20207	            20/20 Macquarie Street	21/03/2003	-	07/02/2003	$305,000	-	Full transfer	2	1	-	-	1	$305,000	42	-	Allhomes Record	-	-	-	-	-	-
+2003	484794	20/14 Darling Street	21/03/2003	24/08/2016	-	$305,000	5574m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5871	            13/21 Darling Street	20/02/2003	31/03/2003	-	$290,000	9272m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5872	            14/21 Darling Street	20/02/2003	02/05/2003	-	$283,000	9272m	Full transfer	-	-	-	-	-	$283,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5805	            33/14 National Circuit	07/06/2003	19/08/2003	-	$265,000	9272m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	20445	             Blackall Street	14/10/2003	-	27/06/2003	$262,000	-	Full transfer	1	1	-	-	-	$262,000	109	-	Allhomes Record	-	-	-	-	-	-
+2003	13832	            77/41 Blackall Street	10/03/2003	02/08/2004	-	$250,000	36666m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	5799	            3/14 National Circuit	14/07/2003	04/08/2003	-	$205,000	9272m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	205453	6/16 National Circuit	03/06/2003	16/04/2004	-	$180,000	5565m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2003	5881	            45/21 Darling Street	27/06/2003	04/08/2003	-	$32,000	9272m	Full transfer	-	-	-	-	-	$32,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	20348	            A1 'The National'	11/07/2003	-	15/05/2003	-	0m	Full transfer	2	1	1	2	-	-	57	-	Allhomes Record	-	-	-	-	$0	-
+2003	19999	            F4 The National	16/04/2003	-	25/10/2002	-	-	Full transfer	1	1	-	1	-	-	173	-	Allhomes Record	-	-	-	-	-	-
+2003	20001	            D13 The National	10/04/2003	-	25/10/2002	-	-	Full transfer	2	1	1	2	-	-	167	-	Allhomes Record	-	-	-	-	-	-
+2003	22513		07/08/2003	-	22/07/2002	-	-	Full transfer	2	1	1	-	-	-	381	-	Allhomes Record	-	-	-	-	-	-
+2003	18004	            E10 'The National' Barton	07/02/2003	-	09/01/2002	-	-	Full transfer	3	1	1	1	-	-	394	-	Allhomes Record	-	-	-	-	-	-
+2003	18553	            E9 The National	02/06/2003	-	14/01/2003	-	-	Full transfer	3	2	1	-	-	-	139	-	Allhomes Record	-	-	-	-	-	-
+2003	205462	4/37 Telopea Park	30/08/2003	12/01/2004	-	-	1340m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Self care units for aged pe...	-	-
+2003	205465	31 Telopea Park	12/06/2003	25/05/2004	-	-	976m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	205605	50 Blackall Street	15/07/2004	05/07/2005	-	$15,305,000	3620m	Full transfer	-	-	-	-	-	$15,305,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	13740	            236/41 Blackall Street	05/08/2004	20/09/2005	-	$1,250,000	36666m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205419	17/11 National Circuit	28/05/2004	23/08/2004	-	$1,078,250	4636m	Full transfer	-	-	-	-	-	$1,078,250	-	-	Government Record	-	-	-	National association office	-	-
+2004	41677	64/14 National Circuit	30/08/2004	-	19/04/2004	$1,000,025	9272m	Full transfer	3	1	1	2	-	$1,000,025	133	-	Allhomes Record	-	-	-	-	-	-
+2004	205410	12/11 National Circuit	28/05/2004	23/08/2004	-	$992,750	4636m	Full transfer	-	-	-	-	-	$992,750	-	-	Government Record	-	-	-	National association office	-	-
+2004	13662	            115/41 Blackall Street	28/02/2004	05/08/2004	-	$970,000	36666m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205417	15/11 National Circuit	06/10/2004	08/12/2004	-	$959,000	4636m	Full transfer	-	-	-	-	-	$959,000	-	-	Government Record	-	-	-	National association office	-	-
+2004	205591	54/41 Blackall Street	25/10/2004	10/02/2005	-	$955,000	36666m	Full transfer	-	-	-	-	-	$955,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13586	            104/41 Blackall Street	09/09/2004	11/07/2005	-	$950,000	36666m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205468	4 Young Street	01/05/2004	24/06/2004	02/04/2004	$941,000	813m	Full transfer	4	2	1	-	-	$941,000	29	-	Combined Record	-	-	-	Single residential dwelling	$679,000	0.72
+2004	205416	15/11 National Circuit	01/07/2004	03/12/2004	-	$940,500	4636m	Full transfer	-	-	-	-	-	$940,500	-	-	Government Record	-	-	-	National association office	-	-
+2004	205456	18 Darling Street	28/05/2004	05/08/2004	06/05/2004	$930,000	1110m	Full transfer	4	2	-	1	-	$930,000	22	-	Combined Record	-	-	-	Single residential dwelling	$641,000	0.69
+2004	205573	43/41 Blackall Street	03/08/2004	13/09/2004	-	$930,000	36666m	Full transfer	-	-	-	-	-	$930,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13730	            229/41 Blackall Street	01/12/2004	12/01/2005	-	$922,000	36666m	Full transfer	-	-	-	-	-	$922,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13711	            155/41 Blackall Street	26/11/2004	12/01/2005	-	$900,000	36666m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205421	6/11 National Circuit	28/05/2004	23/08/2004	-	$888,250	4636m	Full transfer	-	-	-	-	-	$888,250	-	-	Government Record	-	-	-	National association office	-	-
+2004	13750	            242/41 Blackall Street	21/09/2004	11/10/2004	-	$875,000	36666m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13710	            155/41 Blackall Street	02/02/2004	06/10/2004	-	$875,000	36666m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205531	211/41 Blackall Street	01/10/2004	01/10/2004	-	$875,000	36666m	Full transfer	-	-	-	-	-	$875,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205466	31 Telopea Park	13/04/2004	25/05/2004	10/03/2004	$850,000	976m	Full transfer	3	1	1	2	-	$850,000	34	-	Combined Record	-	-	-	Single residential dwelling	$690,000	0.81
+2004	13590	            107/41 Blackall Street	28/02/2004	05/08/2004	-	$800,000	36666m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13729	            228/41 Blackall Street	18/11/2004	08/12/2004	-	$790,000	36666m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205458	15 Young Street	29/06/2004	19/10/2004	04/03/2004	$745,000	989m	Full transfer	2	1	-	1	-	$745,000	117	-	Combined Record	-	-	-	Single residential dwelling	$664,000	0.89
+2004	13694	            144/41 Blackall Street	13/10/2004	02/02/2005	-	$735,000	36666m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205425	8/11 National Circuit	28/05/2004	23/08/2004	-	$703,000	4636m	Full transfer	-	-	-	-	-	$703,000	-	-	Government Record	-	-	-	National association office	-	-
+2004	13857	            94/41 Blackall Street	11/06/2004	09/08/2004	-	$687,000	36666m	Full transfer	-	-	-	-	-	$687,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13697	            146/41 Blackall Street	14/11/2004	04/02/2005	-	$675,000	36666m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	33071	51/14 National Circuit	23/01/2004	-	22/08/2003	$640,000	0m	Full transfer	3	2	-	2	-	$640,000	154	-	Allhomes Record	-	-	-	-	$0	0.0
+2004	13547	            76/14 National Circuit	23/01/2004	12/03/2004	-	$635,000	9272m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205491	177/41 Blackall Street	09/08/2004	24/09/2004	-	$630,000	36666m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13679	            129/41 Blackall Street	01/12/2004	20/01/2005	-	$626,000	36666m	Full transfer	-	-	-	-	-	$626,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205520	200/41 Blackall Street	29/09/2004	29/09/2004	-	$625,000	36666m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13514	            105/14 National Circuit	17/03/2004	08/04/2004	-	$620,000	9272m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	45604	12/45 Blackall Street	25/10/2004	-	10/08/2004	$615,000	-	Full transfer	3	2	-	2	-	$615,000	76	-	Allhomes Record	-	-	-	-	-	-
+2004	13824	            70/41 Blackall Street	22/10/2004	22/11/2004	-	$615,000	36666m	Full transfer	-	-	-	-	-	$615,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205413	13/11 National Circuit	18/06/2004	29/06/2004	-	$614,251	4636m	Full transfer	-	-	-	-	-	$614,251	-	-	Government Record	-	-	-	National association office	-	-
+2004	205500	185/41 Blackall Street	01/10/2004	01/10/2004	-	$610,000	36666m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13715	            159/41 Blackall Street	29/09/2004	29/09/2004	-	$580,000	36666m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13532	            24/14 National Circuit	30/06/2004	10/08/2004	-	$565,000	9272m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	41654	75/15 Darling Street	05/07/2004	-	15/04/2004	$565,000	-	Full transfer	3	1	1	-	-	$565,000	81	-	Allhomes Record	-	-	-	-	-	-
+2004	13538	            35/14 National Circuit	08/12/2004	05/01/2005	-	$560,000	9272m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13737	            233/41 Blackall Street	06/05/2004	11/08/2004	-	$558,000	36666m	Full transfer	-	-	-	-	-	$558,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205432	53/14 National Circuit	28/09/2004	04/11/2004	-	$550,000	9272m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13531	            23/14 National Circuit	08/06/2004	20/09/2004	-	$550,000	9272m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13732	            230/41 Blackall Street	28/05/2004	05/07/2004	-	$550,000	36666m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13849	            89/41 Blackall Street	30/06/2004	19/08/2004	-	$545,000	36666m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13724	            225/41 Blackall Street	16/06/2004	21/09/2004	-	$542,500	36666m	Full transfer	-	-	-	-	-	$542,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205471	12/41 Blackall Street	16/12/2004	08/04/2005	-	$542,000	36666m	Full transfer	-	-	-	-	-	$542,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13799	            276/41 Blackall Street	01/10/2004	28/10/2004	-	$535,000	36666m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13793	            272/41 Blackall Street	29/07/2004	08/09/2004	-	$535,000	36666m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13766	            252/41 Blackall Street	05/03/2004	28/06/2004	-	$535,000	36666m	Full transfer	-	-	-	-	-	$535,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	49434	44/14 National Circuit	21/12/2004	-	15/11/2004	$530,000	9272m	Full transfer	2	1	1	-	-	$530,000	36	-	Allhomes Record	-	-	-	-	-	-
+2004	13527	            16/14 National Circuit	21/12/2004	12/02/2005	-	$530,000	9272m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13774	            258/41 Blackall Street	31/08/2004	18/10/2004	-	$525,000	36666m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13727	            227/41 Blackall Street	25/11/2004	11/01/2005	-	$520,000	36666m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13572	            60/21 Darling Street	11/02/2004	10/03/2004	-	$495,000	9272m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13725	            225/41 Blackall Street	15/03/2004	22/06/2004	-	$495,000	36666m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13659	            113/41 Blackall Street	27/09/2004	27/09/2004	-	$482,500	36666m	Full transfer	-	-	-	-	-	$482,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13851	            90/41 Blackall Street	19/03/2004	02/08/2004	-	$480,000	36666m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13558	            97/14 National Circuit	22/04/2004	19/05/2004	-	$480,000	9272m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	39943	59/14 National Circuit	22/04/2004	-	02/03/2004	$480,000	9272m	Full transfer	2	1	1	2	-	$480,000	51	-	Allhomes Record	-	-	-	-	-	-
+2004	19405	            15/14 National Circuit	29/09/2004	03/07/2009	-	$473,000	9272m	Full transfer	-	-	-	-	-	$473,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205493	179/41 Blackall Street	01/10/2004	01/10/2004	-	$470,000	36666m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	245216	56/41 Blackall Street	27/02/2004	19/07/2004	-	$470,000	36666m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205545	221/41 Blackall Street	01/10/2004	01/10/2004	-	$470,000	36666m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13818	            64/41 Blackall Street	01/12/2004	17/01/2005	-	$467,000	36666m	Full transfer	-	-	-	-	-	$467,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13768	            254/41 Blackall Street	03/12/2004	06/01/2005	-	$467,000	36666m	Full transfer	-	-	-	-	-	$467,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205536	215/41 Blackall Street	28/09/2004	28/09/2004	-	$465,000	36666m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205526	205/41 Blackall Street	29/09/2004	29/09/2004	-	$455,000	36666m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205418	16/11 National Circuit	20/07/2004	10/09/2004	-	$453,970	4636m	Full transfer	-	-	-	-	-	$453,970	-	-	Government Record	-	-	-	National association office	-	-
+2004	205498	183/41 Blackall Street	06/12/2004	04/02/2005	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205513	195/41 Blackall Street	10/08/2004	28/09/2004	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13691	            141/41 Blackall Street	28/09/2004	28/09/2004	-	$435,000	36666m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13792	            271/41 Blackall Street	27/02/2004	22/06/2004	-	$435,000	36666m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13790	            270/41 Blackall Street	28/02/2004	21/07/2004	-	$435,000	36666m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13544	            75/14 National Circuit	03/06/2004	03/06/2004	-	$435,000	9272m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13535	            34/14 National Circuit	30/06/2004	19/08/2004	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	47879	18/41 Blackall Street	06/12/2004	-	09/10/2004	$425,000	36666m	Full transfer	2	1	1	2	-	$425,000	58	-	Allhomes Record	-	-	-	-	-	-
+2004	35479	25 Macquarie Street	11/06/2004	-	22/10/2003	$415,000	-	Full transfer	2	1	1	2	-	$415,000	233	-	Allhomes Record	-	-	-	-	$14,035,000	33.82
+2004	47172	35 Darling Street	16/11/2004	-	20/09/2004	$414,000	-	Full transfer	2	1	-	1	-	$414,000	57	-	Allhomes Record	-	-	-	-	$8,352,000	20.17
+2004	13571	            56/21 Darling Street	16/11/2004	09/02/2005	-	$414,000	9272m	Full transfer	-	-	-	-	-	$414,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	39281	3/21 Brisbane Avenue	05/05/2004	-	12/02/2004	$395,000	-	Full transfer	2	-	1	1	-	$395,000	83	-	Allhomes Record	-	-	-	-	-	-
+2004	13554	            9/14 National Circuit	05/05/2004	21/05/2004	-	$395,000	9272m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205440	2/14 Darling Street	30/11/2004	07/01/2005	-	$387,500	5574m	Full transfer	-	-	-	-	-	$387,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13822	            68/41 Blackall Street	27/02/2004	05/08/2004	-	$375,000	36666m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205461	2/37 Telopea Park	19/11/2004	10/05/2005	-	$372,000	1340m	Full transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Self care units for aged pe...	-	-
+2004	13566	            33/21 Darling Street	30/06/2004	22/07/2004	-	$370,000	9272m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205445	13/16 National Circuit	27/01/2004	16/03/2004	-	$370,000	5565m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	205470	10/41 Blackall Street	27/02/2004	30/07/2004	-	$365,000	36666m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205433	58/14 National Circuit	21/08/2004	01/12/2004	-	$365,000	9272m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13594	            109/41 Blackall Street	31/03/2004	01/09/2004	-	$360,000	36666m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13847	            88/41 Blackall Street	23/04/2004	05/08/2004	-	$355,000	36666m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13760	            84/41 Blackall Street	16/08/2004	20/09/2004	-	$355,000	36666m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205581	48/41 Blackall Street	10/08/2004	14/09/2004	-	$349,950	36666m	Full transfer	-	-	-	-	-	$349,950	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	43537	21/41 Blackall Street	12/08/2004	11/10/1994	-	$345,000	36666m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	41368	8/26 Macquarie Street	24/06/2004	-	02/04/2004	$342,500	9272m	Full transfer	2	1	-	-	1	$342,500	83	-	Allhomes Record	-	-	-	-	-	-
+2004	13575	            8/21 Darling Street	24/06/2004	22/07/2004	-	$342,500	9272m	Full transfer	-	-	-	-	-	$342,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205501	186/41 Blackall Street	05/10/2004	05/10/2004	-	$340,000	36666m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13689	            139/41 Blackall Street	01/10/2004	01/10/2004	-	$340,000	36666m	Partial transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205502	186/41 Blackall Street	10/09/2004	05/10/2004	-	$340,000	36666m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205561	36/41 Blackall Street	01/10/2004	21/12/2004	-	$340,000	36666m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13696	            145/41 Blackall Street	01/10/2004	01/10/2004	-	$335,000	36666m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13712	            156/41 Blackall Street	01/10/2004	01/10/2004	-	$335,000	36666m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205523	202/41 Blackall Street	14/09/2004	09/02/2005	-	$335,000	36666m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205496	181/41 Blackall Street	30/09/2004	30/09/2004	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205482	168/41 Blackall Street	02/02/2004	01/10/2004	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205555	32/41 Blackall Street	14/09/2004	07/10/2004	-	$327,000	36666m	Full transfer	-	-	-	-	-	$327,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205599	8/41 Blackall Street	17/12/2004	02/02/2005	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205563	37/41 Blackall Street	26/03/2004	05/08/2004	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13675	            125/41 Blackall Street	01/10/2004	01/10/2004	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13704	            151/41 Blackall Street	24/12/2004	12/02/2005	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205508	192/41 Blackall Street	01/10/2004	01/10/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205442	23/14 Darling Street	29/09/2004	22/10/2004	-	$320,000	5574m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205539	218/41 Blackall Street	14/08/2004	28/09/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13759	            84/41 Blackall Street	22/02/2004	05/08/2004	-	$320,000	36666m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13398	            163/41 Blackall Street	24/12/2004	09/02/2005	-	$317,500	36666m	Full transfer	-	-	-	-	-	$317,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205504	189/41 Blackall Street	01/10/2004	01/10/2004	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13591	            108/41 Blackall Street	01/12/2004	10/01/2005	-	$315,000	36666m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205596	6/41 Blackall Street	16/08/2004	07/09/2004	-	$312,000	36666m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205593	55/41 Blackall Street	10/11/2004	22/12/2004	-	$312,000	36666m	Full transfer	-	-	-	-	-	$312,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13813	            61/41 Blackall Street	28/02/2004	05/08/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205525	204/41 Blackall Street	11/10/2004	11/10/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13396	            162/41 Blackall Street	30/09/2004	30/09/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13812	            60/41 Blackall Street	28/03/2004	05/08/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205544	220/41 Blackall Street	01/10/2004	01/10/2004	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13589	            106/41 Blackall Street	03/12/2004	19/01/2005	-	$307,500	36666m	Full transfer	-	-	-	-	-	$307,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13939	            99/41 Blackall Street	25/03/2004	30/07/2004	-	$305,000	36666m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13584	            103/41 Blackall Street	22/07/2004	17/08/2004	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205542	22/41 Blackall Street	23/12/2004	12/02/2005	-	$300,000	36666m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13834	            79/41 Blackall Street	23/07/2004	09/08/2004	-	$300,000	36666m	Partial transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	47453	22/47 Blackall Street	24/12/2004	-	24/09/2004	$300,000	-	Full transfer	1	1	-	1	-	$300,000	91	-	Allhomes Record	-	-	-	-	-	-
+2004	13852	            91/41 Blackall Street	28/02/2004	05/08/2004	-	$295,000	36666m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13588	            106/41 Blackall Street	27/02/2004	05/08/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13581	            102/41 Blackall Street	27/02/2004	16/08/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13805	            280/41 Blackall Street	12/12/2004	21/06/2004	-	$290,000	36666m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13802	            278/41 Blackall Street	11/02/2004	19/07/2004	-	$285,000	36666m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13779	            262/41 Blackall Street	17/11/2004	06/01/2005	-	$280,000	36666m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13564	            25/21 Darling Street	23/12/2004	23/02/2005	-	$275,000	9272m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13833	            78/41 Blackall Street	28/02/2004	06/08/2004	-	$275,000	36666m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	13563	            23/21 Darling Street	28/07/2004	06/09/2004	-	$261,000	9272m	Full transfer	-	-	-	-	-	$261,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205546	222/41 Blackall Street	13/10/2004	13/10/2004	-	$260,000	36666m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	41401	2/11 Bourke Street	06/11/2004	-	22/07/2004	$228,000	-	Full transfer	2	1	-	-	1	$228,000	107	-	Allhomes Record	-	-	-	-	-	-
+2004	247781	            Broughton Street	30/06/2004	15/10/2009	-	-	4838m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Cafe	-	-
+2004	205584	5/41 Blackall Street	06/02/2004	14/07/2004	-	-	36666m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205406	10/11 National Circuit	14/12/2004	14/12/2004	-	-	4636m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	National association office	-	-
+2004	205427	9/11 National Circuit	14/12/2004	14/12/2004	-	-	4636m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	National association office	-	-
+2004	13519	            119/14 National Circuit	30/08/2004	11/10/2004	-	-	9272m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205439	10/14 Darling Street	21/10/2004	20/05/2005	-	-	5574m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	205449	19/16 National Circuit	08/07/2004	23/08/2004	-	-	5565m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	205604	7/40 Blackall Street	02/01/2004	12/07/2004	-	-	3625m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	205408	11/11 National Circuit	08/10/2004	08/10/2004	-	-	4636m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	National association office	-	-
+2004	205540	219/41 Blackall Street	06/11/2004	12/01/2005	-	-	36666m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	41074	15-17 Darling Street	28/09/2004	-	29/03/2004	-	-	Full transfer	3	1	1	2	-	-	183	-	Allhomes Record	-	-	-	-	-	-
+2004	205414	14/11 National Circuit	14/12/2004	14/12/2004	-	-	4636m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	National association office	-	-
+2004	205423	7/11 National Circuit	14/12/2004	14/12/2004	-	-	4636m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	National association office	-	-
+2005	205437	19 National Circuit	04/07/2005	18/07/2005	-	$35,528,500	6658m	Full transfer	-	-	-	-	-	$35,528,500	-	-	Government Record	-	-	-	Business,professional,labou...	-	-
+2005	57244	3/26 Macquarie Street	17/10/2005	-	26/05/2005	$4,492,500	9272m	Full transfer	3	1	1	2	-	$4,492,500	144	-	Allhomes Record	-	-	-	-	-	-
+2005	205603	6/40 Blackall Street	24/03/2005	31/08/2005	-	$2,613,000	3625m	Full transfer	-	-	-	-	-	$2,613,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	205415	14/11 National Circuit	01/06/2005	21/06/2005	-	$1,505,350	4636m	Full transfer	-	-	-	-	-	$1,505,350	-	-	Government Record	-	-	-	National association office	-	-
+2005	205412	13/11 National Circuit	01/06/2005	21/06/2005	-	$1,505,350	4636m	Full transfer	-	-	-	-	-	$1,505,350	-	-	Government Record	-	-	-	National association office	-	-
+2005	13743	            237/41 Blackall Street	22/08/2005	20/09/2005	-	$1,460,000	36666m	Full transfer	-	-	-	-	-	$1,460,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13741	            236/41 Blackall Street	22/08/2005	20/09/2005	-	$1,260,000	36666m	Full transfer	-	-	-	-	-	$1,260,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205409	11/11 National Circuit	16/09/2005	29/11/2005	-	$1,193,086	4636m	Full transfer	-	-	-	-	-	$1,193,086	-	-	Government Record	-	-	-	National association office	-	-
+2005	205420	17/11 National Circuit	16/09/2005	23/11/2005	-	$1,166,320	4636m	Full transfer	-	-	-	-	-	$1,166,320	-	-	Government Record	-	-	-	National association office	-	-
+2005	205411	12/11 National Circuit	16/09/2005	23/11/2005	-	$1,028,656	4636m	Full transfer	-	-	-	-	-	$1,028,656	-	-	Government Record	-	-	-	National association office	-	-
+2005	13516	            109/14 National Circuit	18/11/2005	04/01/2006	-	$1,000,000	9272m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205422	6/11 National Circuit	16/09/2005	29/11/2005	-	$956,000	4636m	Full transfer	-	-	-	-	-	$956,000	-	-	Government Record	-	-	-	National association office	-	-
+2005	13708	            153/41 Blackall Street	22/03/2005	28/04/2005	-	$950,000	36666m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205464	12 Belmore Gardens	08/03/2005	14/04/2005	11/02/2005	$912,500	976m	Full transfer	3	2	-	1	-	$912,500	25	-	Combined Record	-	-	-	Single residential dwelling	$746,000	0.82
+2005	205428	9/11 National Circuit	16/09/2005	29/11/2005	-	$895,950	4636m	Full transfer	-	-	-	-	-	$895,950	-	-	Government Record	-	-	-	National association office	-	-
+2005	205426	8/11 National Circuit	16/09/2005	29/11/2005	-	$852,750	4636m	Full transfer	-	-	-	-	-	$852,750	-	-	Government Record	-	-	-	National association office	-	-
+2005	13722	            223/41 Blackall Street	17/06/2005	15/07/2005	-	$795,000	36666m	Full transfer	-	-	-	-	-	$795,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13764	            251/41 Blackall Street	29/06/2005	11/08/2005	-	$785,000	36666m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13751	            243/41 Blackall Street	10/06/2005	12/08/2005	-	$785,000	36666m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13769	            255/41 Blackall Street	27/05/2005	20/06/2005	-	$780,000	36666m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13738	            234/41 Blackall Street	07/06/2005	20/07/2005	-	$770,000	36666m	Full transfer	-	-	-	-	-	$770,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13761	            247/41 Blackall Street	24/06/2005	02/08/2005	-	$750,000	36666m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13744	            238/41 Blackall Street	15/09/2005	20/10/2005	-	$750,000	36666m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	64524	36/12 National Circuit	16/09/2005	-	26/08/2005	$715,000	9272m	Full transfer	3	2	-	2	-	$715,000	21	-	Allhomes Record	-	-	-	-	$13,333,000	18.65
+2005	13515	            106/14 National Circuit	16/09/2005	25/11/2005	-	$715,000	9272m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13555	            90/14 National Circuit	02/11/2005	28/02/2006	-	$675,000	9272m	Full transfer	-	-	-	-	-	$675,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	58565	32/12 National Circuit	02/11/2005	-	07/06/2005	$675,000	-	Full transfer	3	1	1	2	-	$675,000	148	-	Allhomes Record	-	-	-	-	-	-
+2005	13511	            100/14 National Circuit	09/06/2005	13/07/2005	-	$659,000	9272m	Full transfer	-	-	-	-	-	$659,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	53545	56/14 National Circuit	09/06/2005	-	09/03/2005	$659,000	9272m	Full transfer	3	1	1	2	-	$659,000	92	-	Allhomes Record	-	-	-	-	-	-
+2005	205424	7/11 National Circuit	16/09/2005	29/11/2005	-	$650,080	4636m	Full transfer	-	-	-	-	-	$650,080	-	-	Government Record	-	-	-	National association office	-	-
+2005	69343	31/12 National Circuit	26/11/2005	-	27/10/2005	$643,000	-	Full transfer	3	1	1	2	-	$643,000	30	-	Allhomes Record	-	-	-	-	-	-
+2005	205407	10/11 National Circuit	16/09/2005	29/11/2005	-	$638,608	4636m	Full transfer	-	-	-	-	-	$638,608	-	-	Government Record	-	-	-	National association office	-	-
+2005	63472	103/25 Macquarie Street	07/09/2005	-	09/08/2005	$637,500	-	Full transfer	3	1	1	2	-	$637,500	29	-	Allhomes Record	-	-	-	-	-	-
+2005	13523	            13/14 National Circuit	07/09/2005	24/10/2005	-	$637,500	9272m	Full transfer	-	-	-	-	-	$637,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205473	13/41 Blackall Street	28/01/2005	25/02/2005	-	$590,000	36666m	Full transfer	-	-	-	-	-	$590,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	66220	47 Blackall Street	21/10/2005	-	21/09/2005	$575,000	-	Full transfer	2	2	-	2	-	$575,000	30	-	Allhomes Record	-	-	-	-	$35,089,000	61.02
+2005	205559	35/41 Blackall Street	21/10/2005	07/12/2005	-	$575,000	36666m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205524	203/41 Blackall Street	18/03/2005	29/04/2005	-	$560,000	36666m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13772	            258/41 Blackall Street	03/06/2005	15/07/2005	-	$545,000	36666m	Full transfer	-	-	-	-	-	$545,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	55080	44/26 Macquarie Street	10/05/2005	-	07/04/2005	$530,000	9272m	Full transfer	3	1	1	2	-	$530,000	33	-	Allhomes Record	-	-	-	-	-	-
+2005	70698	42/26 Macquarie Street	02/12/2005	-	16/11/2005	$530,000	9272m	Full transfer	3	1	1	2	-	$530,000	16	-	Allhomes Record	-	-	-	-	-	-
+2005	13568	            42/21 Darling Street	01/12/2005	21/12/2005	-	$530,000	9272m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	62398	44/14 National Circuit	12/08/2005	-	22/07/2005	$530,000	9272m	Full transfer	2	1	1	-	-	$530,000	21	-	Allhomes Record	-	-	-	-	-	-
+2005	13525	            16/14 National Circuit	12/08/2005	04/10/2005	-	$530,000	9272m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13746	            240/41 Blackall Street	22/04/2005	21/06/2005	-	$525,000	36666m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13783	            265/41 Blackall Street	01/09/2005	25/10/2005	-	$507,000	36666m	Full transfer	-	-	-	-	-	$507,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13816	            62/41 Blackall Street	18/11/2005	23/12/2005	-	$475,000	36666m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13533	            27/14 National Circuit	16/09/2005	28/10/2005	-	$468,000	9272m	Full transfer	-	-	-	-	-	$468,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	53067	92/23 Macquarie Street	08/06/2005	-	25/02/2005	$440,000	-	Full transfer	2	1	1	2	-	$440,000	103	-	Allhomes Record	-	-	-	-	-	-
+2005	205483	169/41 Blackall Street	17/01/2005	11/02/2005	-	$440,000	36666m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13552	            85/14 National Circuit	08/06/2005	12/07/2005	-	$440,000	9272m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13574	            70/21 Darling Street	07/03/2005	01/04/2005	-	$430,000	9272m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	52363	63 Darling Street	07/03/2005	-	10/02/2005	$430,000	-	Full transfer	2	1	1	1	-	$430,000	25	-	Allhomes Record	-	-	-	-	$7,934,000	18.45
+2005	205441	2/14 Darling Street	12/12/2005	12/01/2006	-	$429,000	5574m	Full transfer	-	-	-	-	-	$429,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205569	40/45 Blackall Street	14/10/2005	04/11/2005	-	$412,000	36666m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205448	19/16 National Circuit	04/10/2005	14/11/2005	-	$400,000	5565m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	205447	19/16 National Circuit	01/07/2005	02/09/2005	-	$390,000	5565m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	205438	10/14 Darling Street	04/05/2005	17/06/2005	-	$388,000	5574m	Full transfer	-	-	-	-	-	$388,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13539	            38/14 National Circuit	11/10/2005	15/11/2005	-	$380,000	9272m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	55100	45/26 Macquarie Street	09/05/2005	-	08/04/2005	$372,000	9272m	Full transfer	2	1	-	1	-	$372,000	31	-	Allhomes Record	-	-	-	-	-	-
+2005	13569	            45/21 Darling Street	06/05/2005	03/06/2005	-	$372,000	9272m	Partial transfer	-	-	-	-	-	$372,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205452	3/16 National Circuit	01/12/2005	04/01/2006	-	$352,000	5565m	Full transfer	-	-	-	-	-	$352,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	205451	2/16 National Circuit	01/12/2005	04/01/2006	-	$352,000	5565m	Full transfer	-	-	-	-	-	$352,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	205522	201/41 Blackall Street	11/04/2005	22/06/2005	-	$350,000	36666m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205510	193/41 Blackall Street	04/08/2005	28/11/2005	-	$345,000	36666m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13669	            120/41 Blackall Street	30/08/2005	24/11/2005	-	$333,000	36666m	Full transfer	-	-	-	-	-	$333,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13814	            61/41 Blackall Street	16/03/2005	06/05/2005	-	$330,000	36666m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205533	212/41 Blackall Street	07/01/2005	26/07/2005	-	$329,000	36666m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13660	            114/41 Blackall Street	02/05/2005	18/07/2005	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13667	            119/41 Blackall Street	06/09/2005	22/09/2005	-	$325,000	36666m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13718	            162/41 Blackall Street	13/10/2005	24/11/2005	-	$323,000	36666m	Full transfer	-	-	-	-	-	$323,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	49701	27/43 Blackall Street	17/03/2005	-	19/11/2004	$322,500	-	Full transfer	1	1	-	2	-	$322,500	118	-	Allhomes Record	-	-	-	-	-	-
+2005	13699	            147/41 Blackall Street	17/03/2005	12/05/2005	-	$322,500	36666m	Full transfer	-	-	-	-	-	$322,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13567	            37/21 Darling Street	22/03/2005	11/05/2005	-	$320,000	9272m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	51656	37/26 Macquarie Street	29/03/2005	-	27/01/2005	$320,000	9272m	Full transfer	2	1	-	-	-	$320,000	61	-	Allhomes Record	-	-	-	-	-	-
+2005	47712	4/47 Blackall Street	31/01/2005	-	02/10/2004	$312,500	-	Full transfer	1	1	-	1	-	$312,500	121	-	Allhomes Record	-	-	-	-	$84,953	0.27
+2005	205568	4/41 Blackall Street	31/01/2005	24/02/2005	-	$312,500	36666m	Full transfer	-	-	-	-	-	$312,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13807	            281/41 Blackall Street	23/02/2005	22/03/2005	-	$310,000	36666m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13803	            279/41 Blackall Street	02/11/2005	08/12/2005	-	$307,500	36666m	Full transfer	-	-	-	-	-	$307,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13844	            86/41 Blackall Street	21/12/2005	25/01/2006	-	$305,000	36666m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13781	            263/41 Blackall Street	27/07/2005	18/09/2005	-	$305,000	36666m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205589	53/41 Blackall Street	27/07/2005	07/09/2005	-	$302,000	36666m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	53508	25/45 Blackall Street	04/05/2005	-	04/03/2005	$298,000	-	Full transfer	1	1	-	-	-	$298,000	61	-	Allhomes Record	-	-	-	-	-	-
+2005	13757	            83/41 Blackall Street	04/05/2005	10/06/2005	-	$298,000	36666m	Full transfer	-	-	-	-	-	$298,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	13561	            19/21 Darling Street	08/12/2005	08/02/2006	-	$285,000	9272m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	50790	29/26 Macquarie Street	28/01/2005	-	17/12/2004	$280,000	9272m	Full transfer	1	1	-	1	-	$280,000	42	-	Allhomes Record	-	-	-	-	-	-
+2005	13565	            29/21 Darling Street	28/01/2005	08/03/2005	-	$280,000	9272m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	65003	19/26 Macquarie Street	15/12/2005	-	01/09/2005	$275,000	9272m	Full transfer	1	1	-	1	-	$275,000	105	-	Allhomes Record	-	-	-	-	-	-
+2005	205579	47/41 Blackall Street	30/09/2005	17/10/2005	-	$266,666	36666m	Partial transfer	-	-	-	-	-	$266,666	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2005	205444	11/16 National Circuit	23/03/2005	11/05/2005	-	$230,000	5565m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	205455	9/16 National Circuit	30/03/2005	23/05/2005	-	$180,000	5565m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	247782	            Broughton Street	30/06/2005	15/10/2009	-	$10,000	4838m	Full transfer	-	-	-	-	-	$10,000	-	-	Government Record	-	-	-	Cafe	-	-
+2005	57237	10/5 Bowen Drive	27/07/2005	-	26/05/2005	-	-	Full transfer	1	1	-	1	-	-	62	-	Allhomes Record	-	-	-	-	-	-
+2005	205454	9/16 National Circuit	11/01/2005	17/01/2005	-	-	5565m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	21500	            2/11 Bourke Street ( Barton Court)	12/12/2005	-	18/11/2005	-	-	Full transfer	2	1	-	-	1	-	24	-	Allhomes Record	-	-	-	-	-	-
+2005	53913	3/7 Bowen Drive	28/04/2005	-	16/03/2005	-	-	Full transfer	2	1	1	2	-	-	43	-	Allhomes Record	-	-	-	-	-	-
+2005	21264	            10/12-16 Darling Street	04/05/2005	-	13/04/2005	-	-	Full transfer	2	1	-	-	1	-	21	-	Allhomes Record	-	-	-	-	-	-
+2005	13577	            36 Darling Street	23/10/2005	10/03/2006	-	-	1120m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
