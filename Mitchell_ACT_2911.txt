@@ -1,0 +1,357 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1992	89587	116 Lysaght Street	02/09/1992	02/09/1992	-	$1,120,000	3962m	Full transfer	-	-	-	-	-	$1,120,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	89552	3/143 Lysaght Street	23/10/1992	23/10/1992	-	$290,000	3555m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1992	89634	4/28 Essington Street	15/07/1992	15/07/1992	-	$265,000	3843m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1992	89568	4/76 Hoskins Street	03/04/1992	03/04/1992	-	$230,000	2835m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1992	89640	15 Tooth Street	04/09/1992	04/09/1992	-	$147,000	2048m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1992	89637	42 Dacre Street	14/04/1992	14/04/1992	-	$101,000	1860m	Full transfer	-	-	-	-	-	$101,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+1993	89656	76 Brookes Street	16/04/1993	16/04/1993	-	$1,300,000	2601m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	89610	8/160 Lysaght Street	12/10/1993	12/10/1993	-	$950,000	6724m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Service trades	-	-
+1993	89608	6/160 Lysaght Street	15/04/1993	15/04/1993	-	$790,000	6724m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Service trades	-	-
+1993	89635	14 Essington Street	01/06/1993	01/06/1993	-	$690,000	5370m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	89613	13 Grimwade Street	24/08/1993	24/08/1993	-	$650,000	2601m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	89678	21 Kemble Court	18/02/1993	18/02/1993	-	$635,000	2601m	Full transfer	-	-	-	-	-	$635,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	89653	34 Vicars Street	03/05/1993	03/05/1993	-	$620,000	5401m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	89609	7/160 Lysaght Street	03/05/1993	03/05/1993	-	$285,000	6724m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1993	3761	            1/29 Winchcombe Lane	06/05/1993	06/05/1993	-	$270,000	2501m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1993	3762	            2/29 Winchcombe Lane	06/05/1993	06/05/1993	-	$270,000	2501m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1993	89661	53 Grimwade Street	10/11/1993	10/11/1993	-	$205,000	1663m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+1993	89660	66 Heffernan Street	05/04/1993	05/04/1993	-	$190,000	2400m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+1993	89555	3/32 Hoskins Street	09/08/1993	09/08/1993	-	$178,000	1707m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	89588	1/160 Lysaght Street	22/04/1993	22/04/1993	-	$165,000	6724m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Service trades	-	-
+1993	89670	10/10 Kemble Court	11/08/1993	11/08/1993	-	$158,000	2601m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	89673	9/10 Kemble Court	11/08/1993	11/08/1993	-	$158,000	2601m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	89604	2/160 Lysaght Street	15/04/1993	15/04/1993	-	$149,500	6724m	Full transfer	-	-	-	-	-	$149,500	-	-	Government Record	-	-	-	Service trades	-	-
+1993	89605	3/160 Lysaght Street	08/10/1993	08/10/1993	-	$145,000	6724m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Service trades	-	-
+1993	89651	40 Dacre Street	28/04/1993	28/04/1993	-	$145,000	2000m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+1993	89606	4/160 Lysaght Street	30/04/1993	30/04/1993	-	$125,000	6724m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Service trades	-	-
+1993	89563	3/26 Winchcombe Court	08/02/1993	08/02/1993	-	$120,000	3382m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1993	89607	5/160 Lysaght Street	30/04/1993	30/04/1993	-	$117,300	6724m	Full transfer	-	-	-	-	-	$117,300	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	89565	4/29 Winchcombe Lane	28/04/1993	28/04/1993	-	$115,000	2501m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1993	89666	2/14 Kemble Court	07/01/1993	07/01/1993	-	$62,500	2601m	Full transfer	-	-	-	-	-	$62,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	89665	1/14 Kemble Court	07/01/1993	07/01/1993	-	$62,500	2601m	Full transfer	-	-	-	-	-	$62,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	3767	            2/5 Huddart Court	03/11/1993	03/11/1993	-	$1	2601m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	3765	            1/5 Huddart Court	03/11/1993	03/11/1993	-	$1	2601m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	3769	            3/5 Huddart Court	04/11/1993	04/11/1993	-	-	2601m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	3771	            4/5 Huddart Court	04/11/1993	04/11/1993	-	-	2601m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	89612	5 Huddart Court	10/06/1993	10/06/1993	-	-	2601m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89631	1 Felton Street	01/07/1994	01/07/1994	-	$644,000	1908m	Full transfer	-	-	-	-	-	$644,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89573	84 Hoskins Street	11/11/1994	09/03/1995	-	$630,000	3319m	Full transfer	-	-	-	-	-	$630,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89578	4/67 Vicars Street	04/07/1994	04/07/1994	-	$485,000	10135m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89556	9 Darling Street	11/11/1994	14/11/1994	-	$460,000	2601m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1994	89577	3/67 Vicars Street	27/04/1994	27/04/1994	-	$440,000	10135m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	3766	            1/5 Huddart Court	27/01/1994	27/01/1994	-	$377,750	2601m	Full transfer	-	-	-	-	-	$377,750	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	3768	            2/5 Huddart Court	27/01/1994	27/01/1994	-	$377,750	2601m	Full transfer	-	-	-	-	-	$377,750	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	3763	            3/29 Winchcombe Lane	27/07/1994	27/07/1994	-	$375,000	2501m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1994	89576	2/67 Vicars Street	05/05/1994	05/05/1994	-	$335,000	10135m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89575	10/67 Vicars Street	05/05/1994	05/05/1994	-	$335,000	10135m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89657	1/56 Heffernan Street	05/12/1994	14/12/1994	-	$285,000	2400m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Industrial machinery,equipm...	-	-
+1994	89557	5 Darling Street	15/11/1994	19/12/1994	-	$280,000	2601m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1994	89633	3/28 Essington Street	30/06/1994	30/06/1994	-	$250,000	3843m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89659	5/56 Heffernan Street	11/08/1994	11/08/1994	-	$240,000	2400m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Industrial machinery,equipm...	-	-
+1994	89570	2/80 Hoskins Street	25/05/1994	09/02/1995	-	$220,000	5114m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89572	3/80 Hoskins Street	09/06/1994	14/02/1995	-	$220,000	5114m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89652	50 Vicars Street	16/09/1994	19/10/1994	-	$215,000	9345m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89583	6/67 Vicars Street	19/08/1994	19/08/1994	-	$210,000	10135m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89585	8/67 Vicars Street	23/05/1994	23/05/1994	-	$200,000	10135m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89664	13 Buckland Street	01/12/1994	01/12/1994	-	$195,000	2042m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	*non-mnfg,warehouse,storage...	-	-
+1994	89584	7/67 Vicars Street	01/06/1994	01/06/1994	-	$195,000	10135m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89579	5/67 Vicars Street	10/05/1994	10/05/1994	-	$180,000	10135m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89590	13/160 Lysaght Street	25/03/1994	25/03/1994	-	$170,000	6724m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Service trades	-	-
+1994	89602	15/160 Lysaght Street	18/05/1994	18/05/1994	-	$165,000	6724m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Service trades	-	-
+1994	89632	1/28 Essington Street	21/01/1994	21/01/1994	-	$122,000	3843m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1994	89601	14/160 Lysaght Street	25/03/1994	25/03/1994	-	$110,000	6724m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Service trades	-	-
+1994	89589	12/160 Lysaght Street	25/03/1994	25/03/1994	-	$95,000	6724m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Service trades	-	-
+1994	89603	16/160 Lysaght Street	13/04/1994	13/04/1994	-	$93,500	6724m	Full transfer	-	-	-	-	-	$93,500	-	-	Government Record	-	-	-	Service trades	-	-
+1994	89567	4 McEacharn Place	11/10/1994	11/10/1994	-	-	5595m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Vehicles machinery equip & ...	-	-
+1995	89654	92 Vicars Street	09/03/1995	14/03/1995	-	$500,000	5499m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	89679	57 Heffernan Street	19/12/1995	21/02/1996	-	$435,000	1200m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1995	3783	            7/96 Vicars Street	12/07/1995	08/08/1995	-	$300,000	4551m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	89566	2 McEacharn Place	21/12/1995	18/01/1996	-	$300,000	3546m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1995	3760	            2/21 Darling Street	31/01/1995	04/07/1995	-	$300,000	1734m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1995	89586	9/67 Vicars Street	23/10/1995	01/11/1995	-	$280,000	10135m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1995	89658	4/56 Heffernan Street	16/10/1995	27/10/1995	-	$272,000	2400m	Full transfer	-	-	-	-	-	$272,000	-	-	Government Record	-	-	-	Industrial machinery,equipm...	-	-
+1995	3774	            1/96 Vicars Street	12/05/1995	05/06/1995	-	$246,000	4551m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	3775	            10/96 Vicars Street	14/08/1995	29/08/1995	-	$230,000	4551m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	89662	53 Grimwade Street	28/06/1995	14/08/1995	-	$225,000	1663m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+1995	89677	4/83 Grimwade Street	04/10/1995	13/10/1995	-	$222,000	2601m	Full transfer	-	-	-	-	-	$222,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1995	89569	1/80 Hoskins Street	22/12/1995	07/02/1996	-	$220,000	5114m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1995	89614	2/47 Vicars Street	27/10/1995	30/10/1995	-	$200,000	2929m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1995	89638	44 Dacre Street	30/01/1995	30/01/1995	-	$174,000	3028m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	89648	5/5 Tooth Street	05/04/1995	29/08/1995	-	$165,000	2565m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+1995	3780	            5/96 Vicars Street	28/06/1995	26/07/1995	-	$162,000	4551m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	3778	            2/96 Vicars Street	17/07/1995	15/08/1995	-	$162,000	4551m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	3777	            12/96 Vicars Street	22/12/1995	05/01/1996	-	$154,000	4551m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	89559	14/26 Winchcombe Court	05/07/1995	07/08/1995	-	$142,500	3382m	Full transfer	-	-	-	-	-	$142,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	89560	15/26 Winchcombe Court	05/07/1995	07/08/1995	-	$142,500	3382m	Full transfer	-	-	-	-	-	$142,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	89561	16/26 Winchcombe Court	05/07/1995	07/08/1995	-	$142,500	3382m	Full transfer	-	-	-	-	-	$142,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	89558	13/26 Winchcombe Court	05/07/1995	07/08/1995	-	$142,500	3382m	Full transfer	-	-	-	-	-	$142,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	89668	4/14 Kemble Court	02/06/1995	30/06/1995	-	$130,000	2601m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	89667	3/14 Kemble Court	02/06/1995	30/06/1995	-	$130,000	2601m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	89650	38 Dacre Street	01/08/1995	01/08/1995	-	$127,000	2048m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	3784	            3/69 Heffernan Street	17/10/1995	24/10/1995	-	$125,000	2466m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1995	89675	1/83 Grimwade Street	03/02/1995	10/03/1995	-	$125,000	2601m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1995	89676	2/83 Grimwade Street	03/02/1995	10/03/1995	-	$125,000	2601m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1995	89564	4/29 Winchcombe Lane	24/02/1995	23/03/1995	-	$117,000	2501m	Full transfer	-	-	-	-	-	$117,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1995	3779	            3/96 Vicars Street	20/02/1995	21/04/1995	-	$110,736	4551m	Full transfer	-	-	-	-	-	$110,736	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	89655	7 Baillieu Court	13/05/1995	15/06/1995	-	$78,333	1408m	Partial transfer	-	-	-	-	-	$78,333	-	-	Government Record	-	-	-	Art supplies shop	-	-
+1995	3776	            11/96 Vicars Street	20/02/1995	24/04/1995	-	$71,295	4551m	Full transfer	-	-	-	-	-	$71,295	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	89672	6/10 Kemble Court	20/04/1995	01/08/1995	-	$67,500	2601m	Full transfer	-	-	-	-	-	$67,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	89671	5/10 Kemble Court	20/04/1995	01/08/1995	-	$65,000	2601m	Full transfer	-	-	-	-	-	$65,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	89643	1/5 Tooth Street	24/03/1995	20/04/1995	-	$30,000	2565m	Partial transfer	-	-	-	-	-	$30,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+1995	89645	3/5 Tooth Street	24/03/1995	20/04/1995	-	$30,000	2565m	Partial transfer	-	-	-	-	-	$30,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+1995	89646	4/5 Tooth Street	24/03/1995	20/04/1995	-	$30,000	2565m	Partial transfer	-	-	-	-	-	$30,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+1995	89647	5/5 Tooth Street	24/03/1995	20/04/1995	-	$30,000	2565m	Partial transfer	-	-	-	-	-	$30,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+1995	89644	2/5 Tooth Street	24/03/1995	20/04/1995	-	$30,000	2565m	Partial transfer	-	-	-	-	-	$30,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+1995	89641	5 Tooth Street	24/03/1995	20/04/1995	-	$30,000	2565m	Partial transfer	-	-	-	-	-	$30,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+1995	89574	57 Vicars Street	23/11/1995	23/11/1995	-	-	10674m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1996	89611	9/160 Lysaght Street	19/02/1996	20/02/1996	-	$725,000	6724m	Full transfer	-	-	-	-	-	$725,000	-	-	Government Record	-	-	-	Service trades	-	-
+1996	89636	12 Callan Street	05/09/1996	16/01/1997	-	$465,000	13480m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Bus terminal (interstate)	-	-
+1996	89553	5/143 Lysaght Street	12/01/1996	06/02/1996	-	$285,000	3555m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1996	3782	            6/96 Vicars Street	28/10/1996	26/11/1996	-	$270,000	4551m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1996	89615	3/47 Vicars Street	11/11/1996	04/12/1996	-	$245,000	2929m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1996	89663	37 Buckland Street	31/07/1996	31/07/1996	-	$216,500	1533m	Full transfer	-	-	-	-	-	$216,500	-	-	Government Record	-	-	-	General industry	-	-
+1996	3781	            5/96 Vicars Street	23/07/1996	28/08/1996	-	$185,000	4551m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1996	89649	1 Tooth Street	31/07/1996	31/07/1996	-	$122,000	1789m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	General industry	-	-
+1996	89669	1/10 Kemble Court	09/06/1996	16/07/1996	-	$75,000	2601m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1996	89674	5 Brookes Street	09/09/1996	09/09/1996	-	$55,000	2601m	Full transfer	-	-	-	-	-	$55,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1996	89554	8 Grimwade Street	10/05/1996	10/05/1996	-	-	2134m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Business agency	-	-
+1997	10889	            Dacre Street	19/12/1997	11/08/1998	-	$1,300,000	66925m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Clay bricks	-	-
+1997	3764	            5/2 McEacharn Place	07/01/1997	06/02/1997	-	$270,000	3546m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1997	89571	3/80 Hoskins Street	19/06/1997	08/07/1997	-	$206,000	5114m	Full transfer	-	-	-	-	-	$206,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1997	3773	            1/51 Vicars Street	27/02/1997	11/03/1997	-	$200,000	2353m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1997	198408	9/14 Kemble Court	12/12/1997	05/02/1998	-	$158,500	2601m	Full transfer	-	-	-	-	-	$158,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	173872	8/14 Kemble Court	12/12/1997	05/02/1998	-	$158,500	2601m	Full transfer	-	-	-	-	-	$158,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	89639	38 Dacre Street	05/11/1997	09/12/1997	-	$143,500	2108m	Full transfer	-	-	-	-	-	$143,500	-	-	Government Record	-	-	-	Industry	-	-
+1997	89562	2/26 Winchcombe Court	11/07/1997	21/07/1997	-	$60,000	3382m	Partial transfer	-	-	-	-	-	$60,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	198968	1/26 Winchcombe Court	27/09/1997	17/07/1998	-	-	3382m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	152847	7/160 Lysaght Street	27/09/1997	20/12/2001	-	-	6724m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	190525	76 Brookes Street	23/03/1998	15/04/1998	-	$1,395,000	2601m	Full transfer	-	-	-	-	-	$1,395,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1998	194617	64 Vicars Street	12/03/1998	21/05/1998	-	$1,231,251	31729m	Full transfer	-	-	-	-	-	$1,231,251	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1998	170349	14/26 Winchcombe Court	15/05/1998	02/06/1998	-	$810,000	3382m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	198779	15/26 Winchcombe Court	15/05/1998	02/06/1998	-	$810,000	3382m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	178393	13/26 Winchcombe Court	15/05/1998	02/06/1998	-	$810,000	3382m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	198780	16/26 Winchcombe Court	15/05/1998	02/06/1998	-	$810,000	3382m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	184369	12A Callan Street	03/12/1998	29/10/1999	-	$550,000	6587m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Industrial trades	-	-
+1998	190862	17 Darling Street	15/06/1998	16/07/1998	-	$522,500	1734m	Full transfer	-	-	-	-	-	$522,500	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1998	10607	            1/21 Darling Street	23/12/1998	12/02/1999	-	$330,000	1734m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Industrial trades	-	-
+1998	175115	13 Baillieu Court	01/12/1998	15/01/1999	-	$280,000	1408m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Retail	-	-
+1998	175270	2/38 Dacre Street	11/12/1998	03/03/1999	-	$280,000	2475m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	182426	7/67 Vicars Street	13/03/1998	23/04/1998	-	$225,000	10135m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1998	178735	45 Grimwade Street	10/09/1998	10/09/1998	-	$210,000	1540m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	General industry	-	-
+1998	174014	11/160 Lysaght Street	12/02/1998	17/03/1998	-	$180,000	6724m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Service trades	-	-
+1998	199440	5/160 Lysaght Street	03/12/1998	22/12/1998	-	$130,000	6724m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	191377	5/5 Tooth Street	16/12/1998	19/01/1999	-	$120,000	2565m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+1998	183011	57 Vicars Street	12/10/1998	12/10/1998	-	-	10674m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1998	11158	            3/69 Heffernan Street	11/06/1998	11/06/1998	-	-	2466m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1998	178644	2/10 Kemble Court	07/08/1998	07/08/1998	-	-	2601m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	196024	189 Flemington Road	24/06/1999	24/06/1999	-	$450,000	4023m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Office	-	-
+1999	187952	4/80 Hoskins Street	09/07/1999	09/07/1999	-	$330,000	5114m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1999	188355	17/160 Lysaght Street	31/08/1999	15/10/1999	-	$315,000	6724m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Office	-	-
+1999	175559	45 Vicars Street	26/05/1999	26/05/1999	-	$280,000	13496m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1999	196684	4/76 Hoskins Street	22/10/1999	01/12/1999	-	$245,000	2835m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1999	180171	3/56 Heffernan Street	31/08/1999	15/10/1999	-	$230,000	2400m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Industrial machinery,equipm...	-	-
+1999	188620	11 Cheney Place	16/11/1999	15/12/1999	-	$220,000	2683m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Concrete products n.e.c.	-	-
+1999	184380	9 Baillieu Court	30/09/1999	02/11/1999	-	$210,000	2816m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Service trades	-	-
+1999	172069	3/160 Lysaght Street	27/09/1999	18/10/1999	-	$180,000	6724m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Service trades	-	-
+1999	179583	4/38 Dacre Street	23/04/1999	18/05/1999	-	$180,000	2475m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	192350	2/56 Heffernan Street	31/08/1999	15/10/1999	-	$176,000	2400m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Industrial machinery,equipm...	-	-
+1999	200237	4/47 Vicars Street	15/07/1999	26/07/1999	-	$171,000	2929m	Partial transfer	-	-	-	-	-	$171,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1999	196483	10/160 Lysaght Street	31/08/1999	15/10/1999	-	$168,000	6724m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Service trades	-	-
+1999	179706	16/26 Winchcombe Court	14/05/1999	23/06/1999	-	$147,500	3382m	Full transfer	-	-	-	-	-	$147,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	187877	13/26 Winchcombe Court	14/05/1999	23/06/1999	-	$147,500	3382m	Full transfer	-	-	-	-	-	$147,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	196020	15/26 Winchcombe Court	14/05/1999	23/06/1999	-	$147,500	3382m	Full transfer	-	-	-	-	-	$147,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	191930	14/26 Winchcombe Court	14/05/1999	23/06/1999	-	$147,500	3382m	Full transfer	-	-	-	-	-	$147,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	187946	6/26 Winchcombe Court	29/06/1999	08/07/1999	-	$120,000	3382m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1999	177223	3/84 Hoskins Street	29/09/1999	30/06/2000	-	$113,000	3319m	Full transfer	-	-	-	-	-	$113,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1999	171585	5/38 Dacre Street	02/06/1999	21/06/1999	-	$100,000	2475m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	12718	            5/117 Lysaght Street	25/10/1999	12/11/1999	-	$100,000	2554m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1999	196133	1/26 Winchcombe Court	24/06/1999	20/07/1999	-	$80,000	3382m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2000	201644	10 Vicars Street	29/05/2000	27/06/2000	-	$2,300,000	20552m	Full transfer	-	-	-	-	-	$2,300,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2000	173215	2 Felton Street	26/06/2000	24/07/2000	-	$1,250,000	3575m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2000	197490	90 Vicars Street	28/02/2000	24/05/2000	-	$1,150,000	6860m	Partial transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2000	202123	2 Heffernan Street	28/10/2000	28/10/2000	-	$650,000	7962m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+2000	13060	            4/2 McEacharn Place	11/04/2000	10/05/2000	-	$410,000	3546m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2000	12423	            3/2 McEacharn Place	11/04/2000	10/05/2000	-	$410,000	3546m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2000	152827	14 Winchcombe Court	09/11/2000	26/03/2001	-	$400,000	2601m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2000	197679	1/2 McEacharn Place	04/04/2000	12/07/2000	-	$389,000	3546m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2000	13145	            2/2 McEacharn Place	04/04/2000	12/07/2000	-	$389,000	3546m	Full transfer	-	-	-	-	-	$389,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2000	198054	14 Winchcombe Court	15/09/2000	27/10/2000	-	$320,000	2601m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2000	12430	            1/67 Vicars Street	11/04/2000	18/05/2000	-	$298,000	10135m	Partial transfer	-	-	-	-	-	$298,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2000	12138	            1/6 Brookes Street	10/05/2000	10/08/2000	-	$290,000	2601m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2000	152861	9 Baillieu Court	12/12/2000	10/01/2001	-	$290,000	2816m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Service trades	-	-
+2000	13158	            4/96 Vicars Street	14/04/2000	04/09/2000	-	$235,000	4551m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2000	198092	15 Baillieu Court	07/07/2000	07/11/2000	-	$235,000	1408m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2000	186076	29 Buckland Street	16/12/2000	16/12/2000	-	$220,000	2652m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Industrial trades	-	-
+2000	185537	5 Brookes Street	07/08/2000	07/08/2000	-	$200,000	2601m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	177359	3/38 Dacre Street	24/07/2000	03/08/2000	-	$160,000	2475m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	181329	4/5 Tooth Street	14/06/2000	05/07/2000	-	$150,000	2565m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	*hiring,leasing household a...	-	-
+2000	177773	13 Buckland Street	20/11/2000	20/11/2000	-	$145,000	2042m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	*non-mnfg,warehouse,storage...	-	-
+2000	201649	4/160 Lysaght Street	14/06/2000	28/06/2000	-	$140,000	6724m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Service trades	-	-
+2000	185503	10/26 Winchcombe Court	06/04/2000	28/07/2000	-	$120,000	3382m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Office	-	-
+2000	197513	37 Buckland Street	11/04/2000	29/05/2000	-	$10,000	1533m	Full transfer	-	-	-	-	-	$10,000	-	-	Government Record	-	-	-	General industry	-	-
+2000	185526	3/10 Kemble Court	07/08/2000	07/08/2000	-	-	2601m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	152856	10 Vicars Street	03/11/2001	03/05/2002	-	$2,300,000	20552m	Full transfer	-	-	-	-	-	$2,300,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2001	152860	34 Vicars Street	15/05/2001	26/06/2001	-	$850,000	5401m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2001	152848	3 Cheney Place	05/10/2001	26/02/2002	-	$811,000	4991m	Full transfer	-	-	-	-	-	$811,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2001	518352	7/67 Vicars Street	22/06/2001	06/09/2017	-	$550,000	10135m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2001	152837	2/78 Hoskins Street	26/10/2001	26/06/2002	-	$525,000	2973m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2001	152865	101 Flemington Road	14/06/2001	14/06/2001	-	$513,000	4455m	Full transfer	-	-	-	-	-	$513,000	-	-	Government Record	-	-	-	Office	-	-
+2001	152828	5 Darling Street	27/02/2001	06/04/2001	-	$400,000	2601m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2001	152823	1/26 Sandford Street	06/04/2001	22/02/2002	-	$285,000	2580m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Bank	-	-
+2001	152824	2/26 Sandford Street	06/04/2001	22/02/2002	-	$285,000	2580m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Bank	-	-
+2001	152829	6/4 Winchcombe Court	24/07/2001	25/09/2001	-	$253,000	2580m	Full transfer	-	-	-	-	-	$253,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	152830	7/4 Winchcombe Court	24/07/2001	25/09/2001	-	$253,000	2580m	Full transfer	-	-	-	-	-	$253,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	152840	1/84 Hoskins Street	10/07/2001	27/08/2001	-	$246,000	3319m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2001	152843	5/84 Hoskins Street	29/05/2001	24/09/2001	-	$210,000	3319m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2001	152862	62 Brookes Street	22/03/2001	22/03/2001	-	$200,000	1575m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shop	-	-
+2001	152859	4/38 Dacre Street	06/04/2001	21/06/2001	-	$200,000	2475m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	152852	5/47 Vicars Street	27/07/2001	23/11/2001	-	$180,000	2929m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2001	8062	            2/21 Winchcombe Court	12/06/2001	26/06/2001	-	$165,000	2601m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	152842	4/84 Hoskins Street	31/01/2001	27/02/2001	-	$106,000	3319m	Full transfer	-	-	-	-	-	$106,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	152854	14 Essington Street	03/12/2002	07/01/2003	-	$750,000	5370m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	152855	12A Callan Street	15/12/2002	04/02/2003	-	$698,500	6587m	Full transfer	-	-	-	-	-	$698,500	-	-	Government Record	-	-	-	Industrial trades	-	-
+2002	152849	5/23 Essington Street	12/12/2002	16/01/2003	-	$480,000	3699m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	152835	4/20 Winchcombe Court	02/04/2002	10/05/2002	-	$357,500	1734m	Full transfer	-	-	-	-	-	$357,500	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2002	152834	2/20 Winchcombe Court	02/04/2002	10/05/2002	-	$357,500	1734m	Full transfer	-	-	-	-	-	$357,500	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2002	8059	            2/21 Darling Street	28/06/2002	26/08/2002	-	$350,000	1734m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	8133	            9/96 Vicars Street	24/10/2002	15/11/2002	-	$315,000	4551m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2002	8132	            8/96 Vicars Street	24/10/2002	15/11/2002	-	$315,000	4551m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2002	8064	            3/2 McEacharn Place	26/02/2002	15/08/2002	-	$313,500	3546m	Full transfer	-	-	-	-	-	$313,500	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	152868	1/56 Heffernan Street	13/11/2002	11/02/2003	-	$313,000	2400m	Full transfer	-	-	-	-	-	$313,000	-	-	Government Record	-	-	-	Industrial machinery,equipm...	-	-
+2002	222088	70 Hoskins Street	27/02/2002	19/01/2004	-	$310,000	3225m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Ready mixed concrete	-	-
+2002	152858	1/38 Dacre Street	03/10/2002	27/11/2002	-	$280,000	2475m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	152864	48 Brookes Street	23/05/2002	23/05/2002	-	$275,000	1575m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Shop	-	-
+2002	8060	            1/29 Winchcombe Lane	11/01/2002	21/08/2002	-	$250,000	2501m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2002	8061	            2/29 Winchcombe Lane	11/01/2002	26/08/2002	-	$250,000	2501m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2002	152838	1/80 Hoskins Street	04/09/2002	18/10/2002	-	$230,000	5114m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	152836	1/76 Hoskins Street	22/07/2002	04/03/2003	-	$205,000	2835m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	152869	3/66 Heffernan Street	24/04/2002	24/04/2002	-	$190,000	2400m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+2002	152871	4/66 Heffernan Street	12/06/2002	27/09/2002	-	$190,000	2400m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+2002	152841	2/84 Hoskins Street	12/02/2002	01/05/2002	-	$160,000	3319m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	152833	4/26 Winchcombe Court	29/11/2002	20/02/2003	-	$147,000	3382m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2002	152832	3/26 Winchcombe Court	30/08/2002	30/08/2002	-	$122,500	3382m	Full transfer	-	-	-	-	-	$122,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2002	152831	2/26 Winchcombe Court	17/07/2002	09/09/2002	-	$98,500	3382m	Full transfer	-	-	-	-	-	$98,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2002	152826	5/26 Sandford Street	20/05/2002	26/06/2002	-	$90,000	2580m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Bank	-	-
+2002	152875	5/10 Kemble Court	25/06/2002	16/07/2002	-	$75,000	2601m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	152876	6/10 Kemble Court	25/06/2002	16/07/2002	-	$75,000	2601m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	152844	57 Vicars Street	01/07/2003	18/08/2003	-	$2,050,000	10674m	Full transfer	-	-	-	-	-	$2,050,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	152867	109 Flemington Road	19/11/2003	19/11/2003	-	$1,150,000	3929m	Full transfer	-	-	-	-	-	$1,150,000	-	-	Government Record	-	-	-	Office	-	-
+2003	152866	117 Flemington Road	19/11/2003	19/11/2003	-	$960,000	3891m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Office	-	-
+2003	152881	21 Kemble Court	23/05/2003	03/07/2003	-	$888,000	2601m	Full transfer	-	-	-	-	-	$888,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	152863	72 Brookes Street	05/03/2003	01/05/2003	-	$780,000	2601m	Full transfer	-	-	-	-	-	$780,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	222104	3/45 Vicars Street	17/12/2003	10/02/2004	-	$710,000	13496m	Full transfer	-	-	-	-	-	$710,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2003	152853	4/20 Essington Street	09/05/2003	24/07/2003	-	$643,500	4495m	Full transfer	-	-	-	-	-	$643,500	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2003	152845	17/160 Lysaght Street	22/08/2003	03/11/2003	-	$393,800	6724m	Full transfer	-	-	-	-	-	$393,800	-	-	Government Record	-	-	-	Office	-	-
+2003	152880	3/83 Grimwade Street	06/11/2003	08/12/2003	-	$380,000	2601m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2003	152839	4/80 Hoskins Street	29/01/2003	19/02/2003	-	$380,000	5114m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	8063	            2/2 McEacharn Place	28/05/2003	16/07/2003	-	$340,000	3546m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	152870	3/66 Heffernan Street	14/10/2003	28/11/2003	-	$215,000	2400m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+2003	152872	10/10 Kemble Court	17/10/2003	24/11/2003	-	$200,000	2601m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	152879	9/10 Kemble Court	17/10/2003	24/11/2003	-	$200,000	2601m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	222106	6/45 Vicars Street	17/12/2003	17/05/2004	-	$185,000	13496m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2003	152850	5/45 Vicars Street	18/09/2003	18/11/2003	-	$165,000	13496m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2003	8131	            5/96 Vicars Street	16/10/2003	08/12/2003	-	$165,000	4551m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2003	152851	6/45 Vicars Street	13/08/2003	13/08/2003	-	$160,000	13496m	Partial transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2003	222098	4/160 Lysaght Street	22/10/2003	08/01/2004	-	$159,500	6724m	Full transfer	-	-	-	-	-	$159,500	-	-	Government Record	-	-	-	Service trades	-	-
+2003	152846	4/160 Lysaght Street	28/06/2003	21/11/2003	-	$140,000	6724m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Service trades	-	-
+2003	152857	1/46 Dacre Street	03/10/2003	12/11/2003	-	$121,000	1551m	Full transfer	-	-	-	-	-	$121,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	22585	            10/4 Kemble Court	03/10/2003	-	04/07/2003	$115,000	0m	Full transfer	-	1	-	-	-	$115,000	91	-	Allhomes Record	-	-	-	-	$0	0.0
+2003	152874	4/10 Kemble Court	26/09/2003	21/11/2003	-	$115,000	2601m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	16149	            5/46 Dacre Street	06/11/2003	02/02/2004	-	$105,000	1551m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	8065	            2/46 Dacre Street	13/10/2003	21/11/2003	-	$104,500	1551m	Full transfer	-	-	-	-	-	$104,500	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	152877	7/10 Kemble Court	16/07/2003	26/08/2003	-	$86,000	2601m	Full transfer	-	-	-	-	-	$86,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	152825	3/26 Sandford Street	25/09/2003	12/11/2003	-	$85,000	2580m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Bank	-	-
+2003	152878	8/10 Kemble Court	13/08/2003	04/09/2003	-	$76,000	2601m	Full transfer	-	-	-	-	-	$76,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	152873	3/10 Kemble Court	11/06/2003	03/07/2003	-	$65,000	2601m	Full transfer	-	-	-	-	-	$65,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	222118	76 Brookes Street	30/06/2003	31/08/2005	-	-	2601m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	222114	54 Vicars Street	10/06/2004	10/06/2004	-	$1,250,000	7799m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Plant and equipment hire es...	-	-
+2004	222086	10 McEacharn Place	16/04/2004	10/03/2005	-	$1,210,000	3143m	Full transfer	-	-	-	-	-	$1,210,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	222067	24 Grimwade Street	05/05/2004	03/06/2004	-	$1,100,000	1707m	Full transfer	-	-	-	-	-	$1,100,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	222135	125 Flemington Road	16/03/2004	16/03/2004	-	$940,000	4243m	Full transfer	-	-	-	-	-	$940,000	-	-	Government Record	-	-	-	Office	-	-
+2004	222132	141 Flemington Road	22/12/2004	22/12/2004	-	$800,000	3975m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Office	-	-
+2004	222099	7/160 Lysaght Street	02/04/2004	28/04/2004	-	$528,000	6724m	Full transfer	-	-	-	-	-	$528,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	222108	3 Callan Street	16/02/2004	02/04/2004	-	$467,500	1085m	Full transfer	-	-	-	-	-	$467,500	-	-	Government Record	-	-	-	Sale of motor vehicle parts...	-	-
+2004	222148	5/29 Buckland Street	22/03/2004	11/10/2004	-	$315,700	2652m	Full transfer	-	-	-	-	-	$315,700	-	-	Government Record	-	-	-	Industrial trades	-	-
+2004	222149	5/29 Buckland Street	28/09/2004	19/10/2004	-	$305,000	2652m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Industrial trades	-	-
+2004	222090	3/76 Hoskins Street	24/12/2004	14/12/2004	-	$304,000	2835m	Full transfer	-	-	-	-	-	$304,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	222147	4/29 Buckland Street	24/02/2004	10/08/2004	-	$286,000	2652m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Industrial trades	-	-
+2004	16130	            2/21 Winchcombe Court	31/03/2004	06/05/2004	-	$280,000	2601m	Partial transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	222139	5/56 Heffernan Street	29/09/2004	29/09/2004	-	$280,000	2400m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Industrial machinery,equipm...	-	-
+2004	16143	            1/5 Huddart Court	31/05/2004	05/07/2004	-	$279,000	2601m	Full transfer	-	-	-	-	-	$279,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	16144	            2/5 Huddart Court	31/05/2004	05/07/2004	-	$279,000	2601m	Full transfer	-	-	-	-	-	$279,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	16128	            1/14 Grimwade Street	18/02/2004	06/04/2004	-	$270,000	1707m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2004	16129	            3/14 Grimwade Street	18/02/2004	06/04/2004	-	$270,000	1707m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2004	16151	            10/96 Vicars Street	07/10/2004	23/11/2004	-	$268,500	4551m	Full transfer	-	-	-	-	-	$268,500	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2004	222146	3/29 Buckland Street	24/02/2004	10/08/2004	-	$264,000	2652m	Full transfer	-	-	-	-	-	$264,000	-	-	Government Record	-	-	-	Industrial trades	-	-
+2004	222151	7/29 Buckland Street	20/07/2004	20/09/2004	-	$242,000	2652m	Full transfer	-	-	-	-	-	$242,000	-	-	Government Record	-	-	-	Industrial trades	-	-
+2004	16147	            3/46 Dacre Street	25/06/2004	19/07/2004	-	$240,000	1551m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	222089	1/76 Hoskins Street	03/05/2004	25/05/2004	-	$230,000	2835m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	222145	2/29 Buckland Street	18/02/2004	11/08/2004	-	$229,900	2652m	Full transfer	-	-	-	-	-	$229,900	-	-	Government Record	-	-	-	Industrial trades	-	-
+2004	222150	6/29 Buckland Street	20/07/2004	21/09/2004	-	$225,500	2652m	Full transfer	-	-	-	-	-	$225,500	-	-	Government Record	-	-	-	Industrial trades	-	-
+2004	222093	3/80 Hoskins Street	20/08/2004	10/02/2005	-	$220,000	5114m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	222144	1/29 Buckland Street	28/09/2004	24/11/2004	-	$212,300	2652m	Full transfer	-	-	-	-	-	$212,300	-	-	Government Record	-	-	-	Industrial trades	-	-
+2004	222117	15 Baillieu Court	20/04/2004	12/05/2004	-	$211,750	1408m	Partial transfer	-	-	-	-	-	$211,750	-	-	Government Record	-	-	-	Warehouse	-	-
+2004	222140	1/66 Heffernan Street	13/02/2004	06/04/2004	-	$196,000	2400m	Full transfer	-	-	-	-	-	$196,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+2004	222142	5/66 Heffernan Street	10/06/2004	27/09/2004	-	$196,000	2400m	Full transfer	-	-	-	-	-	$196,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+2004	222077	6/26 Winchcombe Court	24/05/2004	12/07/2004	-	$175,000	3382m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	222070	1/26 Winchcombe Court	19/05/2004	28/06/2004	-	$170,000	3382m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	222075	2/26 Winchcombe Court	31/03/2004	13/05/2004	-	$165,000	3382m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	222105	6/45 Vicars Street	03/02/2004	03/02/2004	-	$160,000	13496m	Partial transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2004	222076	4/26 Winchcombe Court	30/08/2004	30/09/2005	-	$135,000	3382m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	222069	8/4 Winchcombe Court	28/06/2004	23/07/2004	-	$135,000	2580m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	222079	9/26 Winchcombe Court	31/08/2004	30/09/2005	-	$135,000	3382m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	222078	8/26 Winchcombe Court	31/08/2004	15/10/2004	-	$130,000	3382m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	16148	            4/46 Dacre Street	25/06/2004	19/07/2004	-	$120,000	1551m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	335839	5/125 Lysaght Street	15/02/2004	14/08/2011	-	$65,000	2554m	Full transfer	-	-	-	-	-	$65,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	222083	35 Sandford Street	01/04/2004	22/04/2004	-	-	91626m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2004	222073	15/26 Winchcombe Court	23/03/2004	23/03/2004	-	-	3382m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	222074	16/26 Winchcombe Court	23/03/2004	23/03/2004	-	-	3382m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	222115	17 Baillieu Court	23/01/2004	21/06/2004	-	-	2816m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2004	222071	13/26 Winchcombe Court	23/03/2004	23/03/2004	-	-	3382m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	222072	14/26 Winchcombe Court	23/03/2004	23/03/2004	-	-	3382m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	222113	1 Tooth Street	11/03/2005	14/04/2005	-	$1,175,000	2143m	Full transfer	-	-	-	-	-	$1,175,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	222082	17 Darling Street	01/06/2005	12/07/2005	-	$1,050,000	1734m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	222133	133 Flemington Road	03/03/2005	03/03/2005	-	$970,000	4128m	Full transfer	-	-	-	-	-	$970,000	-	-	Government Record	-	-	-	Office	-	-
+2005	222131	149 Flemington Road	10/10/2005	10/10/2005	-	$850,000	3875m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Office	-	-
+2005	222128	173 Flemington Road	05/12/2005	05/12/2005	-	$750,000	2998m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Shop	-	-
+2005	222101	5/23 Essington Street	26/07/2005	26/09/2005	-	$742,000	3699m	Full transfer	-	-	-	-	-	$742,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	16142	            1/67 Vicars Street	04/02/2005	25/02/2005	-	$695,000	10135m	Full transfer	-	-	-	-	-	$695,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	222087	10 McEacharn Place	08/07/2005	19/08/2005	-	$660,000	3143m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	222156	6/91 Grimwade Street	25/11/2005	13/01/2006	-	$575,000	2601m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	222157	7/91 Grimwade Street	25/11/2005	13/01/2006	-	$575,000	2601m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	222158	8/91 Grimwade Street	25/11/2005	13/01/2006	-	$575,000	2601m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	222109	58 Dacre Street	20/05/2005	02/05/2006	-	$544,500	2351m	Full transfer	-	-	-	-	-	$544,500	-	-	Government Record	-	-	-	General industry	-	-
+2005	164244	62 Dacre Street	11/02/2005	15/08/2006	-	$544,500	2524m	Full transfer	-	-	-	-	-	$544,500	-	-	Government Record	-	-	-	General industry	-	-
+2005	222112	68 Dacre Street	23/03/2005	20/06/2006	-	$528,000	2006m	Full transfer	-	-	-	-	-	$528,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	164243	60 Dacre Street	11/02/2005	15/08/2006	-	$511,500	2939m	Full transfer	-	-	-	-	-	$511,500	-	-	Government Record	-	-	-	General industry	-	-
+2005	517831	5/70 Dacre Street	15/02/2005	31/08/2017	-	$495,000	2164m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	517847	3/70 Dacre Street	15/02/2005	31/08/2017	-	$495,000	2164m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	517916	2/70 Dacre Street	15/02/2005	31/08/2017	-	$495,000	2164m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	518066	4/70 Dacre Street	15/02/2005	31/08/2017	-	$495,000	2164m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	517988	70 Dacre Street	15/02/2005	31/08/2017	-	$495,000	2164m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	518112	            0/70 Dacre Street	15/02/2005	31/08/2017	-	$495,000	2164m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	518137	1/70 Dacre Street	15/02/2005	31/08/2017	-	$495,000	2164m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	General industry	-	-
+2005	222102	2/5 Callan Street	02/03/2005	10/11/2005	-	$475,000	4321m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	222103	3/5 Callan Street	02/03/2005	10/11/2005	-	$475,000	4321m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	222137	32 Heffernan Street	02/11/2005	02/11/2005	-	$450,000	2226m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Office	-	-
+2005	222097	11/160 Lysaght Street	01/11/2005	02/12/2005	-	$416,000	6724m	Full transfer	-	-	-	-	-	$416,000	-	-	Government Record	-	-	-	Service trades	-	-
+2005	16153	            6/96 Vicars Street	06/06/2005	18/07/2005	-	$341,000	4551m	Full transfer	-	-	-	-	-	$341,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2005	222124	5/48 Brookes Street	14/06/2005	20/07/2006	-	$319,000	1575m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Shop	-	-
+2005	16145	            2/51 Vicars Street	02/12/2005	05/01/2006	-	$310,000	2353m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	16146	            3/51 Vicars Street	18/11/2005	09/01/2006	-	$305,000	2353m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	222085	1/2 McEacharn Place	28/02/2005	01/04/2005	-	$270,000	3546m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	222141	3/66 Heffernan Street	24/03/2005	04/05/2005	-	$265,000	2400m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+2005	222091	1/80 Hoskins Street	25/05/2005	27/09/2005	-	$258,500	5114m	Full transfer	-	-	-	-	-	$258,500	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	16150	            1/96 Vicars Street	08/08/2005	15/08/2005	-	$250,000	4551m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2005	222153	2/14 Kemble Court	02/05/2005	08/07/2005	-	$192,500	2601m	Full transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	222152	1/14 Kemble Court	02/05/2005	08/07/2005	-	$192,500	2601m	Full transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	222080	2/6 Brookes Street	16/03/2005	12/05/2005	-	$160,000	2601m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	222154	10/10 Kemble Court	30/05/2005	15/06/2005	-	$150,000	2601m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	222155	9/10 Kemble Court	30/05/2005	15/06/2005	-	$150,000	2601m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	16154	            1/91 Grimwade Street	02/12/2005	03/01/2006	-	$130,000	2601m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	222068	3/32 Hoskins Street	11/05/2005	20/06/2005	-	$127,000	1707m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	517415	8/67 Vicars Street	03/08/2005	22/08/2017	-	$0	10135m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	222094	5/73 Vicars Street	14/12/2005	21/12/2005	-	-	3524m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	287596	8/29 Buckland Street	21/11/2005	24/03/2011	-	-	2652m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industrial trades	-	-
+2005	222095	3/67 Vicars Street	15/09/2005	13/12/2005	-	-	10135m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
