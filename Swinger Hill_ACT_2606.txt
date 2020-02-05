@@ -1,0 +1,28 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1993	8809	             English Court	17/12/1993	-	21/10/2000	$130,460	-	Full transfer	4	1	-	-	1	$130,460	-	-	Allhomes Record	-	-	-	-	-	-
+2000	9015	             Barnett Close	19/12/2000	-	01/11/2000	$180,000	-	Full transfer	3	1	-	1	-	$180,000	48	-	Allhomes Record	-	-	-	-	-	-
+2001	13088	             Barnett Close	14/09/2001	-	12/05/2001	$320,000	-	Full transfer	4	1	1	-	-	$320,000	125	-	Allhomes Record	-	-	-	-	-	-
+2001	16132	             Mansfield Place	05/11/2001	-	07/10/2001	$180,000	-	Full transfer	2	-	-	-	-	$180,000	29	-	Allhomes Record	-	-	-	-	-	-
+2002	19593	            32 English Court	17/05/2002	-	24/04/2002	$287,000	-	Full transfer	3	1	1	1	-	$287,000	23	-	Allhomes Record	-	-	-	-	-	-
+2002	20093	            99 Hallen Close	17/12/2002	-	29/11/2002	$229,000	-	Full transfer	2	1	-	-	-	$229,000	18	-	Allhomes Record	-	-	-	-	-	-
+2002	14388	             Jewell Close	01/07/2002	-	22/07/2001	$207,500	-	Full transfer	1	1	-	1	-	$207,500	344	-	Allhomes Record	-	-	-	-	-	-
+2002	18028	            105 105 Hallen Close	19/02/2002	-	16/01/2002	-	-	Full transfer	2	1	-	-	2	-	34	-	Allhomes Record	-	-	-	-	-	-
+2003	22794	             Hallen Close	11/11/2003	-	07/08/2003	$150,000	-	Full transfer	-	-	-	-	-	$150,000	96	-	Allhomes Record	-	-	-	-	-	-
+2004	20748	            9 Rowe Place	30/07/2004	-	15/01/2004	$395,000	-	Full transfer	3	1	1	-	1	$395,000	197	-	Allhomes Record	-	-	-	-	-	-
+2004	21083	            17 English Court	06/11/2004	-	22/10/2004	$360,000	-	Full transfer	3	1	1	2	-	$360,000	15	-	Allhomes Record	-	-	-	-	-	-
+2004	20918	            36 Jewell Close	19/08/2004	-	26/05/2004	$340,000	-	Full transfer	3	1	2	-	2	$340,000	85	-	Allhomes Record	-	-	-	-	-	-
+2004	21093	            17 Hallen Close	15/11/2004	-	03/11/2004	$328,750	-	Full transfer	3	1	-	1	-	$328,750	12	-	Allhomes Record	-	-	-	-	-	-
+2004	20696	            19 English Court	05/03/2004	-	19/11/2003	$320,000	-	Full transfer	3	1	1	2	-	$320,000	107	-	Allhomes Record	-	-	-	-	-	-
+2004	21104	            15 Rowe Place	21/12/2004	-	05/11/2004	$303,000	-	Full transfer	3	2	1	-	1	$303,000	46	-	Allhomes Record	-	-	-	-	-	-
+2004	21111	            99 Hallen Close	03/12/2004	-	12/11/2004	$296,000	-	Full transfer	2	1	-	-	1	$296,000	21	-	Allhomes Record	-	-	-	-	-	-
+2004	20861	            5 Rowe Place	07/05/2004	-	26/03/2004	$247,000	-	Full transfer	2	1	-	-	1	$247,000	42	-	Allhomes Record	-	-	-	-	-	-
+2004	20797	             Terry Close	09/03/2004	-	06/02/2004	-	-	Full transfer	3	1	1	2	-	-	32	-	Allhomes Record	-	-	-	-	-	-
+2005	20892	            91 Rowe Place	09/05/2005	-	25/02/2005	$400,000	-	Full transfer	3	1	1	2	-	$400,000	73	-	Allhomes Record	-	-	-	-	-	-
+2005	21206	            85 Rowe Place	04/07/2005	-	17/02/2005	$355,000	-	Full transfer	3	1	1	2	-	$355,000	137	-	Allhomes Record	-	-	-	-	-	-
+2005	21167	            26 English Court	25/02/2005	-	25/01/2005	$335,000	-	Full transfer	3	1	1	-	2	$335,000	31	-	Allhomes Record	-	-	-	-	-	-
+2005	21205	            75 Rowe Place	11/05/2005	-	17/02/2005	$335,000	-	Full transfer	3	1	1	2	-	$335,000	83	-	Allhomes Record	-	-	-	-	-	-
+2005	21321	            22 Hallen Close	17/08/2005	-	22/06/2005	$325,000	-	Full transfer	3	1	-	-	1	$325,000	56	-	Allhomes Record	-	-	-	-	-	-
+2005	21098	            103 Hallen Close	28/02/2005	-	12/01/2005	$288,000	-	Full transfer	2	1	-	-	1	$288,000	47	-	Allhomes Record	-	-	-	-	-	-
+2005	20740	            83 Barnet Close	20/02/2005	-	20/12/2003	$285,000	-	Full transfer	2	1	-	-	1	$285,000	428	-	Allhomes Record	-	-	-	-	-	-
+2005	21105	            7/21 Alsop Close	18/01/2005	-	09/11/2004	$281,000	-	Full transfer	2	1	-	1	-	$281,000	70	-	Allhomes Record	-	-	-	-	-	-
+2005	21408	            28 Hallen Close	14/11/2005	-	19/09/2005	$258,500	-	Full transfer	2	-	-	-	1	$258,500	56	-	Allhomes Record	-	-	-	-	-	-
