@@ -1,0 +1,987 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1992	64893	74 Mildura Street	06/02/1992	06/02/1992	-	$5,500,000	30846m	Full transfer	-	-	-	-	-	$5,500,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1992	64892	16 Nyrang Street	23/09/1992	23/09/1992	-	$2,200,000	8677m	Full transfer	-	-	-	-	-	$2,200,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1992	64774	19 Mildura Street	27/07/1992	27/07/1992	-	$1,700,000	18673m	Full transfer	-	-	-	-	-	$1,700,000	-	-	Government Record	-	-	-	Liquor store [off licence]	-	-
+1992	64877	63 Gladstone Street	15/04/1992	15/04/1992	-	$1,300,000	1930m	Full transfer	-	-	-	-	-	$1,300,000	-	-	Government Record	-	-	-	Office equipment retailer	-	-
+1992	64861	137 Gladstone Street	21/04/1992	21/04/1992	-	$1,275,000	2044m	Full transfer	-	-	-	-	-	$1,275,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1992	64571	20 Whyalla Street	31/03/1992	31/03/1992	-	$1,200,000	3356m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1992	64761	48 Wollongong Street	08/07/1992	08/07/1992	-	$1,156,500	3260m	Full transfer	-	-	-	-	-	$1,156,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64656	81 Newcastle Street	06/11/1992	06/11/1992	-	$620,000	1730m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	2252	            1/22 Kembla Street	25/06/1992	25/06/1992	-	$520,000	2314m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1992	64608	1/34 Pirie Street	04/03/1992	04/03/1992	-	$515,000	1637m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	64596	2/34 Pirie Street	04/03/1992	04/03/1992	-	$515,000	1637m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	64569	1 Whyalla Street	29/05/1992	29/05/1992	-	$500,000	2283m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	64601	4/90 Barrier Street	27/03/1992	27/03/1992	-	$445,000	20917m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	64751	19 Collie Street	30/06/1992	30/06/1992	-	$420,000	1534m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64543	27 Yallourn Street	13/05/1992	13/05/1992	-	$400,000	2566m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	64693	15 Kembla Street	04/06/1992	04/06/1992	-	$380,000	1394m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64620	5 Isa Street	17/08/1992	17/08/1992	-	$370,000	2648m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	64749	55 Collie Street	10/03/1992	10/03/1992	-	$360,000	1854m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64587	13/90 Barrier Street	08/07/1992	08/07/1992	-	$350,000	20917m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	64590	3/90 Barrier Street	29/01/1992	29/01/1992	-	$350,000	20917m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1992	64692	48 Maryborough Street	02/01/1992	02/01/1992	-	$310,000	1669m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Furniture store	-	-
+1992	64722	1/83 Wollongong Street	17/11/1992	17/11/1992	-	$230,000	2230m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64701	5/25 Wollongong Street	17/08/1992	17/08/1992	-	$200,000	3328m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1992	64537	28 Geelong Street	16/07/1992	16/07/1992	-	$180,000	2796m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	64801	192 Gladstone Street	06/11/1992	06/11/1992	-	$170,000	1858m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Office	-	-
+1992	64673	23/105 Newcastle Street	13/05/1992	13/05/1992	-	$165,000	26102m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	64798	2/184 Gladstone Street	01/10/1992	01/10/1992	-	$160,000	1858m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1992	64585	15 Barrier Street	23/01/1992	23/01/1992	-	$140,000	10174m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Liquid fuel depot	-	-
+1992	64725	2/83 Wollongong Street	17/11/1992	17/11/1992	-	$130,000	2230m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64792	5/74 Townsville Street	30/09/1992	30/09/1992	-	$125,000	1858m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1992	64903	4/17 Dalby Street	11/09/1992	11/09/1992	-	$125,000	4482m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1992	64897	2/17 Dalby Street	04/09/1992	04/09/1992	-	$125,000	4482m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1992	64900	3/17 Dalby Street	10/09/1992	10/09/1992	-	$125,000	4482m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1992	64791	2/74 Townsville Street	22/01/1992	22/01/1992	-	$115,000	1858m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1992	64807	6/53 Townsville Street	27/10/1992	27/10/1992	-	$115,000	1858m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1992	64686	4/8 Gladstone Street	24/02/1992	24/02/1992	-	$110,000	10124m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Retail	-	-
+1992	64835	3/51 Tennant Street	14/08/1992	14/08/1992	-	$105,000	2322m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	64841	13/43 Tennant Street	09/04/1992	09/04/1992	-	$100,000	6840m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1992	64708	9/22 Kembla Street	25/06/1992	25/06/1992	-	$93,600	2314m	Full transfer	-	-	-	-	-	$93,600	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1992	64687	6/8 Gladstone Street	24/02/1992	24/02/1992	-	$90,000	10124m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Retail	-	-
+1992	64705	6/22 Kembla Street	25/06/1992	25/06/1992	-	$88,400	2314m	Full transfer	-	-	-	-	-	$88,400	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1992	64710	1/14 Kembla Street	23/10/1992	23/10/1992	-	$87,500	2799m	Full transfer	-	-	-	-	-	$87,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64760	6/56 Wollongong Street	07/07/1992	07/07/1992	-	$82,250	1905m	Full transfer	-	-	-	-	-	$82,250	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64759	3/56 Wollongong Street	23/06/1992	23/06/1992	-	$82,250	1905m	Full transfer	-	-	-	-	-	$82,250	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1992	64743	14 Wollongong Street	30/07/1992	30/07/1992	-	$80,000	1486m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Industry	-	-
+1992	2246	21/8 Gladstone Street	13/11/1992	13/11/1992	-	$45,000	10124m	Full transfer	-	-	-	-	-	$45,000	-	-	Government Record	-	-	-	Retail	-	-
+1992	64707	8/22 Kembla Street	25/06/1992	25/06/1992	-	$41,600	2314m	Full transfer	-	-	-	-	-	$41,600	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1992	64706	7/22 Kembla Street	25/06/1992	25/06/1992	-	$41,600	2314m	Full transfer	-	-	-	-	-	$41,600	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1992	2253	            2/22 Kembla Street	25/06/1992	25/06/1992	-	$36,400	2314m	Full transfer	-	-	-	-	-	$36,400	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1992	2254	            3/22 Kembla Street	25/06/1992	25/06/1992	-	$36,400	2314m	Full transfer	-	-	-	-	-	$36,400	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1992	64902	4/17 Dalby Street	10/09/1992	10/09/1992	-	$1	4482m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Warehouse	-	-
+1992	64775	23 Mildura Street	09/12/1992	09/12/1992	-	-	22053m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Warehouse	-	-
+1992	64544	23 Yallourn Street	21/01/1992	21/01/1992	-	-	2569m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1992	64762	11 Albany Street	02/07/1992	02/07/1992	-	-	6850m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Commercial centre uses	-	-
+1992	64597	2/34 Pirie Street	21/12/1992	21/12/1992	-	-	1637m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1992	64609	1/34 Pirie Street	21/12/1992	21/12/1992	-	-	1637m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1992	64639	151 Newcastle Street	04/11/1992	04/11/1992	-	-	2050m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1992	64622	64 Barrier Street	14/04/1992	14/04/1992	-	-	1674m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1992	64586	100 Barrier Street	13/11/1992	13/11/1992	-	-	3892m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1992	2250	32/8 Gladstone Street	25/08/1992	25/08/1992	-	-	10124m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1993	64894	74 Mildura Street	28/07/1993	28/07/1993	-	$11,225,000	30846m	Full transfer	-	-	-	-	-	$11,225,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1993	64752	32 Wollongong Street	01/09/1993	01/09/1993	-	$3,750,000	12827m	Full transfer	-	-	-	-	-	$3,750,000	-	-	Government Record	-	-	-	Office	-	-
+1993	64785	23 Mildura Street	11/06/1993	11/06/1993	-	$2,400,000	22053m	Full transfer	-	-	-	-	-	$2,400,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1993	64793	13 Tennant Street	09/03/1993	09/03/1993	-	$2,200,000	8287m	Full transfer	-	-	-	-	-	$2,200,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	64904	5/17 Dalby Street	30/12/1993	30/12/1993	-	$1,800,000	4482m	Full transfer	-	-	-	-	-	$1,800,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1993	64895	1/17 Dalby Street	30/12/1993	30/12/1993	-	$1,800,000	4482m	Full transfer	-	-	-	-	-	$1,800,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1993	64878	63 Gladstone Street	27/10/1993	27/10/1993	-	$1,600,000	1930m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Office equipment retailer	-	-
+1993	64879	107 Gladstone Street	29/04/1993	29/04/1993	-	$950,000	2417m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Shop	-	-
+1993	64643	21 Lyell Street	02/12/1993	02/12/1993	-	$815,000	5622m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Retail	-	-
+1993	64754	60 Gladstone Street	21/01/1993	21/01/1993	-	$750,000	2883m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1993	64748	15 Collie Street	28/09/1993	28/09/1993	-	$640,000	1906m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64732	52 Kembla Street	13/07/1993	13/07/1993	-	$565,000	1394m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64916	3 Wiluna Street	12/08/1993	12/08/1993	-	$560,000	2322m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Industry	-	-
+1993	64786	38 Townsville Street	26/02/1993	26/02/1993	-	$555,000	1486m	Full transfer	-	-	-	-	-	$555,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1993	64606	28 Pirie Street	16/03/1993	16/03/1993	-	$407,000	697m	Full transfer	-	-	-	-	-	$407,000	-	-	Government Record	-	-	-	Industry	-	-
+1993	64694	22 Maryborough Street	20/07/1993	20/07/1993	-	$368,875	1669m	Full transfer	-	-	-	-	-	$368,875	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64669	20/105 Newcastle Street	10/08/1993	10/08/1993	-	$330,000	26102m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Industry	-	-
+1993	64638	30 Isa Street	08/11/1993	08/11/1993	-	$312,500	813m	Full transfer	-	-	-	-	-	$312,500	-	-	Government Record	-	-	-	Industry	-	-
+1993	64720	99 Wollongong Street	30/12/1993	30/12/1993	-	$310,000	1654m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1993	64753	96 Gladstone Street	10/08/1993	10/08/1993	-	$255,570	1626m	Full transfer	-	-	-	-	-	$255,570	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1993	64634	18 Isa Street	31/03/1993	31/03/1993	-	$225,000	813m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Industry	-	-
+1993	64616	5/171 Newcastle Street	03/08/1993	03/08/1993	-	$220,000	1655m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Industry	-	-
+1993	64874	7/157 Gladstone Street	10/02/1993	10/02/1993	-	$201,000	8450m	Full transfer	-	-	-	-	-	$201,000	-	-	Government Record	-	-	-	Shop	-	-
+1993	64915	4/5 Wiluna Street	05/03/1993	05/03/1993	-	$200,000	2322m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Industry	-	-
+1993	64872	4/157 Gladstone Street	19/10/1993	19/10/1993	-	$198,000	8450m	Full transfer	-	-	-	-	-	$198,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1993	64828	10/43 Tennant Street	26/07/1993	26/07/1993	-	$197,000	6840m	Full transfer	-	-	-	-	-	$197,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1993	2273	            4/96 Newcastle Street	02/12/1993	02/12/1993	-	$185,000	8283m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	2272	            3/96 Newcastle Street	06/12/1993	06/12/1993	-	$174,000	8283m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	2242	            16 Pirie Street	29/09/1993	29/09/1993	-	$170,000	1951m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Industry	-	-
+1993	64871	2/157 Gladstone Street	19/04/1993	19/04/1993	-	$167,500	8450m	Full transfer	-	-	-	-	-	$167,500	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1993	64811	3/164 Gladstone Street	08/02/1993	08/02/1993	-	$150,000	1858m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1993	2258	            4/14 Kembla Street	06/08/1993	06/08/1993	-	$147,000	2799m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64831	57 Tennant Street	02/07/1993	02/07/1993	-	$140,000	2205m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1993	64611	16/171 Newcastle Street	30/09/1993	30/09/1993	-	$128,000	1655m	Full transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Industry	-	-
+1993	64802	5/200 Gladstone Street	08/01/1993	08/01/1993	-	$125,000	1858m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64803	6/200 Gladstone Street	08/01/1993	08/01/1993	-	$125,000	1858m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64584	6/18 Whyalla Street	07/10/1993	07/10/1993	-	$123,000	4485m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Retail	-	-
+1993	64603	7/90 Barrier Street	09/11/1993	09/11/1993	-	$106,333	20917m	Full transfer	-	-	-	-	-	$106,333	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1993	2249	31/8 Gladstone Street	13/04/1993	13/04/1993	-	$85,000	10124m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Retail	-	-
+1993	2248	30/8 Gladstone Street	13/04/1993	13/04/1993	-	$85,000	10124m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Retail	-	-
+1993	64799	3/184 Gladstone Street	02/07/1993	02/07/1993	-	$83,000	1858m	Full transfer	-	-	-	-	-	$83,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1993	64579	15/18 Whyalla Street	13/09/1993	13/09/1993	-	$80,000	4485m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Retail	-	-
+1993	64577	14/18 Whyalla Street	06/04/1993	06/04/1993	-	$65,000	4485m	Full transfer	-	-	-	-	-	$65,000	-	-	Government Record	-	-	-	Retail	-	-
+1993	64583	5/18 Whyalla Street	08/10/1993	08/10/1993	-	$62,500	4485m	Full transfer	-	-	-	-	-	$62,500	-	-	Government Record	-	-	-	Retail	-	-
+1993	64582	4/18 Whyalla Street	08/10/1993	08/10/1993	-	$62,500	4485m	Full transfer	-	-	-	-	-	$62,500	-	-	Government Record	-	-	-	Retail	-	-
+1993	2255	            3/14 Kembla Street	11/08/1993	11/08/1993	-	$51,000	2799m	Full transfer	-	-	-	-	-	$51,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	2245	20/8 Gladstone Street	17/05/1993	17/05/1993	-	$45,000	10124m	Full transfer	-	-	-	-	-	$45,000	-	-	Government Record	-	-	-	Retail	-	-
+1993	64898	2/17 Dalby Street	16/08/1993	16/08/1993	-	$40,000	4482m	Full transfer	-	-	-	-	-	$40,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1993	64787	2/54 Townsville Street	24/12/1993	24/12/1993	-	$29,000	1486m	Full transfer	-	-	-	-	-	$29,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1993	64815	89 Tennant Street	24/11/1993	24/11/1993	-	$1	2896m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Industry	-	-
+1993	64682	47 Kembla Street	29/01/1993	29/01/1993	-	$1	2044m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64689	100 Maryborough Street	23/12/1993	23/12/1993	-	-	3119m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64625	72 Barrier Street	04/05/1993	04/05/1993	-	-	2239m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1993	64695	22 Maryborough Street	27/08/1993	27/08/1993	-	-	1669m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1993	64578	14/18 Whyalla Street	27/09/1993	27/09/1993	-	-	4485m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1993	64881	119 Gladstone Street	10/08/1993	08/12/1994	-	-	2766m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Warehouse	-	-
+1993	64714	76 Kembla Street	02/12/1993	02/12/1993	-	-	1446m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1994	64755	120 Wollongong Street	04/07/1994	04/07/1994	-	$1,841,500	7071m	Full transfer	-	-	-	-	-	$1,841,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64570	20 Whyalla Street	11/07/1994	11/07/1994	-	$1,295,000	3356m	Full transfer	-	-	-	-	-	$1,295,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+1994	64721	95 Wollongong Street	19/01/1994	19/01/1994	-	$1,040,000	2230m	Full transfer	-	-	-	-	-	$1,040,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64758	76 Wollongong Street	02/09/1994	10/10/1994	-	$1,027,500	1870m	Full transfer	-	-	-	-	-	$1,027,500	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1994	64870	111 Gladstone Street	19/08/1994	19/08/1994	-	$850,000	4091m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1994	64731	39 Wollongong Street	07/03/1994	07/03/1994	-	$632,000	1747m	Full transfer	-	-	-	-	-	$632,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64696	13 Wollongong Street	17/06/1994	17/06/1994	-	$520,000	1524m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64712	10 Kembla Street	14/03/1994	14/03/1994	-	$515,000	1394m	Full transfer	-	-	-	-	-	$515,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1994	64647	52 Barrier Street	29/11/1994	16/03/1995	-	$475,000	1532m	Full transfer	-	-	-	-	-	$475,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64572	47 Newcastle Street	15/10/1994	01/11/1994	-	$400,000	3103m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Shop	-	-
+1994	64646	6 Lyell Street	08/08/1994	08/08/1994	-	$330,000	813m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64539	281 Canberra Avenue	12/10/1994	10/02/1995	-	$305,000	2174m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64876	9/157 Gladstone Street	06/06/1994	06/06/1994	-	$299,000	8450m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Retail	-	-
+1994	64800	4/184 Gladstone Street	05/01/1994	05/01/1994	-	$290,000	1858m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1994	64664	18/105 Newcastle Street	08/03/1994	08/03/1994	-	$290,000	26102m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64542	29 Yallourn Street	21/10/1994	08/11/1994	-	$275,000	2505m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64700	3/25 Wollongong Street	31/08/1994	31/08/1994	-	$268,000	3328m	Full transfer	-	-	-	-	-	$268,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1994	64699	2/25 Wollongong Street	31/08/1994	31/08/1994	-	$265,000	3328m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1994	64561	11 Yallourn Street	14/03/1994	14/03/1994	-	$260,000	1367m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64698	1/25 Wollongong Street	31/08/1994	31/08/1994	-	$255,000	3328m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1994	64674	27/105 Newcastle Street	03/08/1994	03/08/1994	-	$237,500	26102m	Full transfer	-	-	-	-	-	$237,500	-	-	Government Record	-	-	-	Industry	-	-
+1994	64703	7/25 Wollongong Street	31/08/1994	31/08/1994	-	$235,000	3328m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1994	64618	5/171 Newcastle Street	07/02/1994	07/02/1994	-	$235,000	1655m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64702	5/25 Wollongong Street	31/08/1994	31/08/1994	-	$235,000	3328m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1994	2277	            4/129 Gladstone Street	21/02/1994	21/02/1994	-	$210,000	5586m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1994	64790	1/74 Townsville Street	21/02/1994	21/02/1994	-	$210,000	1858m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1994	64533	1/34 Geelong Street	13/04/1994	13/04/1994	-	$210,000	2555m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Retail	-	-
+1994	64602	5/90 Barrier Street	02/05/1994	02/05/1994	-	$200,000	20917m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1994	64688	6/8 Gladstone Street	30/05/1994	30/05/1994	-	$195,000	10124m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Retail	-	-
+1994	64613	17/171 Newcastle Street	27/06/1994	26/10/1994	-	$190,000	1655m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64631	4/16 Isa Street	29/08/1994	14/10/1994	-	$170,000	1998m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64630	3/16 Isa Street	29/08/1994	14/10/1994	-	$170,000	1998m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64676	4/105 Newcastle Street	28/10/1994	11/11/1994	-	$155,500	26102m	Full transfer	-	-	-	-	-	$155,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64830	11/43 Tennant Street	21/07/1994	21/07/1994	-	$152,000	6840m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64661	10/105 Newcastle Street	06/10/1994	18/10/1994	-	$141,500	26102m	Full transfer	-	-	-	-	-	$141,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64896	2/17 Dalby Street	02/08/1994	02/08/1994	-	$140,000	4482m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1994	64640	29 Lyell Street	02/09/1994	02/09/1994	-	$140,000	1626m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64600	12/171 Newcastle Street	19/10/1994	09/11/1994	-	$125,000	1655m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64565	7 Whyalla Street	05/09/1994	12/09/1994	-	$120,000	2959m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64804	10/59 Townsville Street	16/12/1994	23/12/1994	-	$100,000	2590m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1994	64911	2/5 Wiluna Street	21/06/1994	21/06/1994	-	$95,000	2322m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Industry	-	-
+1994	64842	14/43 Tennant Street	09/02/1994	09/02/1994	-	$95,000	6840m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64766	4/106 Gladstone Street	16/02/1994	16/02/1994	-	$93,500	1729m	Full transfer	-	-	-	-	-	$93,500	-	-	Government Record	-	-	-	Retail	-	-
+1994	64765	3/106 Gladstone Street	16/02/1994	16/02/1994	-	$93,500	1729m	Full transfer	-	-	-	-	-	$93,500	-	-	Government Record	-	-	-	Retail	-	-
+1994	64738	8/80 Newcastle Street	21/09/1994	24/10/1994	-	$90,000	2209m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64737	7/80 Newcastle Street	21/09/1994	24/10/1994	-	$90,000	2209m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64711	1/14 Kembla Street	26/10/1994	31/10/1994	-	$88,500	2799m	Full transfer	-	-	-	-	-	$88,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64724	12/83 Wollongong Street	25/10/1994	22/11/1994	-	$73,000	2230m	Full transfer	-	-	-	-	-	$73,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64581	3/18 Whyalla Street	26/08/1994	10/10/1994	-	$72,000	4485m	Full transfer	-	-	-	-	-	$72,000	-	-	Government Record	-	-	-	Retail	-	-
+1994	64580	2/18 Whyalla Street	22/03/1994	22/03/1994	-	$70,000	4485m	Full transfer	-	-	-	-	-	$70,000	-	-	Government Record	-	-	-	Retail	-	-
+1994	64574	1/18 Whyalla Street	02/03/1994	02/03/1994	-	$70,000	4485m	Full transfer	-	-	-	-	-	$70,000	-	-	Government Record	-	-	-	Retail	-	-
+1994	64826	4/47 Tennant Street	19/08/1994	19/08/1994	-	$70,000	2199m	Full transfer	-	-	-	-	-	$70,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	2270	            6/63 Wollongong Street	17/01/1994	17/01/1994	-	$62,000	2360m	Full transfer	-	-	-	-	-	$62,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1994	2268	            4/63 Wollongong Street	24/05/1994	24/05/1994	-	$58,500	2360m	Full transfer	-	-	-	-	-	$58,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1994	2247	25/8 Gladstone Street	28/07/1994	28/07/1994	-	$42,500	10124m	Full transfer	-	-	-	-	-	$42,500	-	-	Government Record	-	-	-	Retail	-	-
+1994	64564	2 Yallourn Street	24/02/1994	24/02/1994	-	$1	14543m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Industry	-	-
+1994	64718	123 Wollongong Street	23/08/1994	23/08/1994	-	-	2831m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64740	100 Newcastle Street	23/08/1994	23/08/1994	-	-	2765m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1994	64814	89 Tennant Street	10/11/1994	10/11/1994	-	-	2896m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1994	64730	45 Wollongong Street	29/06/1994	29/06/1994	-	-	1942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64675	3/105 Newcastle Street	30/08/1994	30/08/1994	-	-	26102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64704	36 Kembla Street	22/08/1994	23/11/1994	-	-	1394m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64637	26 Isa Street	30/08/1994	30/08/1994	-	-	3996m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1994	64729	45 Wollongong Street	18/05/1994	18/05/1994	-	-	1942m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64668	2/105 Newcastle Street	30/08/1994	30/08/1994	-	-	26102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64679	6/105 Newcastle Street	30/08/1994	30/08/1994	-	-	26102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64719	119 Wollongong Street	23/08/1994	23/08/1994	-	-	2230m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1994	64660	1/105 Newcastle Street	30/08/1994	30/08/1994	-	-	26102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64678	5/105 Newcastle Street	30/08/1994	30/08/1994	-	-	26102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1994	64677	4/105 Newcastle Street	30/08/1994	30/08/1994	-	-	26102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64763	11 Albany Street	05/12/1995	06/02/1996	-	$2,200,000	6850m	Full transfer	-	-	-	-	-	$2,200,000	-	-	Government Record	-	-	-	Commercial centre uses	-	-
+1995	64657	85 Newcastle Street	21/07/1995	16/08/1995	-	$1,700,000	2371m	Full transfer	-	-	-	-	-	$1,700,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64782	3/134 Gladstone Street	16/05/1995	19/06/1995	-	$1,306,667	4670m	Partial transfer	-	-	-	-	-	$1,306,667	-	-	Government Record	-	-	-	Retail	-	-
+1995	64768	134 Gladstone Street	16/05/1995	19/06/1995	-	$1,306,667	4670m	Partial transfer	-	-	-	-	-	$1,306,667	-	-	Government Record	-	-	-	Retail	-	-
+1995	64783	4/134 Gladstone Street	16/05/1995	19/06/1995	-	$1,306,667	4670m	Partial transfer	-	-	-	-	-	$1,306,667	-	-	Government Record	-	-	-	Retail	-	-
+1995	64773	5/134 Gladstone Street	16/05/1995	19/06/1995	-	$1,306,667	4670m	Partial transfer	-	-	-	-	-	$1,306,667	-	-	Government Record	-	-	-	Retail	-	-
+1995	64770	1/134 Gladstone Street	16/05/1995	19/06/1995	-	$1,306,667	4670m	Partial transfer	-	-	-	-	-	$1,306,667	-	-	Government Record	-	-	-	Retail	-	-
+1995	64781	2/134 Gladstone Street	16/05/1995	19/06/1995	-	$1,306,667	4670m	Partial transfer	-	-	-	-	-	$1,306,667	-	-	Government Record	-	-	-	Retail	-	-
+1995	64889	15 Wiluna Street	16/03/1995	09/08/1995	-	$960,000	3051m	Full transfer	-	-	-	-	-	$960,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64588	18/90 Barrier Street	13/04/1995	28/04/1995	-	$900,000	20917m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1995	64715	28 Gladstone Street	17/02/1995	05/04/1995	-	$835,000	1942m	Full transfer	-	-	-	-	-	$835,000	-	-	Government Record	-	-	-	Office	-	-
+1995	64658	133 Newcastle Street	26/04/1995	22/05/1995	-	$785,000	1655m	Full transfer	-	-	-	-	-	$785,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64750	5/96 Newcastle Street	16/06/1995	21/07/1995	-	$600,000	8283m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	64747	11 Collie Street	27/01/1995	24/02/1995	-	$530,000	1502m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	64652	18 Barrier Street	24/08/1995	08/09/1995	-	$520,000	1116m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64599	173 Newcastle Street	30/08/1995	19/12/1995	-	$520,000	1655m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64567	3 Whyalla Street	13/12/1995	18/07/1996	-	$500,000	2464m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64713	72 Kembla Street	19/05/1995	06/06/1995	-	$490,000	1254m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1995	64624	66 Barrier Street	17/08/1995	14/09/1995	-	$463,500	1706m	Full transfer	-	-	-	-	-	$463,500	-	-	Government Record	-	-	-	Industry	-	-
+1995	64573	8 Whyalla Street	17/11/1995	10/04/1996	-	$430,000	3600m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64653	8 Barrier Street	23/08/1995	03/10/1995	-	$380,000	979m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64680	14 Lyell Street	23/06/1995	14/07/1995	-	$367,500	813m	Full transfer	-	-	-	-	-	$367,500	-	-	Government Record	-	-	-	Industry	-	-
+1995	64860	1/157 Gladstone Street	21/08/1995	22/09/1995	-	$270,000	8450m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1995	64832	53 Tennant Street	03/07/1995	03/07/1995	-	$270,000	2314m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64644	7 Lyell Street	05/09/1995	13/09/1995	-	$265,000	813m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64850	1/133 Gladstone Street	08/11/1995	22/12/1995	-	$250,000	4497m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1995	64619	29 Isa Street	23/08/1995	31/08/1995	-	$230,000	697m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64849	3/129 Gladstone Street	31/07/1995	24/08/1995	-	$227,500	5586m	Full transfer	-	-	-	-	-	$227,500	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1995	64836	1/47 Tennant Street	11/07/1995	27/07/1995	-	$205,000	2199m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64615	4/171 Newcastle Street	21/06/1995	20/07/1995	-	$192,500	1655m	Full transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Industry	-	-
+1995	64538	10 Geelong Street	01/08/1995	03/11/1995	-	$180,000	2796m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64534	2/34 Geelong Street	29/12/1995	02/08/1996	-	$180,000	2555m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Retail	-	-
+1995	64873	6/157 Gladstone Street	07/06/1995	26/06/1995	-	$175,000	8450m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1995	64566	7 Whyalla Street	01/12/1995	18/12/1995	-	$175,000	2959m	Partial transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64744	1/18 Wollongong Street	16/07/1995	28/08/1995	-	$170,000	1486m	Partial transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64531	17 Geelong Street	17/08/1995	08/09/1995	-	$160,000	3508m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64649	22 Lyell Street	07/02/1995	07/02/1995	-	$150,000	3057m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	64829	11/43 Tennant Street	08/09/1995	19/09/1995	-	$150,000	6840m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64816	73 Tennant Street	06/07/1995	30/08/1995	-	$144,000	2377m	Full transfer	-	-	-	-	-	$144,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64626	6 Isa Street	12/04/1995	11/05/1995	-	$130,000	813m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64863	13/145 Gladstone Street	01/12/1995	12/12/1995	-	$129,000	8450m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64864	14/145 Gladstone Street	07/12/1995	11/01/1996	-	$125,000	8450m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64745	3/18 Wollongong Street	18/10/1995	14/03/1996	-	$110,000	1486m	Partial transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Personal service	-	-
+1995	64913	3/5 Wiluna Street	05/12/1995	21/12/1995	-	$105,000	2322m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64746	4/18 Wollongong Street	18/10/1995	14/03/1996	-	$100,000	1486m	Partial transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Shop	-	-
+1995	64805	5/59 Townsville Street	31/07/1995	14/09/1995	-	$100,000	2590m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1995	64540	2/15 Yallourn Street	06/10/1995	25/10/1995	-	$100,000	3104m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Industry	-	-
+1995	64726	1/79 Wollongong Street	27/10/1995	21/01/1997	-	$99,850	1654m	Full transfer	-	-	-	-	-	$99,850	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1995	2259	            1/63 Wollongong Street	26/05/1995	07/07/1995	-	$94,000	2360m	Full transfer	-	-	-	-	-	$94,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1995	64809	1/41 Townsville Street	24/04/1995	15/05/1995	-	$88,000	1858m	Full transfer	-	-	-	-	-	$88,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1995	64536	4/34 Geelong Street	25/07/1995	15/12/1997	-	$84,000	2555m	Full transfer	-	-	-	-	-	$84,000	-	-	Government Record	-	-	-	Retail	-	-
+1995	64808	9/53 Townsville Street	22/06/1995	10/08/1995	-	$80,000	1858m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1995	64756	108 Wollongong Street	01/12/1995	04/12/1995	-	$78,000	1301m	Partial transfer	-	-	-	-	-	$78,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	64757	108 Wollongong Street	03/11/1995	10/11/1995	-	$77,000	1301m	Partial transfer	-	-	-	-	-	$77,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	2256	            3/14 Kembla Street	02/08/1995	31/08/1995	-	$65,000	2799m	Full transfer	-	-	-	-	-	$65,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	2269	            5/63 Wollongong Street	26/07/1995	10/08/1995	-	$62,500	2360m	Full transfer	-	-	-	-	-	$62,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1995	64576	13/18 Whyalla Street	01/07/1995	19/07/1995	-	-	4485m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1995	64736	2/80 Newcastle Street	18/05/1995	26/06/1995	-	-	2209m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	64671	23/105 Newcastle Street	01/12/1995	07/12/1995	-	-	26102m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	64546	2/6 Geelong Street	08/03/1995	08/03/1995	-	-	1219m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	2275	            2/125 Gladstone Street	06/12/1995	03/04/1996	-	-	2991m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1995	64690	78 Maryborough Street	25/06/1995	04/03/1997	-	-	2967m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1995	64845	125 Gladstone Street	06/12/1995	03/04/1996	-	-	2991m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1995	64767	118 Gladstone Street	10/01/1995	13/09/1995	-	-	2688m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+1995	64547	3/6 Geelong Street	08/03/1995	08/03/1995	-	-	1219m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	2274	            1/125 Gladstone Street	06/12/1995	03/04/1996	-	-	2991m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1995	64709	9/22 Kembla Street	25/09/1995	25/09/1995	-	-	2314m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1995	64912	3/5 Wiluna Street	01/12/1995	01/12/1995	-	-	2322m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	64665	19/105 Newcastle Street	18/05/1995	18/05/1995	-	-	26102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1995	64789	66 Townsville Street	10/01/1995	29/11/1995	-	-	1765m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1995	64575	12/18 Whyalla Street	01/07/1995	19/07/1995	-	-	4485m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1995	64548	4/6 Geelong Street	08/03/1995	08/03/1995	-	-	1219m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	64614	2/171 Newcastle Street	06/12/1995	03/04/1996	-	-	1655m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	64742	14 Wollongong Street	30/01/1995	17/02/1995	-	-	1486m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	64549	5/6 Geelong Street	08/03/1995	08/03/1995	-	-	1219m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	64545	1/6 Geelong Street	08/03/1995	08/03/1995	-	-	1219m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1995	2276	            3/125 Gladstone Street	06/12/1995	03/04/1996	-	-	2991m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1996	64847	110 Tennant Street	02/10/1996	01/11/1996	-	$2,200,000	3663m	Full transfer	-	-	-	-	-	$2,200,000	-	-	Government Record	-	-	-	National association office	-	-
+1996	64741	100 Newcastle Street	31/01/1996	28/02/1996	-	$1,575,000	2765m	Full transfer	-	-	-	-	-	$1,575,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64739	100 Newcastle Street	21/10/1996	21/10/1996	-	$1,575,000	2765m	Full transfer	-	-	-	-	-	$1,575,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64833	53 Tennant Street	29/03/1996	29/04/1996	-	$1,240,000	2314m	Full transfer	-	-	-	-	-	$1,240,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64812	175 Gladstone Street	13/11/1996	13/01/1997	-	$900,000	3204m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1996	2241	            3/76 Barrier Street	14/08/1996	24/10/1996	-	$650,000	1858m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Retail	-	-
+1996	64568	1 Whyalla Street	23/08/1996	01/10/1996	-	$625,000	2283m	Full transfer	-	-	-	-	-	$625,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64604	1/76 Barrier Street	14/08/1996	23/10/1996	-	$610,000	1858m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Retail	-	-
+1996	64605	2/76 Barrier Street	14/08/1996	23/10/1996	-	$610,000	1858m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Retail	-	-
+1996	64716	32 Gladstone Street	18/06/1996	22/11/1996	-	$580,000	1226m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1996	64917	10 Ipswich Street	28/06/1996	28/06/1996	-	$520,000	2905m	Partial transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64610	1/34 Pirie Street	17/04/1996	29/04/1996	-	$480,000	1637m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64598	2/34 Pirie Street	17/04/1996	29/04/1996	-	$480,000	1637m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64890	13 Wiluna Street	17/06/1996	05/07/1996	-	$450,000	2917m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64882	91 Gladstone Street	18/06/1996	20/02/1997	-	$400,000	4905m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Service trades	-	-
+1996	64563	18 Geelong Street	02/05/1996	09/05/1996	-	$315,000	1219m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64651	24 Barrier Street	27/06/1996	15/07/1996	-	$315,000	899m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64820	59 Tennant Street	19/03/1996	23/04/1996	-	$290,000	2317m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64562	7 Yallourn Street	27/03/1996	15/05/1996	-	$255,000	1292m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64541	3/17 Yallourn Street	11/07/1996	23/12/1996	-	$239,000	5446m	Full transfer	-	-	-	-	-	$239,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64797	1/184 Gladstone Street	17/07/1996	07/08/1996	-	$225,000	1858m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1996	64844	9/43 Tennant Street	26/07/1996	26/08/1996	-	$220,000	6840m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64764	2/106 Gladstone Street	31/05/1996	08/08/1996	-	$200,000	1729m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Retail	-	-
+1996	2244	18/8 Gladstone Street	01/05/1996	16/05/1996	-	$190,000	10124m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Retail	-	-
+1996	64612	17/171 Newcastle Street	16/08/1996	09/09/1996	-	$185,000	1655m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64862	12/145 Gladstone Street	22/04/1996	27/05/1996	-	$180,000	8450m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64670	21/105 Newcastle Street	11/01/1996	14/02/1996	-	$180,000	26102m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64818	63 Tennant Street	13/11/1996	18/11/1996	-	$175,000	2092m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64914	4/5 Wiluna Street	14/06/1996	02/07/1996	-	$175,000	2322m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64848	2/129 Gladstone Street	23/04/1996	29/04/1996	-	$175,000	5586m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+1996	64632	5/16 Isa Street	19/01/1996	12/03/1996	-	$170,000	1998m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64633	6/16 Isa Street	19/01/1996	12/03/1996	-	$170,000	1998m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Industry	-	-
+1996	64859	8/145 Gladstone Street	17/01/1996	07/03/1996	-	$170,000	8450m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64858	7/145 Gladstone Street	22/04/1996	14/06/1996	-	$158,000	8450m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64817	71 Tennant Street	14/02/1996	18/04/1996	-	$155,000	2312m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64819	63 Tennant Street	10/05/1996	24/06/1996	-	$150,000	2092m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	2260	            1/63 Wollongong Street	01/07/1996	10/07/1996	-	$145,000	2360m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1996	64662	11/105 Newcastle Street	22/03/1996	24/04/1996	-	$145,000	26102m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64866	4/145 Gladstone Street	15/05/1996	30/05/1996	-	$123,750	8450m	Full transfer	-	-	-	-	-	$123,750	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64865	3/145 Gladstone Street	15/05/1996	30/05/1996	-	$123,750	8450m	Full transfer	-	-	-	-	-	$123,750	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	2257	            4/14 Kembla Street	14/08/1996	03/09/1996	-	$120,000	2799m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1996	64806	6/59 Townsville Street	26/04/1996	26/07/1996	-	$116,000	2590m	Full transfer	-	-	-	-	-	$116,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1996	64733	4/67 Collie Street	14/03/1996	24/04/1996	-	$110,000	2245m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1996	64589	2/90 Barrier Street	09/10/1996	09/10/1996	-	$100,000	20917m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1996	64735	6/67 Collie Street	14/03/1996	24/04/1996	-	$100,000	2245m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1996	64843	15/43 Tennant Street	19/04/1996	16/05/1996	-	$100,000	6840m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64734	5/67 Collie Street	14/03/1996	24/04/1996	-	$100,000	2245m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1996	64727	2/79 Wollongong Street	01/11/1996	09/12/1996	-	$99,500	1654m	Full transfer	-	-	-	-	-	$99,500	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+1996	64837	2/47 Tennant Street	10/07/1996	31/07/1996	-	$95,000	2199m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64825	3/47 Tennant Street	18/06/1996	18/06/1996	-	$95,000	2199m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	2271	            7/63 Wollongong Street	20/06/1996	18/09/1996	-	$60,000	2360m	Full transfer	-	-	-	-	-	$60,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1996	64813	93 Tennant Street	27/08/1996	10/09/1996	-	-	2738m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1996	64621	19 Lyell Street	20/02/1996	15/10/1996	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1996	64650	26 Barrier Street	08/04/1996	01/11/1996	-	-	945m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1996	64520	17 Geelong Street	02/07/1996	04/07/1996	-	-	3508m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1997	64795	8 Albany Street	20/03/1997	01/07/1997	-	$2,271,000	5971m	Full transfer	-	-	-	-	-	$2,271,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1997	64645	10 Lyell Street	23/09/1997	10/11/1997	-	$1,050,000	7740m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Builders supplies	-	-
+1997	64683	51 Kembla Street	16/06/1997	20/10/1997	-	$1,000,000	4088m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	64691	78 Maryborough Street	20/10/1997	20/10/1997	-	$760,000	2967m	Partial transfer	-	-	-	-	-	$760,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	64655	77 Newcastle Street	28/04/1997	30/06/1997	-	$650,000	1858m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	64796	28 Collie Street	14/05/1997	14/05/1997	-	$650,000	3478m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	General industry	-	-
+1997	64794	12 Albany Street	14/05/1997	14/05/1997	-	$570,000	2920m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1997	64717	40 Gladstone Street	23/10/1997	16/12/1997	-	$570,000	1687m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	194333	58 Townsville Street	24/12/1997	17/02/1998	-	$500,000	1486m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Service trades	-	-
+1997	64648	36 Barrier Street	06/11/1997	08/12/1997	-	$482,500	2518m	Full transfer	-	-	-	-	-	$482,500	-	-	Government Record	-	-	-	Industry	-	-
+1997	64623	64 Barrier Street	07/06/1997	20/11/1997	-	$465,000	1674m	Full transfer	-	-	-	-	-	$465,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	11144	            1/52 Barrier Street	15/12/1997	19/03/1998	-	$400,000	1532m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	12187	            2/52 Barrier Street	15/12/1997	19/03/1998	-	$400,000	1532m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	186476	40 Maryborough Street	18/12/1997	28/04/1998	-	$395,000	1672m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	64654	8 Barrier Street	02/05/1997	15/08/1997	-	$384,000	979m	Full transfer	-	-	-	-	-	$384,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	64642	29 Lyell Street	14/02/1997	06/03/1997	-	$375,000	1626m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	64628	17 Lyell Street	14/11/1997	24/12/1997	-	$362,000	813m	Full transfer	-	-	-	-	-	$362,000	-	-	Government Record	-	-	-	Personal service	-	-
+1997	64617	5/171 Newcastle Street	30/04/1997	05/05/1997	-	$350,000	1655m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	64681	16 Lyell Street	09/09/1997	29/09/1997	-	$335,000	813m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	64550	13 Yallourn Street	27/10/1997	19/11/1997	-	$256,000	1323m	Full transfer	-	-	-	-	-	$256,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	2261	            26/63 Wollongong Street	06/11/1997	26/11/1997	-	$250,000	2360m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	2264	            29/63 Wollongong Street	06/11/1997	26/11/1997	-	$250,000	2360m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	2265	            30/63 Wollongong Street	06/11/1997	26/11/1997	-	$250,000	2360m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	64635	20 Isa Street	27/06/1997	10/07/1997	-	$250,000	813m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	2263	            28/63 Wollongong Street	06/11/1997	26/11/1997	-	$250,000	2360m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	2266	            31/63 Wollongong Street	06/11/1997	26/11/1997	-	$250,000	2360m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	2267	            32/63 Wollongong Street	06/11/1997	26/11/1997	-	$250,000	2360m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	2262	            27/63 Wollongong Street	06/11/1997	26/11/1997	-	$250,000	2360m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	64532	17 Geelong Street	14/05/1997	19/05/1997	-	$235,000	3508m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	64875	7/157 Gladstone Street	25/07/1997	15/08/1997	-	$176,000	8450m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Shop	-	-
+1997	64663	13/105 Newcastle Street	25/06/1997	21/07/1997	-	$165,000	26102m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Retail	-	-
+1997	64627	6 Isa Street	31/07/1997	24/11/1997	-	$157,000	813m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	2243	11/8 Gladstone Street	29/08/1997	29/09/1997	-	$155,000	10124m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Retail	-	-
+1997	194361	22 Barrier Street	08/12/1997	25/02/1998	-	$150,000	814m	Partial transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	186521	4/57 Kembla Street	27/06/1997	12/05/1998	-	$150,000	1394m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	64899	3/17 Dalby Street	31/01/1997	04/02/1997	-	$142,000	4482m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1997	64901	4/17 Dalby Street	31/01/1997	04/02/1997	-	$142,000	4482m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1997	64667	2/105 Newcastle Street	12/11/1997	23/12/1997	-	$134,400	26102m	Full transfer	-	-	-	-	-	$134,400	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1997	64728	2/60 Kembla Street	05/12/1997	30/12/1997	-	$123,000	2202m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	64810	2/41 Townsville Street	03/03/1997	25/03/1997	-	$120,000	1858m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1997	64834	1/51 Tennant Street	12/12/1997	23/12/1997	-	$119,000	2322m	Full transfer	-	-	-	-	-	$119,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1997	2251	35/8 Gladstone Street	14/07/1997	29/07/1997	-	$105,000	10124m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Retail	-	-
+1997	195380	2/16 Isa Street	08/12/1997	24/12/1998	-	$75,000	1998m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	169963	1/16 Isa Street	08/12/1997	11/02/1998	-	$75,000	1998m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Industry	-	-
+1997	64827	4/47 Tennant Street	05/05/1997	28/05/1997	-	$74,000	2199m	Full transfer	-	-	-	-	-	$74,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1997	64788	3/54 Townsville Street	22/01/1997	28/04/1997	-	$72,000	1486m	Full transfer	-	-	-	-	-	$72,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+1997	64723	11/83 Wollongong Street	29/07/1997	29/07/1997	-	$40,000	2230m	Partial transfer	-	-	-	-	-	$40,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1997	64636	26 Isa Street	28/01/1997	28/01/1997	-	-	3996m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1997	64607	28 Pirie Street	24/03/1997	24/03/1997	-	-	697m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1997	64684	3/8 Gladstone Street	11/03/1997	11/03/1997	-	-	10124m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1997	64629	17 Lyell Street	26/07/1997	25/11/1997	-	-	813m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Personal service	-	-
+1997	175156	7 Wiluna Street	08/11/1997	25/01/1999	-	-	4164m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1997	64685	3/8 Gladstone Street	20/06/1997	20/06/1997	-	-	10124m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1997	64535	3/34 Geelong Street	25/07/1997	15/12/1997	-	-	2555m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1997	64641	29 Lyell Street	06/03/1997	06/03/1997	-	-	1626m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1997	64659	137 Newcastle Street	21/02/1997	21/02/1997	-	-	1655m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Business agency	-	-
+1997	190443	12/90 Barrier Street	08/12/1997	23/03/1998	-	-	20917m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	194997	189 Gladstone Street	12/06/1998	01/09/1998	-	$3,510,000	10646m	Full transfer	-	-	-	-	-	$3,510,000	-	-	Government Record	-	-	-	Retail	-	-
+1998	183502	16 Nyrang Street	09/12/1998	02/03/1999	-	$2,425,000	8677m	Full transfer	-	-	-	-	-	$2,425,000	-	-	Government Record	-	-	-	Warehouse	-	-
+1998	178856	142 Gladstone Street	21/10/1998	21/10/1998	-	$1,250,000	2737m	Full transfer	-	-	-	-	-	$1,250,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	186828	22 Wollongong Street	25/06/1998	07/08/1998	-	$895,000	2159m	Full transfer	-	-	-	-	-	$895,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	170515	73 Newcastle Street	31/03/1998	14/07/1998	-	$766,000	1860m	Full transfer	-	-	-	-	-	$766,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	187046	92 Gladstone Street	21/10/1998	21/10/1998	-	$700,000	3460m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	174783	104 Wollongong Street	21/10/1998	21/10/1998	-	$610,000	3112m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1998	199248	176 Gladstone Street	21/10/1998	21/10/1998	-	$580,000	1858m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Retail	-	-
+1998	174627	2/34 Pirie Street	21/07/1998	03/09/1998	-	$580,000	1637m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	174626	1/34 Pirie Street	21/07/1998	03/09/1998	-	$580,000	1637m	Full transfer	-	-	-	-	-	$580,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	174709	96 Gladstone Street	24/08/1998	01/10/1998	-	$575,000	1626m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	178850	17/90 Barrier Street	02/09/1998	20/10/1998	-	$492,500	20917m	Full transfer	-	-	-	-	-	$492,500	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	178047	23 Barrier Street	11/02/1998	11/02/1998	-	$482,634	8272m	Full transfer	-	-	-	-	-	$482,634	-	-	Government Record	-	-	-	Service trades	-	-
+1998	174904	30 Geelong Street	22/06/1998	25/11/1998	-	$460,000	2845m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Retail	-	-
+1998	178892	11 Kembla Street	02/10/1998	02/11/1998	-	$440,000	1394m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Travel agency	-	-
+1998	198701	18 Lyell Street	02/04/1998	05/05/1998	-	$432,000	813m	Full transfer	-	-	-	-	-	$432,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	199803	11 Wiluna Street	18/12/1998	07/04/1999	-	$380,000	3571m	Full transfer	-	-	-	-	-	$380,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	171260	20 Lithgow Street	01/12/1998	11/03/1999	-	$371,000	4701m	Full transfer	-	-	-	-	-	$371,000	-	-	Government Record	-	-	-	Service trades	-	-
+1998	182358	14 Geelong Street	10/02/1998	06/04/1998	-	$370,000	1219m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	195224	283 Canberra Avenue	12/11/1998	16/11/1998	-	$355,000	3949m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	195029	24 Lithgow Street	30/06/1998	16/09/1998	-	$350,000	2360m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	178423	7 Whyalla Street	22/05/1998	10/06/1998	-	$350,000	2959m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	199436	15/105 Newcastle Street	16/11/1998	18/12/1998	-	$310,000	26102m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	173048	3/59 Tennant Street	18/12/1998	22/06/2000	-	$292,000	2317m	Full transfer	-	-	-	-	-	$292,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	195366	59 Tennant Street	05/11/1998	22/12/1998	-	$290,000	2317m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	191098	103 Wollongong Street	21/10/1998	21/10/1998	-	$265,000	1654m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Personal service establishm...	-	-
+1998	174160	28 Barrier Street	28/03/1998	29/04/1998	-	$250,000	1862m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	178509	27/105 Newcastle Street	25/06/1998	03/07/1998	-	$240,000	26102m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	199146	6/25 Wollongong Street	15/07/1998	17/09/1998	-	$230,000	3328m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1998	178939	3 Lyell Street	09/09/1998	12/11/1998	-	$210,000	1998m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	195420	1/184 Gladstone Street	08/12/1998	08/01/1999	-	$205,000	1858m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1998	194482	6 Pirie Street	26/02/1998	07/04/1998	-	$195,000	697m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	10902	            3/112 Wollongong Street	04/09/1998	13/11/1998	-	$190,000	1626m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	174857	1/112 Wollongong Street	04/09/1998	13/11/1998	-	$190,000	1626m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	187124	2/112 Wollongong Street	04/09/1998	13/11/1998	-	$190,000	1626m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	174859	7/157 Gladstone Street	09/10/1998	13/11/1998	-	$182,000	8450m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Shop	-	-
+1998	174048	3 Yallourn Street	25/03/1998	25/03/1998	-	$180,000	2142m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	199011	22 Maryborough Street	21/07/1998	04/08/1998	-	$180,000	1669m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	182636	8/43 Tennant Street	27/01/1998	25/06/1998	-	$150,000	6840m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	182509	26 Barrier Street	05/05/1998	20/05/1998	-	$145,000	945m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	186643	16/171 Newcastle Street	21/05/1998	17/06/1998	-	$139,500	1655m	Full transfer	-	-	-	-	-	$139,500	-	-	Government Record	-	-	-	Industry	-	-
+1998	195182	10/90 Barrier Street	01/10/1998	02/11/1998	-	$138,000	20917m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	170818	93 Newcastle Street	22/09/1998	23/10/1998	-	$137,500	2001m	Partial transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Industry	-	-
+1998	174676	11/90 Barrier Street	17/07/1998	24/09/1998	-	$130,000	20917m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1998	174965	2/15 Yallourn Street	13/11/1998	11/12/1998	-	$115,000	3104m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	182671	4/133 Gladstone Street	23/06/1998	02/07/1998	-	$90,000	4497m	Partial transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1998	190795	3/133 Gladstone Street	23/06/1998	02/07/1998	-	$90,000	4497m	Partial transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1998	199090	2/133 Gladstone Street	23/06/1998	26/08/1998	-	$90,000	4497m	Partial transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+1998	170894	8/18 Whyalla Street	13/11/1998	20/11/1998	-	$87,000	4485m	Full transfer	-	-	-	-	-	$87,000	-	-	Government Record	-	-	-	Retail	-	-
+1998	186563	9/51 Tennant Street	12/03/1998	21/05/1998	-	$85,733	2322m	Partial transfer	-	-	-	-	-	$85,733	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	178362	7/51 Tennant Street	12/03/1998	21/05/1998	-	$85,733	2322m	Partial transfer	-	-	-	-	-	$85,733	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	174244	8/51 Tennant Street	12/03/1998	21/05/1998	-	$85,733	2322m	Partial transfer	-	-	-	-	-	$85,733	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	190723	3/49 Townsville Street	08/05/1998	10/06/1998	-	$73,000	1858m	Full transfer	-	-	-	-	-	$73,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	194468	10/18 Whyalla Street	18/03/1998	02/04/1998	-	$73,000	4485m	Full transfer	-	-	-	-	-	$73,000	-	-	Government Record	-	-	-	Retail	-	-
+1998	178592	1/106 Gladstone Street	16/07/1998	24/07/1998	-	$72,500	1729m	Full transfer	-	-	-	-	-	$72,500	-	-	Government Record	-	-	-	Retail	-	-
+1998	191359	7/59 Townsville Street	08/12/1998	13/01/1999	-	$72,000	2590m	Full transfer	-	-	-	-	-	$72,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1998	12275	            38/63 Wollongong Street	04/12/1998	30/03/1999	-	$55,000	2360m	Full transfer	-	-	-	-	-	$55,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1998	198983	5/80 Newcastle Street	27/04/1998	22/07/1998	-	$50,000	2209m	Full transfer	-	-	-	-	-	$50,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	191216	26 Lithgow Street	28/07/1998	01/12/1998	-	$50,000	25583m	Full transfer	-	-	-	-	-	$50,000	-	-	Government Record	-	-	-	Industry	-	-
+1998	178586	4/80 Newcastle Street	27/04/1998	22/07/1998	-	$50,000	2209m	Full transfer	-	-	-	-	-	$50,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	182768	6/80 Newcastle Street	27/04/1998	22/07/1998	-	$50,000	2209m	Full transfer	-	-	-	-	-	$50,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	170481	1/145 Gladstone Street	22/06/1998	03/07/1998	-	$41,127	8450m	Partial transfer	-	-	-	-	-	$41,127	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	178511	18/145 Gladstone Street	22/06/1998	03/07/1998	-	$40,897	8450m	Partial transfer	-	-	-	-	-	$40,897	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	10609	            33/63 Wollongong Street	04/12/1998	18/02/1999	-	$35,000	2360m	Full transfer	-	-	-	-	-	$35,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1998	174403	9/145 Gladstone Street	22/06/1998	03/07/1998	-	$34,917	8450m	Partial transfer	-	-	-	-	-	$34,917	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	174404	17/145 Gladstone Street	22/06/1998	03/07/1998	-	$24,685	8450m	Partial transfer	-	-	-	-	-	$24,685	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	182685	2/145 Gladstone Street	22/06/1998	03/07/1998	-	$24,456	8450m	Partial transfer	-	-	-	-	-	$24,456	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	178512	11/145 Gladstone Street	22/06/1998	03/07/1998	-	$20,000	8450m	Partial transfer	-	-	-	-	-	$20,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	182686	6/145 Gladstone Street	22/06/1998	03/07/1998	-	$14,000	8450m	Partial transfer	-	-	-	-	-	$14,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	194768	5/145 Gladstone Street	22/06/1998	03/07/1998	-	$14,000	8450m	Partial transfer	-	-	-	-	-	$14,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	185029	6/53 Townsville Street	30/07/1998	03/04/2000	-	-	1858m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1998	182689	10/145 Gladstone Street	22/06/1998	03/07/1998	-	-	8450m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	190804	15/145 Gladstone Street	22/06/1998	03/07/1998	-	-	8450m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	183892	4/184 Gladstone Street	13/11/1998	28/06/1999	-	-	1858m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1998	182690	16/145 Gladstone Street	22/06/1998	03/07/1998	-	-	8450m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	170808	5/49 Townsville Street	30/09/1998	20/10/1998	-	-	1858m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1998	174910	15/171 Newcastle Street	30/11/1998	30/11/1998	-	-	1655m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1998	191625	61 Tennant Street	28/07/1998	26/03/1999	-	-	2432m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1998	195144	4/49 Townsville Street	30/09/1998	20/10/1998	-	-	1858m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	11310	2/218 Gladstone Street	23/06/1999	27/07/1999	-	$1,410,000	7378m	Full transfer	-	-	-	-	-	$1,410,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	175805	218 Gladstone Street	23/06/1999	27/07/1999	-	$1,410,000	7378m	Full transfer	-	-	-	-	-	$1,410,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	10979	            4/218 Gladstone Street	23/06/1999	27/07/1999	-	$1,410,000	7378m	Full transfer	-	-	-	-	-	$1,410,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	11954	1/218 Gladstone Street	23/06/1999	27/07/1999	-	$1,410,000	7378m	Full transfer	-	-	-	-	-	$1,410,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	12357	            3/218 Gladstone Street	23/06/1999	27/07/1999	-	$1,410,000	7378m	Full transfer	-	-	-	-	-	$1,410,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	184790	60 Gladstone Street	27/07/1999	03/02/2000	-	$1,200,000	2883m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	187785	25 Ipswich Street	26/05/1999	26/05/1999	-	$1,160,000	15522m	Full transfer	-	-	-	-	-	$1,160,000	-	-	Government Record	-	-	-	Caretakers residence	-	-
+1999	181068	63 Tennant Street	08/11/1999	02/05/2000	-	$1,050,000	2092m	Full transfer	-	-	-	-	-	$1,050,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	188444	32 Gladstone Street	21/10/1999	04/11/1999	-	$732,500	1226m	Full transfer	-	-	-	-	-	$732,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	196803	155 Newcastle Street	20/12/1999	22/12/1999	-	$690,000	1655m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	184284	25 Yallourn Street	10/09/1999	08/10/1999	-	$607,500	2887m	Full transfer	-	-	-	-	-	$607,500	-	-	Government Record	-	-	-	Retail	-	-
+1999	172543	47 Kembla Street	22/12/1999	15/02/2000	-	$605,000	2044m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	176289	66 Barrier Street	17/11/1999	01/12/1999	-	$565,000	1706m	Full transfer	-	-	-	-	-	$565,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	172430	18 Lyell Street	15/12/1999	17/01/2000	-	$533,600	813m	Full transfer	-	-	-	-	-	$533,600	-	-	Government Record	-	-	-	Industry	-	-
+1999	179691	1 Yallourn Street	28/10/1999	21/06/1999	-	$500,000	2086m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	183962	10 Maryborough Street	30/06/1999	14/07/1999	-	$500,000	1719m	Full transfer	-	-	-	-	-	$500,000	-	-	Government Record	-	-	-	Shop	-	-
+1999	172388	10/1 Yallourn Street	17/12/1999	06/01/2000	-	$470,000	2086m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	188835	9 Albany Street	23/11/1999	02/02/2000	-	$420,000	2043m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	192768	6/43 Tennant Street	27/10/1999	17/01/2000	-	$395,000	6840m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	192769	7/43 Tennant Street	27/10/1999	17/01/2000	-	$395,000	6840m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	175954	4 Yallourn Street	07/09/1999	07/09/1999	-	$343,000	5545m	Full transfer	-	-	-	-	-	$343,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	171679	55 Collie Street	03/06/1999	20/07/1999	-	$340,000	1854m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	183352	1/8 Gladstone Street	21/01/1999	21/01/1999	-	$300,000	10124m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Retail	-	-
+1999	183979	35 Collie Street	21/06/1999	20/07/1999	-	$290,000	1858m	Full transfer	-	-	-	-	-	$290,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	180215	5 Lyell Street	22/09/1999	22/10/1999	-	$275,000	813m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	180597	1/43 Tennant Street	13/12/1999	18/01/2000	-	$250,000	6840m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	187782	38 Collie Street	26/05/1999	26/05/1999	-	$250,000	1333m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Shop	-	-
+1999	196207	29 Isa Street	30/07/1999	11/08/1999	-	$225,000	697m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	188850	12/1 Yallourn Street	15/12/1999	07/02/2000	-	$215,000	2086m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	183922	4/184 Gladstone Street	11/06/1999	02/07/1999	-	$190,000	1858m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+1999	184803	4/1 Yallourn Street	13/07/1999	07/02/2000	-	$189,000	2086m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	191474	1/57 Kembla Street	08/01/1999	10/02/1999	-	$187,500	1394m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	191475	2/57 Kembla Street	08/01/1999	10/02/1999	-	$187,500	1394m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	183442	3/57 Kembla Street	08/01/1999	10/02/1999	-	$187,500	1394m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	175355	5/1 Yallourn Street	12/10/1999	20/12/1999	-	$175,850	2086m	Full transfer	-	-	-	-	-	$175,850	-	-	Government Record	-	-	-	Industry	-	-
+1999	196038	8/145 Gladstone Street	25/06/1999	25/06/1999	-	$153,000	8450m	Full transfer	-	-	-	-	-	$153,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	179361	9/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	199721	8/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	175304	1/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	187508	11/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	195646	6/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	175305	4/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	191573	5/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	187506	3/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	187507	7/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	195647	10/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	179360	2/68 Gladstone Street	28/01/1999	11/03/1999	-	$150,000	3252m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Store	-	-
+1999	175331	1/90 Barrier Street	01/02/1999	22/03/1999	-	$150,000	20917m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+1999	171361	2/4 Geelong Street	05/03/1999	13/04/1999	-	$145,000	2076m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Retail	-	-
+1999	180897	4/59 Tennant Street	20/10/1999	24/03/2000	-	$140,000	2317m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	172230	5/59 Tennant Street	20/09/1999	30/11/1999	-	$140,000	2317m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	196234	7/105 Newcastle Street	22/07/1999	20/08/1999	-	$130,000	26102m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Retail	-	-
+1999	179137	4/34 Geelong Street	06/01/1999	15/01/1999	-	$128,654	2555m	Full transfer	-	-	-	-	-	$128,654	-	-	Government Record	-	-	-	Retail	-	-
+1999	191955	12/105 Newcastle Street	30/04/1999	30/06/1999	-	$126,000	26102m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Retail	-	-
+1999	140493	25/63 Wollongong Street	01/07/1999	26/02/2001	-	$125,000	2360m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1999	196900	1/60 Kembla Street	17/12/1999	14/01/2000	-	$125,000	2202m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	171253	9/105 Newcastle Street	05/02/1999	09/03/1999	-	$124,750	26102m	Full transfer	-	-	-	-	-	$124,750	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	196556	8/105 Newcastle Street	05/10/1999	29/10/1999	-	$120,000	26102m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+1999	11927	            2/143 Newcastle Street	19/04/1999	14/05/1999	-	$110,000	1968m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	179136	3/34 Geelong Street	06/01/1999	15/01/1999	-	$94,346	2555m	Full transfer	-	-	-	-	-	$94,346	-	-	Government Record	-	-	-	Retail	-	-
+1999	191540	4/16 Isa Street	20/01/1999	03/03/1999	-	$89,000	1998m	Full transfer	-	-	-	-	-	$89,000	-	-	Government Record	-	-	-	Industry	-	-
+1999	187427	4/18 Whyalla Street	29/01/1999	22/02/1999	-	$83,500	4485m	Full transfer	-	-	-	-	-	$83,500	-	-	Government Record	-	-	-	Retail	-	-
+1999	196022	9/18 Whyalla Street	20/05/1999	23/06/1999	-	$82,000	4485m	Full transfer	-	-	-	-	-	$82,000	-	-	Government Record	-	-	-	Retail	-	-
+1999	196101	8/53 Townsville Street	24/06/1999	13/07/1999	-	$75,000	1858m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+1999	179707	21/63 Wollongong Street	21/06/1999	23/06/1999	-	$68,000	2360m	Full transfer	-	-	-	-	-	$68,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1999	11950	            34/63 Wollongong Street	02/06/1999	09/07/1999	-	$33,000	2360m	Full transfer	-	-	-	-	-	$33,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+1999	197030	2/18 Whyalla Street	24/12/1999	15/02/2000	-	-	4485m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+1999	197715	4/34 Pirie Street	04/07/1999	18/07/2000	-	-	1637m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1999	177313	3/34 Pirie Street	04/07/1999	18/07/2000	-	-	1637m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+1999	192433	45 Wollongong Street	14/06/1999	05/11/1999	-	-	1942m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+1999	197188	15/171 Newcastle Street	12/11/1999	20/03/2000	-	-	1655m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2000	176725	32 Wollongong Street	02/02/2000	13/03/2000	-	$3,440,000	12827m	Full transfer	-	-	-	-	-	$3,440,000	-	-	Government Record	-	-	-	Office	-	-
+2000	173217	24 Pirie Street	23/06/2000	24/07/2000	-	$1,700,000	7248m	Full transfer	-	-	-	-	-	$1,700,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	140475	24 Kembla Street	01/12/2000	01/03/2001	-	$1,060,000	1491m	Full transfer	-	-	-	-	-	$1,060,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	197488	204 Gladstone Street	17/02/2000	24/05/2000	-	$1,025,000	1857m	Full transfer	-	-	-	-	-	$1,025,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	140412	21 Lyell Street	19/12/2000	20/04/2001	-	$930,000	5622m	Full transfer	-	-	-	-	-	$930,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	181473	16 Mildura Street	27/06/2000	07/08/2000	-	$810,000	21100m	Full transfer	-	-	-	-	-	$810,000	-	-	Government Record	-	-	-	Shop	-	-
+2000	189476	88 Wollongong Street	14/06/2000	29/06/2000	-	$795,000	1870m	Full transfer	-	-	-	-	-	$795,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	176810	17 Townsville Street	01/03/2000	27/03/2000	-	$745,000	1858m	Full transfer	-	-	-	-	-	$745,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	181728	153 Newcastle Street	11/07/2000	10/10/2000	-	$715,000	1655m	Full transfer	-	-	-	-	-	$715,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	181470	14 Pirie Street	20/07/2000	07/08/2000	-	$670,000	1951m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	181277	92 Maryborough Street	06/06/2000	26/06/2000	-	$620,000	1858m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	193655	44 Maryborough Street	26/07/2000	07/08/2000	-	$607,000	1672m	Full transfer	-	-	-	-	-	$607,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	197413	31 Collie Street	08/03/2000	09/05/2000	-	$550,000	1486m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	181576	32 Geelong Street	16/08/2000	08/09/2000	-	$510,000	2845m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	138167	64 Kembla Street	06/12/2000	22/03/2001	-	$492,000	1394m	Full transfer	-	-	-	-	-	$492,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	140392	5 Isa Street	01/12/2000	01/03/2001	-	$485,000	2648m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	197599	153 Newcastle Street	05/05/2000	23/06/2000	-	$480,000	1655m	Full transfer	-	-	-	-	-	$480,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	177178	4A Whyalla Street	10/04/2000	23/06/2000	-	$450,000	3019m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	189632	21 Wollongong Street	29/06/2000	04/08/2000	-	$430,000	1673m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	189525	4 Lyell Street	28/06/2000	11/07/2000	-	$400,000	3057m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	193650	22 Barrier Street	14/04/2000	04/08/2000	-	$390,000	814m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	198134	12 Pirie Street	23/08/2000	16/11/2000	-	$350,000	697m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	186022	1/1 Yallourn Street	01/11/2000	08/12/2000	-	$332,000	2086m	Full transfer	-	-	-	-	-	$332,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	140473	48 Maryborough Street	28/09/2000	11/01/2001	-	$300,000	1669m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Furniture store	-	-
+2000	180786	1/157 Gladstone Street	28/01/2000	06/03/2000	-	$297,500	8450m	Full transfer	-	-	-	-	-	$297,500	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2000	181166	111 Wollongong Street	31/03/2000	24/05/2000	-	$295,000	1654m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	12417	            1/48 Kembla Street	07/03/2000	10/04/2000	-	$260,000	1394m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	181973	3/71 Tennant Street	08/11/2000	11/12/2000	-	$250,000	2312m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	177288	17/171 Newcastle Street	02/06/2000	12/07/2000	-	$235,000	1655m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	189785	11/1 Yallourn Street	21/07/2000	14/09/2000	-	$211,000	2086m	Full transfer	-	-	-	-	-	$211,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	201483	2/184 Gladstone Street	17/03/2000	16/05/2000	-	$180,000	1858m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2000	177040	5/157 Gladstone Street	08/05/2000	22/05/2000	-	$152,500	8450m	Full transfer	-	-	-	-	-	$152,500	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2000	177342	6/145 Gladstone Street	05/04/2000	28/07/2000	-	$131,000	8450m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	213222	6/18 Whyalla Street	10/06/2000	08/05/2006	-	$130,000	4485m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	185527	12/90 Barrier Street	26/06/2000	07/08/2000	-	$125,000	20917m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2000	201038	5/105 Newcastle Street	24/01/2000	03/02/2000	-	$105,000	26102m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	202080	6/1 Yallourn Street	08/09/2000	16/10/2000	-	$105,000	2086m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Industry	-	-
+2000	177266	9/196 Gladstone Street	22/06/2000	07/07/2000	-	$95,000	1858m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	181008	3/47 Tennant Street	17/04/2000	17/04/2000	-	$95,000	2199m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	188944	13/18 Whyalla Street	04/02/2000	28/02/2000	-	$92,000	4485m	Full transfer	-	-	-	-	-	$92,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	197637	3/184 Gladstone Street	02/06/2000	03/07/2000	-	$90,900	1858m	Full transfer	-	-	-	-	-	$90,900	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2000	180746	9/49 Townsville Street	27/01/2000	23/02/2000	-	$90,000	1858m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	11711	31/8 Gladstone Street	04/09/2000	22/09/2000	-	$90,000	10124m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	11429	30/8 Gladstone Street	04/09/2000	22/09/2000	-	$90,000	10124m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Retail	-	-
+2000	13032	            6/63 Wollongong Street	17/02/2000	28/02/2000	-	$80,000	2360m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2000	11691	            3/14 Kembla Street	11/04/2000	16/06/2000	-	$79,000	2799m	Full transfer	-	-	-	-	-	$79,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	173640	3/54 Townsville Street	13/10/2000	17/11/2000	-	$70,000	1486m	Full transfer	-	-	-	-	-	$70,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2000	185613	7/80 Newcastle Street	30/06/2000	28/08/2000	-	$45,000	2209m	Full transfer	-	-	-	-	-	$45,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	177456	8/80 Newcastle Street	30/06/2000	28/08/2000	-	$45,000	2209m	Full transfer	-	-	-	-	-	$45,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	193894	14/43 Tennant Street	07/09/2000	09/10/2000	-	$36,666	6840m	Partial transfer	-	-	-	-	-	$36,666	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	201688	2/80 Newcastle Street	06/07/2000	06/07/2000	-	-	2209m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	172884	3 Geelong Street	12/05/2000	12/05/2000	-	-	12922m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office	-	-
+2000	176929	72 Gladstone Street	26/02/2000	27/04/2000	-	-	1626m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2000	193358	17 Geelong Street	26/05/2000	26/05/2000	-	-	3508m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2000	177753	2/18 Wollongong Street	30/08/2000	15/11/2000	-	-	1486m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2000	181724	19 Kembla Street	10/10/2000	10/10/2000	-	-	4088m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	197994	9 Wollongong Street	13/03/2000	10/10/2000	-	-	1804m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	181518	78 Maryborough Street	24/05/2000	23/08/2000	-	-	2967m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2000	202353	18/105 Newcastle Street	08/09/2000	22/12/2000	-	-	26102m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	201399	21 Townsville Street	26/02/2000	27/04/2000	-	-	1858m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2000	172512	60 Gladstone Street	03/02/2000	03/02/2000	-	-	2883m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2000	185963	24 Lyell Street	21/11/2000	21/11/2000	-	-	3057m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	*service trades associated ...	-	-
+2000	177461	8 Lyell Street	17/01/2000	29/08/2000	-	-	813m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2001	140663	101 Tennant Street	21/12/2001	22/04/2002	-	$4,250,000	10102m	Full transfer	-	-	-	-	-	$4,250,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140369	21 Barrier Street	05/12/2001	12/02/2002	-	$2,150,000	10032m	Full transfer	-	-	-	-	-	$2,150,000	-	-	Government Record	-	-	-	Service trades	-	-
+2001	138168	95 Wollongong Street	30/11/2001	18/04/2002	-	$850,000	2230m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140424	141 Newcastle Street	23/02/2001	25/07/2001	-	$825,000	1655m	Full transfer	-	-	-	-	-	$825,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140423	125 Newcastle Street	26/03/2001	17/07/2001	-	$800,000	2174m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140678	107 Gladstone Street	26/10/2001	22/01/2002	-	$790,000	2417m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Shop	-	-
+2001	140393	64 Barrier Street	06/06/2001	19/07/2002	-	$778,000	1674m	Full transfer	-	-	-	-	-	$778,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140463	64 Kembla Street	14/12/2001	15/01/2002	-	$620,000	1394m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140371	3/90 Barrier Street	28/06/2001	17/02/2003	-	$575,000	20917m	Full transfer	-	-	-	-	-	$575,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	140417	18 Barrier Street	29/05/2001	13/07/2001	-	$570,000	1116m	Full transfer	-	-	-	-	-	$570,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140454	61 Kembla Street	13/09/2001	26/09/2001	-	$550,000	1394m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140375	84 Barrier Street	07/03/2001	17/07/2001	-	$495,000	2003m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140361	20 Whyalla Street	05/09/2001	05/09/2001	-	$490,000	3356m	Partial transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Co-0perative society	-	-
+2001	140362	4A Whyalla Street	21/12/2001	18/01/2002	-	$477,000	3019m	Full transfer	-	-	-	-	-	$477,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140364	6 Whyalla Street	25/09/2001	25/09/2001	-	$460,000	3600m	Full transfer	-	-	-	-	-	$460,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140673	65 Tennant Street	23/03/2001	14/05/2001	-	$450,000	4772m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140365	16 Whyalla Street	14/08/2001	14/08/2001	-	$410,000	3600m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	6944	            1/63 Collie Street	10/05/2001	29/06/2001	-	$350,000	1862m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140517	2/63 Collie Street	10/05/2001	29/06/2001	-	$350,000	1862m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140376	17 Isa Street	05/12/2001	08/04/2002	-	$340,500	697m	Full transfer	-	-	-	-	-	$340,500	-	-	Government Record	-	-	-	Office	-	-
+2001	140341	3/17 Yallourn Street	10/10/2001	27/11/2001	-	$319,000	5446m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140688	87 Gladstone Street	30/06/2001	16/05/2002	-	$300,000	2120m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Office	-	-
+2001	140690	38 Collie Street	22/11/2001	14/05/2002	-	$300,000	1333m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Shop	-	-
+2001	140515	35 Collie Street	03/07/2001	26/07/2001	-	$300,000	1858m	Partial transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140397	30 Isa Street	12/06/2001	05/07/2001	-	$255,000	813m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140386	27 Isa Street	02/12/2001	05/09/2002	-	$247,500	1951m	Full transfer	-	-	-	-	-	$247,500	-	-	Government Record	-	-	-	Industry	-	-
+2001	140389	25 Isa Street	02/12/2001	05/09/2002	-	$247,500	1951m	Full transfer	-	-	-	-	-	$247,500	-	-	Government Record	-	-	-	Industry	-	-
+2001	6948	            4/96 Newcastle Street	05/12/2001	12/03/2002	-	$213,000	8283m	Full transfer	-	-	-	-	-	$213,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140684	3/43 Tennant Street	29/05/2001	04/09/2001	-	$210,000	6840m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140351	5/1 Yallourn Street	19/07/2001	15/11/2001	-	$200,000	2086m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140685	4/43 Tennant Street	29/05/2001	21/06/2001	-	$192,000	6840m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140661	3/164 Gladstone Street	31/03/2001	19/12/2001	-	$175,000	1858m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2001	140426	11/105 Newcastle Street	01/03/2001	17/05/2001	-	$160,000	26102m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140346	2/1 Yallourn Street	03/04/2001	03/07/2001	-	$149,000	2086m	Partial transfer	-	-	-	-	-	$149,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140670	13/43 Tennant Street	19/11/2001	12/12/2001	-	$147,000	6840m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	6947	            2/96 Newcastle Street	31/10/2001	19/12/2001	-	$146,000	8283m	Full transfer	-	-	-	-	-	$146,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140682	15/43 Tennant Street	09/04/2001	15/05/2001	-	$145,000	6840m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140381	1/171 Newcastle Street	13/11/2001	05/04/2003	-	$140,000	1655m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140681	14/43 Tennant Street	19/11/2001	19/12/2001	-	$135,000	6840m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140439	6/105 Newcastle Street	28/11/2001	19/12/2001	-	$132,000	26102m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140437	3/105 Newcastle Street	19/06/2001	13/07/2001	-	$126,500	26102m	Full transfer	-	-	-	-	-	$126,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	32478	1/60 Kembla Street	28/06/2001	29/03/2007	-	$125,000	2202m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140353	8/1 Yallourn Street	11/09/2001	10/10/2001	-	$118,000	2086m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140352	7/1 Yallourn Street	11/09/2001	10/10/2001	-	$118,000	2086m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140456	3/8 Gladstone Street	28/05/2001	20/06/2001	-	$115,000	10124m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Retail	-	-
+2001	140425	1/105 Newcastle Street	20/11/2001	17/12/2001	-	$110,000	26102m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140394	2/16 Isa Street	09/08/2001	18/10/2001	-	$105,000	1998m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140643	6/196 Gladstone Street	27/09/2001	28/12/2001	-	$104,500	1858m	Full transfer	-	-	-	-	-	$104,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140492	22/63 Wollongong Street	09/08/2001	20/09/2001	-	$104,500	2360m	Full transfer	-	-	-	-	-	$104,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2001	140368	5/18 Whyalla Street	05/11/2001	12/12/2001	-	$103,000	4485m	Full transfer	-	-	-	-	-	$103,000	-	-	Government Record	-	-	-	Retail	-	-
+2001	140354	9/1 Yallourn Street	04/10/2001	11/10/2001	-	$100,000	2086m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140639	2/184 Gladstone Street	27/08/2001	11/09/2001	-	$100,000	1858m	Partial transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2001	140347	3/1 Yallourn Street	03/04/2001	03/07/2001	-	$99,000	2086m	Full transfer	-	-	-	-	-	$99,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140395	3/16 Isa Street	29/06/2001	18/12/2001	-	$96,000	1998m	Full transfer	-	-	-	-	-	$96,000	-	-	Government Record	-	-	-	Industry	-	-
+2001	140367	2/18 Whyalla Street	27/09/2001	22/11/2001	-	$88,000	4485m	Full transfer	-	-	-	-	-	$88,000	-	-	Government Record	-	-	-	Retail	-	-
+2001	140372	6/90 Barrier Street	04/07/2001	13/07/2001	-	$85,000	20917m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	6941	26/8 Gladstone Street	21/06/2001	09/08/2001	-	$71,500	10124m	Full transfer	-	-	-	-	-	$71,500	-	-	Government Record	-	-	-	Retail	-	-
+2001	6942	29/8 Gladstone Street	21/05/2001	05/07/2001	-	$68,000	10124m	Full transfer	-	-	-	-	-	$68,000	-	-	Government Record	-	-	-	Retail	-	-
+2001	140350	5/1 Yallourn Street	22/02/2001	11/05/2001	-	$43,962	2086m	Partial transfer	-	-	-	-	-	$43,962	-	-	Government Record	-	-	-	Industry	-	-
+2001	140669	11/43 Tennant Street	05/09/2001	05/09/2001	-	$39,375	6840m	Partial transfer	-	-	-	-	-	$39,375	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2001	140697	19 Dalby Street	14/06/2001	14/06/2001	-	$13	7588m	Full transfer	-	-	-	-	-	$13	-	-	Government Record	-	-	-	Shop	-	-
+2001	140390	25 Isa Street	24/06/2001	14/05/2002	-	-	1951m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2001	140699	7 Lithgow Street	21/08/2001	01/11/2001	-	-	2238m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2001	6946	            2/96 Newcastle Street	22/05/2001	02/11/2001	-	-	8283m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2001	140355	20 Geelong Street	26/10/2001	26/10/2001	-	-	700m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shop	-	-
+2001	140356	2 Yallourn Street	05/05/2001	18/01/2002	-	-	14543m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2001	140359	307 Canberra Avenue	01/03/2001	01/03/2001	-	-	3462m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2001	140646	10/59 Townsville Street	31/05/2001	22/11/2002	-	-	2590m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2001	140387	27 Isa Street	24/06/2001	14/05/2002	-	-	1951m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2001	140419	8 Barrier Street	30/11/2001	21/02/2002	-	-	979m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2001	140477	10 Kembla Street	22/09/2001	13/05/2002	-	-	1394m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2002	140490	52 Newcastle Street	23/12/2002	20/02/2003	-	$10,000,000	17494m	Full transfer	-	-	-	-	-	$10,000,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140637	12 Albany Street	20/12/2002	12/05/2003	-	$3,800,000	2920m	Full transfer	-	-	-	-	-	$3,800,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140414	10 Lyell Street	22/01/2002	14/03/2002	-	$1,420,000	7740m	Full transfer	-	-	-	-	-	$1,420,000	-	-	Government Record	-	-	-	Builders supplies	-	-
+2002	213199	23 Geelong Street	27/02/2002	14/01/2004	-	$1,200,000	28863m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Retail	-	-
+2002	140422	101 Newcastle Street	01/05/2002	17/06/2002	-	$950,000	2174m	Full transfer	-	-	-	-	-	$950,000	-	-	Government Record	-	-	-	Finance,credit organisation	-	-
+2002	140512	1/18 Wollongong Street	22/04/2002	08/08/2002	-	$900,000	1486m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140514	4/18 Wollongong Street	22/04/2002	08/08/2002	-	$900,000	1486m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Shop	-	-
+2002	140513	3/18 Wollongong Street	22/04/2002	08/08/2002	-	$900,000	1486m	Full transfer	-	-	-	-	-	$900,000	-	-	Government Record	-	-	-	Personal service	-	-
+2002	140339	283 Canberra Avenue	17/04/2002	30/07/2002	-	$895,000	3949m	Full transfer	-	-	-	-	-	$895,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140640	188 Gladstone Street	14/01/2002	12/02/2002	-	$750,000	1858m	Full transfer	-	-	-	-	-	$750,000	-	-	Government Record	-	-	-	Motor cycle dealer	-	-
+2002	140363	6 Whyalla Street	07/08/2002	16/01/2003	-	$735,000	3600m	Full transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140374	82 Barrier Street	20/12/2002	05/03/2003	-	$714,546	1971m	Full transfer	-	-	-	-	-	$714,546	-	-	Government Record	-	-	-	Industry	-	-
+2002	140451	47 Kembla Street	18/07/2002	06/08/2002	-	$700,000	2044m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140453	61 Kembla Street	26/11/2002	20/12/2002	-	$690,000	1394m	Full transfer	-	-	-	-	-	$690,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140664	73 Tennant Street	24/12/2002	02/05/2003	-	$660,000	2377m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140494	49 Wollongong Street	16/05/2002	19/07/2002	-	$660,000	1942m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140474	27 Kembla Street	27/08/2002	02/12/2002	-	$650,000	2044m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140634	58 Townsville Street	27/09/2002	24/10/2002	-	$640,000	1486m	Full transfer	-	-	-	-	-	$640,000	-	-	Government Record	-	-	-	Service trades	-	-
+2002	140489	27 Collie Street	20/12/2002	11/02/2003	-	$620,000	1486m	Full transfer	-	-	-	-	-	$620,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	138169	91 Wollongong Street	12/06/2002	12/06/2002	-	$605,000	1654m	Full transfer	-	-	-	-	-	$605,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2002	140398	1/151 Newcastle Street	12/04/2002	23/05/2002	-	$560,000	2050m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140411	4/151 Newcastle Street	07/03/2002	18/04/2002	-	$560,000	2050m	Full transfer	-	-	-	-	-	$560,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140540	104 Gladstone Street	26/09/2002	26/09/2002	-	$525,000	4352m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	Shop	-	-
+2002	140539	1 Albany Street	26/09/2002	26/09/2002	-	$525,000	4378m	Full transfer	-	-	-	-	-	$525,000	-	-	Government Record	-	-	-	General industry	-	-
+2002	140496	56 Kembla Street	14/03/2002	01/11/2002	-	$520,000	2202m	Full transfer	-	-	-	-	-	$520,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140701	1/8 Wiluna Street	10/12/2002	27/01/2003	-	$510,000	3330m	Full transfer	-	-	-	-	-	$510,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140345	1/1 Yallourn Street	08/09/2002	02/12/2002	03/08/2002	$502,500	2086m	Full transfer	2	2	1	-	-	$502,500	36	-	Combined Record	-	-	-	Industry	-	-
+2002	137525	21/105 Newcastle Street	28/06/2002	12/08/2002	-	$495,000	26102m	Full transfer	-	-	-	-	-	$495,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140457	100 Maryborough Street	26/06/2002	11/11/2002	-	$490,000	3119m	Full transfer	-	-	-	-	-	$490,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	137524	18/105 Newcastle Street	05/04/2002	20/05/2002	-	$430,000	26102m	Full transfer	-	-	-	-	-	$430,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140427	16/105 Newcastle Street	24/12/2002	28/03/2003	-	$426,250	26102m	Full transfer	-	-	-	-	-	$426,250	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140428	17/105 Newcastle Street	24/12/2002	28/03/2003	-	$426,250	26102m	Full transfer	-	-	-	-	-	$426,250	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140471	62 Maryborough Street	15/03/2002	10/05/2002	-	$420,000	1858m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140343	11 Yallourn Street	05/09/2002	16/10/2002	-	$407,000	1367m	Full transfer	-	-	-	-	-	$407,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140472	48 Maryborough Street	23/08/2002	05/02/2003	-	$401,500	1669m	Full transfer	-	-	-	-	-	$401,500	-	-	Government Record	-	-	-	Furniture store	-	-
+2002	140420	8 Barrier Street	29/08/2002	28/10/2002	-	$400,000	979m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140334	16 Geelong Street	13/09/2002	28/11/2002	-	$400,000	2796m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	140333	24 Lithgow Street	25/10/2002	30/12/2002	-	$390,000	2360m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140377	15 Isa Street	15/02/2002	26/07/2002	-	$375,000	1951m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140399	2/151 Newcastle Street	20/02/2002	07/05/2002	-	$350,000	2050m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140344	3 Yallourn Street	28/02/2002	10/09/2002	-	$335,500	2142m	Full transfer	-	-	-	-	-	$335,500	-	-	Government Record	-	-	-	Industry	-	-
+2002	140384	31 Isa Street	03/10/2002	05/12/2002	-	$330,000	697m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140695	4/17 Dalby Street	03/05/2002	25/07/2002	-	$325,000	4482m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2002	140696	5/17 Dalby Street	03/05/2002	25/07/2002	-	$325,000	4482m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2002	140692	1/17 Dalby Street	03/05/2002	25/07/2002	-	$325,000	4482m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2002	140694	3/17 Dalby Street	03/05/2002	25/07/2002	-	$325,000	4482m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2002	140693	2/17 Dalby Street	03/05/2002	25/07/2002	-	$325,000	4482m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2002	6938	            2/52 Barrier Street	06/06/2002	03/07/2002	-	$312,500	1532m	Full transfer	-	-	-	-	-	$312,500	-	-	Government Record	-	-	-	Industry	-	-
+2002	140335	10 Geelong Street	30/04/2002	04/09/2003	-	$310,000	2796m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140360	7 Whyalla Street	12/06/2002	03/07/2002	-	$300,000	2959m	Partial transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140691	40 Collie Street	23/05/2002	23/05/2002	-	$293,000	5414m	Full transfer	-	-	-	-	-	$293,000	-	-	Government Record	-	-	-	General industry	-	-
+2002	140436	25/105 Newcastle Street	06/06/2002	13/08/2002	-	$285,000	26102m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	213236	10 Isa Street	27/06/2002	27/09/2005	-	$250,000	813m	Partial transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140674	2/129 Gladstone Street	01/03/2002	25/03/2002	-	$230,000	5586m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2002	140675	2/133 Gladstone Street	03/10/2002	30/04/2003	-	$205,000	4497m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2002	140635	1/74 Townsville Street	02/01/2002	14/02/2002	-	$180,000	1858m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2002	140380	4/34 Pirie Street	18/02/2002	23/05/2002	-	$175,000	1637m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140379	3/34 Pirie Street	18/02/2002	23/05/2002	-	$175,000	1637m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140448	1/8 Gladstone Street	16/07/2002	25/09/2002	-	$160,000	10124m	Partial transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Retail	-	-
+2002	6949	            2/59 Townsville Street	05/09/2002	14/10/2002	-	$150,000	2590m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2002	140672	5/43 Tennant Street	03/12/2002	06/01/2003	-	$150,000	6840m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140385	31 Isa Street	03/05/2002	28/05/2002	-	$149,500	697m	Full transfer	-	-	-	-	-	$149,500	-	-	Government Record	-	-	-	Industry	-	-
+2002	140438	4/105 Newcastle Street	03/05/2002	03/05/2002	-	$147,000	26102m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140373	8/90 Barrier Street	14/03/2002	03/05/2002	-	$145,000	20917m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	140636	4/74 Townsville Street	20/12/2002	20/02/2003	-	$138,600	1858m	Full transfer	-	-	-	-	-	$138,600	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2002	138170	3/83 Wollongong Street	18/12/2002	05/02/2003	-	$125,000	2230m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140633	2/54 Townsville Street	21/10/2002	05/12/2002	-	$122,000	1486m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2002	140665	2/51 Tennant Street	05/07/2002	06/08/2002	-	$120,000	2322m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140383	4/171 Newcastle Street	22/03/2002	03/07/2002	-	$111,000	1655m	Partial transfer	-	-	-	-	-	$111,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	140666	5/51 Tennant Street	14/10/2002	05/11/2002	-	$100,000	2322m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2002	140644	7/196 Gladstone Street	12/11/2002	10/04/2003	-	$99,000	1858m	Full transfer	-	-	-	-	-	$99,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140338	4/4 Geelong Street	13/03/2002	22/04/2002	-	$90,000	2076m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Retail	-	-
+2002	140536	6/56 Wollongong Street	24/09/2002	16/10/2002	-	$80,000	1905m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140677	7/157 Gladstone Street	15/02/2002	22/04/2002	-	$70,000	8450m	Full transfer	-	-	-	-	-	$70,000	-	-	Government Record	-	-	-	Shop	-	-
+2002	6940	22/8 Gladstone Street	10/10/2002	13/11/2002	-	$57,000	10124m	Full transfer	-	-	-	-	-	$57,000	-	-	Government Record	-	-	-	Retail	-	-
+2002	140348	4/1 Yallourn Street	05/04/2002	04/07/2002	-	$25,000	2086m	Full transfer	-	-	-	-	-	$25,000	-	-	Government Record	-	-	-	Industry	-	-
+2002	543989	191 Gladstone Street	16/09/2002	09/10/2018	-	$0	16296m	Partial transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Service trades	-	-
+2002	140538	9 Albany Street	26/04/2002	16/08/2002	-	-	2043m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140689	38 Collie Street	28/11/2002	04/06/2003	-	-	1333m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shop	-	-
+2002	6939	21/8 Gladstone Street	13/11/2002	13/11/2002	-	-	10124m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2002	140531	92 Gladstone Street	08/04/2002	08/04/2002	-	-	3460m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2002	140391	7 Isa Street	20/03/2002	18/09/2002	-	-	697m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2003	213370	80 Mildura Street	13/11/2003	20/01/2004	-	$6,450,000	5256m	Full transfer	-	-	-	-	-	$6,450,000	-	-	Government Record	-	-	-	*mnfg,processing industry a...	-	-
+2003	140645	204 Gladstone Street	08/12/2003	11/02/2003	-	$2,500,000	1857m	Full transfer	-	-	-	-	-	$2,500,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2003	213219	10 Whyalla Street	25/08/2003	29/01/2004	-	$2,000,000	3600m	Full transfer	-	-	-	-	-	$2,000,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140687	87 Gladstone Street	05/06/2003	15/09/2003	-	$1,705,000	2120m	Full transfer	-	-	-	-	-	$1,705,000	-	-	Government Record	-	-	-	Office	-	-
+2003	140532	76 Wollongong Street	29/05/2003	24/06/2003	-	$1,650,000	1870m	Full transfer	-	-	-	-	-	$1,650,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2003	140662	175 Gladstone Street	08/08/2003	10/09/2003	-	$1,600,000	3204m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	140452	51 Kembla Street	25/03/2003	03/07/2003	-	$1,590,000	4088m	Full transfer	-	-	-	-	-	$1,590,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	213352	67 Gladstone Street	01/10/2003	06/02/2004	-	$1,500,000	6774m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Camping supplies store	-	-
+2003	140516	39 Collie Street	09/07/2003	25/08/2003	-	$1,450,000	7262m	Full transfer	-	-	-	-	-	$1,450,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140332	15 Geelong Street	21/05/2003	23/06/2003	-	$1,125,000	7520m	Full transfer	-	-	-	-	-	$1,125,000	-	-	Government Record	-	-	-	Retail	-	-
+2003	140495	45 Wollongong Street	29/08/2003	22/09/2003	-	$915,000	1942m	Full transfer	-	-	-	-	-	$915,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140415	40 Barrier Street	28/08/2003	20/10/2003	-	$905,000	2551m	Full transfer	-	-	-	-	-	$905,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140638	172 Gladstone Street	07/07/2003	13/08/2003	-	$880,000	1858m	Full transfer	-	-	-	-	-	$880,000	-	-	Government Record	-	-	-	Builders supplies	-	-
+2003	213204	281 Canberra Avenue	10/03/2003	04/05/2004	-	$850,000	2174m	Full transfer	-	-	-	-	-	$850,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	213255	7 Kembla Street	17/10/2003	09/03/2004	-	$790,000	1394m	Full transfer	-	-	-	-	-	$790,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140649	37 Townsville Street	29/05/2003	18/06/2003	-	$740,000	1858m	Full transfer	-	-	-	-	-	$740,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140421	97 Newcastle Street	21/02/2003	31/03/2003	-	$700,000	2149m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140700	8 Ipswich Street	28/03/2003	18/06/2003	-	$670,000	2526m	Full transfer	-	-	-	-	-	$670,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	213267	6 Kembla Street	03/02/2003	12/07/2004	-	$616,378	1394m	Full transfer	-	-	-	-	-	$616,378	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	213266	6 Kembla Street	24/12/2003	12/07/2004	-	$609,802	1394m	Full transfer	-	-	-	-	-	$609,802	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140460	11 Kembla Street	10/07/2003	18/08/2003	-	$600,000	1394m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Travel agency	-	-
+2003	140686	103 Gladstone Street	19/11/2003	19/11/2003	-	$600,000	3753m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Plant and equipment hire es...	-	-
+2003	140388	13 Isa Street	25/07/2003	15/10/2003	-	$546,270	1951m	Full transfer	-	-	-	-	-	$546,270	-	-	Government Record	-	-	-	Industry	-	-
+2003	140358	9 Whyalla Street	13/03/2003	11/07/2003	-	$470,000	4467m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Residential	-	-
+2003	140357	5 Whyalla Street	08/09/2003	12/12/2003	-	$455,000	4763m	Full transfer	-	-	-	-	-	$455,000	-	-	Government Record	-	-	-	Residential	-	-
+2003	140679	105 Gladstone Street	19/11/2003	19/11/2003	-	$450,000	9240m	Full transfer	-	-	-	-	-	$450,000	-	-	Government Record	-	-	-	Warehouse	-	-
+2003	140400	3/151 Newcastle Street	17/10/2003	15/12/2003	-	$445,000	2050m	Full transfer	-	-	-	-	-	$445,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140418	8 Barrier Street	04/04/2003	13/08/2003	-	$440,000	979m	Full transfer	-	-	-	-	-	$440,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140340	1/15 Yallourn Street	12/06/2003	27/08/2003	-	$435,000	3104m	Full transfer	-	-	-	-	-	$435,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140698	7 Wiluna Street	07/01/2003	07/01/2003	-	$415,000	4164m	Partial transfer	-	-	-	-	-	$415,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	213334	4/41 Townsville Street	12/12/2003	02/02/2004	-	$385,000	1858m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2003	213239	12 Isa Street	26/09/2003	16/09/2005	-	$366,500	813m	Full transfer	-	-	-	-	-	$366,500	-	-	Government Record	-	-	-	Industry	-	-
+2003	140349	4/1 Yallourn Street	07/01/2003	07/01/2003	-	$360,000	2086m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140342	13 Yallourn Street	16/01/2003	07/02/2003	-	$355,000	1323m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140632	50 Townsville Street	04/04/2003	04/08/2003	-	$340,000	1765m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2003	140336	1/4 Geelong Street	05/05/2003	10/06/2003	-	$330,000	2076m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Retail	-	-
+2003	213241	20 Isa Street	19/12/2003	04/03/2004	-	$319,000	813m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	6937	            1/52 Barrier Street	22/04/2003	22/04/2003	-	$312,500	1532m	Full transfer	-	-	-	-	-	$312,500	-	-	Government Record	-	-	-	Industry	-	-
+2003	213242	24 Isa Street	14/04/2003	30/04/2004	-	$310,000	813m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140683	2/43 Tennant Street	30/05/2003	07/07/2003	-	$300,000	6840m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2003	213287	76 Newcastle Street	30/06/2003	10/03/2004	-	$300,000	2166m	Partial transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140370	2/90 Barrier Street	01/05/2003	02/06/2003	-	$297,000	20917m	Full transfer	-	-	-	-	-	$297,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	140337	2/4 Geelong Street	14/08/2003	04/09/2003	-	$297,000	2076m	Full transfer	-	-	-	-	-	$297,000	-	-	Government Record	-	-	-	Retail	-	-
+2003	140413	3 Lyell Street	02/09/2003	15/12/2003	-	$297,000	1998m	Full transfer	-	-	-	-	-	$297,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	212735	3/79 Wollongong Street	19/05/2003	07/04/2004	-	$285,000	1654m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2003	14729	            4/79 Wollongong Street	19/05/2003	07/04/2004	-	$285,000	1654m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2003	140396	22 Isa Street	14/04/2003	18/06/2003	-	$280,000	813m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140648	3/41 Townsville Street	19/11/2003	17/12/2003	-	$250,000	1858m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2003	140491	6/83 Wollongong Street	28/05/2003	17/07/2003	-	$250,000	2230m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140676	4/157 Gladstone Street	20/10/2003	01/12/2003	-	$245,000	8450m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2003	140378	3/34 Pirie Street	05/03/2003	19/06/2003	-	$240,452	1637m	Full transfer	-	-	-	-	-	$240,452	-	-	Government Record	-	-	-	Industry	-	-
+2003	140382	3/171 Newcastle Street	24/06/2003	11/08/2003	-	$240,000	1655m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	6943	            5/79 Wollongong Street	19/05/2003	24/12/2003	-	$230,000	1654m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2003	213312	1/82 Townsville Street	09/11/2003	11/01/2006	-	$225,000	2476m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140458	1/100 Maryborough Street	15/08/2003	07/11/2003	-	$220,000	3119m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140511	3/80 Newcastle Street	01/07/2003	13/11/2003	-	$215,000	2209m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	213379	2/5 Wiluna Street	05/11/2003	19/01/2004	-	$205,000	2322m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Industry	-	-
+2003	140537	7/56 Wollongong Street	19/06/2003	18/08/2003	-	$205,000	1905m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140459	3/100 Maryborough Street	05/09/2003	21/11/2003	-	$200,000	3119m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	6945	            1/96 Newcastle Street	21/02/2003	18/06/2003	-	$187,000	8283m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140440	8/105 Newcastle Street	17/01/2003	13/02/2003	-	$181,500	26102m	Full transfer	-	-	-	-	-	$181,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2003	213258	3/57 Kembla Street	13/11/2003	05/01/2004	-	$160,000	1394m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	213272	4/83 Wollongong Street	05/09/2003	07/01/2004	-	$155,000	2230m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140647	2/41 Townsville Street	13/06/2003	18/08/2003	-	$145,000	1858m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2003	140668	7/51 Tennant Street	30/04/2003	28/05/2003	-	$127,500	2322m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2003	140667	6/51 Tennant Street	30/04/2003	28/05/2003	-	$127,500	2322m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2003	213306	4/54 Townsville Street	11/12/2003	19/01/2004	-	$126,000	1486m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	213307	5/54 Townsville Street	11/12/2003	19/01/2004	-	$126,000	1486m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2003	140533	3/56 Wollongong Street	11/08/2003	26/08/2003	-	$125,000	1905m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	213297	6/56 Wollongong Street	16/12/2003	25/03/2004	-	$125,000	1905m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	213308	3/74 Townsville Street	15/08/2003	26/09/2005	-	$120,000	1858m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2003	140366	14/18 Whyalla Street	12/06/2003	08/07/2003	-	$120,000	4485m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Retail	-	-
+2003	213220	11/18 Whyalla Street	26/11/2003	23/01/2004	-	$112,000	4485m	Full transfer	-	-	-	-	-	$112,000	-	-	Government Record	-	-	-	Retail	-	-
+2003	140642	5/196 Gladstone Street	09/05/2003	04/07/2003	-	$108,350	1858m	Full transfer	-	-	-	-	-	$108,350	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140498	5/67 Collie Street	08/04/2003	08/07/2003	-	$107,000	2245m	Full transfer	-	-	-	-	-	$107,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140476	2/14 Kembla Street	16/09/2003	22/10/2003	-	$107,000	2799m	Full transfer	-	-	-	-	-	$107,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140535	5/56 Wollongong Street	04/07/2003	14/08/2003	-	$105,000	1905m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140534	4/56 Wollongong Street	19/06/2003	18/08/2003	-	$102,000	1905m	Full transfer	-	-	-	-	-	$102,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140641	3/196 Gladstone Street	26/06/2003	17/07/2003	-	$100,000	1858m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	14726	27/8 Gladstone Street	15/05/2003	15/04/2004	-	$79,000	10124m	Full transfer	-	-	-	-	-	$79,000	-	-	Government Record	-	-	-	Retail	-	-
+2003	140497	4/67 Collie Street	08/04/2003	05/08/2003	-	$53,500	2245m	Full transfer	-	-	-	-	-	$53,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	14709	19/8 Gladstone Street	20/02/2003	29/03/2004	-	$50,000	10124m	Full transfer	-	-	-	-	-	$50,000	-	-	Government Record	-	-	-	Retail	-	-
+2003	213265	17 Wollongong Street	13/01/2003	27/05/2005	-	$35,000	1673m	Full transfer	-	-	-	-	-	$35,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	167196	9 Wollongong Street	12/02/2003	13/04/2007	-	$0	1804m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	232758	68 Barrier Street	17/05/2003	19/11/2007	-	$0	1738m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Industry	-	-
+2003	213344	11/43 Tennant Street	31/10/2003	10/02/2004	-	-	6840m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2003	138166	64 Kembla Street	17/12/2003	17/12/2003	-	-	1394m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140499	76 Newcastle Street	21/11/2003	21/11/2003	-	-	2166m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2003	140416	20 Barrier Street	04/06/2003	04/06/2003	-	-	1111m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2003	213299	1/106 Gladstone Street	30/06/2003	05/05/2004	-	-	1729m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2003	212739	25/63 Wollongong Street	11/06/2003	21/06/2004	-	-	2360m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2003	140631	114 Gladstone Street	27/03/2003	27/03/2003	-	-	4700m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	General industry	-	-
+2003	213215	20 Whyalla Street	31/10/2003	02/02/2004	-	-	3356m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Co-0perative society	-	-
+2004	213376	5 Leeton Street	30/09/2004	12/01/2005	-	$4,000,000	6328m	Full transfer	-	-	-	-	-	$4,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2004	213322	13 Tennant Street	27/07/2004	04/11/2004	-	$3,877,500	8287m	Full transfer	-	-	-	-	-	$3,877,500	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	213216	47 Newcastle Street	23/03/2004	30/04/2004	-	$2,018,430	3103m	Full transfer	-	-	-	-	-	$2,018,430	-	-	Government Record	-	-	-	Shop	-	-
+2004	213348	137 Gladstone Street	26/02/2004	18/06/2004	-	$1,600,000	2044m	Full transfer	-	-	-	-	-	$1,600,000	-	-	Government Record	-	-	-	Car,truck dealers new,used ...	-	-
+2004	213268	28 Gladstone Street	06/07/2004	23/08/2004	-	$1,500,000	1942m	Full transfer	-	-	-	-	-	$1,500,000	-	-	Government Record	-	-	-	Office	-	-
+2004	213339	53 Tennant Street	27/07/2004	14/09/2004	-	$1,315,000	2314m	Full transfer	-	-	-	-	-	$1,315,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	213292	76 Gladstone Street	07/12/2004	08/07/2005	-	$1,080,000	1626m	Full transfer	-	-	-	-	-	$1,080,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	213227	1/76 Barrier Street	18/10/2004	14/02/2005	-	$1,000,000	1858m	Full transfer	-	-	-	-	-	$1,000,000	-	-	Government Record	-	-	-	Retail	-	-
+2004	213336	17 Townsville Street	23/01/2004	12/03/2004	-	$975,000	1858m	Full transfer	-	-	-	-	-	$975,000	-	-	Government Record	-	-	-	Retail	-	-
+2004	213212	4 Yallourn Street	22/04/2004	22/04/2004	-	$923,000	5545m	Full transfer	-	-	-	-	-	$923,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213217	4A Whyalla Street	13/07/2004	08/12/2004	-	$830,000	3019m	Full transfer	-	-	-	-	-	$830,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	213343	49 Tennant Street	06/05/2004	21/06/2004	-	$815,000	2196m	Full transfer	-	-	-	-	-	$815,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	213269	99 Wollongong Street	26/10/2004	04/03/2005	-	$775,500	1654m	Full transfer	-	-	-	-	-	$775,500	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2004	213238	17 Lyell Street	21/10/2004	25/11/2004	-	$765,000	813m	Full transfer	-	-	-	-	-	$765,000	-	-	Government Record	-	-	-	Personal service	-	-
+2004	213311	78 Townsville Street	29/10/2004	18/03/2005	-	$730,000	2387m	Full transfer	-	-	-	-	-	$730,000	-	-	Government Record	-	-	-	Manufacturing & processing ...	-	-
+2004	213224	3/90 Barrier Street	20/08/2004	15/09/2004	-	$700,000	20917m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	213229	17 Isa Street	26/05/2004	29/07/2004	-	$600,000	697m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Office	-	-
+2004	14720	            5/151 Newcastle Street	12/03/2004	28/04/2004	-	$600,000	2050m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213263	10 Maryborough Street	21/06/2004	05/01/2005	-	$550,000	1719m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Shop	-	-
+2004	213245	5 Lyell Street	05/11/2004	20/12/2004	-	$530,000	813m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213378	1/5 Wiluna Street	07/09/2004	11/03/2005	-	$420,000	2322m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	534323	3/1 Yallourn Street	04/08/2004	07/06/2018	-	$412,000	2086m	Full transfer	-	-	-	-	-	$412,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213231	2/171 Newcastle Street	27/02/2004	25/03/2004	-	$400,000	1655m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213228	2/76 Barrier Street	18/10/2004	14/02/2005	-	$400,000	1858m	Full transfer	-	-	-	-	-	$400,000	-	-	Government Record	-	-	-	Retail	-	-
+2004	213251	20/105 Newcastle Street	08/12/2004	02/02/2005	-	$390,000	26102m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213237	10 Isa Street	28/06/2004	27/09/2005	-	$375,000	813m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213240	14 Isa Street	28/06/2004	27/09/2005	-	$360,000	1998m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213262	4/100 Maryborough Street	22/12/2004	09/02/2005	-	$337,000	3119m	Full transfer	-	-	-	-	-	$337,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	213337	2/59 Tennant Street	01/04/2004	12/11/2004	-	$320,000	2317m	Full transfer	-	-	-	-	-	$320,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	213350	4/157 Gladstone Street	17/02/2004	05/03/2004	-	$286,000	8450m	Full transfer	-	-	-	-	-	$286,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2004	213305	1/54 Townsville Street	13/02/2004	05/03/2004	-	$265,000	1486m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Personal service	-	-
+2004	213351	7/157 Gladstone Street	19/10/2004	18/11/2004	-	$262,500	8450m	Full transfer	-	-	-	-	-	$262,500	-	-	Government Record	-	-	-	Shop	-	-
+2004	213359	8/79 Gladstone Street	24/12/2004	15/07/2005	-	$255,000	1913m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Retail	-	-
+2004	213360	1/83 Gladstone Street	07/12/2004	25/08/2005	-	$247,300	2017m	Full transfer	-	-	-	-	-	$247,300	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213261	5/8 Gladstone Street	10/09/2004	18/10/2004	-	$240,000	10124m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Retail	-	-
+2004	213361	10/83 Gladstone Street	05/10/2004	18/01/2005	-	$235,000	2017m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213369	9/83 Gladstone Street	22/12/2004	12/02/2005	-	$215,000	2017m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213368	8/83 Gladstone Street	22/12/2004	12/02/2005	-	$215,000	2017m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213338	5/59 Tennant Street	09/06/2004	12/07/2004	-	$214,500	2317m	Full transfer	-	-	-	-	-	$214,500	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	213330	8/53 Townsville Street	01/07/2004	21/07/2004	-	$198,000	1858m	Full transfer	-	-	-	-	-	$198,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2004	213340	1/51 Tennant Street	19/02/2004	08/04/2004	-	$140,000	2322m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2004	213274	8/83 Wollongong Street	13/07/2004	19/08/2004	-	$135,500	2230m	Full transfer	-	-	-	-	-	$135,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	213362	2/83 Gladstone Street	07/10/2004	25/08/2005	-	$127,000	2017m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213286	2/67 Collie Street	08/06/2004	28/09/2004	-	$125,000	2245m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	213273	7/83 Wollongong Street	05/08/2004	11/10/2004	-	$125,000	2230m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	14725	27/8 Gladstone Street	17/12/2004	12/02/2005	-	$125,000	10124m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Retail	-	-
+2004	14727	29/8 Gladstone Street	22/12/2004	25/02/2005	-	$122,500	10124m	Full transfer	-	-	-	-	-	$122,500	-	-	Government Record	-	-	-	Retail	-	-
+2004	213328	6/53 Townsville Street	22/10/2004	09/11/2004	-	$115,000	1858m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2004	213270	11/83 Wollongong Street	16/04/2004	04/05/2004	-	$112,500	2230m	Full transfer	-	-	-	-	-	$112,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	213363	3/83 Gladstone Street	07/10/2004	25/08/2005	-	$108,200	2017m	Full transfer	-	-	-	-	-	$108,200	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213367	7/83 Gladstone Street	11/11/2004	22/12/2004	-	$107,500	2017m	Full transfer	-	-	-	-	-	$107,500	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213365	5/83 Gladstone Street	29/11/2004	14/03/2005	-	$107,500	2017m	Full transfer	-	-	-	-	-	$107,500	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213366	6/83 Gladstone Street	09/11/2004	22/12/2004	-	$107,500	2017m	Full transfer	-	-	-	-	-	$107,500	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213364	4/83 Gladstone Street	29/11/2004	14/03/2005	-	$107,500	2017m	Full transfer	-	-	-	-	-	$107,500	-	-	Government Record	-	-	-	Service trades	-	-
+2004	213298	8/56 Wollongong Street	12/11/2004	09/12/2004	-	$93,500	1905m	Full transfer	-	-	-	-	-	$93,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	14739	            6/63 Wollongong Street	28/05/2004	07/07/2004	-	$90,090	2360m	Full transfer	-	-	-	-	-	$90,090	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	213252	23/105 Newcastle Street	12/08/2004	16/12/2004	-	$90,000	26102m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Industry	-	-
+2004	213325	8/59 Townsville Street	17/09/2004	12/01/2005	-	$80,000	2590m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2004	14732	            34/63 Wollongong Street	10/02/2004	10/03/2004	-	$74,500	2360m	Full transfer	-	-	-	-	-	$74,500	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	14736	            39/63 Wollongong Street	21/01/2004	03/05/2004	-	$72,000	2360m	Full transfer	-	-	-	-	-	$72,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	213210	18 Geelong Street	22/09/2004	13/12/2004	-	$1,000	1739m	Full transfer	-	-	-	-	-	$1,000	-	-	Government Record	-	-	-	Shop	-	-
+2004	243791	15/18 Whyalla Street	29/06/2004	25/05/2009	-	-	4485m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2004	20848	             Fyshwick	12/05/2004	-	16/03/2004	-	-	Full transfer	-	-	-	-	-	-	57	-	Allhomes Record	-	-	-	-	-	-
+2004	213257	1/57 Kembla Street	26/01/2004	18/05/2006	-	-	1394m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	213284	39 Wollongong Street	06/02/2004	06/02/2004	-	-	1747m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	213290	59 Collie Street	09/10/2004	12/07/2005	-	-	2973m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2004	213226	7/90 Barrier Street	02/03/2004	02/03/2004	-	-	20917m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2004	213203	3/4 Geelong Street	09/02/2004	18/08/2005	-	-	2076m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2004	14738	            40/63 Wollongong Street	13/08/2004	13/08/2004	-	-	2360m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2004	213296	5 Albany Street	16/03/2004	16/03/2004	-	-	1765m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2004	213283	39 Wollongong Street	02/02/2004	02/02/2004	-	-	1747m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	213375	337 Canberra Avenue	16/12/2005	16/12/2005	-	$39,000,000	68843m	Full transfer	-	-	-	-	-	$39,000,000	-	-	Government Record	-	-	-	Office	-	-
+2005	213304	23 Mildura Street	15/04/2005	10/06/2005	-	$10,500,000	31798m	Full transfer	-	-	-	-	-	$10,500,000	-	-	Government Record	-	-	-	Storage	-	-
+2005	213346	189 Gladstone Street	18/02/2005	08/04/2005	-	$4,530,000	10646m	Full transfer	-	-	-	-	-	$4,530,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	213291	42 Newcastle Street	16/12/2005	29/03/2006	-	$3,525,000	10252m	Full transfer	-	-	-	-	-	$3,525,000	-	-	Government Record	-	-	-	Bulky goods retail	-	-
+2005	213213	289 Canberra Avenue	07/12/2005	27/04/2006	-	$3,000,000	15427m	Partial transfer	-	-	-	-	-	$3,000,000	-	-	Government Record	-	-	-	Residential	-	-
+2005	14721	            56 Barrier Street	10/05/2005	07/07/2005	-	$2,400,000	1861m	Full transfer	-	-	-	-	-	$2,400,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213303	130 Gladstone Street	12/08/2005	26/08/2005	-	$2,150,000	3375m	Full transfer	-	-	-	-	-	$2,150,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	213264	19 Kembla Street	23/06/2005	12/07/2005	-	$1,800,000	4088m	Full transfer	-	-	-	-	-	$1,800,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	213335	21 Townsville Street	17/06/2005	14/11/2005	-	$1,700,000	1858m	Full transfer	-	-	-	-	-	$1,700,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2005	213295	88 Wollongong Street	23/12/2005	08/02/2006	-	$1,501,000	1870m	Full transfer	-	-	-	-	-	$1,501,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	213235	72 Barrier Street	13/09/2005	14/12/2005	-	$1,200,000	2239m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213293	72 Gladstone Street	10/06/2005	06/07/2005	-	$1,200,000	1626m	Full transfer	-	-	-	-	-	$1,200,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	213256	7 Kembla Street	03/11/2005	23/11/2005	-	$915,000	1394m	Full transfer	-	-	-	-	-	$915,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	14748	            46 Collie Street	03/03/2005	03/03/2005	-	$800,000	5693m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Office	-	-
+2005	14750	            52 Collie Street	02/11/2005	02/11/2005	-	$800,000	1620m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Office	-	-
+2005	213218	8 Whyalla Street	30/03/2005	22/06/2005	-	$800,000	3600m	Full transfer	-	-	-	-	-	$800,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213244	11 Lyell Street	05/06/2005	07/03/2006	-	$735,000	813m	Partial transfer	-	-	-	-	-	$735,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213201	16 Geelong Street	09/09/2005	21/10/2005	-	$700,000	2796m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	213372	64 Collie Street	01/09/2005	02/11/2005	-	$700,000	1571m	Full transfer	-	-	-	-	-	$700,000	-	-	Government Record	-	-	-	Office	-	-
+2005	213371	60 Collie Street	02/11/2005	02/11/2005	-	$660,000	1560m	Full transfer	-	-	-	-	-	$660,000	-	-	Government Record	-	-	-	Office	-	-
+2005	14747	            56 Collie Street	02/11/2005	02/11/2005	-	$650,000	1620m	Full transfer	-	-	-	-	-	$650,000	-	-	Government Record	-	-	-	Office	-	-
+2005	213209	8 Geelong Street	30/06/2005	08/08/2005	-	$600,000	1219m	Full transfer	-	-	-	-	-	$600,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	14753	            3/96 Newcastle Street	04/11/2005	02/12/2005	-	$577,500	8283m	Full transfer	-	-	-	-	-	$577,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	213232	5/171 Newcastle Street	19/05/2005	20/06/2005	-	$530,000	1655m	Full transfer	-	-	-	-	-	$530,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213349	10/145 Gladstone Street	16/12/2005	20/02/2006	-	$470,000	8450m	Full transfer	-	-	-	-	-	$470,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	213302	122 Gladstone Street	20/11/2005	09/02/2006	-	$420,000	3353m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Hire,leasing service,plant,...	-	-
+2005	14752	            1/49 Wollongong Street	07/07/2005	12/08/2005	-	$390,500	1942m	Full transfer	-	-	-	-	-	$390,500	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	213288	2/18 Wollongong Street	19/12/2005	21/02/2006	-	$385,000	1486m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213206	1/6 Geelong Street	22/07/2005	09/11/2005	-	$337,500	1219m	Full transfer	-	-	-	-	-	$337,500	-	-	Government Record	-	-	-	Industry	-	-
+2005	213207	2/6 Geelong Street	22/07/2005	09/11/2005	-	$337,500	1219m	Full transfer	-	-	-	-	-	$337,500	-	-	Government Record	-	-	-	Industry	-	-
+2005	213353	2/79 Gladstone Street	31/10/2005	06/12/2005	-	$313,000	1913m	Full transfer	-	-	-	-	-	$313,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	213354	3/79 Gladstone Street	31/10/2005	06/12/2005	-	$313,000	1913m	Full transfer	-	-	-	-	-	$313,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	213333	3/41 Townsville Street	11/02/2005	05/04/2005	-	$277,000	1858m	Full transfer	-	-	-	-	-	$277,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	213357	6/79 Gladstone Street	09/03/2005	20/04/2005	-	$270,000	1913m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	213358	7/79 Gladstone Street	09/03/2005	20/04/2005	-	$270,000	1913m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	213315	3/82 Townsville Street	05/12/2005	16/01/2006	-	$269,500	2476m	Full transfer	-	-	-	-	-	$269,500	-	-	Government Record	-	-	-	Industry	-	-
+2005	213301	1/106 Gladstone Street	10/06/2005	13/07/2005	-	$253,000	1729m	Full transfer	-	-	-	-	-	$253,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	212737	23/63 Wollongong Street	29/04/2005	22/06/2005	-	$242,000	2360m	Full transfer	-	-	-	-	-	$242,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	212738	24/63 Wollongong Street	29/04/2005	22/06/2005	-	$242,000	2360m	Full transfer	-	-	-	-	-	$242,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	213316	4/82 Townsville Street	28/07/2005	11/08/2005	-	$225,000	2476m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213314	2/82 Townsville Street	21/07/2005	24/08/2005	-	$225,000	2476m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213254	9/105 Newcastle Street	30/06/2005	12/09/2005	-	$220,000	26102m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	213250	11/105 Newcastle Street	24/08/2005	10/11/2005	-	$210,000	26102m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	213319	7/82 Townsville Street	29/06/2005	20/07/2005	-	$203,500	2476m	Full transfer	-	-	-	-	-	$203,500	-	-	Government Record	-	-	-	Industry	-	-
+2005	213223	8/18 Whyalla Street	09/03/2005	06/06/2005	-	$203,500	4485m	Full transfer	-	-	-	-	-	$203,500	-	-	Government Record	-	-	-	Retail	-	-
+2005	213230	10/171 Newcastle Street	24/10/2005	06/12/2005	-	$200,000	1655m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	14733	            35/63 Wollongong Street	21/10/2005	06/12/2005	-	$200,000	2360m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	213309	3/74 Townsville Street	22/11/2005	31/01/2006	-	$200,000	1858m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Serv & rep,mvhcle,cvan,boat...	-	-
+2005	14734	            36/63 Wollongong Street	21/10/2005	06/12/2005	-	$200,000	2360m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	213321	9/82 Townsville Street	26/05/2005	06/12/2005	-	$192,500	2476m	Full transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Industry	-	-
+2005	213329	7/53 Townsville Street	16/02/2005	08/03/2005	-	$181,500	1858m	Full transfer	-	-	-	-	-	$181,500	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2005	213320	8/82 Townsville Street	27/07/2005	10/08/2005	-	$175,900	2476m	Full transfer	-	-	-	-	-	$175,900	-	-	Government Record	-	-	-	Industry	-	-
+2005	213313	10/82 Townsville Street	29/06/2005	13/07/2005	-	$175,000	2476m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	14754	            11/82 Townsville Street	26/05/2005	13/07/2005	-	$175,000	2476m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213317	5/82 Townsville Street	26/05/2005	13/07/2005	-	$175,000	2476m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213318	6/82 Townsville Street	08/07/2005	01/09/2005	-	$175,000	2476m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213332	2/49 Townsville Street	27/04/2005	13/05/2005	-	$170,000	1858m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	213331	1/49 Townsville Street	27/04/2005	13/05/2005	-	$170,000	1858m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	213243	13 Lyell Street	05/06/2005	20/09/2005	-	$150,000	1998m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Industry	-	-
+2005	213327	9/59 Townsville Street	06/06/2005	28/10/2005	-	$145,000	2590m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2005	213324	7/59 Townsville Street	31/03/2005	15/06/2005	-	$143,000	2590m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2005	213356	5/79 Gladstone Street	23/03/2005	11/04/2005	-	$135,000	1913m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	213355	4/79 Gladstone Street	08/04/2005	24/05/2005	-	$135,000	1913m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Retail	-	-
+2005	213323	8/196 Gladstone Street	08/07/2005	01/08/2005	-	$105,000	1858m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Shand goods,antique dealer,...	-	-
+2005	212736	15/63 Wollongong Street	06/04/2005	20/05/2005	-	$105,000	2360m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	14751	            8/63 Wollongong Street	01/12/2005	09/01/2006	-	$100,000	2360m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	14710	23/8 Gladstone Street	01/06/2005	05/08/2005	-	$92,500	10124m	Full transfer	-	-	-	-	-	$92,500	-	-	Government Record	-	-	-	Retail	-	-
+2005	14724	24/8 Gladstone Street	01/06/2005	05/08/2005	-	$92,500	10124m	Full transfer	-	-	-	-	-	$92,500	-	-	Government Record	-	-	-	Retail	-	-
+2005	213326	9/59 Townsville Street	02/05/2005	17/05/2005	-	$91,000	2590m	Full transfer	-	-	-	-	-	$91,000	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2005	14737	            40/63 Wollongong Street	19/07/2005	05/08/2005	-	$88,000	2360m	Full transfer	-	-	-	-	-	$88,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	14740	            8/63 Wollongong Street	27/09/2005	02/11/2005	-	$64,000	2360m	Full transfer	-	-	-	-	-	$64,000	-	-	Government Record	-	-	-	Domestic hardware,handyman ...	-	-
+2005	213249	1/105 Newcastle Street	11/04/2005	13/05/2005	-	$35,000	26102m	Full transfer	-	-	-	-	-	$35,000	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	32584	100 Barrier Street	20/10/2005	27/03/2007	-	$0	3892m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Retail	-	-
+2005	233750	101 Tennant Street	06/07/2005	02/07/2008	-	-	10102m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	14728	32/8 Gladstone Street	06/10/2005	08/02/2006	-	-	10124m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2005	14722	15/8 Gladstone Street	12/10/2005	26/10/2005	-	-	10124m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2005	213208	3 Yallourn Street	01/12/2005	19/01/2006	-	-	2142m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
+2005	14746	            1/59 Townsville Street	21/05/2005	29/09/2005	-	-	2590m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail;pers-service,eat & d...	-	-
+2005	213341	5/51 Tennant Street	28/11/2005	05/04/2006	-	-	2322m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Office,professional suite	-	-
+2005	166990	5 Isa Street	17/12/2005	28/07/2006	-	-	2648m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Industry	-	-
