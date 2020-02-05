@@ -1,0 +1,9 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2002	19849	            14 Richter Close	18/10/2002	-	09/08/2002	$520,000	1110m	Full transfer	4	1	2	2	-	$520,000	70	-	Allhomes Record	-	-	-	-	$135,000	0.26
+2002	19019	            16/45 Stopford Crescent	03/05/2002	-	12/03/2002	$321,000	16052m	Full transfer	3	2	1	2	-	$321,000	52	-	Allhomes Record	-	-	-	-	-	-
+2002	19703	            47 Richter	22/08/2002	-	04/05/2002	-	-	Full transfer	4	2	1	2	-	-	110	-	Allhomes Record	-	-	-	-	-	-
+2003	19998	            9 Decker Place	25/02/2003	-	25/10/2002	$565,000	807m	Full transfer	4	2	1	2	-	$565,000	123	-	Allhomes Record	-	-	-	-	-	-
+2004	21062	            44 Nicklin Crescent	15/11/2004	-	08/10/2004	$505,000	766m	Full transfer	4	1	1	2	-	$505,000	38	-	Allhomes Record	-	-	-	-	-	-
+2004	20922	            20/45 Stopford Crescent	25/05/2004	-	27/05/2004	$407,500	803m	Full transfer	4	1	1	2	-	$407,500	-	-	Allhomes Record	-	-	-	-	-	-
+2004	21037	            3 Dittmer Close	11/11/2004	-	17/09/2004	-	-	Full transfer	4	1	1	2	-	-	55	-	Allhomes Record	-	-	-	-	-	-
+2005	21262	            10 Hilton Close	03/08/2005	-	11/04/2005	$492,500	746m	Full transfer	3	1	1	2	-	$492,500	114	-	Allhomes Record	-	-	-	-	$114,870	0.23
