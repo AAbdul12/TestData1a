@@ -1,0 +1,5 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1980	238049	6 Judith Wright Street	30/05/1980	11/09/2008	19/03/2008	$545,000	480m	Full transfer	4	1	1	2	-	$545,000	-	-	Combined Record	-	-	-	Single residential dwelling	$165,000	0.3
+2001	336409	71/75 Elizabeth Jolley Crescent	19/03/2001	22/08/2011	-	$335,000	9026m	Full transfer	-	-	-	-	-	$335,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2001	465143	            105/1 Knorr Street	19/08/2001	26/10/2015	-	$269,000	7984m	Full transfer	-	-	-	-	-	$269,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2002	231865	3 Charlotte Barton Street	25/09/2002	24/01/2008	-	$161,000	350m	Full transfer	-	-	-	-	-	$161,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
