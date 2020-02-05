@@ -1,0 +1,4 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2002	22628	             Red Sombrero Bar	22/07/2002	-	15/11/2001	-	0m	Full transfer	-	-	-	-	-	-	249	-	Allhomes Record	-	-	-	-	$0	-
+2003	22517	             Captain Cook Crescent	27/08/2003	-	11/07/2003	-	0m	Full transfer	1	1	-	-	-	-	47	-	Allhomes Record	-	-	-	-	$0	-
+2003	20439		23/07/2003	-	24/06/2003	-	0m	Full transfer	1	1	-	-	-	-	29	-	Allhomes Record	-	-	-	-	$0	-
