@@ -1,0 +1,14 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1992	87503	590 Majura Road	24/02/1992	24/02/1992	-	$672,000	2264406m	Full transfer	-	-	-	-	-	$672,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	87502	590 Majura Road	11/02/1992	21/02/1992	-	$659,938	2264406m	Full transfer	-	-	-	-	-	$659,938	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	186125	303 Majura Road	28/10/1997	08/01/1998	-	$310,000	511019m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+1997	87504	728 Majura Road	11/06/1997	11/06/1997	-	-	529248m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+1998	171357	2 Avonley Road	10/07/1998	13/04/1999	-	$152,000	400686m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+1999	12091	            Majura Road	27/11/1999	14/03/2000	-	$975,000	44830m	Full transfer	-	-	-	-	-	$975,000	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+1999	202076	728 Majura Road	08/11/1999	12/10/2000	-	$355,000	529248m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+1999	195926	220 Majura Road	03/03/1999	27/05/1999	-	$277,800	494677m	Full transfer	-	-	-	-	-	$277,800	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
+2003	28827	209 Majura Road	27/03/2003	-	05/06/2002	$420,000	-	Full transfer	3	2	-	-	2	$420,000	295	-	Allhomes Record	-	-	-	-	-	-
+2003	221365	209 Majura Road	26/03/2003	19/04/2004	-	$390,000	46404m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+2003	151965	585 Sutton Road	19/12/2003	19/12/2003	-	-	60653m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Dwelling	-	-
+2004	221364	209 Majura Road	13/09/2004	10/05/2005	-	$420,000	46404m	Full transfer	-	-	-	-	-	$420,000	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+2004	20798	            RMB209 Majura Road	13/09/2004	-	07/02/2004	-	0m	Full transfer	3	2	-	-	-	-	219	-	Allhomes Record	-	-	-	-	$0	-
