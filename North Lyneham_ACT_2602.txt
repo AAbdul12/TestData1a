@@ -1,0 +1,22 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2001	22094	             Fernyhough Crescent	14/08/2001	-	20/07/2001	$162,500	-	Full transfer	3	1	-	1	-	$162,500	25	-	Allhomes Record	-	-	-	-	-	-
+2001	15869	             'The Sanctuary' Ellenborough Street	26/10/2001	-	25/09/2001	$147,500	-	Full transfer	2	1	-	-	1	$147,500	31	-	Allhomes Record	-	-	-	-	-	-
+2001	15850	             Cossington Smith	03/12/2001	-	25/09/2001	$133,000	-	Full transfer	2	1	-	1	-	$133,000	69	-	Allhomes Record	-	-	-	-	-	-
+2002	19252	            2/1 Goodchild Street	02/05/2002	-	03/04/2002	$243,800	6060m	Full transfer	3	1	-	1	-	$243,800	29	-	Allhomes Record	-	-	-	-	-	-
+2002	18253	            34/10 Goodchild Street	15/04/2002	-	15/02/2002	$185,500	-	Full transfer	2	1	-	-	1	$185,500	59	-	Allhomes Record	-	-	-	-	-	-
+2002	20028	             Frater Street	22/11/2002	-	08/11/2002	-	-	Full transfer	3	-	-	-	2	-	14	-	Allhomes Record	-	-	-	-	-	-
+2003	20482	            4 Fred Williams Crescent	20/08/2003	-	17/07/2003	$540,000	-	Full transfer	4	1	1	2	-	$540,000	34	-	Allhomes Record	-	-	-	-	-	-
+2003	20165	            3/17 Fernyhough Crescent	04/03/2003	-	13/01/2003	$330,000	6104m	Full transfer	3	1	1	1	-	$330,000	50	-	Allhomes Record	-	-	-	-	-	-
+2003	20374	            36/21 Cossington Smith Crescent	04/08/2003	-	26/05/2003	$320,000	-	Full transfer	3	1	-	1	-	$320,000	70	-	Allhomes Record	-	-	-	-	-	-
+2003	20452	            48 Medworth Crescent	25/08/2003	-	30/06/2003	$285,000	-	Full transfer	2	1	1	1	-	$285,000	56	-	Allhomes Record	-	-	-	-	-	-
+2003	20335	            19/21 Cossington Smith Crescent	28/05/2003	-	28/04/2003	$284,000	-	Full transfer	3	1	-	1	-	$284,000	30	-	Allhomes Record	-	-	-	-	-	-
+2003	20143	             Goodchild Street	07/02/2003	-	19/12/2002	-	-	Full transfer	2	1	-	1	-	-	50	-	Allhomes Record	-	-	-	-	-	-
+2004	21034	            39/12 Goodchild Street	29/11/2004	-	16/09/2004	$275,000	-	Full transfer	2	1	-	1	-	$275,000	74	-	Allhomes Record	-	-	-	-	-	-
+2004	20715	            1/1 Edwell Place	13/01/2004	-	25/11/2003	$248,000	5167m	Full transfer	2	1	-	-	1	$248,000	49	-	Allhomes Record	-	-	-	-	-	-
+2004	20881	             Frater Crescent	15/07/2004	-	21/04/2004	-	594m	Full transfer	3	1	1	2	-	-	85	-	Allhomes Record	-	-	-	-	$195,000	-
+2004	21032	            23/21 Cossington-Smith Crescent	04/11/2004	-	15/09/2004	-	-	Full transfer	3	1	-	1	-	-	50	-	Allhomes Record	-	-	-	-	-	-
+2004	20709	            6/7 McClintoch Street	03/02/2004	-	24/12/2003	-	-	Full transfer	2	1	-	1	-	-	41	-	Allhomes Record	-	-	-	-	-	-
+2005	21439	            19/21 Cossington Smith Crescent	04/11/2005	-	21/10/2005	$308,000	23038m	Full transfer	3	1	-	1	-	$308,000	14	-	Allhomes Record	-	-	-	-	-	-
+2005	21125	            24/44 Medworth Crescent	13/01/2005	-	19/11/2004	$301,000	-	Full transfer	2	1	1	1	-	$301,000	55	-	Allhomes Record	-	-	-	-	-	-
+2005	21415	            21 Fernyhough Crescent	25/10/2005	-	07/09/2005	$300,000	-	Full transfer	2	2	-	1	-	$300,000	48	-	Allhomes Record	-	-	-	-	-	-
+2005	21204	            7/7 McClintock Street	07/03/2005	-	17/02/2005	$275,000	4861m	Full transfer	2	1	-	-	1	$275,000	18	-	Allhomes Record	-	-	-	-	-	-
