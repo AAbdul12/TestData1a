@@ -1,0 +1,39 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1999	2852	            13 Hendry Close	30/12/1999	-	01/06/2006	$420,000	1001m	Full transfer	-	-	-	-	-	$420,000	-	-	Allhomes Record	-	-	-	-	-	-
+2002	19793	            8 Phillis Place	15/08/2002	-	09/07/2002	$410,000	970m	Full transfer	4	1	1	2	-	$410,000	37	-	Allhomes Record	-	-	-	-	-	-
+2002	19755	            9 Donnan Place	04/10/2002	-	14/06/2002	-	-	Full transfer	5	3	-	3	-	-	112	-	Allhomes Record	-	-	-	-	-	-
+2002	19704	             Ring Metropolis For Address	08/07/2002	-	04/05/2002	-	-	Full transfer	5	2	1	3	-	-	65	-	Allhomes Record	-	-	-	-	-	-
+2002	19903	             Sue Geh Circuit	20/11/2002	-	12/09/2002	-	-	Full transfer	4	1	1	2	-	-	69	-	Allhomes Record	-	-	-	-	-	-
+2003	20405	            9 Pellew Street	22/07/2003	-	03/06/2003	$839,000	-	Full transfer	5	3	1	4	-	$839,000	49	-	Allhomes Record	-	-	-	-	-	-
+2003	20604	            2 Eve Place	17/10/2003	-	12/09/2003	$619,950	-	Full transfer	4	2	1	3	-	$619,950	35	-	Allhomes Record	-	-	-	-	-	-
+2003	20670	            10 Moriarty Street	18/12/2003	-	19/11/2003	$552,000	722m	Full transfer	4	1	1	2	-	$552,000	29	-	Allhomes Record	-	-	-	-	-	-
+2003	20392	            19 Wendy Ey Place	22/07/2003	-	29/05/2003	$549,950	-	Full transfer	4	1	1	2	1	$549,950	54	-	Allhomes Record	-	-	-	-	-	-
+2003	20046	            1/159 Dobbin Circuit	16/05/2003	-	15/11/2002	$546,800	-	Full transfer	4	1	1	2	-	$546,800	182	-	Allhomes Record	-	-	-	-	-	-
+2003	20540	            8 Moriarty Street	26/08/2003	-	09/08/2003	$495,000	-	Full transfer	4	1	1	2	-	$495,000	17	-	Allhomes Record	-	-	-	-	-	-
+2003	19935	            57 Lexcen Avenue	19/05/2003	-	19/02/2003	$489,000	1019m	Full transfer	4	2	1	2	-	$489,000	89	-	Allhomes Record	-	-	-	-	-	-
+2003	20287	            9/160 Temperley Street	25/07/2003	-	24/03/2003	$472,100	-	Full transfer	4	1	1	2	-	$472,100	123	-	Allhomes Record	-	-	-	-	-	-
+2003	20722	            24/23 Temperley Street	18/12/2003	-	27/11/2003	$467,000	12766m	Full transfer	3	1	1	2	-	$467,000	21	-	Allhomes Record	-	-	-	-	-	-
+2003	20546	            11/29 Temperley Street	14/11/2003	-	19/09/2003	$449,000	-	Full transfer	3	2	-	2	-	$449,000	56	-	Allhomes Record	-	-	-	-	-	-
+2003	20043	            5/159 Dobbin Circuit	19/05/2003	-	15/11/2002	$442,300	-	Full transfer	4	1	1	2	-	$442,300	185	-	Allhomes Record	-	-	-	-	-	-
+2003	20200	            10 Rumbelow Court	21/03/2003	-	06/02/2003	$419,000	748m	Full transfer	6	1	1	2	-	$419,000	43	-	Allhomes Record	-	-	-	-	-	-
+2003	20044	            10/159 Dobbin Circuit	14/05/2003	-	15/11/2002	$388,800	-	Full transfer	4	1	1	2	-	$388,800	180	-	Allhomes Record	-	-	-	-	-	-
+2003	20358	            23/21 Temperley Street	29/08/2003	-	09/05/2003	$340,000	-	Full transfer	3	1	1	2	-	$340,000	112	-	Allhomes Record	-	-	-	-	-	-
+2003	20151	            14-159 Dobbin Street	17/10/2003	-	30/09/2003	-	-	Full transfer	4	1	1	2	-	-	17	-	Allhomes Record	-	-	-	-	-	-
+2003	20175	            3 Fleetwood Street	14/04/2003	-	17/01/2003	-	756m	Full transfer	-	-	-	-	-	-	87	-	Allhomes Record	-	-	-	-	$135,000	-
+2003	20189	            1 Ayers Fowler Street	02/03/2003	-	05/02/2003	-	-	Full transfer	4	1	1	2	-	-	25	-	Allhomes Record	-	-	-	-	-	-
+2003	20092	             Midwinter Place	11/02/2003	-	29/11/2002	-	958m	Full transfer	-	-	-	-	-	-	74	-	Allhomes Record	-	-	-	-	-	-
+2003	20244	             Viner Place	11/06/2003	-	27/02/2003	-	-	Full transfer	-	-	-	-	-	-	104	-	Allhomes Record	-	-	-	-	-	-
+2003	20149	            5-161 Last Stage	01/07/2003	-	22/12/2002	-	850m	Full transfer	4	1	1	2	-	-	191	-	Allhomes Record	-	-	-	-	-	-
+2004	20968	            6 Stedman Place	02/07/2004	-	05/07/2004	$635,000	811m	Full transfer	4	1	1	2	-	$635,000	-	-	Allhomes Record	-	-	-	-	-	-
+2004	21008	            10 Donnan Street	22/10/2004	-	19/08/2004	$533,000	796m	Full transfer	4	1	1	2	-	$533,000	64	-	Allhomes Record	-	-	-	-	-	-
+2004	20910	            9 Ebeling Court	10/08/2004	-	20/05/2004	$485,000	787m	Full transfer	4	2	1	2	-	$485,000	82	-	Allhomes Record	-	-	-	-	-	-
+2004	20944	            14/21 Temperley Street	05/11/2004	-	04/08/2004	$408,000	14001m	Full transfer	4	1	1	2	-	$408,000	93	-	Allhomes Record	-	-	-	-	-	-
+2004	20995	            10 Rowley Place	20/09/2004	-	29/07/2004	$351,000	-	Full transfer	3	1	1	2	-	$351,000	53	-	Allhomes Record	-	-	-	-	-	-
+2004	20579	             Paisley Street	08/01/2004	-	29/08/2003	-	0m	Full transfer	3	-	1	2	-	-	132	-	Allhomes Record	-	-	-	-	$0	-
+2004	20971	            8/133 Kellaway Avenue	15/10/2004	-	07/07/2004	-	-	Full transfer	3	1	1	2	-	-	100	-	Allhomes Record	-	-	-	-	-	-
+2005	21188	            19 Oldershaw Court	05/05/2005	-	09/02/2005	$552,000	701m	Full transfer	4	1	1	2	-	$552,000	85	-	Allhomes Record	-	-	-	-	-	-
+2005	21150	            5 Cecins Place	17/03/2005	-	18/12/2004	$485,000	1312m	Full transfer	-	-	-	-	-	$485,000	89	-	Allhomes Record	-	-	-	-	-	-
+2005	21227	            24 Clemenger Street	28/04/2005	-	16/03/2005	$353,000	458m	Full transfer	3	1	1	2	-	$353,000	43	-	Allhomes Record	-	-	-	-	-	-
+2005	21481	            55 McClelland Avene	24/11/2005	-	26/10/2005	-	-	Full transfer	-	-	-	-	-	-	29	-	Allhomes Record	-	-	-	-	-	-
+2005	21405	             Make An Offer - Vendor Wants It Sold	09/11/2005	-	25/08/2005	-	700m	Full transfer	5	1	1	2	-	-	76	-	Allhomes Record	-	-	-	-	-	-
+2005	21166	            25 Square, Rumpus + Four Bedrooms Family Home	09/12/2005	-	21/01/2005	-	-	Full transfer	4	1	1	2	-	-	322	-	Allhomes Record	-	-	-	-	-	-
