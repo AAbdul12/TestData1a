@@ -1,0 +1,13 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1996	6344	             Gleneagles	25/07/1996	-	25/07/2000	$180,000	-	Full transfer	-	-	-	-	-	$180,000	-	-	Allhomes Record	-	-	-	-	-	-
+2002	19987	            1 Naismith Place	13/12/2002	-	17/10/2002	$486,500	907m	Full transfer	4	1	1	2	-	$486,500	57	-	Allhomes Record	-	-	-	-	-	-
+2002	18319	            13 James Scott  Close	22/02/2002	-	13/02/2002	-	1334m	Full transfer	4	1	1	2	-	-	9	-	Allhomes Record	-	-	-	-	$127,000	-
+2003	20269	            133 Ivo Whitton Circuit	16/04/2003	-	14/03/2003	$600,000	1012m	Full transfer	4	1	1	2	-	$600,000	33	-	Allhomes Record	-	-	-	-	-	-
+2004	20687	            87 Ivo Whitton Circuit	10/02/2004	-	07/11/2003	$642,500	1094m	Full transfer	4	1	1	4	-	$642,500	95	-	Allhomes Record	-	-	-	-	-	-
+2004	20839	            4 Cremin Close	30/06/2004	-	16/04/2004	$590,000	1197m	Full transfer	4	2	-	2	-	$590,000	75	-	Allhomes Record	-	-	-	-	-	-
+2004	20799	            116 Mount Vernon Drive	17/03/2004	-	09/02/2004	-	-	Full transfer	4	2	-	2	-	-	37	-	Allhomes Record	-	-	-	-	-	-
+2004	20824	            91 Mount Vernon Drive	16/04/2004	-	26/02/2004	-	-	Full transfer	6	1	2	2	-	-	50	-	Allhomes Record	-	-	-	-	-	-
+2004	20649	            121 Mt Vernon Circuit	15/01/2004	-	20/10/2003	-	1042m	Full transfer	5	1	2	2	3	-	87	-	Allhomes Record	-	-	-	-	-	-
+2005	21100	            67 Mt Vernon Drive	04/03/2005	-	14/01/2005	$630,000	1168m	Full transfer	4	1	1	2	-	$630,000	49	-	Allhomes Record	-	-	-	-	-	-
+2005	20993	            74 Mount Vernon Drive	31/03/2005	-	28/07/2004	-	940m	Full transfer	4	1	1	2	-	-	246	-	Allhomes Record	-	-	-	-	-	-
+2005	21260	            131 Mount Vernon Drive	08/07/2005	-	07/04/2005	-	992m	Full transfer	4	1	1	2	-	-	92	-	Allhomes Record	-	-	-	-	-	-
