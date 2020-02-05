@@ -1,0 +1,951 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1992	4973	            Glassey Place	23/01/1992	23/01/1992	-	$1,190,000	1936m	Full transfer	-	-	-	-	-	$1,190,000	-	-	Government Record	-	-	-	Service station (non-car sa...	-	-
+1992	111324	4 Hammett Place	08/09/1992	08/09/1992	-	$272,500	1775m	Full transfer	-	-	-	-	-	$272,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111294	2 McNolty Place	20/07/1992	20/07/1992	-	$258,000	1262m	Full transfer	-	-	-	-	-	$258,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111280	3 Magrath Place	17/08/1992	17/08/1992	-	$246,500	1327m	Full transfer	-	-	-	-	-	$246,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111551	8 Leavold Place	30/11/1992	30/11/1992	-	$230,000	915m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111295	4 McNolty Place	02/10/1992	02/10/1992	-	$221,000	1351m	Full transfer	-	-	-	-	-	$221,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111682	5 Colborne Place	18/08/1992	18/08/1992	-	$214,000	829m	Full transfer	-	-	-	-	-	$214,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111855	73 Somerville Street	08/05/1992	08/05/1992	-	$194,000	1019m	Full transfer	-	-	-	-	-	$194,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	110732	4 Bath Place	01/10/1992	01/10/1992	-	$191,000	927m	Full transfer	-	-	-	-	-	$191,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111669	13 Alpen Street	04/05/1992	04/05/1992	-	$190,000	1216m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111820	275 Kingsford Smith Drive	29/09/1992	29/09/1992	-	$186,000	1143m	Full transfer	-	-	-	-	-	$186,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111819	275 Kingsford Smith Drive	04/08/1992	04/08/1992	-	$182,500	1143m	Full transfer	-	-	-	-	-	$182,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111668	17 Alpen Street	08/05/1992	08/05/1992	-	$181,000	912m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111544	5 Clarey Crescent	14/04/1992	14/04/1992	-	$176,000	993m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111543	5 Clarey Crescent	11/11/1992	11/11/1992	-	$176,000	993m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111348	44 Crofts Crescent	07/10/1992	07/10/1992	-	$173,500	957m	Full transfer	-	-	-	-	-	$173,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111298	52 Magrath Crescent	06/05/1992	06/05/1992	-	$169,000	1335m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111863	251 Kingsford Smith Drive	01/10/1992	01/10/1992	-	$169,000	1190m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111846	7 Bennet Street	04/02/1992	04/02/1992	-	$166,000	954m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111713	21 Broadby Close	10/04/1992	10/04/1992	-	$162,500	829m	Full transfer	-	-	-	-	-	$162,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111570	207 Copland Drive	28/02/1992	28/02/1992	-	$162,000	1166m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111555	8 Magrath Crescent	11/08/1992	11/08/1992	-	$161,000	922m	Full transfer	-	-	-	-	-	$161,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111580	23 Garrard Street	28/02/1992	28/02/1992	-	$161,000	1297m	Full transfer	-	-	-	-	-	$161,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111525	5 Thornton Place	24/07/1992	24/07/1992	-	$159,000	941m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111304	57 Magrath Crescent	02/10/1992	02/10/1992	-	$158,680	986m	Full transfer	-	-	-	-	-	$158,680	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111346	9 Crofts Crescent	24/04/1992	24/04/1992	-	$158,000	1100m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111569	209 Copland Drive	04/03/1992	04/03/1992	-	$157,000	937m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111502	23 Healy Place	11/11/1992	11/11/1992	-	$154,000	958m	Full transfer	-	-	-	-	-	$154,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111829	20 Bennet Street	04/02/1992	04/02/1992	-	$153,500	961m	Full transfer	-	-	-	-	-	$153,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111816	171 Copland Drive	19/05/1992	19/05/1992	-	$150,000	815m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111579	27 Garrard Street	01/05/1992	01/05/1992	-	$149,950	851m	Full transfer	-	-	-	-	-	$149,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111506	211 Owen Dixon Drive	31/08/1992	31/08/1992	-	$147,000	750m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111670	2 Hinchcliffe Place	19/03/1992	19/03/1992	-	$145,000	853m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111630	25 Baddeley Crescent	02/09/1992	02/09/1992	-	$143,500	774m	Full transfer	-	-	-	-	-	$143,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111414	3 McGowen Close	04/05/1992	04/05/1992	-	$140,000	489m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	111714	19 Broadby Close	07/07/1992	07/07/1992	-	$140,000	1016m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111522	32 Clarey Crescent	22/04/1992	22/04/1992	-	$140,000	829m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111511	209 Owen Dixon Drive	10/08/1992	10/08/1992	-	$140,000	791m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111478	24 Healy Street	08/09/1992	08/09/1992	-	$139,950	884m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111520	20 Clarey Crescent	12/08/1992	12/08/1992	-	$139,200	1049m	Full transfer	-	-	-	-	-	$139,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111818	23 Bennet Street	22/06/1992	22/06/1992	-	$139,000	941m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111378	19 Somerville Street	10/04/1992	10/04/1992	-	$137,500	1267m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111578	44 Baddeley Crescent	22/06/1992	22/06/1992	-	$137,000	904m	Full transfer	-	-	-	-	-	$137,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111279	37 Somerville Street	13/03/1992	13/03/1992	-	$136,000	1036m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111512	207 Owen Dixon Drive	10/03/1992	10/03/1992	-	$135,500	875m	Full transfer	-	-	-	-	-	$135,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111716	13 Dalgleish Close	12/08/1992	12/08/1992	-	$134,950	874m	Full transfer	-	-	-	-	-	$134,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111546	2 Leavold Place	24/07/1992	24/07/1992	-	$134,500	965m	Full transfer	-	-	-	-	-	$134,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	110734	11 Hinchcliffe Place	12/11/1992	12/11/1992	-	$134,000	744m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111533	13 Boyland Close	02/07/1992	02/07/1992	-	$134,000	892m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111831	4 Bennet Street	01/07/1992	01/07/1992	-	$132,000	760m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111422	13 McGowen Close	19/03/1992	19/03/1992	-	$132,000	678m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	111827	159 Copland Drive	15/10/1992	15/10/1992	-	$130,000	834m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111747	8 Garrard Street	21/12/1992	21/12/1992	-	$130,000	774m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111391	23 Somerville Street	22/06/1992	22/06/1992	-	$130,000	968m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111826	159 Copland Drive	09/11/1992	09/11/1992	-	$130,000	834m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111589	39 Baddeley Crescent	24/09/1992	24/09/1992	-	$129,000	893m	Full transfer	-	-	-	-	-	$129,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111844	3 Bowling Place	27/10/1992	27/10/1992	-	$128,500	745m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111379	21 Somerville Street	01/04/1992	01/04/1992	-	$128,000	826m	Full transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111836	19 Bennet Street	24/04/1992	24/04/1992	-	$127,500	930m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111303	59 Magrath Crescent	15/01/1992	15/01/1992	-	$127,500	991m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111531	8 Edmunds Place	24/03/1992	24/03/1992	-	$127,500	767m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111541	28 Scattergood Place	28/01/1992	28/01/1992	-	$127,000	1286m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111501	4 Boote Place	11/12/1992	11/12/1992	-	$126,000	805m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111447	9 Healy Place	05/11/1992	05/11/1992	-	$126,000	985m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111830	151 Copland Drive	10/04/1992	10/04/1992	-	$125,000	931m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111443	11 Houghton Place	22/04/1992	22/04/1992	-	$125,000	935m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111600	6 Blumenthal Place	12/05/1992	12/05/1992	-	$124,000	655m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111427	8 Clark Close	17/12/1992	17/12/1992	-	$121,300	911m	Full transfer	-	-	-	-	-	$121,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111621	192 Kingsford Smith Drive	13/04/1992	13/04/1992	-	$120,660	1285m	Full transfer	-	-	-	-	-	$120,660	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111498	21 Healy Place	01/10/1992	01/10/1992	-	$120,000	1016m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111371	2 Horan Place	12/05/1992	12/05/1992	-	$117,500	642m	Full transfer	-	-	-	-	-	$117,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	111445	14 Clark Close	24/02/1992	24/02/1992	-	$113,000	971m	Full transfer	-	-	-	-	-	$113,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111528	3 Edmunds Place	02/10/1992	02/10/1992	-	$112,000	706m	Full transfer	-	-	-	-	-	$112,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1992	111474	6 Houghton Place	28/07/1992	28/07/1992	-	$100,000	880m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1992	111815	22 Garrard Street	20/08/1992	20/08/1992	-	$72,500	993m	Full transfer	-	-	-	-	-	$72,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	110735	27 Alpen Street	09/04/1992	09/04/1992	-	$17,000	837m	Full transfer	-	-	-	-	-	$17,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111700	6 Dalgleish Close	08/07/1992	08/07/1992	-	-	749m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111423	13 McGowen Close	28/02/1992	28/02/1992	-	-	678m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	111678	27 Alpen Street	10/04/1992	10/04/1992	-	-	837m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111856	73 Somerville Street	11/03/1992	11/03/1992	-	-	1019m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111854	10 Moroney Street	06/10/1992	06/10/1992	-	-	1337m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111413	6 McGowen Close	17/03/1992	17/03/1992	-	-	783m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	111592	33 Baddeley Crescent	19/05/1992	19/05/1992	-	-	874m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111858	1 Moroney Street	23/06/1992	23/06/1992	-	-	1194m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111418	10 Lane Place	29/04/1992	29/04/1992	-	-	673m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1992	111857	7 Moroney Street	04/08/1992	04/08/1992	-	-	1544m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111852	59 Alpen Street	18/03/1992	18/03/1992	-	-	1019m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111616	214 Kingsford Smith Drive	11/02/1992	11/02/1992	-	-	1154m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111828	153 Copland Drive	17/03/1992	17/03/1992	-	-	941m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1992	111647	1 Wallis Place	13/01/1992	13/01/1992	-	-	879m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111329	80 Magrath Crescent	13/04/1993	13/04/1993	-	$255,000	1084m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111554	6 Douglass Place	27/08/1993	27/08/1993	-	$245,000	1147m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111325	6 Hammett Place	02/03/1993	02/03/1993	-	$192,000	1490m	Full transfer	-	-	-	-	-	$192,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	110733	15 Hinchcliffe Place	13/05/1993	13/05/1993	-	$190,000	891m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111306	43 Magrath Crescent	01/02/1993	01/02/1993	-	$189,000	985m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111693	31 Broadby Close	17/05/1993	17/05/1993	-	$181,000	869m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111864	31 Magrath Crescent	30/11/1993	30/11/1993	-	$179,500	1219m	Full transfer	-	-	-	-	-	$179,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111750	18 Garrard Street	30/11/1993	30/11/1993	-	$176,500	1042m	Full transfer	-	-	-	-	-	$176,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111494	44 Boote Street	11/01/1993	11/01/1993	-	$174,000	921m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111823	7 Magrath Crescent	08/07/1993	08/07/1993	-	$168,500	1061m	Full transfer	-	-	-	-	-	$168,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111353	50 Crofts Crescent	25/02/1993	25/02/1993	-	$167,500	889m	Full transfer	-	-	-	-	-	$167,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111691	37 Alpen Street	01/11/1993	01/11/1993	-	$163,250	784m	Full transfer	-	-	-	-	-	$163,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111394	29 Somerville Street	16/04/1993	16/04/1993	-	$159,675	1313m	Full transfer	-	-	-	-	-	$159,675	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111398	18 McGowen Close	17/08/1993	17/08/1993	-	$159,000	392m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	111481	44 Clarey Crescent	21/04/1993	21/04/1993	-	$158,000	845m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111540	20 Scattergood Place	01/04/1993	01/04/1993	-	$158,000	900m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111661	8 Garland Place	03/09/1993	03/09/1993	-	$157,000	864m	Full transfer	-	-	-	-	-	$157,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111523	57 Healy Street	19/05/1993	19/05/1993	-	$151,000	965m	Full transfer	-	-	-	-	-	$151,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111839	6 Bowling Place	12/07/1993	12/07/1993	-	$145,500	835m	Full transfer	-	-	-	-	-	$145,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111392	25 Somerville Street	22/06/1993	22/06/1993	-	$145,000	1004m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111813	20 Garrard Street	15/12/1993	15/12/1993	-	$145,000	980m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111566	227 Copland Drive	12/03/1993	12/03/1993	-	$143,750	828m	Full transfer	-	-	-	-	-	$143,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111683	3 Colborne Place	19/01/1993	19/01/1993	-	$143,000	804m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111608	206 Kingsford Smith Drive	11/05/1993	11/05/1993	-	$142,500	770m	Full transfer	-	-	-	-	-	$142,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111491	47 Healy Street	11/05/1993	11/05/1993	-	$141,500	1004m	Full transfer	-	-	-	-	-	$141,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111609	200 Kingsford Smith Drive	02/04/1993	02/04/1993	-	$139,950	1079m	Full transfer	-	-	-	-	-	$139,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111696	3 Broadby Close	11/08/1993	11/08/1993	-	$137,000	835m	Full transfer	-	-	-	-	-	$137,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111310	223 Kingsford Smith Drive	14/05/1993	14/05/1993	-	$134,500	982m	Full transfer	-	-	-	-	-	$134,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111666	8 Colborne Place	13/09/1993	13/09/1993	-	$133,000	1050m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111842	8 MacDonald Place	30/08/1993	30/08/1993	-	$130,500	803m	Full transfer	-	-	-	-	-	$130,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111426	9 Clark Close	12/05/1993	12/05/1993	-	$130,000	1002m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111536	1 Boyland Close	22/09/1993	22/09/1993	-	$130,000	832m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111510	3 Boote Street	16/04/1993	16/04/1993	-	$130,000	929m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111545	35 Douglass Street	13/09/1993	13/09/1993	-	$130,000	760m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111825	161 Copland Drive	22/03/1993	22/03/1993	-	$129,950	837m	Full transfer	-	-	-	-	-	$129,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111715	31 Dalgleish Close	07/04/1993	07/04/1993	-	$128,500	823m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111497	30 Boote Street	16/03/1993	16/03/1993	-	$128,500	871m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111529	9 Edmunds Place	09/06/1993	09/06/1993	-	$128,000	706m	Full transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111419	8 Lane Place	29/03/1993	29/03/1993	-	$127,500	547m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	111429	3 Houghton Place	16/12/1993	16/12/1993	-	$126,250	841m	Full transfer	-	-	-	-	-	$126,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111537	52 Baddeley Crescent	04/11/1993	04/11/1993	-	$126,000	875m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111374	9 Horan Place	19/08/1993	19/08/1993	-	$125,300	705m	Full transfer	-	-	-	-	-	$125,300	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	111472	1 Healy Street	04/01/1993	04/01/1993	-	$125,000	841m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111591	37 Baddeley Crescent	30/09/1993	30/09/1993	-	$124,500	886m	Full transfer	-	-	-	-	-	$124,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111482	4 Healy Street	19/01/1993	19/01/1993	-	$123,000	817m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111663	9 Baddeley Crescent	20/07/1993	20/07/1993	-	$123,000	848m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111415	12 Lane Place	22/09/1993	22/09/1993	-	$120,000	438m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	111645	8 Somerville Street	15/07/1993	15/07/1993	-	$117,000	946m	Full transfer	-	-	-	-	-	$117,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111442	9 Houghton Place	15/12/1993	15/12/1993	-	$115,000	912m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111832	16 Bennet Street	31/08/1993	31/08/1993	-	$110,000	800m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111450	49 Healy Street	09/06/1993	09/06/1993	-	$80,000	953m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111514	203 Owen Dixon Drive	05/03/1993	05/03/1993	-	$75,000	983m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111534	9 Boyland Close	28/07/1993	28/07/1993	-	$25,300	960m	Full transfer	-	-	-	-	-	$25,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	226631	6 Hinchcliffe Place	08/10/1993	26/04/2005	-	-	791m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111575	9 Garrard Street	21/04/1993	21/04/1993	-	-	788m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111865	31 Magrath Crescent	31/12/1993	31/12/1993	-	-	1219m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111664	9 Baddeley Crescent	29/06/1993	29/06/1993	-	-	848m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111596	67 Baddeley Crescent	26/05/1993	26/05/1993	-	-	886m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111622	20 Standbridge Place	18/01/1993	18/01/1993	-	-	875m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111400	10 McGowen Close	09/12/1993	09/12/1993	-	-	421m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1993	111448	7 Healy Place	06/01/1993	06/01/1993	-	-	1105m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1993	111291	38 Magrath Crescent	21/04/1993	21/04/1993	-	-	1216m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111321	12 Hammett Place	07/12/1994	07/02/1995	-	$234,000	1546m	Full transfer	-	-	-	-	-	$234,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111354	4 Crofts Crescent	04/08/1994	04/08/1994	-	$200,000	925m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111698	1 Broadby Close	14/12/1994	16/01/1995	-	$197,000	877m	Full transfer	-	-	-	-	-	$197,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111347	11 Crofts Crescent	22/07/1994	13/09/1994	-	$194,500	1060m	Full transfer	-	-	-	-	-	$194,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111859	34 Magrath Crescent	07/09/1994	27/09/1994	-	$192,500	1229m	Full transfer	-	-	-	-	-	$192,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111665	4 Colborne Place	06/06/1994	06/06/1994	-	$184,500	870m	Full transfer	-	-	-	-	-	$184,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111560	8 Don Place	03/02/1994	03/02/1994	-	$177,000	873m	Full transfer	-	-	-	-	-	$177,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111356	12 Dodd Place	25/11/1994	20/12/1994	-	$176,000	993m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111308	231 Kingsford Smith Drive	24/06/1994	24/06/1994	-	$171,500	947m	Full transfer	-	-	-	-	-	$171,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111393	29 Somerville Street	14/06/1994	14/06/1994	-	$171,000	1313m	Full transfer	-	-	-	-	-	$171,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111853	8 Moroney Street	07/07/1994	07/07/1994	-	$170,000	1280m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111607	9 Standbridge Place	20/05/1994	20/05/1994	-	$168,000	742m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111845	9 Bennet Street	02/05/1994	02/05/1994	-	$168,000	944m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111516	13 Thornton Place	01/07/1994	12/09/1994	-	$158,000	1130m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111563	161 Owen Dixon Drive	03/05/1994	03/05/1994	-	$150,000	766m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111627	7 Hancock Street	07/02/1994	07/02/1994	-	$149,500	869m	Full transfer	-	-	-	-	-	$149,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111527	1 Edmunds Place	22/07/1994	08/09/1994	-	$149,500	1015m	Full transfer	-	-	-	-	-	$149,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111824	32 Bennet Street	04/11/1994	06/12/1994	-	$148,000	827m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111547	2 Leavold Place	31/08/1994	24/11/1994	-	$146,750	965m	Full transfer	-	-	-	-	-	$146,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111692	4 Baddeley Crescent	15/06/1994	15/06/1994	-	$144,500	758m	Full transfer	-	-	-	-	-	$144,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111542	25 Clarey Crescent	02/11/1994	13/12/1994	-	$144,000	1159m	Full transfer	-	-	-	-	-	$144,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111484	50 Clarey Crescent	14/06/1994	14/06/1994	-	$143,000	935m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111679	25 Alpen Street	21/12/1994	16/01/1995	-	$140,000	817m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111643	18 Somerville Street	21/02/1994	21/02/1994	-	$139,000	1071m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111623	20 Standbridge Place	23/03/1994	23/03/1994	-	$139,000	875m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111507	17 Boote Street	30/09/1994	24/10/1994	-	$138,750	1098m	Full transfer	-	-	-	-	-	$138,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111742	13 Dalgleish Close	19/09/1994	24/10/1994	-	$138,000	874m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111334	6 Crofts Place	08/07/1994	08/07/1994	-	$137,500	1074m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111477	22 Healy Street	16/09/1994	04/10/1994	-	$136,500	844m	Full transfer	-	-	-	-	-	$136,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111749	16 Garrard Street	29/03/1994	29/03/1994	-	$135,250	820m	Full transfer	-	-	-	-	-	$135,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111332	13 Trenwith Close	30/12/1994	31/01/1995	-	$135,000	826m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111748	16 Garrard Street	01/09/1994	01/09/1994	-	$135,000	820m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111587	43 Baddeley Crescent	15/06/1994	15/06/1994	-	$135,000	858m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111412	6 McGowen Close	04/05/1994	04/05/1994	-	$133,000	783m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1994	111508	13 Boote Street	24/08/1994	24/08/1994	-	$132,000	935m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111593	1 Blumenthal Place	16/02/1994	16/02/1994	-	$131,500	1019m	Full transfer	-	-	-	-	-	$131,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111515	197 Owen Dixon Drive	26/08/1994	05/10/1994	-	$130,000	1009m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111278	33 Somerville Street	26/10/1994	19/12/1994	-	$130,000	1561m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111597	63 Baddeley Crescent	29/11/1994	20/12/1994	-	$127,500	1085m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111441	13 Clark Close	14/04/1994	14/04/1994	-	$125,000	1272m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111496	37 Healy Street	29/06/1994	29/06/1994	-	$125,000	882m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111399	16 McGowen Close	17/08/1994	26/09/1994	-	$125,000	559m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1994	111814	4 Bennet Place	02/12/1994	23/12/1994	-	$125,000	801m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111605	22 Blumenthal Place	26/05/1994	26/05/1994	-	$125,000	860m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111476	15 Healy Place	04/02/1994	04/02/1994	-	$123,500	1147m	Full transfer	-	-	-	-	-	$123,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111601	8 Blumenthal Place	09/03/1994	09/03/1994	-	$123,000	776m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111532	8 Edmunds Place	26/07/1994	26/07/1994	-	$122,000	767m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111509	7 Boote Street	11/11/1994	29/11/1994	-	$119,000	821m	Full transfer	-	-	-	-	-	$119,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111602	14 Blumenthal Place	08/12/1994	19/12/1994	-	$105,000	810m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111307	245 Kingsford Smith Drive	03/08/1994	03/08/1994	-	$50,000	1520m	Full transfer	-	-	-	-	-	$50,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111557	11 Douglass Place	01/09/1994	01/09/1994	-	$43,750	1016m	Full transfer	-	-	-	-	-	$43,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111684	31 Alpen Street	09/06/1994	09/06/1994	-	$1	876m	Full transfer	-	-	-	-	-	$1	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111711	25 Broadby Close	24/02/1994	24/02/1994	-	-	877m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111618	10 Wallis Place	15/01/1994	01/11/1996	-	-	1034m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111649	17 Baddeley Crescent	05/10/1994	30/03/1995	-	-	748m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111604	16 Blumenthal Place	24/11/1994	30/11/1994	-	-	837m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111576	7 Garrard Street	30/09/1994	30/09/1994	-	-	1195m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111746	34 Baddeley Crescent	04/08/1994	04/08/1994	-	-	814m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111697	1 Broadby Close	27/09/1994	16/12/1994	-	-	877m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111416	10 Lane Place	18/08/1994	18/08/1994	-	-	673m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1994	111581	24 Hancock Street	30/12/1994	30/12/1994	-	-	1014m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111841	4 MacDonald Place	14/06/1994	14/06/1994	-	-	787m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111817	23 Bennet Street	08/11/1994	08/11/1994	-	-	941m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111572	11 Garrard Street	16/02/1994	16/02/1994	-	-	1108m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1994	111641	6 Wallis Place	20/09/1994	03/01/1995	-	-	824m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111327	14 Trenwith Close	25/05/1995	13/06/1995	-	$252,000	1232m	Full transfer	-	-	-	-	-	$252,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111821	17 Magrath Crescent	06/01/1995	17/02/1995	-	$204,500	982m	Full transfer	-	-	-	-	-	$204,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111425	2 Glassey Place	07/03/1995	04/04/1995	-	$200,000	236m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Health centre or clinic	-	-
+1995	111292	2 Jordon Place	22/02/1995	24/02/1995	-	$188,000	1400m	Full transfer	-	-	-	-	-	$188,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111299	56 Magrath Crescent	27/03/1995	21/04/1995	-	$187,000	1400m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111355	4 Dodd Place	24/03/1995	07/04/1995	-	$174,000	847m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111538	14 Edmunds Place	09/06/1995	28/06/1995	-	$173,000	985m	Full transfer	-	-	-	-	-	$173,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111359	10 Crofts Crescent	03/10/1995	23/11/1995	-	$172,000	875m	Full transfer	-	-	-	-	-	$172,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111333	15 Trenwith Close	18/05/1995	30/06/1995	-	$172,000	839m	Full transfer	-	-	-	-	-	$172,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111553	2 Douglass Place	28/09/1995	02/11/1995	-	$170,000	1286m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111712	21 Broadby Close	23/11/1995	09/01/1996	-	$169,000	829m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111449	51 Healy Street	16/06/1995	21/07/1995	-	$163,000	991m	Full transfer	-	-	-	-	-	$163,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111305	49 Magrath Crescent	18/01/1995	03/04/1995	-	$162,800	1066m	Full transfer	-	-	-	-	-	$162,800	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111646	32 Somerville Street	30/08/1995	13/09/1995	-	$160,000	1048m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111293	5 Jordon Place	07/04/1995	03/05/1995	-	$157,500	1235m	Full transfer	-	-	-	-	-	$157,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111861	37 Magrath Crescent	22/12/1995	16/01/1996	-	$156,500	1173m	Full transfer	-	-	-	-	-	$156,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111301	221 Kingsford Smith Drive	22/09/1995	15/12/1995	-	$156,000	1058m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111699	29 Broadby Close	06/01/1995	07/03/1995	-	$155,000	961m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111421	11 McGowen Close	05/06/1995	24/11/1995	-	$150,000	379m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1995	111331	11 Trenwith Close	10/01/1995	31/01/1995	-	$150,000	790m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111667	1 Alpen Street	14/03/1995	30/03/1995	-	$147,500	878m	Full transfer	-	-	-	-	-	$147,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111848	15 MacDonald Place	02/06/1995	09/06/1995	-	$147,000	828m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111568	3 Don Place	20/12/1995	23/01/1997	-	$146,950	869m	Full transfer	-	-	-	-	-	$146,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111662	5 Garland Place	10/03/1995	26/04/1995	-	$146,000	835m	Full transfer	-	-	-	-	-	$146,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111850	13 MacDonald Place	03/03/1995	17/03/1995	-	$145,000	950m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111521	11 Thornton Place	03/04/1995	05/05/1995	-	$143,000	967m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111358	3 Dodd Place	23/09/1995	24/10/1995	-	$141,000	1101m	Full transfer	-	-	-	-	-	$141,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111345	9 Crofts Crescent	17/08/1995	22/08/1995	-	$140,000	1100m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111517	12 Clarey Crescent	08/08/1995	01/09/1995	-	$138,000	989m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111499	16 Boote Place	22/09/1995	13/10/1995	-	$135,000	934m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111336	4 Crofts Place	01/05/1995	24/05/1995	-	$133,500	1166m	Full transfer	-	-	-	-	-	$133,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111411	8 McGowen Close	20/09/1995	04/10/1995	-	$133,000	488m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1995	111835	2 Bennet Street	20/10/1995	11/12/1995	-	$133,000	1022m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111302	59 Magrath Crescent	03/10/1995	12/01/1996	-	$130,000	991m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111420	9 McGowen Close	29/06/1995	24/07/1995	-	$128,500	601m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1995	111744	9 Dalgleish Close	03/11/1995	28/03/1996	-	$128,000	832m	Full transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111573	11 Garrard Street	07/08/1995	31/08/1995	-	$127,000	1108m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111489	194 Kingsford Smith Drive	11/05/1995	19/05/1995	-	$126,000	906m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111745	29 Dalgleish Close	22/02/1995	27/03/1995	-	$123,000	720m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111586	22 Hancock Street	13/12/1995	22/12/1995	-	$123,000	1085m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111424	22 McGowen Close	11/09/1995	21/09/1995	-	$121,500	615m	Full transfer	-	-	-	-	-	$121,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1995	111644	16 Somerville Street	04/04/1995	12/04/1995	-	$121,000	1129m	Full transfer	-	-	-	-	-	$121,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111519	20 Clarey Crescent	05/07/1995	04/09/1995	-	$120,500	1049m	Full transfer	-	-	-	-	-	$120,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111486	6 Healy Street	10/08/1995	30/10/1995	-	$120,000	930m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111648	1 Wallis Place	24/02/1995	13/03/1995	-	$118,000	879m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111574	9 Garrard Street	31/03/1995	02/05/1995	-	$118,000	788m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111582	4 Hancock Street	24/03/1995	27/04/1995	-	$116,000	714m	Full transfer	-	-	-	-	-	$116,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111617	208 Kingsford Smith Drive	22/03/1995	27/03/1995	-	$112,000	1002m	Full transfer	-	-	-	-	-	$112,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111500	6 Boote Place	11/01/1995	05/04/1995	-	$110,000	812m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111571	27 Boyland Close	26/05/1995	30/06/1995	-	$106,000	948m	Full transfer	-	-	-	-	-	$106,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111588	39 Baddeley Crescent	30/01/1995	20/02/1995	-	$104,000	893m	Full transfer	-	-	-	-	-	$104,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111446	13 Healy Place	22/02/1995	23/03/1995	-	$92,000	837m	Full transfer	-	-	-	-	-	$92,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111330	25 Trenwith Close	04/04/1995	04/04/1995	-	$86,000	1075m	Full transfer	-	-	-	-	-	$86,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	37109	5 Don Place	01/09/1995	18/07/2007	-	$0	857m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111444	15 Houghton Place	06/10/1995	23/10/1995	-	-	1294m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	226602	4 Katz Place	03/03/1995	28/04/2005	-	-	867m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111559	2 Don Place	24/04/1995	24/04/1995	-	-	923m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111866	25 Magrath Crescent	18/12/1995	21/12/1995	-	-	1001m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111357	3 Dodd Place	18/09/1995	18/09/1995	-	-	1101m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111595	71 Baddeley Crescent	11/12/1995	11/12/1995	-	-	880m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111629	5 Hancock Street	11/08/1995	18/09/1995	-	-	790m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111562	8 Don Place	04/05/1995	04/05/1995	-	-	873m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1995	111549	4 Leavold Place	23/11/1995	23/11/1995	-	-	1469m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111322	64 Magrath Crescent	16/04/1996	02/05/1996	-	$245,000	1376m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111300	2 Schey Place	12/07/1996	04/03/1997	-	$230,000	1473m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111552	7 Katz Place	02/02/1996	22/03/1996	-	$207,000	1084m	Full transfer	-	-	-	-	-	$207,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111526	3 Thornton Place	16/02/1996	17/04/1996	-	$177,000	955m	Full transfer	-	-	-	-	-	$177,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111558	225 Copland Drive	20/02/1996	08/03/1996	-	$155,000	909m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111860	4 Magrath Place	26/06/1996	16/08/1996	-	$152,000	1338m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111606	17 Standbridge Place	06/02/1996	06/03/1996	-	$147,000	841m	Full transfer	-	-	-	-	-	$147,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111834	141 Copland Drive	07/06/1996	08/07/1996	-	$145,000	836m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111335	6 Crofts Place	25/05/1996	11/06/1996	-	$142,000	1074m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111694	13 Broadby Close	09/01/1996	15/01/1996	-	$142,000	915m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111812	20 Garrard Street	04/10/1996	06/11/1996	-	$134,000	980m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111480	42 Clarey Crescent	26/06/1996	17/07/1996	-	$133,950	979m	Full transfer	-	-	-	-	-	$133,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111833	149 Copland Drive	26/02/1996	05/07/1996	-	$130,000	827m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111493	38 Boote Street	13/12/1996	29/01/1997	-	$127,000	883m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111490	192 Kingsford Smith Drive	20/08/1996	05/09/1996	-	$124,000	1285m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111430	5 Houghton Place	13/05/1996	28/06/1996	-	$122,950	841m	Full transfer	-	-	-	-	-	$122,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111380	21 Somerville Street	04/03/1996	03/04/1996	-	$121,500	826m	Full transfer	-	-	-	-	-	$121,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111505	189 Owen Dixon Drive	03/05/1996	31/05/1996	-	$120,500	985m	Full transfer	-	-	-	-	-	$120,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111599	21 Standbridge Place	28/06/1996	24/07/1996	-	$120,000	823m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111495	46 Boote Street	19/07/1996	12/08/1996	-	$115,000	1044m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111594	9 Blumenthal Place	10/01/1996	02/02/1996	-	$112,500	754m	Full transfer	-	-	-	-	-	$112,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111619	10 Wallis Place	01/11/1996	14/11/1996	-	$110,000	1034m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111837	16 Bowling Place	15/09/1996	11/10/1996	-	$109,000	798m	Full transfer	-	-	-	-	-	$109,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111535	1 Boyland Close	16/09/1996	01/10/1996	-	$106,500	832m	Full transfer	-	-	-	-	-	$106,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111485	52 Clarey Crescent	16/12/1996	10/02/1997	-	$104,000	919m	Full transfer	-	-	-	-	-	$104,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111603	16 Blumenthal Place	01/03/1996	22/03/1996	-	$104,000	837m	Full transfer	-	-	-	-	-	$104,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111610	198 Kingsford Smith Drive	19/04/1996	13/06/1996	-	$99,000	1161m	Full transfer	-	-	-	-	-	$99,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111428	2 Clark Close	12/07/1996	13/08/1996	-	$98,000	827m	Full transfer	-	-	-	-	-	$98,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111530	15 Edmunds Place	01/04/1996	14/06/1996	-	$97,000	1063m	Full transfer	-	-	-	-	-	$97,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111417	10 Lane Place	07/08/1996	20/08/1996	-	$95,000	673m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1996	111585	47 Baddeley Crescent	08/11/1996	05/12/1996	-	$94,000	775m	Full transfer	-	-	-	-	-	$94,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111396	7 Toomey Place	11/07/1996	09/08/1996	-	$93,000	645m	Full transfer	-	-	-	-	-	$93,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1996	111377	32 Crofts Crescent	09/12/1996	17/12/1996	-	$85,000	547m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1996	111397	10 Toomey Place	04/12/1996	03/02/1997	-	$77,000	502m	Full transfer	-	-	-	-	-	$77,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1996	111395	3 Toomey Place	13/09/1996	22/11/1996	-	$76,000	517m	Full transfer	-	-	-	-	-	$76,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1996	111650	6 Garland Place	30/07/1996	04/11/1996	-	$75,000	905m	Partial transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111685	27 Alpen Street	01/02/1996	01/02/1996	-	$75,000	837m	Partial transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111375	7 Horan Place	29/11/1996	24/12/1996	-	$71,000	534m	Full transfer	-	-	-	-	-	$71,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1996	111372	4 Horan Place	04/09/1996	03/10/1996	-	$71,000	312m	Full transfer	-	-	-	-	-	$71,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1996	111584	14 Hancock Street	03/06/1996	17/06/1996	-	$19,500	904m	Full transfer	-	-	-	-	-	$19,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111695	11 Broadby Close	23/09/1996	22/11/1996	-	-	986m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111843	14 MacDonald Place	30/05/1996	30/05/1996	-	-	993m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111550	8 Leavold Place	19/09/1996	22/10/1996	-	-	915m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111822	13 Magrath Crescent	19/04/1996	19/04/1996	-	-	1018m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111539	14 Scattergood Place	17/01/1996	17/01/1996	-	-	1041m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111681	8 Hinchcliffe Place	26/03/1996	03/04/1996	-	-	740m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1996	111352	48 Crofts Crescent	14/06/1996	02/07/1996	-	-	929m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111323	66 Magrath Crescent	06/08/1997	16/09/1997	-	$230,000	1251m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	182099	247 Kingsford Smith Drive	19/12/1997	19/01/1998	-	$217,500	1307m	Full transfer	-	-	-	-	-	$217,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	190369	17 Trenwith Close	24/11/1997	03/03/1998	-	$189,000	1012m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111524	7 Thornton Place	18/09/1997	07/10/1997	-	$175,000	1008m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	173787	10 Dodd Place	21/11/1997	08/01/1998	-	$173,000	1003m	Full transfer	-	-	-	-	-	$173,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111326	6 Trenwith Close	03/03/1997	07/04/1997	-	$168,000	1031m	Full transfer	-	-	-	-	-	$168,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111680	41 Alpen Street	30/01/1997	19/03/1997	-	$159,300	799m	Full transfer	-	-	-	-	-	$159,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111297	52 Magrath Crescent	19/03/1997	04/04/1997	-	$159,000	1335m	Full transfer	-	-	-	-	-	$159,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111862	263 Kingsford Smith Drive	01/05/1997	30/05/1997	-	$156,500	1295m	Full transfer	-	-	-	-	-	$156,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	173949	31 Magrath Crescent	29/11/1997	26/02/1998	-	$155,000	1219m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111847	5 Bennet Street	14/03/1997	04/04/1997	-	$148,000	869m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111567	3 Don Place	17/01/1997	23/01/1997	-	$146,950	869m	Full transfer	-	-	-	-	-	$146,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111556	1 Somerville Street	14/11/1997	12/12/1997	-	$144,000	957m	Full transfer	-	-	-	-	-	$144,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111564	159 Owen Dixon Drive	11/06/1997	27/06/1997	-	$143,500	953m	Full transfer	-	-	-	-	-	$143,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111492	41 Healy Street	26/02/1997	27/03/1997	-	$135,000	803m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111309	229 Kingsford Smith Drive	12/02/1997	20/03/1997	-	$131,000	999m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	194252	1 Lane Place	06/11/1997	19/01/1998	-	$130,000	521m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	111628	7 Hancock Street	11/09/1997	12/11/1997	-	$130,000	869m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111743	9 Dalgleish Close	10/01/1997	11/02/1997	-	$128,000	832m	Partial transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111840	129 Copland Drive	03/01/1997	15/01/1997	-	$125,000	829m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111503	23 Healy Place	05/08/1997	29/08/1997	-	$124,647	958m	Full transfer	-	-	-	-	-	$124,647	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111479	24 Healy Street	27/06/1997	25/08/1997	-	$120,000	884m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111851	1 MacDonald Place	07/02/1997	25/02/1997	-	$120,000	1018m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111849	47 Alpen Street	30/09/1997	25/11/1997	-	$118,000	868m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111518	20 Clarey Crescent	05/09/1997	01/10/1997	-	$117,000	1049m	Full transfer	-	-	-	-	-	$117,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111360	26 Crofts Crescent	28/01/1997	19/02/1997	-	$108,000	572m	Full transfer	-	-	-	-	-	$108,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	111471	3 Healy Street	08/04/1997	12/05/1997	-	$105,000	917m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111473	66 Clarey Crescent	13/10/1997	22/10/1997	-	$105,000	828m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111373	9 Horan Place	04/03/1997	15/04/1997	-	$104,000	705m	Full transfer	-	-	-	-	-	$104,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1997	111598	63 Baddeley Crescent	17/09/1997	26/09/1997	-	$100,000	1085m	Full transfer	-	-	-	-	-	$100,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111577	5 Garrard Street	11/02/1997	25/03/1997	-	$94,000	879m	Full transfer	-	-	-	-	-	$94,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1997	111475	8 Houghton Place	21/02/1997	24/03/1997	-	$92,500	946m	Full transfer	-	-	-	-	-	$92,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111504	15 Somerville Street	18/07/1997	12/08/1997	-	$90,000	809m	Full transfer	-	-	-	-	-	$90,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111583	12 Hancock Street	18/09/1997	22/10/1997	-	$89,950	837m	Full transfer	-	-	-	-	-	$89,950	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1997	111838	18 Bowling Place	02/10/1997	30/10/1997	-	$84,500	971m	Full transfer	-	-	-	-	-	$84,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1997	111328	14 Trenwith Close	29/04/1997	20/05/1997	-	$78,333	1232m	Partial transfer	-	-	-	-	-	$78,333	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	178001	33 Crofts Crescent	16/12/1997	29/01/1998	-	$75,000	398m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111376	5 Horan Place	07/01/1997	11/02/1997	-	$74,000	367m	Full transfer	-	-	-	-	-	$74,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1997	111590	39 Baddeley Crescent	28/07/1997	28/07/1997	-	$46,250	893m	Partial transfer	-	-	-	-	-	$46,250	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111548	4 Leavold Place	04/09/1997	04/09/1997	-	-	1469m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111513	207 Owen Dixon Drive	07/02/1997	17/02/1997	-	-	875m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111296	52 Magrath Crescent	31/01/1997	04/04/1997	-	-	1335m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111483	50 Clarey Crescent	01/07/1997	01/07/1997	-	-	935m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111565	159 Owen Dixon Drive	30/08/1997	30/10/1997	-	-	953m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111488	196 Kingsford Smith Drive	02/05/1997	02/05/1997	-	-	879m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111642	18 Somerville Street	04/03/1997	04/03/1997	-	-	1071m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	170279	23 Somerville Street	06/05/1997	13/05/1998	-	-	968m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111811	15 Dalgleish Close	13/06/1997	13/06/1997	-	-	826m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1997	111337	3 Crofts Crescent	01/05/1997	01/05/1997	-	-	1504m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178916	14 Trenwith Close	29/09/1998	09/11/1998	-	$222,500	1232m	Full transfer	-	-	-	-	-	$222,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182314	16 MacDonald Place	21/01/1998	25/03/1998	-	$195,000	1034m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	198697	26 Garrard Street	31/03/1998	04/05/1998	-	$187,500	917m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170358	14 Edmunds Place	17/04/1998	04/06/1998	-	$185,000	985m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	183202	32 Magrath Crescent	04/09/1998	14/12/1998	-	$178,000	1123m	Full transfer	-	-	-	-	-	$178,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	199270	36 Boote Street	30/09/1998	28/10/1998	-	$177,500	894m	Full transfer	-	-	-	-	-	$177,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	179211	7 Garland Place	23/12/1998	02/02/1999	-	$173,000	981m	Full transfer	-	-	-	-	-	$173,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194676	131 Copland Drive	08/04/1998	10/06/1998	-	$172,000	1056m	Full transfer	-	-	-	-	-	$172,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	199137	9 Broadby Close	29/07/1998	14/09/1998	-	$171,000	934m	Full transfer	-	-	-	-	-	$171,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174563	170 Kingsford Smith Drive	24/07/1998	18/08/1998	-	$170,000	808m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	169910	25 Trenwith Close	08/01/1998	28/01/1998	-	$165,000	1075m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194644	9 Bennet Street	19/05/1998	01/06/1998	-	$159,500	944m	Full transfer	-	-	-	-	-	$159,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	198851	5 Standbridge Place	09/06/1998	22/06/1998	-	$158,000	872m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170054	7 Somerville Street	16/02/1998	09/03/1998	-	$156,500	1389m	Full transfer	-	-	-	-	-	$156,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	175012	31 Magrath Crescent	02/11/1998	18/12/1998	-	$156,000	1219m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182943	4 Jordon Place	10/09/1998	21/09/1998	-	$155,000	1394m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	195475	3 Dodd Place	01/12/1998	21/01/1999	-	$152,000	1101m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	179025	18 Standbridge Place	04/11/1998	16/12/1998	-	$151,000	950m	Full transfer	-	-	-	-	-	$151,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170294	21 Magrath Crescent	28/01/1998	18/05/1998	-	$150,000	972m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186365	3 Wallis Place	20/02/1998	24/03/1998	-	$149,000	827m	Full transfer	-	-	-	-	-	$149,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	199227	5 Trenwith Close	02/09/1998	14/10/1998	-	$145,000	769m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	190559	196 Kingsford Smith Drive	11/03/1998	22/04/1998	-	$145,000	879m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	199135	6 Dodd Place	25/08/1998	14/09/1998	-	$144,300	1078m	Full transfer	-	-	-	-	-	$144,300	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186638	21 Magrath Crescent	02/06/1998	16/06/1998	-	$140,000	972m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174255	4 MacDonald Place	29/04/1998	25/05/1998	-	$135,000	787m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182308	206 Kingsford Smith Drive	02/02/1998	24/03/1998	-	$132,000	770m	Full transfer	-	-	-	-	-	$132,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182554	3 McGowen Close	06/04/1998	02/06/1998	-	$128,500	489m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	170669	25 Alpen Street	14/08/1998	31/08/1998	-	$128,000	817m	Full transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	183291	9 Boyland Close	09/12/1998	06/01/1999	-	$125,000	960m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170987	149 Copland Drive	16/12/1998	18/12/1998	-	$124,750	827m	Full transfer	-	-	-	-	-	$124,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	198554	5 Blumenthal Place	23/01/1998	20/03/1998	-	$124,000	762m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174194	200 Kingsford Smith Drive	17/04/1998	07/05/1998	-	$123,000	1079m	Full transfer	-	-	-	-	-	$123,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	178621	18 Healy Street	24/07/1998	03/08/1998	-	$118,000	866m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186545	35 Douglass Street	19/02/1998	18/05/1998	-	$117,000	760m	Full transfer	-	-	-	-	-	$117,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	190959	14 Bennet Street	20/07/1998	25/08/1998	-	$114,000	805m	Full transfer	-	-	-	-	-	$114,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186429	11 Bennet Street	02/04/1998	09/04/1998	-	$114,000	906m	Full transfer	-	-	-	-	-	$114,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186711	21 Clark Close	24/06/1998	06/07/1998	-	$112,500	1099m	Full transfer	-	-	-	-	-	$112,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	195794	16 Hancock Street	11/12/1998	20/04/1999	-	$108,800	805m	Full transfer	-	-	-	-	-	$108,800	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174583	4 McGowen Close	29/07/1998	26/08/1998	-	$105,000	633m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	170110	29 Healy Street	25/02/1998	25/03/1998	-	$105,000	922m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	179084	32 Crofts Crescent	11/12/1998	30/12/1998	-	$98,750	547m	Full transfer	-	-	-	-	-	$98,750	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1998	187196	15 Dalgleish Close	16/11/1998	09/12/1998	-	$98,500	826m	Full transfer	-	-	-	-	-	$98,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182365	17 Clark Close	05/03/1998	06/04/1998	-	$95,500	1108m	Full transfer	-	-	-	-	-	$95,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	190590	37 Healy Street	09/04/1998	30/04/1998	-	$95,000	882m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174193	13 Clark Close	31/03/1998	07/05/1998	-	$92,000	1272m	Full transfer	-	-	-	-	-	$92,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170925	86 Clarey Crescent	22/07/1998	30/11/1998	-	$83,000	818m	Full transfer	-	-	-	-	-	$83,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174136	7 McGowen Close	21/01/1998	22/04/1998	-	$80,000	397m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	182493	7 McGowen Close	09/04/1998	14/05/1998	-	$80,000	397m	Full transfer	-	-	-	-	-	$80,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1998	183201	11 Kelsall Place	19/11/1998	11/12/1998	-	$75,000	526m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1998	178061	35 Crofts Crescent	27/01/1998	17/02/1998	-	$69,000	293m	Full transfer	-	-	-	-	-	$69,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	186341	13 Boyland Close	05/03/1998	18/03/1998	-	$49,200	892m	Partial transfer	-	-	-	-	-	$49,200	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170953	32 Crofts Crescent	25/10/1998	10/12/1998	-	-	547m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1998	186840	5 Magrath Place	17/06/1998	12/08/1998	-	-	1262m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	179507	11 Magrath Crescent	16/11/1998	23/04/1999	-	-	1083m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1998	198809	9 Hancock Street	12/06/1998	12/06/1998	-	-	1018m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194344	8 MacDonald Place	19/02/1998	19/02/1998	-	-	803m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	183128	6 Bowling Place	10/11/1998	19/11/1998	-	-	835m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194423	10 Hancock Street	18/03/1998	18/03/1998	-	-	872m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	194663	14 Edmunds Place	06/02/1998	04/06/1998	-	-	985m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	174726	5 Trenwith Close	24/07/1998	07/10/1998	-	-	769m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	170208	216 Kingsford Smith Drive	24/04/1998	24/04/1998	-	-	1120m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1998	182590	261 Kingsford Smith Drive	11/06/1998	11/06/1998	-	-	1192m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179282	3 Magrath Place	21/01/1999	19/02/1999	-	$235,000	1327m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	176542	73 Somerville Street	01/11/1999	27/01/2000	-	$225,000	1019m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196950	53 Magrath Crescent	23/11/1999	25/01/2000	-	$220,000	965m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	171363	5 Hammett Place	10/03/1999	15/04/1999	-	$207,000	1244m	Full transfer	-	-	-	-	-	$207,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	171613	2 Thornton Place	28/05/1999	29/06/1999	-	$200,000	1033m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	192059	37 Alpen Street	15/06/1999	30/07/1999	-	$199,500	784m	Full transfer	-	-	-	-	-	$199,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	175277	3 Hinchcliffe Place	08/02/1999	03/03/1999	-	$190,000	790m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	176061	8 Don Place	24/09/1999	01/10/1999	-	$183,000	873m	Full transfer	-	-	-	-	-	$183,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	192395	4 Colborne Place	27/09/1999	25/10/1999	-	$181,500	870m	Full transfer	-	-	-	-	-	$181,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	201110	8 Trenwith Close	17/12/1999	22/02/2000	-	$179,500	1110m	Full transfer	-	-	-	-	-	$179,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196657	1 Crofts Crescent	17/11/1999	29/11/1999	-	$175,000	1103m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195915	13 Garrard Street	13/05/1999	25/05/1999	-	$171,000	1209m	Full transfer	-	-	-	-	-	$171,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	175617	13 Bennet Place	25/05/1999	08/06/1999	-	$171,000	1215m	Full transfer	-	-	-	-	-	$171,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179650	2 Broadby Close	15/07/1999	17/08/1999	-	$166,000	866m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196135	159 Owen Dixon Drive	01/07/1999	21/07/1999	-	$165,000	953m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	180572	12 Wallis Place	23/12/1999	17/01/2000	-	$163,500	877m	Full transfer	-	-	-	-	-	$163,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195551	257 Kingsford Smith Drive	08/01/1999	15/02/1999	-	$162,500	1121m	Full transfer	-	-	-	-	-	$162,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	184384	2 Somerville Street	30/09/1999	02/11/1999	-	$155,000	845m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	192279	9 Somerville Street	08/09/1999	28/09/1999	-	$152,000	963m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195999	14 Crofts Crescent	01/04/1999	18/06/1999	-	$150,000	835m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	180544	8 MacDonald Place	24/11/1999	11/01/2000	-	$150,000	803m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196087	10 Hinchcliffe Place	12/05/1999	06/07/1999	-	$148,000	1091m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	180644	6 McGowen Close	24/12/1999	31/01/2000	-	$148,000	783m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	183954	15 Standbridge Place	18/06/1999	13/07/1999	-	$145,000	832m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	180164	24 Boote Place	11/03/1999	15/10/1999	-	$145,000	855m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	180014	16 Clarey Crescent	16/08/1999	10/09/1999	-	$140,000	979m	Full transfer	-	-	-	-	-	$140,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	176569	12 Hancock Street	23/12/1999	01/02/2000	-	$138,000	837m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1999	171507	23 Bennet Street	21/05/1999	25/05/1999	-	$135,000	941m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	189036	31 Somerville Street	29/10/1999	21/03/2000	-	$135,000	1370m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	192734	44 Baddeley Crescent	17/12/1999	12/01/2000	-	$133,000	904m	Full transfer	-	-	-	-	-	$133,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	175908	41 Somerville Street	13/07/1999	23/08/1999	-	$130,000	1031m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	187582	57 Alpen Street	25/02/1999	31/03/1999	-	$128,000	790m	Full transfer	-	-	-	-	-	$128,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	187994	9 Bowling Place	21/05/1999	22/07/1999	-	$126,500	832m	Full transfer	-	-	-	-	-	$126,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	171660	9 Dalgleish Close	25/06/1999	14/07/1999	-	$126,000	832m	Full transfer	-	-	-	-	-	$126,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	200661	35 Somerville Street	29/09/1999	03/11/1999	-	$125,000	934m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	192343	59 Alpen Street	24/03/1999	15/10/1999	-	$124,000	1019m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196392	5 Edmunds Place	23/07/1999	22/09/1999	-	$122,500	929m	Full transfer	-	-	-	-	-	$122,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196233	3 Broadby Close	20/07/1999	20/08/1999	-	$122,000	835m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	188784	11 Bennet Street	23/12/1999	19/01/2000	-	$121,950	906m	Full transfer	-	-	-	-	-	$121,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196065	4 Magrath Crescent	04/06/1999	30/06/1999	-	$120,000	1094m	Full transfer	-	-	-	-	-	$120,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	172563	4 Houghton Place	20/09/1999	23/02/2000	-	$118,500	882m	Full transfer	-	-	-	-	-	$118,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	180336	4 Hancock Street	08/09/1999	22/11/1999	-	$118,500	714m	Full transfer	-	-	-	-	-	$118,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	184516	19 Standbridge Place	27/10/1999	02/12/1999	-	$118,000	846m	Full transfer	-	-	-	-	-	$118,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	195981	37 Baddeley Crescent	20/04/1999	10/06/1999	-	$117,000	886m	Full transfer	-	-	-	-	-	$117,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196241	8 Blumenthal Place	30/07/1999	24/08/1999	-	$116,500	776m	Full transfer	-	-	-	-	-	$116,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	188316	49 Crofts Crescent	16/08/1999	07/10/1999	-	$110,000	558m	Full transfer	-	-	-	-	-	$110,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	187913	31 Dalgleish Close	21/05/1999	30/06/1999	-	$106,950	823m	Full transfer	-	-	-	-	-	$106,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	192636	13 Healy Place	09/12/1999	20/12/1999	-	$106,000	837m	Full transfer	-	-	-	-	-	$106,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196256	6 Boote Place	29/07/1999	25/08/1999	-	$102,000	812m	Full transfer	-	-	-	-	-	$102,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179655	7 Bowling Place	28/05/1999	08/06/1999	-	$99,000	697m	Full transfer	-	-	-	-	-	$99,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179770	3 Edmunds Place	30/06/1999	08/07/1999	-	$95,000	706m	Full transfer	-	-	-	-	-	$95,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1999	175778	20 Bowling Place	16/06/1999	20/07/1999	-	$94,000	1071m	Full transfer	-	-	-	-	-	$94,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1999	187419	8 Somerville Street	03/02/1999	18/02/1999	-	$92,000	946m	Full transfer	-	-	-	-	-	$92,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	200411	198 Kingsford Smith Drive	29/07/1999	03/09/1999	-	$92,000	1161m	Full transfer	-	-	-	-	-	$92,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179741	14 Bowling Place	18/06/1999	30/06/1999	-	$91,000	835m	Full transfer	-	-	-	-	-	$91,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1999	183864	9 Baddeley Crescent	01/06/1999	22/06/1999	-	$89,000	848m	Full transfer	-	-	-	-	-	$89,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	171201	1 Clark Close	20/01/1999	24/02/1999	-	$85,000	1333m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1999	191615	34 Baddeley Crescent	25/02/1999	23/03/1999	-	$85,000	814m	Full transfer	-	-	-	-	-	$85,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196402	41 Crofts Crescent	19/08/1999	28/09/1999	-	$79,000	545m	Full transfer	-	-	-	-	-	$79,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1999	179522	10 Toomey Place	20/04/1999	29/04/1999	-	$79,000	502m	Full transfer	-	-	-	-	-	$79,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1999	184644	5 Broadby Close	01/11/1999	30/12/1999	-	$77,500	690m	Partial transfer	-	-	-	-	-	$77,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	171243	10 Horan Place	20/01/1999	08/03/1999	-	$75,000	386m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1999	201040	4 Toomey Place	09/12/1999	03/02/2000	-	$75,000	452m	Full transfer	-	-	-	-	-	$75,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1999	183788	39 Alpen Street	26/05/1999	26/05/1999	-	$74,000	800m	Partial transfer	-	-	-	-	-	$74,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	192032	16 McGowen Close	22/07/1999	22/07/1999	-	$63,000	559m	Partial transfer	-	-	-	-	-	$63,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+1999	171124	11 Houghton Place	11/01/1999	29/01/1999	-	$60,000	935m	Partial transfer	-	-	-	-	-	$60,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	194163	5 Dodd Place	26/06/1999	14/12/2000	-	-	881m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	183622	8 Wallis Place	09/02/1999	07/04/1999	-	-	803m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	188517	25 Bennet Street	22/11/1999	22/11/1999	-	-	928m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196094	3 Edmunds Place	08/07/1999	08/07/1999	-	-	706m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+1999	184664	12 Wallis Place	13/12/1999	07/01/2000	-	-	877m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	183345	20 Garrard Street	21/01/1999	21/01/1999	-	-	980m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	160402	6 Houghton Place	28/06/1999	19/03/2002	-	-	880m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+1999	199790	15 Standbridge Place	03/01/1999	01/04/1999	-	-	832m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	183876	197 Owen Dixon Drive	24/06/1999	24/06/1999	-	-	1009m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	184465	3 Garrard Street	27/08/1999	19/11/1999	-	-	848m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	160501	24 Somerville Street	16/11/1999	06/02/2002	-	-	1143m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	179326	4 Bath Place	03/03/1999	03/03/1999	-	-	927m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	191485	1 Edmunds Place	08/01/1999	15/02/1999	-	-	1015m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	196108	9 Dalgleish Close	14/07/1999	14/07/1999	-	-	832m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+1999	191904	37 Douglass Street	16/06/1999	16/06/1999	-	-	758m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	190172	6 Douglass Place	31/10/2000	19/12/2000	-	$289,000	1147m	Full transfer	-	-	-	-	-	$289,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	172709	65 Somerville Street	23/02/2000	29/03/2000	-	$220,000	1113m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	185992	275 Kingsford Smith Drive	08/11/2000	01/12/2000	-	$199,000	1143m	Full transfer	-	-	-	-	-	$199,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197731	25 Broadby Close	06/06/2000	20/07/2000	-	$195,000	877m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	190154	221 Kingsford Smith Drive	23/10/2000	14/12/2000	-	$195,000	1058m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160541	267 Kingsford Smith Drive	21/12/2000	13/02/2001	-	$194,950	1197m	Full transfer	-	-	-	-	-	$194,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	185949	41 Alpen Street	17/10/2000	17/11/2000	-	$190,000	799m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193410	9 Bennet Street	13/04/2000	07/06/2000	-	$187,000	944m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160351	7 Crofts Place	27/11/2000	18/01/2001	-	$182,000	1105m	Full transfer	-	-	-	-	-	$182,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	176962	163 Copland Drive	12/04/2000	05/05/2000	-	$179,000	910m	Full transfer	-	-	-	-	-	$179,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	177049	225 Copland Drive	28/04/2000	23/05/2000	-	$176,500	909m	Full transfer	-	-	-	-	-	$176,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	189308	12 Dodd Place	02/05/2000	22/05/2000	-	$175,000	993m	Full transfer	-	-	-	-	-	$175,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160442	2 Leavold Place	13/12/2000	31/01/2001	-	$173,000	965m	Full transfer	-	-	-	-	-	$173,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197202	202 Kingsford Smith Drive	11/02/2000	21/03/2000	-	$170,000	843m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160429	52 Boote Street	21/12/2000	12/02/2001	-	$169,000	887m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	172895	23 Bennet Street	20/04/2000	15/05/2000	-	$169,000	941m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160428	59 Healy Street	08/12/2000	12/02/2001	-	$165,000	958m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193020	16 Somerville Street	01/03/2000	21/03/2000	-	$164,950	1129m	Full transfer	-	-	-	-	-	$164,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160521	4 Baddeley Crescent	17/11/2000	04/01/2001	-	$164,500	758m	Full transfer	-	-	-	-	-	$164,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	190170	35 Douglass Street	30/11/2000	19/12/2000	-	$162,000	760m	Full transfer	-	-	-	-	-	$162,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	172589	3 Moroney Street	12/01/2000	06/03/2000	-	$160,000	1194m	Full transfer	-	-	-	-	-	$160,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	184902	24 Hancock Street	04/02/2000	07/03/2000	-	$156,000	1014m	Full transfer	-	-	-	-	-	$156,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160458	35 Boyland Close	21/12/2000	23/01/2001	-	$152,000	945m	Full transfer	-	-	-	-	-	$152,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	172701	30 Healy Street	25/02/2000	28/03/2000	-	$150,000	891m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	181945	18 Crofts Crescent	23/10/2000	05/12/2000	-	$149,000	783m	Full transfer	-	-	-	-	-	$149,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	201851	159 Copland Drive	03/07/2000	11/08/2000	-	$146,600	834m	Full transfer	-	-	-	-	-	$146,600	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	173388	17 Hinchcliffe Place	09/08/2000	13/09/2000	-	$146,500	980m	Full transfer	-	-	-	-	-	$146,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	189681	40 Crofts Crescent	29/05/2000	16/08/2000	-	$142,000	830m	Full transfer	-	-	-	-	-	$142,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160459	39 Boyland Close	05/12/2000	01/03/2001	-	$138,000	817m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	181808	9 Edmunds Place	21/09/2000	31/10/2000	-	$135,000	706m	Full transfer	-	-	-	-	-	$135,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	173604	16 Scattergood Place	05/10/2000	09/11/2000	-	$134,000	1125m	Full transfer	-	-	-	-	-	$134,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	201393	37 Baddeley Crescent	28/03/2000	27/04/2000	-	$131,000	886m	Full transfer	-	-	-	-	-	$131,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160394	2 Clark Close	29/11/2000	04/01/2001	-	$125,500	827m	Full transfer	-	-	-	-	-	$125,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	189289	15 Healy Place	28/02/2000	17/05/2000	-	$125,000	1147m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	201103	8 Hancock Street	27/01/2000	21/02/2000	-	$125,000	856m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	184579	40 Baddeley Crescent	09/02/2000	21/02/2000	-	$124,000	873m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	188969	37 Somerville Street	02/03/2000	06/03/2000	-	$123,500	1036m	Full transfer	-	-	-	-	-	$123,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	202069	4 Boyland Close	31/08/2000	11/10/2000	-	$122,000	773m	Full transfer	-	-	-	-	-	$122,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	189293	13 McGowen Close	18/04/2000	18/05/2000	-	$121,500	678m	Full transfer	-	-	-	-	-	$121,500	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	189177	15 Bennet Street	08/03/2000	20/04/2000	-	$117,500	969m	Full transfer	-	-	-	-	-	$117,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197213	21 Healy Place	25/02/2000	23/03/2000	-	$115,000	1016m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	177133	3 Bowling Place	31/05/2000	13/06/2000	-	$115,000	745m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197773	7 Horan Place	22/06/2000	04/08/2000	-	$115,000	534m	Full transfer	-	-	-	-	-	$115,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2000	160363	11 Horan Place	17/10/2000	13/02/2001	-	$112,000	592m	Full transfer	-	-	-	-	-	$112,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2000	181810	4 Toomey Place	13/09/2000	31/10/2000	-	$109,000	452m	Full transfer	-	-	-	-	-	$109,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2000	181786	20 Healy Street	06/10/2000	24/10/2000	-	$105,000	871m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	197890	23 Somerville Street	18/08/2000	14/09/2000	-	$104,750	968m	Full transfer	-	-	-	-	-	$104,750	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	202014	10 Bowling Place	23/02/2000	28/09/2000	-	$99,000	986m	Full transfer	-	-	-	-	-	$99,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2000	193025	13 Edmunds Place	15/02/2000	21/03/2000	-	$96,000	929m	Full transfer	-	-	-	-	-	$96,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193645	12 Toomey Place	03/07/2000	04/08/2000	-	$86,000	541m	Full transfer	-	-	-	-	-	$86,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2000	201781	12 Toomey Place	21/06/2000	26/07/2000	-	$86,000	541m	Full transfer	-	-	-	-	-	$86,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2000	201737	61 Magrath Crescent	15/06/2000	13/07/2000	-	-	1058m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	196989	25 Clarey Crescent	04/02/2000	04/02/2000	-	-	1159m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	201190	7 Crofts Place	14/02/2000	13/03/2000	-	-	1105m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	193704	15 Alpen Street	31/07/2000	24/08/2000	-	-	752m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	181589	17 Crofts Crescent	18/09/2000	18/09/2000	-	-	1137m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	188995	225 Kingsford Smith Drive	13/03/2000	13/03/2000	-	-	912m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160390	14 Glassey Place	18/10/2000	21/10/2002	-	-	188m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2000	160484	15 Standbridge Place	16/05/2000	14/03/2001	-	-	832m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160525	18 Baddeley Crescent	04/05/2000	21/02/2001	-	-	892m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	180699	19 Edmunds Place	11/02/2000	11/02/2000	-	-	992m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	176495	29 Boote Street	17/01/2000	17/01/2000	-	-	770m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2000	160480	3 Standbridge Place	01/11/2000	31/07/2001	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160341	247 Kingsford Smith Drive	28/09/2001	06/11/2001	30/08/2001	$310,000	1307m	Full transfer	5	3	-	-	2	$310,000	29	-	Combined Record	-	-	-	Single residential dwelling	$51,000	0.16
+2001	160342	245 Kingsford Smith Drive	17/12/2001	16/01/2002	15/11/2001	$296,000	1520m	Full transfer	4	1	2	2	-	$296,000	32	-	Combined Record	-	-	-	Single residential dwelling	$51,000	0.17
+2001	160445	4 Douglass Place	14/12/2001	15/01/2002	-	$295,000	1103m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160437	14 Edmunds Place	17/12/2001	14/02/2002	-	$283,000	985m	Full transfer	-	-	-	-	-	$283,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160345	14 Trenwith Close	05/10/2001	02/11/2001	-	$278,500	1232m	Full transfer	-	-	-	-	-	$278,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160498	16 Magrath Crescent	21/09/2001	02/01/2002	-	$257,500	891m	Full transfer	-	-	-	-	-	$257,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160568	9 Moroney Street	07/08/2001	04/09/2001	-	$253,000	1412m	Full transfer	-	-	-	-	-	$253,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160540	271 Kingsford Smith Drive	28/03/2001	31/05/2001	-	$249,000	961m	Full transfer	-	-	-	-	-	$249,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160340	39 Magrath Crescent	13/11/2001	27/12/2001	-	$245,000	1089m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160335	239 Kingsford Smith Drive	15/06/2001	12/07/2001	-	$245,000	1196m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160367	27 Somerville Street	05/06/2001	13/07/2001	-	$240,000	888m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160519	37 Alpen Street	16/08/2001	11/10/2001	02/05/2002	$240,000	784m	Full transfer	4	1	1	2	-	$240,000	-	-	Combined Record	-	-	-	Single residential dwelling	$66,000	0.28
+2001	160455	3 Douglass Place	10/10/2001	02/11/2001	-	$235,000	873m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160570	251 Kingsford Smith Drive	09/11/2001	19/12/2001	-	$232,000	1190m	Full transfer	-	-	-	-	-	$232,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160511	4 Bath Place	19/10/2001	29/11/2001	-	$225,000	927m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160450	3 Somerville Street	31/08/2001	27/09/2001	-	$225,000	980m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160495	16 Somerville Street	13/12/2001	08/04/2002	-	$224,500	1129m	Full transfer	-	-	-	-	-	$224,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160354	11 Crofts Crescent	01/03/2001	10/04/2001	-	$222,500	1060m	Full transfer	-	-	-	-	-	$222,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160543	28 Bennet Street	13/09/2001	22/10/2001	-	$222,500	813m	Full transfer	-	-	-	-	-	$222,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160506	1 Alpen Street	28/08/2001	25/09/2001	24/07/2001	$220,000	878m	Full transfer	4	1	1	2	-	$220,000	35	-	Combined Record	-	-	-	Single residential dwelling	$51,000	0.23
+2001	160334	2 Jordon Place	29/01/2001	15/03/2001	-	$220,000	1400m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160415	2 Thornton Place	08/03/2001	25/07/2001	-	$220,000	1033m	Full transfer	-	-	-	-	-	$220,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160438	12 Scattergood Place	24/10/2001	12/12/2001	-	$219,000	1127m	Full transfer	-	-	-	-	-	$219,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160571	249 Kingsford Smith Drive	10/05/2001	08/03/2002	-	$219,000	1165m	Full transfer	-	-	-	-	-	$219,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160443	27 Douglass Street	14/08/2001	04/10/2001	-	$218,000	956m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160508	176 Kingsford Smith Drive	17/09/2001	12/10/2001	-	$217,500	786m	Full transfer	-	-	-	-	-	$217,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160507	172 Kingsford Smith Drive	28/03/2001	14/05/2001	-	$217,500	786m	Full transfer	-	-	-	-	-	$217,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160338	45 Magrath Crescent	18/04/2001	05/06/2001	-	$209,950	1232m	Full transfer	-	-	-	-	-	$209,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160509	2 Bath Place	22/06/2001	25/09/2001	-	$209,500	1031m	Full transfer	-	-	-	-	-	$209,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160356	50 Crofts Crescent	05/06/2001	06/09/2001	-	$207,500	889m	Full transfer	-	-	-	-	-	$207,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160569	251 Kingsford Smith Drive	04/04/2001	02/05/2001	-	$205,000	1190m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160535	2 Bennet Place	11/05/2001	30/05/2001	-	$203,000	828m	Full transfer	-	-	-	-	-	$203,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160441	37 Douglass Street	19/11/2001	11/01/2002	-	$200,000	758m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160439	18 Scattergood Place	14/03/2001	23/04/2001	-	$199,950	900m	Full transfer	-	-	-	-	-	$199,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160333	41 Somerville Street	20/08/2001	25/09/2001	12/07/2001	$199,000	1031m	Full transfer	4	1	-	-	-	$199,000	39	-	Combined Record	-	-	-	Single residential dwelling	$51,000	0.26
+2001	160479	3 Standbridge Place	10/07/2001	16/08/2001	-	$198,500	869m	Full transfer	-	-	-	-	-	$198,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160504	1 Garland Place	18/05/2001	21/08/2001	-	$195,000	860m	Full transfer	-	-	-	-	-	$195,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160533	8 Bennet Place	15/01/2001	08/03/2001	-	$194,700	984m	Full transfer	-	-	-	-	-	$194,700	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160422	211 Owen Dixon Drive	02/11/2001	12/12/2001	-	$193,000	750m	Full transfer	-	-	-	-	-	$193,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160378	12 McGowen Close	26/10/2001	06/11/2001	-	$190,000	608m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160427	22 Clarey Crescent	09/04/2001	18/05/2001	-	$187,500	1057m	Full transfer	-	-	-	-	-	$187,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160549	12 Bennet Street	27/11/2001	08/02/2002	-	$187,000	768m	Full transfer	-	-	-	-	-	$187,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160430	56 Boote Street	21/05/2001	21/06/2001	-	$185,000	801m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160376	18 McGowen Close	21/11/2001	08/01/2002	-	$185,000	392m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160456	207 Copland Drive	30/10/2001	23/11/2001	-	$185,000	1166m	Full transfer	-	-	-	-	-	$185,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160503	2 Garland Place	23/11/2001	19/12/2001	-	$182,500	855m	Full transfer	-	-	-	-	-	$182,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160476	73 Baddeley Crescent	19/10/2001	12/12/2001	04/09/2001	$180,000	815m	Full transfer	4	1	-	2	-	$180,000	45	-	Combined Record	-	-	-	Single residential dwelling	$51,000	0.28
+2001	160464	14 Boyland Close	30/10/2001	07/01/2002	-	$180,000	1065m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160490	208 Kingsford Smith Drive	12/07/2001	15/08/2001	-	$180,000	1002m	Full transfer	-	-	-	-	-	$180,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160346	5 Trenwith Close	21/03/2001	03/05/2001	03/11/2000	$177,500	769m	Full transfer	4	-	1	-	1	$177,500	138	-	Combined Record	-	-	-	Single residential dwelling	$67,000	0.38
+2001	160396	23 Clark Close	19/12/2001	08/02/2002	-	$176,000	1337m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160460	29 Garrard Street	11/05/2001	05/06/2001	-	$174,000	979m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160397	14 Clark Close	21/12/2001	21/01/2002	-	$174,000	971m	Full transfer	-	-	-	-	-	$174,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160557	16 Bowling Place	26/09/2001	19/10/2001	-	$172,950	798m	Full transfer	-	-	-	-	-	$172,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160493	2 Somerville Street	24/04/2001	07/08/2002	-	$172,000	845m	Full transfer	-	-	-	-	-	$172,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160426	199 Owen Dixon Drive	18/04/2001	10/05/2001	-	$172,000	911m	Full transfer	-	-	-	-	-	$172,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	159927	6 Bowling Place	03/09/2001	16/10/2001	-	$170,000	835m	Full transfer	-	-	-	-	-	$170,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160502	5 Wallis Place	04/07/2001	10/09/2001	-	$169,000	895m	Full transfer	-	-	-	-	-	$169,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160505	9 Baddeley Crescent	16/03/2001	19/04/2001	-	$167,000	848m	Full transfer	-	-	-	-	-	$167,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160380	1 Lane Place	21/12/2001	22/01/2002	-	$167,000	521m	Full transfer	-	-	-	-	-	$167,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160473	1 Blumenthal Place	01/05/2001	01/06/2001	-	$166,500	1019m	Full transfer	-	-	-	-	-	$166,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160409	44 Clarey Crescent	07/03/2001	05/04/2001	09/03/2001	$165,000	845m	Full transfer	3	1	1	-	-	$165,000	-	-	Combined Record	-	-	-	Single residential dwelling	$51,000	0.31
+2001	160550	14 Bennet Street	14/09/2001	03/10/2001	-	$165,000	805m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160547	151 Copland Drive	15/02/2001	21/03/2001	-	$164,000	931m	Full transfer	-	-	-	-	-	$164,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160527	31 Dalgleish Close	22/06/2001	23/08/2001	-	$163,000	823m	Full transfer	-	-	-	-	-	$163,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160424	209 Owen Dixon Drive	24/01/2001	21/03/2001	-	$163,000	791m	Full transfer	-	-	-	-	-	$163,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160403	10 Houghton Place	03/08/2001	30/10/2001	-	$155,500	959m	Full transfer	-	-	-	-	-	$155,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160381	8 Lane Place	22/08/2001	11/10/2001	-	$155,000	547m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160417	30 Boote Street	18/06/2001	15/08/2001	12/05/2001	$153,500	871m	Full transfer	4	1	1	2	-	$153,500	37	-	Combined Record	-	-	-	Single residential dwelling	$51,000	0.33
+2001	160400	1 Healy Street	17/07/2001	21/08/2001	-	$149,500	841m	Full transfer	-	-	-	-	-	$149,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160517	7 Colborne Place	16/05/2001	12/06/2001	-	$149,500	795m	Full transfer	-	-	-	-	-	$149,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160382	6 Lane Place	13/11/2001	15/02/2002	-	$148,000	441m	Full transfer	-	-	-	-	-	$148,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160386	11 McGowen Close	18/09/2001	25/10/2001	-	$145,000	379m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160399	7 Healy Place	16/04/2001	13/12/2001	-	$139,000	1105m	Full transfer	-	-	-	-	-	$139,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160564	7 Bowling Place	08/05/2001	26/06/2001	-	$138,000	697m	Full transfer	-	-	-	-	-	$138,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160361	2 Horan Place	26/07/2001	10/10/2001	-	$136,800	642m	Full transfer	-	-	-	-	-	$136,800	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160420	4 Boote Place	13/02/2001	20/03/2001	-	$136,000	805m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160368	3 Toomey Place	13/09/2001	07/01/2002	-	$136,000	517m	Full transfer	-	-	-	-	-	$136,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2001	160416	37 Healy Street	21/03/2001	27/04/2001	-	$128,500	882m	Full transfer	-	-	-	-	-	$128,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	159930	14 Bowling Place	16/03/2001	19/04/2001	-	$127,500	835m	Full transfer	-	-	-	-	-	$127,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2001	160471	39 Baddeley Crescent	21/02/2001	10/04/2001	-	$127,000	893m	Full transfer	-	-	-	-	-	$127,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160526	6 Dalgleish Close	16/05/2001	19/06/2001	-	$125,000	749m	Full transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160483	16 Blumenthal Place	05/02/2001	20/02/2001	14/10/2000	$120,500	837m	Full transfer	3	1	-	2	1	$120,500	114	-	Combined Record	-	-	-	Single residential dwelling	$51,000	0.42
+2001	160492	3 Hancock Street	24/01/2001	20/02/2001	-	$117,000	790m	Full transfer	-	-	-	-	-	$117,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160366	1 Horan Place	11/01/2001	30/01/2001	-	$106,000	468m	Full transfer	-	-	-	-	-	$106,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160375	35 Crofts Crescent	06/02/2001	11/04/2001	-	$105,000	293m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160362	11 Horan Place	20/02/2001	10/04/2001	-	$105,000	592m	Full transfer	-	-	-	-	-	$105,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160371	5 Kelsall Place	03/05/2001	21/08/2001	-	$79,500	415m	Full transfer	-	-	-	-	-	$79,500	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2001	160469	8 Hancock Street	29/11/2001	29/11/2001	-	$67,500	856m	Full transfer	-	-	-	-	-	$67,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	395193	2 Magrath Crescent	02/01/2001	16/04/2013	-	$0	1449m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	232793	4 Trenwith Close	27/09/2001	20/11/2007	-	$0	1084m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160510	4 Bath Place	28/03/2001	29/11/2001	-	-	927m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160435	7 Boyland Close	16/02/2001	11/03/2002	-	-	865m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160542	265 Kingsford Smith Drive	02/01/2001	28/03/2003	-	-	1298m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160379	1 Lane Place	07/05/2001	07/11/2001	-	-	521m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2001	160432	2 Edmunds Place	14/06/2001	24/09/2001	-	-	982m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2001	160566	3 MacDonald Place	05/03/2001	29/05/2001	-	-	778m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160347	15 Trenwith Close	06/09/2001	10/01/2002	-	-	839m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160481	4 Blumenthal Place	31/05/2001	13/07/2001	-	-	680m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160514	17 Alpen Street	01/03/2001	01/03/2001	-	-	912m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160336	65 Magrath Crescent	03/04/2001	04/05/2001	-	-	1122m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160449	3 Somerville Street	16/07/2001	24/09/2001	-	-	980m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160440	20 Scattergood Place	27/08/2001	27/08/2001	-	-	900m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2001	160352	9 Crofts Place	15/01/2001	19/10/2001	-	-	1392m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160360	1 Dodd Place	13/12/2002	28/03/2003	16/10/2002	$360,000	935m	Full transfer	5	1	1	2	1	$360,000	58	-	Combined Record	-	-	-	Single residential dwelling	$83,000	0.23
+2002	160539	277 Kingsford Smith Drive	23/12/2002	05/03/2003	-	$310,000	1117m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160536	3 Bennet Place	22/11/2002	09/01/2003	01/11/2002	$310,000	1018m	Full transfer	4	1	1	2	-	$310,000	21	-	Combined Record	-	-	-	Single residential dwelling	$61,000	0.2
+2002	160414	36 Boote Street	13/06/2002	25/07/2002	23/05/2002	$305,000	894m	Full transfer	6	1	1	-	2	$305,000	21	-	Combined Record	-	-	-	Single residential dwelling	$69,000	0.23
+2002	160452	225 Copland Drive	25/11/2002	06/01/2003	-	$295,000	909m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160344	6 Trenwith Close	30/08/2002	11/10/2002	-	$285,000	1031m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160339	45 Magrath Crescent	06/09/2002	21/10/2002	-	$282,000	1232m	Full transfer	-	-	-	-	-	$282,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160524	1 Broadby Close	06/06/2002	16/07/2002	-	$280,000	877m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160522	31 Broadby Close	11/09/2002	11/11/2002	15/08/2002	$280,000	869m	Full transfer	4	1	1	-	-	$280,000	27	-	Combined Record	-	-	-	Single residential dwelling	$69,000	0.25
+2002	160499	28 Somerville Street	01/10/2002	12/12/2002	-	$275,000	1078m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160553	145 Copland Drive	20/03/2002	12/06/2002	-	$272,000	829m	Full transfer	-	-	-	-	-	$272,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160337	57 Magrath Crescent	17/10/2002	11/11/2002	-	$270,000	986m	Full transfer	-	-	-	-	-	$270,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160518	3 Colborne Place	04/07/2002	26/08/2002	12/06/2002	$265,000	804m	Full transfer	4	1	-	-	4	$265,000	22	-	Combined Record	-	-	-	Single residential dwelling	$69,000	0.26
+2002	160448	1 Somerville Street	30/05/2002	26/06/2002	-	$265,000	957m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	30127	2 Leavold Place	04/12/2002	-	13/11/2002	$265,000	965m	Full transfer	4	1	-	2	-	$265,000	21	-	Allhomes Record	-	-	-	-	$74,000	0.28
+2002	160407	30 Healy Street	12/11/2002	28/11/2002	-	$257,000	891m	Full transfer	-	-	-	-	-	$257,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160444	19 Douglass Street	15/03/2002	26/04/2002	-	$256,000	1055m	Full transfer	-	-	-	-	-	$256,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160532	20 Garrard Street	10/09/2002	21/10/2002	-	$255,000	980m	Full transfer	-	-	-	-	-	$255,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160350	7 Crofts Place	02/10/2002	09/12/2002	-	$253,000	1105m	Full transfer	-	-	-	-	-	$253,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160462	5 Garrard Street	10/09/2002	28/11/2002	17/08/2002	$249,000	879m	Full transfer	3	1	-	2	-	$249,000	24	-	Combined Record	-	-	-	Single residential dwelling...	$62,000	0.25
+2002	160555	2 Bennet Street	28/03/2002	16/05/2002	-	$248,000	1022m	Full transfer	-	-	-	-	-	$248,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160531	21 Dalgleish Close	28/06/2002	09/09/2002	-	$247,000	1095m	Full transfer	-	-	-	-	-	$247,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160343	62 Magrath Crescent	29/05/2002	19/07/2002	-	$246,950	1327m	Full transfer	-	-	-	-	-	$246,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160433	4 Edmunds Place	02/10/2002	05/11/2002	-	$246,000	787m	Partial transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160358	8 Dodd Place	17/01/2002	20/03/2002	-	$245,000	891m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160554	141 Copland Drive	15/08/2002	15/10/2002	-	$245,000	836m	Full transfer	-	-	-	-	-	$245,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160520	37 Alpen Street	11/06/2002	16/07/2002	02/05/2002	$240,000	784m	Full transfer	4	1	1	2	-	$240,000	40	-	Combined Record	-	-	-	Single residential dwelling	$66,000	0.28
+2002	160349	19 Crofts Crescent	12/02/2002	12/02/2002	-	$240,000	1120m	Full transfer	-	-	-	-	-	$240,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2002	160513	11 Hinchcliffe Place	29/08/2002	11/10/2002	02/08/2002	$240,000	744m	Full transfer	3	1	-	-	2	$240,000	27	-	Combined Record	-	-	-	Single residential dwelling	$69,000	0.29
+2002	160477	71 Baddeley Crescent	31/10/2002	27/12/2002	-	$235,000	880m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160523	3 Broadby Close	30/01/2002	08/04/2002	-	$230,000	835m	Full transfer	-	-	-	-	-	$230,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160470	43 Baddeley Crescent	01/11/2002	05/12/2002	18/09/2002	$225,000	858m	Full transfer	3	1	-	2	-	$225,000	44	-	Combined Record	-	-	-	Single residential dwelling	$66,000	0.29
+2002	160486	198 Kingsford Smith Drive	25/11/2002	07/02/2003	-	$225,000	1161m	Full transfer	-	-	-	-	-	$225,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160353	9 Crofts Place	20/02/2002	22/03/2002	-	$224,500	1392m	Full transfer	-	-	-	-	-	$224,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160332	37 Somerville Street	01/05/2002	12/06/2002	20/02/2002	$223,000	1036m	Full transfer	4	1	-	1	1	$223,000	70	-	Combined Record	-	-	-	Single residential dwelling	$71,000	0.32
+2002	160487	196 Kingsford Smith Drive	21/02/2002	14/03/2002	-	$222,500	879m	Full transfer	-	-	-	-	-	$222,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160488	194 Kingsford Smith Drive	27/08/2002	25/09/2002	-	$222,500	906m	Full transfer	-	-	-	-	-	$222,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160528	34 Baddeley Crescent	10/12/2002	05/02/2003	-	$218,000	814m	Full transfer	-	-	-	-	-	$218,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160401	4 Houghton Place	07/02/2002	08/04/2002	-	$216,000	882m	Full transfer	-	-	-	-	-	$216,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160485	11 Standbridge Place	23/12/2002	07/02/2003	-	$215,000	729m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160395	21 Clark Close	20/09/2002	11/11/2002	-	$214,000	1099m	Full transfer	-	-	-	-	-	$214,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160544	161 Copland Drive	14/08/2002	14/08/2002	-	$211,000	837m	Full transfer	-	-	-	-	-	$211,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	159929	14 Bowling Place	18/12/2002	16/01/2003	-	$209,500	835m	Full transfer	-	-	-	-	-	$209,500	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2002	160563	7 Bowling Place	14/11/2002	02/12/2002	28/03/2001	$205,000	697m	Full transfer	3	1	-	1	-	$205,000	596	-	Combined Record	-	-	-	Single residential dwelling	$69,000	0.34
+2002	160494	20 Somerville Street	15/05/2002	26/06/2002	-	$203,000	995m	Full transfer	-	-	-	-	-	$203,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160377	14 McGowen Close	05/04/2002	15/05/2002	-	$200,000	563m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	160451	11 Douglass Place	28/06/2002	11/10/2002	-	$200,000	1016m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160423	17 Boote Street	13/04/2002	03/07/2002	-	$200,000	1098m	Full transfer	-	-	-	-	-	$200,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160491	10 Wallis Place	30/01/2002	20/02/2002	-	$194,000	1034m	Full transfer	-	-	-	-	-	$194,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160530	23 Dalgleish Close	05/04/2002	06/05/2002	-	$190,000	982m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160478	65 Baddeley Crescent	09/08/2002	13/09/2002	-	$190,000	857m	Full transfer	-	-	-	-	-	$190,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160398	7 Healy Place	28/11/2002	06/01/2003	-	$189,950	1105m	Full transfer	-	-	-	-	-	$189,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160468	8 Hancock Street	13/08/2002	24/09/2002	-	$189,000	856m	Full transfer	-	-	-	-	-	$189,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160552	16 Bennet Street	21/06/2002	26/07/2002	-	$188,000	800m	Full transfer	-	-	-	-	-	$188,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160457	33 Boyland Close	07/05/2002	25/06/2002	-	$186,000	772m	Full transfer	-	-	-	-	-	$186,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160461	7 Garrard Street	19/07/2002	26/08/2002	-	$181,000	1195m	Full transfer	-	-	-	-	-	$181,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160556	19 Bennet Street	21/02/2002	14/03/2002	-	$176,000	930m	Full transfer	-	-	-	-	-	$176,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160331	35 Somerville Street	11/01/2002	18/02/2002	24/10/2001	$175,000	934m	Full transfer	4	-	-	-	-	$175,000	79	-	Combined Record	-	-	-	Single residential dwelling	$71,000	0.41
+2002	160384	7 McGowen Close	22/01/2002	28/02/2002	-	$173,000	397m	Full transfer	-	-	-	-	-	$173,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	160466	4 Hancock Street	06/03/2002	26/04/2002	-	$167,500	714m	Full transfer	-	-	-	-	-	$167,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160364	9 Horan Place	20/02/2002	20/03/2002	-	$166,000	705m	Full transfer	-	-	-	-	-	$166,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2002	160529	8 Garrard Street	07/01/2002	07/01/2002	-	$165,000	774m	Full transfer	-	-	-	-	-	$165,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160548	10 Bennet Street	03/04/2002	19/06/2002	14/03/2002	$162,000	748m	Full transfer	3	1	-	-	-	$162,000	20	-	Combined Record	-	-	-	Single residential dwelling...	$69,000	0.43
+2002	160392	9 Clark Close	07/03/2002	09/04/2002	-	$158,000	1002m	Full transfer	-	-	-	-	-	$158,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160434	7 Boyland Close	11/03/2002	09/04/2002	-	$155,000	865m	Full transfer	-	-	-	-	-	$155,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160474	7 Blumenthal Place	23/05/2002	01/08/2002	-	$150,000	727m	Full transfer	-	-	-	-	-	$150,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160365	7 Horan Place	15/02/2002	12/04/2002	-	$147,500	534m	Full transfer	-	-	-	-	-	$147,500	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2002	160374	35 Crofts Crescent	06/02/2002	01/03/2002	-	$145,000	293m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160391	86 Clarey Crescent	31/01/2002	11/03/2002	-	$143,500	818m	Full transfer	-	-	-	-	-	$143,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160373	33 Crofts Crescent	01/03/2002	08/04/2002	-	$137,500	398m	Full transfer	-	-	-	-	-	$137,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160370	4 Toomey Place	22/11/2002	03/01/2003	-	$130,000	452m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2002	160472	33 Baddeley Crescent	20/04/2002	03/06/2002	-	$130,000	874m	Full transfer	-	-	-	-	-	$130,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160497	4 Somerville Street	16/07/2002	20/03/2003	-	$125,000	943m	Partial transfer	-	-	-	-	-	$125,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160446	6 Douglass Place	19/04/2002	09/05/2002	-	$124,000	1147m	Full transfer	-	-	-	-	-	$124,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160453	225 Copland Drive	29/01/2002	22/02/2002	-	$20,000	909m	Full transfer	-	-	-	-	-	$20,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160500	26 Somerville Street	08/02/2002	08/02/2002	-	-	1161m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160537	1 Bennet Place	24/07/2002	11/10/2002	-	-	1025m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160515	10 Hinchcliffe Place	06/08/2002	12/09/2002	-	-	1091m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160431	3 Edmunds Place	29/01/2002	14/02/2002	-	-	706m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2002	160405	15 Healy Place	06/12/2002	10/02/2003	-	-	1147m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	160418	14 Boote Place	24/10/2002	24/10/2002	-	-	1255m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	226617	3 Standbridge Place	30/06/2002	01/09/2004	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2002	232234	4 Magrath Place	26/12/2002	09/05/2008	-	-	1338m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226522	247 Kingsford Smith Drive	26/11/2003	01/07/2004	-	$503,000	1307m	Full transfer	-	-	-	-	-	$503,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226594	14 Edmunds Place	28/11/2003	05/08/2004	-	$395,000	985m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160355	11 Crofts Crescent	11/09/2003	21/11/2003	-	$395,000	1060m	Full transfer	-	-	-	-	-	$395,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160388	18 Glassey Place	22/08/2003	14/10/2003	-	$390,000	181m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Non retail commercial uses	-	-
+2003	160389	14 Glassey Place	22/08/2003	14/10/2003	-	$390,000	188m	Full transfer	-	-	-	-	-	$390,000	-	-	Government Record	-	-	-	Retail	-	-
+2003	160534	26 Garrard Street	15/10/2003	12/01/2003	-	$385,000	917m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226644	3 Bennet Place	14/11/2003	19/01/2004	24/10/2003	$385,000	1018m	Full transfer	4	1	1	2	-	$385,000	21	-	Combined Record	-	-	-	Single residential dwelling	$90,000	0.23
+2003	226629	15 Hinchcliffe Place	22/10/2003	19/01/2004	25/09/2003	$384,000	891m	Full transfer	4	1	1	1	2	$384,000	27	-	Combined Record	-	-	-	Single residential dwelling	$102,000	0.27
+2003	160348	15 Trenwith Close	16/07/2003	10/09/2003	-	$375,000	839m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226571	40 Boote Street	20/11/2003	16/01/2004	-	$375,000	894m	Full transfer	-	-	-	-	-	$375,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226625	26 Somerville Street	14/11/2003	12/01/2004	29/10/2003	$367,000	1161m	Full transfer	4	1	1	-	1	$367,000	16	-	Combined Record	-	-	-	Single residential dwelling	$105,000	0.29
+2003	160512	8 Bath Place	02/04/2003	24/06/2003	-	$345,000	1173m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226622	212 Kingsford Smith Drive	22/10/2003	07/01/2004	-	$340,000	742m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160562	12 MacDonald Place	22/04/2003	22/04/2003	-	$339,000	752m	Full transfer	-	-	-	-	-	$339,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226539	50 Crofts Crescent	18/11/2003	12/01/2004	-	$329,000	889m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160454	5 Douglass Place	02/06/2003	04/07/2003	20/03/2003	$320,000	904m	Full transfer	4	1	-	-	-	$320,000	74	-	Combined Record	-	-	-	Single residential dwelling	$120,000	0.38
+2003	160538	1 Magrath Crescent	27/02/2003	24/09/2003	19/10/2002	$312,000	1076m	Full transfer	4	1	-	2	1	$312,000	131	-	Combined Record	-	-	-	Single residential dwelling	$105,000	0.34
+2003	226570	38 Boote Street	11/11/2003	19/01/2004	-	$308,000	883m	Full transfer	-	-	-	-	-	$308,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160359	5 Dodd Place	06/11/2003	22/12/2003	-	$307,000	881m	Full transfer	-	-	-	-	-	$307,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226591	8 Edmunds Place	15/12/2003	03/02/2004	-	$305,000	767m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160447	8 Magrath Crescent	02/07/2003	29/07/2003	-	$301,000	922m	Full transfer	-	-	-	-	-	$301,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160357	50 Crofts Crescent	07/03/2003	18/06/2003	-	$300,000	889m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160421	191 Owen Dixon Drive	19/05/2003	17/12/2003	-	$299,000	846m	Full transfer	-	-	-	-	-	$299,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160406	22 Healy Street	01/07/2003	25/08/2003	-	$296,000	844m	Full transfer	-	-	-	-	-	$296,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160567	10 Moroney Street	04/07/2003	10/09/2003	-	$295,000	1337m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160410	44 Clarey Crescent	24/09/2003	12/11/2003	-	$294,950	845m	Full transfer	-	-	-	-	-	$294,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160408	42 Clarey Crescent	14/05/2003	11/08/2003	-	$293,000	979m	Full transfer	-	-	-	-	-	$293,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160383	7 McGowen Close	19/09/2003	21/10/2003	-	$292,000	397m	Full transfer	-	-	-	-	-	$292,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2003	160482	4 Blumenthal Place	28/01/2003	31/03/2003	-	$289,000	680m	Full transfer	-	-	-	-	-	$289,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160558	15 Bennet Street	17/09/2003	17/10/2003	-	$286,500	969m	Full transfer	-	-	-	-	-	$286,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160467	4 Hancock Street	21/08/2003	30/09/2003	-	$280,000	714m	Full transfer	-	-	-	-	-	$280,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226619	8 Blumenthal Place	23/12/2003	02/02/2004	26/11/2003	$273,500	776m	Full transfer	3	1	-	2	-	$273,500	27	-	Combined Record	-	-	-	Single residential dwelling	$102,000	0.37
+2003	160496	16 Somerville Street	07/02/2003	10/03/2003	07/01/2003	$270,000	1129m	Full transfer	3	1	1	-	2	$270,000	31	-	Combined Record	-	-	-	Single residential dwelling	$105,000	0.39
+2003	160372	11 Kelsall Place	25/07/2003	15/09/2003	-	$265,000	526m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2003	160565	11 Bennet Street	07/11/2003	05/01/2003	-	$262,500	906m	Full transfer	-	-	-	-	-	$262,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	167527	4 Healy Street	21/03/2003	06/09/2007	30/01/2003	$260,000	817m	Full transfer	3	1	-	6	2	$260,000	50	-	Combined Record	-	-	-	Single residential dwelling	$92,000	0.35
+2003	160463	42 Baddeley Crescent	15/08/2003	20/10/2003	-	$257,000	898m	Full transfer	-	-	-	-	-	$257,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160545	161 Copland Drive	04/04/2003	27/05/2003	-	$250,000	837m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160369	12 Toomey Place	25/09/2003	21/11/2003	-	$250,000	541m	Full transfer	-	-	-	-	-	$250,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2003	160387	20 McGowen Close	21/03/2003	11/04/2003	-	$248,000	392m	Full transfer	-	-	-	-	-	$248,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2003	8915	            1/4 Scattergood Place	11/04/2003	12/05/2003	-	$246,000	1297m	Full transfer	-	-	-	-	-	$246,000	-	-	Government Record	-	-	-	Multiple unit dwelling	-	-
+2003	160516	23 Alpen Street	06/03/2003	28/03/2003	21/11/2002	$245,000	1007m	Full transfer	3	-	-	-	1	$245,000	105	-	Combined Record	-	-	-	Single residential dwelling	$89,000	0.36
+2003	160412	6 Healy Street	09/04/2003	05/05/2003	23/01/2003	$240,750	930m	Full transfer	4	-	-	2	-	$240,750	76	-	Combined Record	-	-	-	Single residential dwelling	$92,000	0.38
+2003	160551	16 Bennet Street	12/03/2003	02/05/2003	-	$239,950	800m	Full transfer	-	-	-	-	-	$239,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226637	29 Dalgleish Close	14/04/2003	08/04/2004	-	$235,000	720m	Full transfer	-	-	-	-	-	$235,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160413	10 Healy Street	05/09/2003	10/10/2003	-	$214,000	866m	Full transfer	-	-	-	-	-	$214,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2003	160436	52 Baddeley Crescent	06/03/2003	24/06/2003	-	$210,000	875m	Full transfer	-	-	-	-	-	$210,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160546	153 Copland Drive	24/04/2003	07/05/2003	-	$199,000	941m	Full transfer	-	-	-	-	-	$199,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160419	4 Boote Place	19/09/2003	15/12/2003	-	$172,000	805m	Full transfer	-	-	-	-	-	$172,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160425	207 Owen Dixon Drive	22/09/2003	22/09/2003	-	$145,000	875m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226529	33 Trenwith Close	18/09/2003	08/06/2004	-	-	1081m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160465	23 Garrard Street	04/08/2003	04/08/2003	-	-	1297m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226544	1 Horan Place	12/05/2003	05/03/2004	-	-	468m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2003	160561	129 Copland Drive	27/11/2003	27/11/2003	-	-	829m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226538	50 Crofts Crescent	28/07/2003	12/01/2004	-	-	889m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160393	5 Clark Close	12/02/2003	12/02/2003	-	-	855m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	159928	14 Bowling Place	01/12/2003	01/12/2003	-	-	835m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2003	160385	11 McGowen Close	15/09/2003	15/09/2003	-	-	379m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2003	160489	208 Kingsford Smith Drive	28/08/2003	02/10/2003	-	-	1002m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	226517	6 McNolty Place	11/09/2003	06/04/2004	-	-	1375m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160404	12 Houghton Place	04/06/2003	04/06/2003	-	-	878m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2003	160475	5 Blumenthal Place	25/08/2003	25/08/2003	-	-	762m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226515	2 McNolty Place	21/01/2004	31/03/2004	-	$610,000	1262m	Full transfer	-	-	-	-	-	$610,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	430133	69 Magrath Crescent	11/03/2004	07/07/2014	-	$410,000	1109m	Full transfer	-	-	-	-	-	$410,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226642	13 Bennet Place	26/08/2004	21/09/2004	30/04/2004	$405,000	1215m	Full transfer	4	1	1	2	-	$405,000	118	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.37
+2004	226528	5 Hammett Place	15/09/2004	08/12/2004	-	$404,000	1244m	Full transfer	-	-	-	-	-	$404,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226610	209 Copland Drive	29/01/2004	19/02/2004	13/10/2003	$395,000	937m	Full transfer	3	1	1	-	-	$395,000	108	-	Combined Record	-	-	-	Single residential dwelling	$184,000	0.47
+2004	226628	170 Kingsford Smith Drive	14/05/2004	31/05/2004	08/03/2004	$390,000	808m	Full transfer	4	1	1	2	-	$390,000	67	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.38
+2004	226606	4 Don Place	29/09/2004	18/11/2004	06/08/2004	$375,000	1106m	Full transfer	4	1	1	-	2	$375,000	54	-	Combined Record	-	-	-	Single residential dwelling	$166,000	0.44
+2004	226588	54 Boote Street	23/01/2004	11/02/2004	31/10/2003	$370,000	790m	Full transfer	4	1	-	1	-	$370,000	84	-	Combined Record	-	-	-	Single residential dwelling	$138,000	0.37
+2004	226604	8 Magrath Crescent	24/12/2004	12/02/2005	-	$359,000	922m	Full transfer	-	-	-	-	-	$359,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226618	6 Blumenthal Place	12/01/2004	05/02/2004	22/11/2003	$357,000	655m	Full transfer	4	1	1	1	-	$357,000	51	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.41
+2004	319866	253 Kingsford Smith Drive	05/08/2004	27/09/2004	-	$350,000	1097m	Full transfer	-	-	-	-	-	$350,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226653	4 MacDonald Place	19/11/2004	01/02/2005	26/08/2004	$347,000	787m	Full transfer	4	1	-	2	-	$347,000	85	-	Combined Record	-	-	-	Single residential dwelling	$142,000	0.41
+2004	226662	10 Moroney Street	14/12/2004	10/02/2005	12/11/2004	$337,700	1337m	Full transfer	4	1	1	2	-	$337,700	32	-	Combined Record	-	-	-	Single residential dwelling	$152,000	0.45
+2004	226575	9 Somerville Street	04/11/2004	14/12/2004	-	$331,000	963m	Full transfer	-	-	-	-	-	$331,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226646	11 Magrath Crescent	25/08/2004	25/10/2004	-	$330,000	1083m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2004	226586	9 Thornton Place	30/01/2004	19/02/2004	-	$330,000	1008m	Full transfer	-	-	-	-	-	$330,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226651	20 Bennet Street	13/02/2004	12/03/2004	-	$329,000	961m	Full transfer	-	-	-	-	-	$329,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226581	16 Clarey Crescent	16/08/2004	17/09/2004	20/04/2004	$325,000	979m	Full transfer	4	1	1	-	2	$325,000	118	-	Combined Record	-	-	-	Single residential dwelling	$138,000	0.42
+2004	226643	5 Bennet Place	09/06/2004	08/07/2004	-	$316,500	853m	Full transfer	-	-	-	-	-	$316,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226579	197 Owen Dixon Drive	15/06/2004	12/07/2004	-	$310,000	1009m	Full transfer	-	-	-	-	-	$310,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226584	24 Clarey Crescent	05/10/2004	03/11/2004	29/06/2004	$301,500	936m	Full transfer	4	1	-	-	2	$301,500	98	-	Combined Record	-	-	-	Single residential dwelling	$138,000	0.46
+2004	226632	21 Alpen Street	17/02/2004	11/03/2004	29/01/2004	$295,000	907m	Full transfer	3	1	1	-	2	$295,000	19	-	Combined Record	-	-	-	Single residential dwelling	$142,000	0.48
+2004	488844	4 Edmunds Place	02/07/2004	26/10/2016	-	$295,000	787m	Full transfer	-	-	-	-	-	$295,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226553	12 McGowen Close	01/04/2004	11/05/2004	17/12/2003	$295,000	608m	Full transfer	3	1	1	6	-	$295,000	106	-	Combined Record	-	-	-	Medium density dwelling	$118,000	0.4
+2004	226589	7 Edmunds Place	29/04/2004	25/06/2004	-	$293,500	929m	Full transfer	-	-	-	-	-	$293,500	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226593	1 Boyland Close	10/03/2004	19/05/2004	27/01/2004	$289,000	832m	Full transfer	3	1	-	2	2	$289,000	43	-	Combined Record	-	-	-	Single residential dwelling	$133,000	0.46
+2004	226592	7 Boyland Close	19/03/2004	19/04/2004	11/01/2002	$287,000	865m	Full transfer	3	1	-	2	-	$287,000	798	-	Combined Record	-	-	-	Single residential dwelling	$133,000	0.46
+2004	226590	13 Edmunds Place	10/11/2004	23/12/2004	-	$285,000	929m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226636	31 Dalgleish Close	15/09/2004	17/11/2004	-	$285,000	823m	Full transfer	-	-	-	-	-	$285,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226638	34 Baddeley Crescent	20/08/2004	07/10/2004	30/03/2004	$280,000	814m	Full transfer	3	1	-	-	1	$280,000	143	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.53
+2004	226559	74 Clarey Crescent	11/11/2004	10/02/2005	22/07/2004	$269,000	792m	Full transfer	3	1	-	2	-	$269,000	112	-	Combined Record	-	-	-	Single residential dwelling	$124,000	0.46
+2004	226561	17 Clark Close	25/02/2004	29/03/2004	-	$265,000	1108m	Full transfer	-	-	-	-	-	$265,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226614	39 Baddeley Crescent	10/02/2004	04/03/2004	-	$260,000	893m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226574	27 Healy Street	01/10/2004	01/10/2004	23/06/2004	$255,000	1025m	Full transfer	4	1	-	-	-	$255,000	100	-	Combined Record	-	-	-	Single residential dwelling...	$138,000	0.54
+2004	226633	22 Baddeley Crescent	22/10/2004	30/11/2004	-	$237,000	821m	Full transfer	-	-	-	-	-	$237,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	36604	1 Horan Place	29/01/2004	-	17/11/2003	$230,000	468m	Full transfer	3	1	-	-	2	$230,000	73	-	Allhomes Record	-	-	-	-	$107,000	0.47
+2004	226549	13 Kelsall Place	11/08/2004	17/09/2004	-	$215,000	513m	Full transfer	-	-	-	-	-	$215,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2004	313802	9 Kelsall Place	26/05/2004	05/07/2004	-	$211,000	506m	Full transfer	-	-	-	-	-	$211,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2004	226550	6 Kelsall Place	08/12/2004	14/02/2005	-	$203,000	398m	Full transfer	-	-	-	-	-	$203,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2004	226659	57 Alpen Street	16/12/2004	21/02/2005	-	$145,000	790m	Full transfer	-	-	-	-	-	$145,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226639	4 Garrard Street	26/10/2004	06/06/2005	-	-	767m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226530	29 Trenwith Close	28/08/2004	14/10/2004	-	-	1075m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226542	16 Crofts Crescent	25/02/2004	25/02/2004	-	-	828m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226557	10 Glassey Place	06/05/2004	02/08/2005	-	-	540m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Retail	-	-
+2004	226556	5 Lane Place	01/09/2004	22/03/2005	-	-	416m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2004	226534	4 Crofts Place	27/05/2004	27/05/2004	-	-	1166m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226615	9 Blumenthal Place	29/10/2004	16/11/2004	-	-	754m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226635	21 Broadby Close	13/07/2004	12/08/2004	-	-	829m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	21050	            9 Somervile Street	05/11/2004	-	11/10/2004	-	963m	Full transfer	3	1	1	2	-	-	25	-	Allhomes Record	-	-	-	-	-	-
+2004	226516	6 McNolty Place	06/04/2004	06/04/2004	-	-	1375m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226585	38 Clarey Crescent	10/03/2004	10/03/2004	-	-	955m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226572	37 Healy Street	19/02/2004	19/02/2004	-	-	882m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226599	37 Douglass Street	12/02/2004	10/03/2004	-	-	758m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2004	226657	3 Bowling Place	28/06/2004	06/10/2005	-	-	745m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226519	57 Magrath Crescent	01/11/2005	14/12/2005	-	$485,000	986m	Full transfer	-	-	-	-	-	$485,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226533	19 Crofts Crescent	23/03/2005	20/07/2005	28/01/2005	$485,000	1120m	Full transfer	3	1	2	-	2	$485,000	54	-	Combined Record	-	-	-	Single residential dwelling...	$148,000	0.31
+2005	226541	80 Baddeley Crescent	08/11/2005	28/03/2006	02/11/2005	$480,000	876m	Full transfer	3	1	1	2	-	$480,000	6	-	Combined Record	-	-	-	Single residential dwelling	$178,000	0.37
+2005	54597	3 Garland Place	29/04/2005	-	31/03/2005	$395,000	845m	Full transfer	4	1	2	-	2	$395,000	29	-	Allhomes Record	-	-	-	-	$148,000	0.37
+2005	226535	7 Crofts Crescent	11/03/2005	04/07/2005	14/01/2005	$390,000	1232m	Full transfer	3	1	1	-	3	$390,000	56	-	Combined Record	-	-	-	Single residential dwelling	$158,000	0.41
+2005	226568	49 Healy Street	25/11/2005	07/02/2006	20/10/2005	$382,000	953m	Full transfer	4	1	1	2	-	$382,000	36	-	Combined Record	-	-	-	Single residential dwelling	$138,000	0.36
+2005	226601	4 Katz Place	04/04/2005	17/05/2005	01/02/2005	$375,000	867m	Full transfer	4	1	1	2	-	$375,000	62	-	Combined Record	-	-	-	Single residential dwelling	$166,000	0.44
+2005	226567	51 Healy Street	30/09/2005	09/11/2005	16/09/2005	$370,000	991m	Full transfer	4	1	1	-	1	$370,000	14	-	Combined Record	-	-	-	Single residential dwelling	$138,000	0.37
+2005	226536	11 Crofts Crescent	30/08/2005	21/11/2005	-	$370,000	1060m	Full transfer	-	-	-	-	-	$370,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226527	8 Trenwith Close	05/10/2005	21/11/2005	18/08/2005	$365,000	1110m	Full transfer	4	1	1	-	-	$365,000	48	-	Combined Record	-	-	-	Single residential dwelling	$211,000	0.58
+2005	226566	52 Clarey Crescent	17/05/2005	18/07/2005	-	$365,000	919m	Full transfer	-	-	-	-	-	$365,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226597	5 Clarey Crescent	06/10/2005	14/11/2005	-	$360,000	993m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226655	16 MacDonald Place	28/09/2005	06/12/2005	-	$360,000	1034m	Full transfer	-	-	-	-	-	$360,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226605	1 Somerville Street	03/06/2005	13/07/2005	-	$359,950	957m	Full transfer	-	-	-	-	-	$359,950	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	319860	37 Douglass Street	09/12/2005	07/02/2006	-	$355,000	758m	Full transfer	-	-	-	-	-	$355,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226627	1 Alpen Street	01/02/2005	28/02/2005	13/10/2004	$350,000	878m	Full transfer	4	1	1	2	-	$350,000	111	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.42
+2005	313799	5 Trenwith Close	23/03/2005	09/05/2005	-	$345,000	769m	Full transfer	-	-	-	-	-	$345,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226621	202 Kingsford Smith Drive	15/06/2005	29/09/2005	26/04/2005	$340,000	843m	Full transfer	4	2	1	2	-	$340,000	50	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.44
+2005	226583	18 Clarey Crescent	27/04/2005	09/06/2005	-	$340,000	976m	Full transfer	-	-	-	-	-	$340,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226645	23 Bennet Street	05/04/2005	16/05/2005	03/03/2005	$325,000	941m	Full transfer	4	1	1	1	-	$325,000	33	-	Combined Record	-	-	-	Single residential dwelling	$131,000	0.4
+2005	226649	30 Bennet Street	19/05/2005	08/09/2005	09/04/2005	$325,000	805m	Full transfer	4	1	1	1	1	$325,000	40	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.46
+2005	226564	48 Clarey Crescent	25/10/2005	14/12/2005	-	$325,000	899m	Full transfer	-	-	-	-	-	$325,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226641	16 Garrard Street	21/07/2005	29/09/2005	31/05/2005	$320,000	820m	Full transfer	3	1	1	-	2	$320,000	51	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.46
+2005	226563	42 Clarey Crescent	25/05/2005	21/06/2005	-	$319,000	979m	Full transfer	-	-	-	-	-	$319,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226576	27 Boote Street	24/03/2005	20/06/2005	-	$315,000	825m	Full transfer	-	-	-	-	-	$315,000	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2005	226620	19 Standbridge Place	21/10/2005	08/12/2005	26/09/2005	$310,000	846m	Full transfer	3	1	-	2	-	$310,000	25	-	Combined Record	-	-	-	Single residential dwelling	$131,000	0.42
+2005	226543	26 Crofts Crescent	27/09/2005	16/11/2005	-	$305,000	572m	Full transfer	-	-	-	-	-	$305,000	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	226578	13 Boote Street	14/12/2005	23/12/2005	-	$303,000	935m	Full transfer	-	-	-	-	-	$303,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226616	21 Standbridge Place	26/05/2005	05/07/2005	-	$302,000	823m	Full transfer	-	-	-	-	-	$302,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226661	59 Alpen Street	16/11/2005	23/02/2006	-	$300,000	1019m	Full transfer	-	-	-	-	-	$300,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226554	2 McGowen Close	11/03/2005	27/04/2005	10/12/2004	$296,000	571m	Full transfer	3	1	1	-	2	$296,000	91	-	Combined Record	-	-	-	Medium density dwelling	$118,000	0.4
+2005	226623	208 Kingsford Smith Drive	09/02/2005	18/03/2005	05/11/2004	$295,000	1002m	Full transfer	3	1	1	-	1	$295,000	96	-	Combined Record	-	-	-	Single residential dwelling	$131,000	0.44
+2005	226612	4 Boyland Close	30/09/2005	21/11/2005	11/08/2005	$290,000	773m	Full transfer	3	1	-	2	-	$290,000	50	-	Combined Record	-	-	-	Single residential dwelling	$133,000	0.46
+2005	169627	15 Somerville Street	19/04/2005	13/11/2006	10/03/2005	$285,000	809m	Full transfer	3	1	-	-	2	$285,000	40	-	Combined Record	-	-	-	Single residential dwelling	$152,000	0.53
+2005	226652	14 Bowling Place	03/06/2005	12/07/2005	-	$279,950	835m	Full transfer	-	-	-	-	-	$279,950	-	-	Government Record	-	-	-	Single residential dwelling...	-	-
+2005	226654	6 MacDonald Place	06/09/2005	06/10/2005	-	$275,000	806m	Full transfer	-	-	-	-	-	$275,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226656	7 Bowling Place	13/09/2005	25/10/2005	-	$274,000	697m	Full transfer	-	-	-	-	-	$274,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226562	24 Healy Street	09/08/2005	12/09/2005	-	$273,000	884m	Full transfer	-	-	-	-	-	$273,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226520	237 Kingsford Smith Drive	26/11/2005	13/04/2006	03/11/2005	$270,000	921m	Full transfer	3	1	-	-	2	$270,000	23	-	Combined Record	-	-	-	Single residential dwelling	$152,000	0.56
+2005	55869	2 Clark Close	03/06/2005	-	28/04/2005	$265,000	826m	Full transfer	3	1	-	2	-	$265,000	36	-	Allhomes Record	-	-	-	-	$124,000	0.47
+2005	226658	3 Bowling Place	15/08/2005	06/10/2005	20/05/2005	$262,000	745m	Full transfer	3	1	-	2	-	$262,000	87	-	Combined Record	-	-	-	Single residential dwelling	$148,000	0.56
+2005	226558	2 Clark Close	08/06/2005	06/07/2005	-	$260,000	827m	Full transfer	-	-	-	-	-	$260,000	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226546	3 Toomey Place	24/05/2005	20/06/2005	-	$256,000	517m	Full transfer	-	-	-	-	-	$256,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2005	226560	17 Clark Close	19/04/2005	09/06/2005	20/12/2003	$253,000	1108m	Full transfer	3	1	-	-	2	$253,000	486	-	Combined Record	-	-	-	Single residential dwelling	-	-
+2005	226555	5 Lane Place	05/02/2005	07/04/2005	29/11/2004	$224,000	416m	Full transfer	3	1	-	1	-	$224,000	68	-	Combined Record	-	-	-	Medium density dwelling	$118,000	0.53
+2005	226547	8 Toomey Place	02/05/2005	28/07/2005	-	$205,000	510m	Full transfer	-	-	-	-	-	$205,000	-	-	Government Record	-	-	-	For residential purposes only	-	-
+2005	460087	23 Magrath Crescent	09/09/2005	24/08/2015	-	$0	950m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	346981	11 Thornton Place	26/05/2005	07/11/2011	-	$0	967m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	400558	9 Dalgleish Close	25/10/2005	29/05/2013	-	$0	832m	Full transfer	-	-	-	-	-	$0	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226647	3 Magrath Crescent	16/06/2005	31/08/2005	-	-	1059m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226521	237 Kingsford Smith Drive	11/06/2005	14/09/2005	-	-	921m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226580	14 Clarey Crescent	28/09/2005	02/11/2005	-	-	1013m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226603	3 Katz Place	03/05/2005	30/06/2005	-	-	1041m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226608	227 Copland Drive	19/10/2005	15/12/2005	-	-	828m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226624	7 Hancock Street	19/12/2005	01/03/2006	-	-	869m	Full transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226532	13 Trenwith Close	11/01/2005	11/01/2005	-	-	826m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226607	6 Don Place	02/05/2005	01/06/2005	-	-	968m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226526	66 Magrath Crescent	10/06/2005	19/08/2005	-	-	1251m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226577	23 Boote Street	17/11/2005	12/12/2005	-	-	1031m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226565	48 Clarey Crescent	12/07/2005	30/11/2005	-	-	899m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226650	157 Copland Drive	31/08/2005	04/10/2005	-	-	841m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226552	16 McGowen Close	01/08/2005	18/11/2005	-	-	559m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Medium density dwelling	-	-
+2005	21269	            1 Sommerville Street	03/06/2005	-	15/04/2005	-	956m	Full transfer	4	1	1	-	2	-	49	-	Allhomes Record	-	-	-	-	$152,000	-
+2005	226648	30 Bennet Street	12/02/2005	08/09/2005	-	-	805m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
+2005	226609	227 Copland Drive	19/02/2005	29/03/2005	-	-	828m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Single residential dwelling	-	-
