@@ -1,0 +1,3 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+2003	20049	            11/55 James Smith Circuit	04/03/2003	-	15/11/2002	$220,500	-	Full transfer	3	1	1	1	-	$220,500	109	-	Allhomes Record	-	-	-	-	-	-
+2005	21287	            16 Midwood Court	01/07/2005	-	06/05/2005	$320,000	385m	Full transfer	3	1	1	2	-	$320,000	56	-	Allhomes Record	-	-	-	-	-	-
