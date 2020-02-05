@@ -1,0 +1,5 @@
+Year	Id	Address	ContractDate	TransferDate	ListDate	Price	BlockSize	Transfer Type	Bedrooms	Bathrooms	Ensuites	Garages	Carports	FullSalePrice	DaysOnMarket	SaleType	SaleRecordSource	BuildingSize	LandType	PropertyType	Purpose	UnimprovedValue	UnimprovedValueRatio
+1992	55297	350 Brindabella Road	11/12/1992	11/12/1992	-	$385,000	985965m	Full transfer	-	-	-	-	-	$385,000	-	-	Government Record	-	-	-	Boarding house	-	-
+1998	178691	221 Two Sticks Road	02/03/1998	25/08/1998	-	$143,000	876504m	Full transfer	-	-	-	-	-	$143,000	-	-	Government Record	-	-	-	Grazing general mixed	-	-
+2000	177631	350 Brindabella Road	09/05/2000	12/10/2000	-	$550,000	985965m	Full transfer	-	-	-	-	-	$550,000	-	-	Government Record	-	-	-	Boarding house	-	-
+2004	209298	221 Two Sticks Road	25/06/2004	15/04/2005	-	-	876504m	Partial transfer	-	-	-	-	-	-	-	-	Government Record	-	-	-	Agriculture (extensive)	-	-
